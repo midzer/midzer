@@ -5,7 +5,6 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 
 #### 🌱 Check out what I'm currently working on
 
-- [midzer/vorschriften-test](https://github.com/midzer/vorschriften-test) - 
 - [midzer/pbf2md](https://github.com/midzer/pbf2md) - Parse OpenStreetMap *.pbf files and convert specific entries to markdown files
 - [midzer/doenieren](https://github.com/midzer/doenieren) - Website showing places with kebab cuisine in germany
 - [midzer/vds-questionnaire](https://github.com/midzer/vds-questionnaire) - Questionnaire (or Fragebogen in german) for VDS30 and VDS90 supporting your psychotherapeutic and psychiatric work
@@ -15,6 +14,7 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 - [midzer/bootstrap-grid-performance](https://github.com/midzer/bootstrap-grid-performance) - 
 - [midzer/awesome-bavarian](https://github.com/midzer/awesome-bavarian) - A small list for (web) projects which use bavarian dialect predominantly or offer it as optional language
 - [midzer/wttr-switcher](https://github.com/midzer/wttr-switcher) - Tiny widget for wttr.in service to change location dynamically
+- [midzer/ampergai](https://github.com/midzer/ampergai) - Blog auf boarisch mid kurze Gschichtn ausm Lem
 
 #### 🔭 Latest releases I've contributed to
 
