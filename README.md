@@ -18,7 +18,7 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 
 #### 🔭 Latest releases I've contributed to
 
-- [filipedeschamps/rss-feed-emitter](https://github.com/filipedeschamps/rss-feed-emitter) ([v3.2.0](https://github.com/filipedeschamps/rss-feed-emitter/releases/tag/v3.2.0), today) - Super RSS News Feed aggregator written in Node.js and ES6
+- [filipedeschamps/rss-feed-emitter](https://github.com/filipedeschamps/rss-feed-emitter) ([v3.2.0](https://github.com/filipedeschamps/rss-feed-emitter/releases/tag/v3.2.0), 1 day ago) - Super RSS News Feed aggregator written in Node.js and ES6
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([3.0.9](https://github.com/thednp/bootstrap.native/releases/tag/3.0.9), 1 month ago) - If you are looking for Bootstrap without jQuery, this is it.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) ([v5.0.0-alpha1](https://github.com/twbs/bootstrap/releases/tag/v5.0.0-alpha1), 1 month ago) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [ribice/kiss](https://github.com/ribice/kiss) ([v2.0.0](https://github.com/ribice/kiss/releases/tag/v2.0.0), 2 years ago) - Stupidly simple Hugo blogging theme
