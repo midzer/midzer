@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 What's this? A mysterious secret page? Shhh, don't tell anyone!
-Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!
 
 #### 🌱 Check out what I'm currently working on
 {{range recentRepos 10}}
@@ -18,10 +17,19 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
+#### 📓 Gists I wrote
+{{range gists 5}}
+- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
 #### 👯 Check out some of my recent followers
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
+
+#### 💬 Feedback
+
+Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
@@ -29,3 +37,5 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 - Fediverse: https://chaos.social/@midzer
 - Web: https://midzer.de
 - IRC: midzer on freenode
+
+Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
