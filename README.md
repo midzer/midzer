@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 What's this? A mysterious secret page? Shhh, don't tell anyone!
-Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!
 
 #### 🌱 Check out what I'm currently working on
 
@@ -31,6 +30,10 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 - [Am End vom Monat](https://ampergai.de/2020/01/002/) (6 months ago)
 - [Hoaklige Miezis](https://ampergai.de/2020/01/001/) (6 months ago)
 
+#### 📓 Gists I wrote
+
+- [GitHub origin HTTPS to SSH](https://gist.github.com/3ceba8ad7d956e02d9e920b121d8d059) (3 months ago)
+
 #### 👯 Check out some of my recent followers
 
 - [officialcjunior](https://github.com/officialcjunior)
@@ -39,9 +42,15 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 - [nachovz](https://github.com/nachovz)
 - [bo-re](https://github.com/bo-re)
 
+#### 💬 Feedback
+
+Say Hello, I don't bite!
+
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/midzer
 - Fediverse: https://chaos.social/@midzer
 - Web: https://midzer.de
 - IRC: midzer on freenode
+
+Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
