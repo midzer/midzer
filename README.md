@@ -27,7 +27,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 - [Tauschbare Kost](https://ampergai.de/2020/04/001/) (4 months ago)
 - [Dahoam sterm d&#39;Leid](https://ampergai.de/2020/03/001/) (5 months ago)
 - [Astl glaub auf](https://ampergai.de/2020/02/001/) (6 months ago)
-- [Am End vom Monat](https://ampergai.de/2020/01/002/) (6 months ago)
+- [Am End vom Monat](https://ampergai.de/2020/01/002/) (7 months ago)
 - [Hoaklige Miezis](https://ampergai.de/2020/01/001/) (7 months ago)
 
 #### 📓 Gists I wrote
