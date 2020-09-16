@@ -36,11 +36,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 👯 Check out some of my recent followers
 
+- [Poopooracoocoo](https://github.com/Poopooracoocoo)
 - [hamedkhomjani](https://github.com/hamedkhomjani)
 - [KingBBQ](https://github.com/KingBBQ)
 - [ma-hartma](https://github.com/ma-hartma)
 - [hartwork](https://github.com/hartwork)
-- [officialcjunior](https://github.com/officialcjunior)
 
 #### 💬 Feedback
 
