@@ -27,7 +27,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 - [Voisperrung](https://ampergai.de/2020/08/001/) (1 month ago)
 - [Tauschbare Kost](https://ampergai.de/2020/04/001/) (5 months ago)
 - [Dahoam sterm d&#39;Leid](https://ampergai.de/2020/03/001/) (6 months ago)
-- [Astl glaub auf](https://ampergai.de/2020/02/001/) (7 months ago)
+- [Astl glaub auf](https://ampergai.de/2020/02/001/) (8 months ago)
 - [Am End vom Monat](https://ampergai.de/2020/01/002/) (8 months ago)
 
 #### 📓 Gists I wrote
