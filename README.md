@@ -17,7 +17,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 🔭 Latest releases I've contributed to
 
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) ([v5.0.0-alpha2](https://github.com/twbs/bootstrap/releases/tag/v5.0.0-alpha2), 1 week ago) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) ([v5.0.0-alpha2](https://github.com/twbs/bootstrap/releases/tag/v5.0.0-alpha2), 2 weeks ago) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [filipedeschamps/rss-feed-emitter](https://github.com/filipedeschamps/rss-feed-emitter) ([v3.2.2](https://github.com/filipedeschamps/rss-feed-emitter/releases/tag/v3.2.2), 2 months ago) - Super RSS News Feed aggregator written in Node.js and ES6
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([3.0.10](https://github.com/thednp/bootstrap.native/releases/tag/3.0.10), 2 months ago) - If you are looking for Bootstrap without jQuery, this is it.
 - [ribice/kiss](https://github.com/ribice/kiss) ([v2.0.0](https://github.com/ribice/kiss/releases/tag/v2.0.0), 2 years ago) - Stupidly simple Hugo blogging theme
@@ -26,7 +26,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 - [Voisperrung](https://ampergai.de/2020/08/001/) (1 month ago)
 - [Tauschbare Kost](https://ampergai.de/2020/04/001/) (6 months ago)
-- [Dahoam sterm d&#39;Leid](https://ampergai.de/2020/03/001/) (6 months ago)
+- [Dahoam sterm d&#39;Leid](https://ampergai.de/2020/03/001/) (7 months ago)
 - [Astl glaub auf](https://ampergai.de/2020/02/001/) (8 months ago)
 - [Am End vom Monat](https://ampergai.de/2020/01/002/) (8 months ago)
 
