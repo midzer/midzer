@@ -5,7 +5,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 #### 🌱 Check out what I'm currently working on
 
 - [midzer/pbf2md](https://github.com/midzer/pbf2md) - Parse OpenStreetMap *.pbf files and convert specific entries to markdown files
-- [midzer/doenieren](https://github.com/midzer/doenieren) - Website showing places with kebab cuisine in germany
+- [midzer/doenieren](https://github.com/midzer/doenieren) - Hugo website showing places with kebab cuisine in germany
 - [midzer/vds-questionnaire](https://github.com/midzer/vds-questionnaire) - Questionnaire (or Fragebogen in german) for VDS30 and VDS90 supporting your psychotherapeutic and psychiatric work
 - [midzer/week4climate](https://github.com/midzer/week4climate) - A fixed, bottom banner for FFF
 - [midzer/feed-websocket](https://github.com/midzer/feed-websocket) - Node.js WebSocket server who delivers feeds gathered via JSON API
