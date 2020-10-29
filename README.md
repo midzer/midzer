@@ -10,10 +10,10 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 - [midzer/week4climate](https://github.com/midzer/week4climate) - A fixed, bottom banner for FFF
 - [midzer/feed-websocket](https://github.com/midzer/feed-websocket) - Node.js WebSocket server who delivers feeds gathered via JSON API
 - [midzer/feed-dachau](https://github.com/midzer/feed-dachau) - Landing page showing feed of local authorities, communities and news papers
+- [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies.
 - [midzer/bootstrap-grid-performance](https://github.com/midzer/bootstrap-grid-performance) - Compare Bootstrap v4 and v5 grid for performance
 - [midzer/awesome-bavarian](https://github.com/midzer/awesome-bavarian) - A small list for (web) projects which use bavarian dialect predominantly or offer it as optional language
 - [midzer/wttr-switcher](https://github.com/midzer/wttr-switcher) - Tiny widget for wttr.in service to change location dynamically
-- [midzer/ampergai](https://github.com/midzer/ampergai) - Blog auf boarisch mid kurze Gschichtn ausm Lem
 
 #### 🔭 Latest releases I've contributed to
 
