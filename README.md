@@ -35,11 +35,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 👯 Check out some of my recent followers
 
+- [gwhinbleid](https://github.com/gwhinbleid)
 - [craftamap](https://github.com/craftamap)
 - [ortolanph](https://github.com/ortolanph)
 - [DanceSquare](https://github.com/DanceSquare)
 - [Poopooracoocoo](https://github.com/Poopooracoocoo)
-- [hamedkhomjani](https://github.com/hamedkhomjani)
 
 #### 💬 Feedback
 
