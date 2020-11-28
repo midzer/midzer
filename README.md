@@ -4,7 +4,6 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 🌱 Check out what I'm currently working on
 
-- [midzer/hugo-intro](https://github.com/midzer/hugo-intro) - 
 - [midzer/pbf2md](https://github.com/midzer/pbf2md) - Parse OpenStreetMap *.pbf files and convert specific entries to markdown files
 - [midzer/doenieren](https://github.com/midzer/doenieren) - Hugo website showing places with kebab cuisine in germany
 - [midzer/vds-questionnaire](https://github.com/midzer/vds-questionnaire) - Questionnaire (or Fragebogen in german) for VDS30 and VDS90 supporting your psychotherapeutic and psychiatric work
@@ -14,6 +13,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 - [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies.
 - [midzer/bootstrap-grid-performance](https://github.com/midzer/bootstrap-grid-performance) - Compare Bootstrap v4 and v5 grid for performance
 - [midzer/awesome-bavarian](https://github.com/midzer/awesome-bavarian) - A small list for (web) projects which use bavarian dialect predominantly or offer it as optional language
+- [midzer/wttr-switcher](https://github.com/midzer/wttr-switcher) - Tiny widget for wttr.in service to change location dynamically
 
 #### 🔭 Latest releases I've contributed to
 
