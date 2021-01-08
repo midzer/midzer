@@ -23,7 +23,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 #### 📜 My recent blog posts
 
 - [Voisperrung](https://ampergai.de/2020/08/001/) (4 months ago)
-- [Tauschbare Kost](https://ampergai.de/2020/04/001/) (8 months ago)
+- [Tauschbare Kost](https://ampergai.de/2020/04/001/) (9 months ago)
 - [Dahoam sterm d&#39;Leid](https://ampergai.de/2020/03/001/) (9 months ago)
 - [Astl glaub auf](https://ampergai.de/2020/02/001/) (11 months ago)
 - [Am End vom Monat](https://ampergai.de/2020/01/002/) (11 months ago)
