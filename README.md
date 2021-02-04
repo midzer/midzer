@@ -2,13 +2,6 @@
 
 What's this? A mysterious secret page? Shhh, don't tell anyone!
 
-<p align="center">
-  <kbd>
-    <img src="https://github-readme-stats.vercel.app/api?username=midzer&show_icons=true&theme=tokyonight" alt="midzer's GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midzer&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages of midzer">
-  </kbd>
-</p>
-
 #### 🌱 Check out what I'm currently working on
 
 - [midzer/pbf2md](https://github.com/midzer/pbf2md) - Parse OpenStreetMap *.pbf files and convert specific entries to markdown files
