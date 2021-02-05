@@ -38,11 +38,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 👯 Check out some of my recent followers
 
+- [caropelo](https://github.com/caropelo)
 - [audi70re](https://github.com/audi70re)
 - [Pavana96](https://github.com/Pavana96)
 - [gwhinbleid](https://github.com/gwhinbleid)
 - [craftamap](https://github.com/craftamap)
-- [ortolanph](https://github.com/ortolanph)
 
 #### 💬 Feedback
 
