@@ -21,6 +21,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 🔭 Latest releases I've contributed to
 
+- [midzer/tobii](https://github.com/midzer/tobii) ([v2.0.0](https://github.com/midzer/tobii/releases/tag/v2.0.0), today) - An accessible, open-source lightbox with no dependencies.
 - [filipedeschamps/rss-feed-emitter](https://github.com/filipedeschamps/rss-feed-emitter) ([v3.2.2](https://github.com/filipedeschamps/rss-feed-emitter/releases/tag/v3.2.2), 6 months ago) - Super RSS News Feed aggregator written in Node.js and ES6
 - [ribice/kiss](https://github.com/ribice/kiss) ([v2.0.0](https://github.com/ribice/kiss/releases/tag/v2.0.0), 2 years ago) - Stupidly simple Hugo blogging theme
 
