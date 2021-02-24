@@ -27,11 +27,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 📜 My recent blog posts
 
+- [Gib dein Senf dazua](https://ampergai.de/2021/02/001/) (today)
 - [Voisperrung](https://ampergai.de/2020/08/001/) (5 months ago)
 - [Tauschbare Kost](https://ampergai.de/2020/04/001/) (10 months ago)
 - [Dahoam sterm d&#39;Leid](https://ampergai.de/2020/03/001/) (11 months ago)
 - [Astl glaub auf](https://ampergai.de/2020/02/001/) (1 year ago)
-- [Am End vom Monat](https://ampergai.de/2020/01/002/) (1 year ago)
 
 #### 📓 Gists I wrote
 
