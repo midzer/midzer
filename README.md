@@ -21,7 +21,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 🔭 Latest releases I've contributed to
 
-- [midzer/tobii](https://github.com/midzer/tobii) ([2.0.10](https://github.com/midzer/tobii/releases/tag/2.0.10), today) - An accessible, open-source lightbox with no dependencies.
+- [midzer/tobii](https://github.com/midzer/tobii) ([2.0.10](https://github.com/midzer/tobii/releases/tag/2.0.10), 1 day ago) - An accessible, open-source lightbox with no dependencies.
 
 #### 📜 My recent blog posts
 
