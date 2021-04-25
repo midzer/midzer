@@ -21,11 +21,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 🔭 Latest releases I've contributed to
 
-- [midzer/tobii](https://github.com/midzer/tobii) ([2.0.10](https://github.com/midzer/tobii/releases/tag/2.0.10), 1 day ago) - An accessible, open-source lightbox with no dependencies.
+- [midzer/tobii](https://github.com/midzer/tobii) ([2.0.10](https://github.com/midzer/tobii/releases/tag/2.0.10), 2 days ago) - An accessible, open-source lightbox with no dependencies.
 
 #### 📜 My recent blog posts
 
-- [Gib dein Senf dazua](https://ampergai.de/2021/02/001/) (1 month ago)
+- [Gib dein Senf dazua](https://ampergai.de/2021/02/001/) (2 months ago)
 - [Voisperrung](https://ampergai.de/2020/08/001/) (7 months ago)
 - [Tauschbare Kost](https://ampergai.de/2020/04/001/) (1 year ago)
 - [Dahoam sterm d&#39;Leid](https://ampergai.de/2020/03/001/) (1 year ago)
