@@ -21,7 +21,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 🔭 Latest releases I've contributed to
 
-- [midzer/tobii](https://github.com/midzer/tobii) ([2.1.0](https://github.com/midzer/tobii/releases/tag/2.1.0), 5 days ago) - An accessible, open-source lightbox with no dependencies.
+- [midzer/tobii](https://github.com/midzer/tobii) ([2.1.0](https://github.com/midzer/tobii/releases/tag/2.1.0), 6 days ago) - An accessible, open-source lightbox with no dependencies.
 
 #### 📜 My recent blog posts
 
@@ -33,7 +33,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 📓 Gists I wrote
 
-- [Hide Twitter Trending, Who to follow and liked tweets with uBlock Origin filters](https://gist.github.com/1afc39bdf5adbfe0020d1c2212b76b87) (2 days ago)
+- [Hide Twitter Trending, Who to follow and liked tweets with uBlock Origin filters](https://gist.github.com/1afc39bdf5adbfe0020d1c2212b76b87) (3 days ago)
 - [GitHub origin HTTPS to SSH](https://gist.github.com/3ceba8ad7d956e02d9e920b121d8d059) (1 year ago)
 
 #### 👯 Check out some of my recent followers
