@@ -33,7 +33,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 📓 Gists I wrote
 
-- [Hide Twitter Trending, Who to follow and liked tweets with uBlock Origin filters](https://gist.github.com/1afc39bdf5adbfe0020d1c2212b76b87) (5 days ago)
+- [Hide Twitter Trending, Who to follow and liked tweets with uBlock Origin filters](https://gist.github.com/1afc39bdf5adbfe0020d1c2212b76b87) (6 days ago)
 - [GitHub origin HTTPS to SSH](https://gist.github.com/3ceba8ad7d956e02d9e920b121d8d059) (1 year ago)
 
 #### 👯 Check out some of my recent followers
