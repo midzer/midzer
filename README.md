@@ -38,11 +38,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 👯 Check out some of my recent followers
 
+- [dylandog13](https://github.com/dylandog13)
 - [judylovesruby](https://github.com/judylovesruby)
 - [johnwuelk](https://github.com/johnwuelk)
 - [hakanu](https://github.com/hakanu)
 - [caropelo](https://github.com/caropelo)
-- [audi70re](https://github.com/audi70re)
 
 #### 💬 Feedback
 
