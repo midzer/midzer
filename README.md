@@ -42,7 +42,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 - [judylovesruby](https://github.com/judylovesruby)
 - [johnwuelk](https://github.com/johnwuelk)
 - [hakanu](https://github.com/hakanu)
-- [caropelo](https://github.com/caropelo)
+- [2geeky](https://github.com/2geeky)
 
 #### 💬 Feedback
 
