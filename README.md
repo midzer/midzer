@@ -53,6 +53,6 @@ Say Hello, I don't bite!
 - Twitter: https://twitter.com/midzer
 - Fediverse: https://chaos.social/@midzer
 - Web: https://midzer.de
-- IRC: midzer on freenode
+- IRC: midzer on libera
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
