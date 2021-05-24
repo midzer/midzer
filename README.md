@@ -40,11 +40,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 👯 Check out some of my recent followers
 
+- [srgoogle23](https://github.com/srgoogle23)
 - [dylandog13](https://github.com/dylandog13)
 - [judylovesruby](https://github.com/judylovesruby)
 - [johnwuelk](https://github.com/johnwuelk)
 - [hakanu](https://github.com/hakanu)
-- [2geeky](https://github.com/2geeky)
 
 #### 💬 Feedback
 
