@@ -22,11 +22,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 #### 🔭 Latest releases I've contributed to
 
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) ([v5.0.1](https://github.com/twbs/bootstrap/releases/tag/v5.0.1), 1 week ago) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [midzer/tobii](https://github.com/midzer/tobii) ([2.1.0](https://github.com/midzer/tobii/releases/tag/2.1.0), 3 weeks ago) - An accessible, open-source lightbox with no dependencies.
+- [midzer/tobii](https://github.com/midzer/tobii) ([2.1.0](https://github.com/midzer/tobii/releases/tag/2.1.0), 4 weeks ago) - An accessible, open-source lightbox with no dependencies.
 
 #### 📜 My recent blog posts
 
-- [Gib dein Senf dazua](https://ampergai.de/2021/02/001/) (2 months ago)
+- [Gib dein Senf dazua](https://ampergai.de/2021/02/001/) (3 months ago)
 - [Voisperrung](https://ampergai.de/2020/08/001/) (8 months ago)
 - [Tauschbare Kost](https://ampergai.de/2020/04/001/) (1 year ago)
 - [Dahoam sterm d&#39;Leid](https://ampergai.de/2020/03/001/) (1 year ago)
@@ -34,7 +34,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 📓 Gists I wrote
 
-- [Fixed header and footer with scrollable content using flexbox](https://gist.github.com/3893ce8c0bec6f805ec1a7bb3269775d) (today)
+- [Fixed header and footer with scrollable content using flexbox](https://gist.github.com/3893ce8c0bec6f805ec1a7bb3269775d) (1 day ago)
 - [Hide Twitter Trending, Who to follow and liked tweets with uBlock Origin filters](https://gist.github.com/1afc39bdf5adbfe0020d1c2212b76b87) (3 weeks ago)
 - [GitHub origin HTTPS to SSH](https://gist.github.com/3ceba8ad7d956e02d9e920b121d8d059) (1 year ago)
 
