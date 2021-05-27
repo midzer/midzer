@@ -8,6 +8,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 🌱 Check out what I'm currently working on
 
+- [midzer/feed-wtf](https://github.com/midzer/feed-wtf) - 
 - [midzer/av1me](https://github.com/midzer/av1me) - Encode any mp4 and mkv videos in a folder to webm AV1 using ffmpeg
 - [midzer/pbf2md](https://github.com/midzer/pbf2md) - Parse OpenStreetMap *.pbf files and convert specific entries to markdown files
 - [midzer/doenieren](https://github.com/midzer/doenieren) - Hugo website showing places with kebab cuisine in germany
@@ -17,7 +18,6 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 - [midzer/feed-dachau](https://github.com/midzer/feed-dachau) - Landing page showing feed of local authorities, communities and news papers
 - [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies
 - [midzer/bootstrap-grid-performance](https://github.com/midzer/bootstrap-grid-performance) - Compare Bootstrap v4 and v5 grid for performance
-- [midzer/awesome-bavarian](https://github.com/midzer/awesome-bavarian) - A small list for (web) projects which use bavarian dialect predominantly or offer it as optional language
 
 #### 🔭 Latest releases I've contributed to
 
