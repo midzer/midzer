@@ -8,7 +8,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 🌱 Check out what I'm currently working on
 
-- [midzer/feed-wtf](https://github.com/midzer/feed-wtf) - Local news that matter
+- [midzer/feedi](https://github.com/midzer/feedi) - Local news that matter
 - [midzer/av1me](https://github.com/midzer/av1me) - Encode any mp4 and mkv videos in a folder to webm AV1 using ffmpeg
 - [midzer/pbf2md](https://github.com/midzer/pbf2md) - Parse OpenStreetMap *.pbf files and convert specific entries to markdown files
 - [midzer/doenieren](https://github.com/midzer/doenieren) - Hugo website showing places with kebab cuisine in germany
