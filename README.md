@@ -21,7 +21,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 🔭 Latest releases I've contributed to
 
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) ([v5.0.2](https://github.com/twbs/bootstrap/releases/tag/v5.0.2), 6 days ago) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) ([v5.0.2](https://github.com/twbs/bootstrap/releases/tag/v5.0.2), 1 week ago) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [midzer/tobii](https://github.com/midzer/tobii) ([2.1.0](https://github.com/midzer/tobii/releases/tag/2.1.0), 2 months ago) - An accessible, open-source lightbox with no dependencies
 
 #### 📜 My recent blog posts
@@ -35,7 +35,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 #### 📓 Gists I wrote
 
 - [Fixed header and footer with scrollable content using flexbox](https://gist.github.com/3893ce8c0bec6f805ec1a7bb3269775d) (1 month ago)
-- [Hide Twitter Trending, Who to follow and liked tweets with uBlock Origin filters](https://gist.github.com/1afc39bdf5adbfe0020d1c2212b76b87) (1 month ago)
+- [Hide Twitter Trending, Who to follow and liked tweets with uBlock Origin filters](https://gist.github.com/1afc39bdf5adbfe0020d1c2212b76b87) (2 months ago)
 - [GitHub origin HTTPS to SSH](https://gist.github.com/3ceba8ad7d956e02d9e920b121d8d059) (1 year ago)
 
 #### 👯 Check out some of my recent followers
