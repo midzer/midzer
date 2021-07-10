@@ -40,11 +40,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 👯 Check out some of my recent followers
 
+- [Novusvetus](https://github.com/Novusvetus)
 - [schbz](https://github.com/schbz)
 - [Avantaris](https://github.com/Avantaris)
 - [Gravifer](https://github.com/Gravifer)
 - [almeidg](https://github.com/almeidg)
-- [dylandog13](https://github.com/dylandog13)
 
 #### 💬 Feedback
 
