@@ -40,8 +40,8 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 👯 Check out some of my recent followers
 
-- [AvAkanksh](https://github.com/AvAkanksh)
 - [Novusvetus](https://github.com/Novusvetus)
+- [AvAkanksh](https://github.com/AvAkanksh)
 - [schbz](https://github.com/schbz)
 - [Avantaris](https://github.com/Avantaris)
 - [Gravifer](https://github.com/Gravifer)
