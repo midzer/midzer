@@ -30,7 +30,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 - [Voisperrung](https://ampergai.de/2020/08/001/) (11 months ago)
 - [Tauschbare Kost](https://ampergai.de/2020/04/001/) (1 year ago)
 - [Dahoam sterm d&#39;Leid](https://ampergai.de/2020/03/001/) (1 year ago)
-- [Astl glaub auf](https://ampergai.de/2020/02/001/) (1 year ago)
+- [Astl glaub auf](https://ampergai.de/2020/02/001/) (2 years ago)
 
 #### 📓 Gists I wrote
 
