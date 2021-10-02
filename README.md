@@ -40,11 +40,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 👯 Check out some of my recent followers
 
+- [PreetiW](https://github.com/PreetiW)
 - [mariojbc](https://github.com/mariojbc)
 - [AvAkanksh](https://github.com/AvAkanksh)
 - [schbz](https://github.com/schbz)
 - [Avantaris](https://github.com/Avantaris)
-- [Gravifer](https://github.com/Gravifer)
 
 #### 💬 Feedback
 
