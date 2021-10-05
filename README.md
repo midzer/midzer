@@ -21,14 +21,14 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 🔭 Latest releases I've contributed to
 
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) ([v5.1.1](https://github.com/twbs/bootstrap/releases/tag/v5.1.1), 3 weeks ago) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) ([v5.1.1](https://github.com/twbs/bootstrap/releases/tag/v5.1.1), 4 weeks ago) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.3.0](https://github.com/midzer/tobii/releases/tag/v2.3.0), 1 month ago) - An accessible, open-source lightbox with no dependencies
 
 #### 📜 My recent blog posts
 
 - [Gib dein Senf dazua](https://ampergai.de/2021/02/001/) (7 months ago)
 - [Voisperrung](https://ampergai.de/2020/08/001/) (1 year ago)
-- [Tauschbare Kost](https://ampergai.de/2020/04/001/) (1 year ago)
+- [Tauschbare Kost](https://ampergai.de/2020/04/001/) (2 years ago)
 - [Dahoam sterm d&#39;Leid](https://ampergai.de/2020/03/001/) (2 years ago)
 - [Astl glaub auf](https://ampergai.de/2020/02/001/) (2 years ago)
 
