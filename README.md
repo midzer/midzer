@@ -21,7 +21,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 🔭 Latest releases I've contributed to
 
-- [midzer/tobii](https://github.com/midzer/tobii) ([v2.3.2](https://github.com/midzer/tobii/releases/tag/v2.3.2), 1 week ago) - An accessible, open-source lightbox with no dependencies
+- [midzer/tobii](https://github.com/midzer/tobii) ([v2.3.2](https://github.com/midzer/tobii/releases/tag/v2.3.2), 2 weeks ago) - An accessible, open-source lightbox with no dependencies
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) ([v4.6.1](https://github.com/twbs/bootstrap/releases/tag/v4.6.1), 1 month ago) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.0.0](https://github.com/thednp/bootstrap.native/releases/tag/4.0.0), 6 months ago) - If you are looking for Bootstrap without jQuery, this is it.
 - [thednp/minifill](https://github.com/thednp/minifill) ([0.0.4](https://github.com/thednp/minifill/releases/tag/0.0.4), 4 years ago) - The polyfill for IE8-11 and other HTML4 browsers, a minimal set with most essential polyfills.
@@ -36,7 +36,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 📓 Gists I wrote
 
-- [Fixed header and footer with scrollable content using flexbox](https://gist.github.com/3893ce8c0bec6f805ec1a7bb3269775d) (6 months ago)
+- [Fixed header and footer with scrollable content using flexbox](https://gist.github.com/3893ce8c0bec6f805ec1a7bb3269775d) (7 months ago)
 - [Hide Twitter Trending, Who to follow and liked tweets with uBlock Origin filters](https://gist.github.com/1afc39bdf5adbfe0020d1c2212b76b87) (7 months ago)
 - [GitHub origin HTTPS to SSH](https://gist.github.com/3ceba8ad7d956e02d9e920b121d8d059) (2 years ago)
 
