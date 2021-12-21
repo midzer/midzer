@@ -28,7 +28,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 📜 My recent blog posts
 
-- [Gib dein Senf dazua](https://ampergai.de/2021/02/001/) (9 months ago)
+- [Gib dein Senf dazua](https://ampergai.de/2021/02/001/) (10 months ago)
 - [Voisperrung](https://ampergai.de/2020/08/001/) (1 year ago)
 - [Tauschbare Kost](https://ampergai.de/2020/04/001/) (2 years ago)
 - [Dahoam sterm d&#39;Leid](https://ampergai.de/2020/03/001/) (2 years ago)
