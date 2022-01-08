@@ -6,18 +6,21 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
   <kbd><img src="https://github-readme-stats.vercel.app/api?username=midzer&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight" alt="midzer's GitHub stats"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midzer&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages of midzer"></kbd>
 </p>
 
-#### 🌱 Check out what I'm currently working on
+#### 👷 Check out what I'm currently working on
+
+- [lokal-ninja/pennsylvania](https://github.com/lokal-ninja/pennsylvania) -  (2 days ago)
+- [lokal-ninja/champagne-ardenne](https://github.com/lokal-ninja/champagne-ardenne) -  (2 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (2 days ago)
+- [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (2 days ago)
+
+#### 🌱 My latest projects
 
 - [midzer/no-3rd-party](https://github.com/midzer/no-3rd-party) - A curated list of websites which do not load any obtrusive 3rd party content
 - [midzer/feedi](https://github.com/midzer/feedi) - Local news that matter
 - [midzer/av1me](https://github.com/midzer/av1me) - Encode any mp4 and mkv videos in a folder to webm AV1 using ffmpeg
 - [midzer/pbf2md](https://github.com/midzer/pbf2md) - Parse OpenStreetMap *.pbf files and convert specific entries to markdown files
 - [midzer/doenieren](https://github.com/midzer/doenieren) - Hugo website showing places with kebab cuisine in austria, germany and switzerland
-- [midzer/vds-questionnaire](https://github.com/midzer/vds-questionnaire) - Questionnaire (or Fragebogen in german) for VDS30 and VDS90 supporting your psychotherapeutic and psychiatric work
-- [midzer/week4climate](https://github.com/midzer/week4climate) - A fixed, bottom banner for FFF
-- [midzer/feed-websocket](https://github.com/midzer/feed-websocket) - Node.js WebSocket server who delivers feeds gathered via JSON API
-- [midzer/feed-dachau](https://github.com/midzer/feed-dachau) - Landing page showing feed of local authorities, communities and news papers
-- [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies
 
 #### 🔭 Latest releases I've contributed to
 
@@ -26,6 +29,14 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) ([v4.6.1](https://github.com/twbs/bootstrap/releases/tag/v4.6.1), 2 months ago) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.0.0](https://github.com/thednp/bootstrap.native/releases/tag/4.0.0), 7 months ago) - If you are looking for Bootstrap without jQuery, this is it.
 - [thednp/minifill](https://github.com/thednp/minifill) ([0.0.4](https://github.com/thednp/minifill/releases/tag/0.0.4), 5 years ago) - The polyfill for IE8-11 and other HTML4 browsers, a minimal set with most essential polyfills.
+
+#### 🔨 Latest Pull Requests I published
+
+- [prefer larger dataset](https://github.com/creack/geobed/pull/2) on [creack/geobed](https://github.com/creack/geobed) (2 weeks ago)
+- [export MatchLocation](https://github.com/creack/geobed/pull/1) on [creack/geobed](https://github.com/creack/geobed) (2 weeks ago)
+- [replace setTimeout](https://github.com/joelnet/pico-redux/pull/13) on [joelnet/pico-redux](https://github.com/joelnet/pico-redux) (2 weeks ago)
+- [add SvenPanel](https://github.com/hemanth/awesome-pwa/pull/243) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (2 weeks ago)
+- [add SoundCloud](https://github.com/hemanth/awesome-pwa/pull/242) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -58,6 +69,6 @@ Say Hello, I don't bite!
 - Twitter: https://twitter.com/midzer
 - Fediverse: https://chaos.social/@midzer
 - Web: https://midzer.de
-- IRC: midzer on libera
+- IRC: midzer on Libera
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
