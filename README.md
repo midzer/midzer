@@ -8,9 +8,9 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 👷 Check out what I'm currently working on
 
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal Angular website (today)
 - [midzer/eisolzried](https://github.com/midzer/eisolzried) - Jekyll website of Feuerwehr Eisolzried (2 days ago)
 - [lokal-ninja/pennsylvania](https://github.com/lokal-ninja/pennsylvania) -  (4 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
 - [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (4 days ago)
 - [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (4 days ago)
 
