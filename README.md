@@ -8,10 +8,10 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/ireland-and-northern-ireland](https://github.com/lokal-ninja/ireland-and-northern-ireland) -  (today)
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal Angular website (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
+- [lokal-ninja/provence-alpes-cote-d-azur](https://github.com/lokal-ninja/provence-alpes-cote-d-azur) -  (today)
+- [lokal-ninja/rhone-alpes](https://github.com/lokal-ninja/rhone-alpes) -  (today)
+- [lokal-ninja/poitou-charentes](https://github.com/lokal-ninja/poitou-charentes) -  (today)
+- [lokal-ninja/pennsylvania](https://github.com/lokal-ninja/pennsylvania) -  (today)
 - [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (today)
 
 #### 🌱 My latest projects
