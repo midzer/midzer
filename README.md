@@ -8,11 +8,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 👷 Check out what I'm currently working on
 
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal Angular website (today)
 - [lokal-ninja/provence-alpes-cote-d-azur](https://github.com/lokal-ninja/provence-alpes-cote-d-azur) -  (1 day ago)
 - [lokal-ninja/rhone-alpes](https://github.com/lokal-ninja/rhone-alpes) -  (1 day ago)
 - [lokal-ninja/poitou-charentes](https://github.com/lokal-ninja/poitou-charentes) -  (1 day ago)
 - [lokal-ninja/pennsylvania](https://github.com/lokal-ninja/pennsylvania) -  (2 days ago)
-- [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (2 days ago)
 
 #### 🌱 My latest projects
 
