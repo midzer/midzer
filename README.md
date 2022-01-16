@@ -8,7 +8,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (today)
+- [lokal-ninja/pennsylvania](https://github.com/lokal-ninja/pennsylvania) -  (today)
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal Angular website (today)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
 - [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
