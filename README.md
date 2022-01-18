@@ -8,8 +8,8 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 👷 Check out what I'm currently working on
 
+- [midzer/eisolzried](https://github.com/midzer/eisolzried) - Jekyll website of Feuerwehr Eisolzried (today)
 - [lokal-ninja/centre](https://github.com/lokal-ninja/centre) -  (2 days ago)
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal Angular website (2 days ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
 - [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (2 days ago)
 - [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (2 days ago)
