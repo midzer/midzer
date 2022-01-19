@@ -8,11 +8,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/eisolzried](https://github.com/midzer/eisolzried) - Jekyll website of Feuerwehr Eisolzried (today)
-- [lokal-ninja/centre](https://github.com/lokal-ninja/centre) -  (2 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (2 days ago)
-- [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (2 days ago)
+- [midzer/eisolzried](https://github.com/midzer/eisolzried) - Jekyll website of Feuerwehr Eisolzried (1 day ago)
+- [lokal-ninja/centre](https://github.com/lokal-ninja/centre) -  (3 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (3 days ago)
+- [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -24,7 +24,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M99.0.4821.0](https://github.com/Alex313031/Thorium/releases/tag/M99.0.4821.0), 5 days ago) - Chromium fork for linux named after radioactive element No. 90. Windows and Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M99.0.4821.0](https://github.com/Alex313031/Thorium/releases/tag/M99.0.4821.0), 6 days ago) - Chromium fork for linux named after radioactive element No. 90. Windows and Special builds are in different repositories, links are towards the top of the README.md.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.3.2](https://github.com/midzer/tobii/releases/tag/v2.3.2), 1 month ago) - An accessible, open-source lightbox with no dependencies
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) ([v4.6.1](https://github.com/twbs/bootstrap/releases/tag/v4.6.1), 2 months ago) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.0.0](https://github.com/thednp/bootstrap.native/releases/tag/4.0.0), 7 months ago) - If you are looking for Bootstrap without jQuery, this is it.
@@ -32,8 +32,8 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 🔨 Latest Pull Requests I published
 
-- [prefer larger dataset](https://github.com/creack/geobed/pull/2) on [creack/geobed](https://github.com/creack/geobed) (3 weeks ago)
-- [export MatchLocation](https://github.com/creack/geobed/pull/1) on [creack/geobed](https://github.com/creack/geobed) (3 weeks ago)
+- [prefer larger dataset](https://github.com/creack/geobed/pull/2) on [creack/geobed](https://github.com/creack/geobed) (4 weeks ago)
+- [export MatchLocation](https://github.com/creack/geobed/pull/1) on [creack/geobed](https://github.com/creack/geobed) (4 weeks ago)
 - [replace setTimeout](https://github.com/joelnet/pico-redux/pull/13) on [joelnet/pico-redux](https://github.com/joelnet/pico-redux) (4 weeks ago)
 - [add SvenPanel](https://github.com/hemanth/awesome-pwa/pull/243) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (1 month ago)
 - [add SoundCloud](https://github.com/hemanth/awesome-pwa/pull/242) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (1 month ago)
@@ -48,7 +48,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 📓 Gists I wrote
 
-- [Fixed header and footer with scrollable content using flexbox](https://gist.github.com/3893ce8c0bec6f805ec1a7bb3269775d) (7 months ago)
+- [Fixed header and footer with scrollable content using flexbox](https://gist.github.com/3893ce8c0bec6f805ec1a7bb3269775d) (8 months ago)
 - [Hide Twitter Trending, Who to follow and liked tweets with uBlock Origin filters](https://gist.github.com/1afc39bdf5adbfe0020d1c2212b76b87) (8 months ago)
 - [GitHub origin HTTPS to SSH](https://gist.github.com/3ceba8ad7d956e02d9e920b121d8d059) (2 years ago)
 
