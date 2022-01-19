@@ -54,11 +54,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 👯 Check out some of my recent followers
 
+- [chris-short](https://github.com/chris-short)
 - [abc881858](https://github.com/abc881858)
 - [NewProggie](https://github.com/NewProggie)
 - [Reem-lab](https://github.com/Reem-lab)
 - [frostgod1337](https://github.com/frostgod1337)
-- [Alex313031](https://github.com/Alex313031)
 
 #### 💬 Feedback
 
