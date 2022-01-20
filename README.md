@@ -8,11 +8,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/eisolzried](https://github.com/midzer/eisolzried) - Jekyll website of Feuerwehr Eisolzried (1 day ago)
-- [lokal-ninja/centre](https://github.com/lokal-ninja/centre) -  (3 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (3 days ago)
-- [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (3 days ago)
+- [midzer/eisolzried](https://github.com/midzer/eisolzried) - Jekyll website of Feuerwehr Eisolzried (2 days ago)
+- [lokal-ninja/centre](https://github.com/lokal-ninja/centre) -  (4 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (4 days ago)
+- [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -24,7 +24,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M99.0.4821.0](https://github.com/Alex313031/Thorium/releases/tag/M99.0.4821.0), 6 days ago) - Chromium fork for linux named after radioactive element No. 90. Windows and Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M99.0.4821.0](https://github.com/Alex313031/Thorium/releases/tag/M99.0.4821.0), 1 week ago) - Chromium fork for linux named after radioactive element No. 90. Windows and Special builds are in different repositories, links are towards the top of the README.md.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.3.2](https://github.com/midzer/tobii/releases/tag/v2.3.2), 1 month ago) - An accessible, open-source lightbox with no dependencies
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) ([v4.6.1](https://github.com/twbs/bootstrap/releases/tag/v4.6.1), 2 months ago) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.0.0](https://github.com/thednp/bootstrap.native/releases/tag/4.0.0), 7 months ago) - If you are looking for Bootstrap without jQuery, this is it.
@@ -34,13 +34,13 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 - [prefer larger dataset](https://github.com/creack/geobed/pull/2) on [creack/geobed](https://github.com/creack/geobed) (4 weeks ago)
 - [export MatchLocation](https://github.com/creack/geobed/pull/1) on [creack/geobed](https://github.com/creack/geobed) (4 weeks ago)
-- [replace setTimeout](https://github.com/joelnet/pico-redux/pull/13) on [joelnet/pico-redux](https://github.com/joelnet/pico-redux) (4 weeks ago)
+- [replace setTimeout](https://github.com/joelnet/pico-redux/pull/13) on [joelnet/pico-redux](https://github.com/joelnet/pico-redux) (1 month ago)
 - [add SvenPanel](https://github.com/hemanth/awesome-pwa/pull/243) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (1 month ago)
 - [add SoundCloud](https://github.com/hemanth/awesome-pwa/pull/242) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (1 month ago)
 
 #### 📜 My recent blog posts
 
-- [Gib dein Senf dazua](https://ampergai.de/2021/02/001/) (10 months ago)
+- [Gib dein Senf dazua](https://ampergai.de/2021/02/001/) (11 months ago)
 - [Voisperrung](https://ampergai.de/2020/08/001/) (1 year ago)
 - [Tauschbare Kost](https://ampergai.de/2020/04/001/) (2 years ago)
 - [Dahoam sterm d&#39;Leid](https://ampergai.de/2020/03/001/) (2 years ago)
