@@ -8,11 +8,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/eisolzried](https://github.com/midzer/eisolzried) - Jekyll website of Feuerwehr Eisolzried (2 days ago)
-- [lokal-ninja/centre](https://github.com/lokal-ninja/centre) -  (4 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (4 days ago)
-- [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (4 days ago)
+- [midzer/eisolzried](https://github.com/midzer/eisolzried) - Jekyll website of Feuerwehr Eisolzried (3 days ago)
+- [lokal-ninja/centre](https://github.com/lokal-ninja/centre) -  (5 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (5 days ago)
+- [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,8 +32,8 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 🔨 Latest Pull Requests I published
 
-- [prefer larger dataset](https://github.com/creack/geobed/pull/2) on [creack/geobed](https://github.com/creack/geobed) (4 weeks ago)
-- [export MatchLocation](https://github.com/creack/geobed/pull/1) on [creack/geobed](https://github.com/creack/geobed) (4 weeks ago)
+- [prefer larger dataset](https://github.com/creack/geobed/pull/2) on [creack/geobed](https://github.com/creack/geobed) (1 month ago)
+- [export MatchLocation](https://github.com/creack/geobed/pull/1) on [creack/geobed](https://github.com/creack/geobed) (1 month ago)
 - [replace setTimeout](https://github.com/joelnet/pico-redux/pull/13) on [joelnet/pico-redux](https://github.com/joelnet/pico-redux) (1 month ago)
 - [add SvenPanel](https://github.com/hemanth/awesome-pwa/pull/243) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (1 month ago)
 - [add SoundCloud](https://github.com/hemanth/awesome-pwa/pull/242) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (1 month ago)
