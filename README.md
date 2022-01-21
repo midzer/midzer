@@ -8,8 +8,8 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/maine](https://github.com/lokal-ninja/maine) -  (today)
-- [lokal-ninja/wales](https://github.com/lokal-ninja/wales) -  (today)
+- [lokal-ninja/centre](https://github.com/lokal-ninja/centre) -  (today)
+- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (today)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
 - [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
 - [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (today)
