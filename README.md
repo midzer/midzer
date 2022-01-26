@@ -8,11 +8,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/eisolzried](https://github.com/midzer/eisolzried) - Jekyll website of Feuerwehr Eisolzried (3 days ago)
-- [lokal-ninja/centre](https://github.com/lokal-ninja/centre) -  (5 days ago)
-- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (5 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (5 days ago)
+- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (today)
+- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (today)
+- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (today)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
 
 #### 🌱 My latest projects
 
