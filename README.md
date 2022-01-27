@@ -32,11 +32,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 🔨 Latest Pull Requests I published
 
+- [add regex101](https://github.com/hemanth/awesome-pwa/pull/246) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (today)
 - [prefer larger dataset](https://github.com/creack/geobed/pull/2) on [creack/geobed](https://github.com/creack/geobed) (1 month ago)
 - [export MatchLocation](https://github.com/creack/geobed/pull/1) on [creack/geobed](https://github.com/creack/geobed) (1 month ago)
 - [replace setTimeout](https://github.com/joelnet/pico-redux/pull/13) on [joelnet/pico-redux](https://github.com/joelnet/pico-redux) (1 month ago)
 - [add SvenPanel](https://github.com/hemanth/awesome-pwa/pull/243) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (1 month ago)
-- [add SoundCloud](https://github.com/hemanth/awesome-pwa/pull/242) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (1 month ago)
 
 #### 📜 My recent blog posts
 
