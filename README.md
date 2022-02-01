@@ -8,11 +8,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (today)
-- [lokal-ninja/wales](https://github.com/lokal-ninja/wales) -  (today)
-- [lokal-ninja/wyoming](https://github.com/lokal-ninja/wyoming) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (1 day ago)
+- [lokal-ninja/wales](https://github.com/lokal-ninja/wales) -  (1 day ago)
+- [lokal-ninja/wyoming](https://github.com/lokal-ninja/wyoming) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +32,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone!
 
 #### 🔨 Latest Pull Requests I published
 
-- [add regex101](https://github.com/hemanth/awesome-pwa/pull/246) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (4 days ago)
+- [add regex101](https://github.com/hemanth/awesome-pwa/pull/246) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (5 days ago)
 - [prefer larger dataset](https://github.com/creack/geobed/pull/2) on [creack/geobed](https://github.com/creack/geobed) (1 month ago)
 - [export MatchLocation](https://github.com/creack/geobed/pull/1) on [creack/geobed](https://github.com/creack/geobed) (1 month ago)
 - [replace setTimeout](https://github.com/joelnet/pico-redux/pull/13) on [joelnet/pico-redux](https://github.com/joelnet/pico-redux) (1 month ago)
