@@ -16,7 +16,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 🌱 My latest projects
 
-- [midzer/beerbase](https://github.com/midzer/beerbase) - An accessible worldwide beer database
+- [midzer/beerbase](https://github.com/midzer/beerbase) - An accessible worldwide open beer database
 - [midzer/beer2md](https://github.com/midzer/beer2md) - Parse OpenBeerDB *.csv files and convert the data to markdown files
 - [midzer/no-3rd-party](https://github.com/midzer/no-3rd-party) - A curated list of websites which do not load any obtrusive 3rd party content
 - [midzer/feedi](https://github.com/midzer/feedi) - Local news that matter
