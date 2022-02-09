@@ -8,9 +8,9 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 👷 Check out what I'm currently working on
 
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal Angular website (today)
 - [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (2 days ago)
 - [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (2 days ago)
-- [lokal-ninja/australia](https://github.com/lokal-ninja/australia) -  (2 days ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
 - [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (2 days ago)
 
