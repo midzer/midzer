@@ -24,10 +24,10 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 🔭 Latest releases I've contributed to
 
+- [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.1.0](https://github.com/thednp/bootstrap.native/releases/tag/4.1.0), today) - If you are looking for Bootstrap without jQuery, this is it.
 - [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M100.0.4868.0](https://github.com/Alex313031/Thorium/releases/tag/M100.0.4868.0), 1 week ago) - Chromium fork for linux named after radioactive element No. 90. Windows and Special builds are in different repositories, links are towards the top of the README.md.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.3.2](https://github.com/midzer/tobii/releases/tag/v2.3.2), 2 months ago) - An accessible, open-source lightbox with no dependencies
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) ([v4.6.1](https://github.com/twbs/bootstrap/releases/tag/v4.6.1), 3 months ago) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.0.0](https://github.com/thednp/bootstrap.native/releases/tag/4.0.0), 8 months ago) - If you are looking for Bootstrap without jQuery, this is it.
 - [thednp/minifill](https://github.com/thednp/minifill) ([0.0.4](https://github.com/thednp/minifill/releases/tag/0.0.4), 5 years ago) - The polyfill for IE8-11 and other HTML4 browsers, a minimal set with most essential polyfills.
 
 #### 🔨 Latest Pull Requests I published
