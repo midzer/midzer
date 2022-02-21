@@ -8,11 +8,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/puerto-rico](https://github.com/lokal-ninja/puerto-rico) -  (6 days ago)
-- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (6 days ago)
-- [lokal-ninja/hawaii](https://github.com/lokal-ninja/hawaii) -  (6 days ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (6 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (6 days ago)
+- [lokal-ninja/puerto-rico](https://github.com/lokal-ninja/puerto-rico) -  (1 week ago)
+- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (1 week ago)
+- [lokal-ninja/hawaii](https://github.com/lokal-ninja/hawaii) -  (1 week ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 week ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -24,7 +24,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 🔭 Latest releases I've contributed to
 
-- [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.1.0](https://github.com/thednp/bootstrap.native/releases/tag/4.1.0), 5 days ago) - If you are looking for Bootstrap without jQuery, this is it.
+- [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.1.0](https://github.com/thednp/bootstrap.native/releases/tag/4.1.0), 6 days ago) - If you are looking for Bootstrap without jQuery, this is it.
 - [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M100.0.4868.0](https://github.com/Alex313031/Thorium/releases/tag/M100.0.4868.0), 2 weeks ago) - Chromium fork for linux named after radioactive element No. 90. Windows and Special builds are in different repositories, links are towards the top of the README.md.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.3.2](https://github.com/midzer/tobii/releases/tag/v2.3.2), 2 months ago) - An accessible, open-source lightbox with no dependencies
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) ([v4.6.1](https://github.com/twbs/bootstrap/releases/tag/v4.6.1), 3 months ago) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -41,7 +41,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 #### 📜 My recent blog posts
 
 - [Gib dein Senf dazua](https://ampergai.de/2021/02/001/) (1 year ago)
-- [Voisperrung](https://ampergai.de/2020/08/001/) (1 year ago)
+- [Voisperrung](https://ampergai.de/2020/08/001/) (2 years ago)
 - [Tauschbare Kost](https://ampergai.de/2020/04/001/) (2 years ago)
 - [Dahoam sterm d&#39;Leid](https://ampergai.de/2020/03/001/) (2 years ago)
 - [Astl glaub auf](https://ampergai.de/2020/02/001/) (2 years ago)
