@@ -8,7 +8,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/colorado](https://github.com/lokal-ninja/colorado) -  (today)
+- [lokal-ninja/scotland](https://github.com/lokal-ninja/scotland) -  (today)
 - [lokal-ninja/ireland-and-northern-ireland](https://github.com/lokal-ninja/ireland-and-northern-ireland) -  (today)
 - [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (today)
 - [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
