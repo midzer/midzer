@@ -8,11 +8,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/scotland](https://github.com/lokal-ninja/scotland) -  (today)
-- [lokal-ninja/ireland-and-northern-ireland](https://github.com/lokal-ninja/ireland-and-northern-ireland) -  (today)
-- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (today)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
+- [lokal-ninja/scotland](https://github.com/lokal-ninja/scotland) -  (1 day ago)
+- [lokal-ninja/ireland-and-northern-ireland](https://github.com/lokal-ninja/ireland-and-northern-ireland) -  (1 day ago)
+- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (1 day ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -27,7 +27,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.1.0](https://github.com/thednp/bootstrap.native/releases/tag/4.1.0), 1 week ago) - If you are looking for Bootstrap without jQuery, this is it.
 - [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M100.0.4868.0](https://github.com/Alex313031/Thorium/releases/tag/M100.0.4868.0), 2 weeks ago) - Chromium fork for linux named after radioactive element No. 90. Windows and Special builds are in different repositories, links are towards the top of the README.md.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.3.2](https://github.com/midzer/tobii/releases/tag/v2.3.2), 2 months ago) - An accessible, open-source lightbox with no dependencies
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) ([v4.6.1](https://github.com/twbs/bootstrap/releases/tag/v4.6.1), 3 months ago) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) ([v4.6.1](https://github.com/twbs/bootstrap/releases/tag/v4.6.1), 4 months ago) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [thednp/minifill](https://github.com/thednp/minifill) ([0.0.4](https://github.com/thednp/minifill/releases/tag/0.0.4), 5 years ago) - The polyfill for IE8-11 and other HTML4 browsers, a minimal set with most essential polyfills.
 
 #### 🔨 Latest Pull Requests I published
