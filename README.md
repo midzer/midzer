@@ -8,11 +8,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/rhone-alpes](https://github.com/lokal-ninja/rhone-alpes) -  (5 days ago)
-- [lokal-ninja/alabama](https://github.com/lokal-ninja/alabama) -  (5 days ago)
-- [lokal-ninja/delaware](https://github.com/lokal-ninja/delaware) -  (5 days ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (5 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
+- [lokal-ninja/rhone-alpes](https://github.com/lokal-ninja/rhone-alpes) -  (6 days ago)
+- [lokal-ninja/alabama](https://github.com/lokal-ninja/alabama) -  (6 days ago)
+- [lokal-ninja/delaware](https://github.com/lokal-ninja/delaware) -  (6 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (6 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -24,7 +24,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M101.0.4916.0](https://github.com/Alex313031/Thorium/releases/tag/M101.0.4916.0), 1 day ago) - Chromium fork for linux named after radioactive element No. 90. Windows and Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M101.0.4916.0](https://github.com/Alex313031/Thorium/releases/tag/M101.0.4916.0), 2 days ago) - Chromium fork for linux named after radioactive element No. 90. Windows and Special builds are in different repositories, links are towards the top of the README.md.
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.1.0](https://github.com/thednp/bootstrap.native/releases/tag/4.1.0), 2 weeks ago) - If you are looking for Bootstrap without jQuery, this is it.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.3.2](https://github.com/midzer/tobii/releases/tag/v2.3.2), 2 months ago) - An accessible, open-source lightbox with no dependencies
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) ([v4.6.1](https://github.com/twbs/bootstrap/releases/tag/v4.6.1), 4 months ago) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
