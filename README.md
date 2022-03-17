@@ -8,9 +8,9 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/hamburg](https://github.com/lokal-ninja/hamburg) -  (today)
-- [lokal-ninja/mecklenburg-vorpommern](https://github.com/lokal-ninja/mecklenburg-vorpommern) -  (today)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (today)
+- [lokal-ninja/kentucky](https://github.com/lokal-ninja/kentucky) -  (today)
+- [lokal-ninja/south-africa](https://github.com/lokal-ninja/south-africa) -  (today)
+- [lokal-ninja/nova-scotia](https://github.com/lokal-ninja/nova-scotia) -  (today)
 - [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
 
