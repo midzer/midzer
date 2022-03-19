@@ -8,11 +8,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/provence-alpes-cote-d-azur](https://github.com/lokal-ninja/provence-alpes-cote-d-azur) -  (1 day ago)
-- [lokal-ninja/south-dakota](https://github.com/lokal-ninja/south-dakota) -  (1 day ago)
-- [lokal-ninja/west-virginia](https://github.com/lokal-ninja/west-virginia) -  (1 day ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 day ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/provence-alpes-cote-d-azur](https://github.com/lokal-ninja/provence-alpes-cote-d-azur) -  (2 days ago)
+- [lokal-ninja/south-dakota](https://github.com/lokal-ninja/south-dakota) -  (2 days ago)
+- [lokal-ninja/west-virginia](https://github.com/lokal-ninja/west-virginia) -  (2 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (2 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -24,9 +24,9 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M101.0.4949.0](https://github.com/Alex313031/Thorium/releases/tag/M101.0.4949.0), today) - Chromium fork for linux named after radioactive element No. 90. Windows and Special builds are in different repositories, links are towards the top of the README.md.
-- [midzer/tobii](https://github.com/midzer/tobii) ([v2.3.3](https://github.com/midzer/tobii/releases/tag/v2.3.3), 3 days ago) - An accessible, open-source lightbox with no dependencies
-- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M100.0.4891.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M100.0.4891.0), 4 weeks ago) - Special builds of Thorium for different processors and NEW experimental Android builds for ARM64
+- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M101.0.4949.0](https://github.com/Alex313031/Thorium/releases/tag/M101.0.4949.0), 1 day ago) - Chromium fork for linux named after radioactive element No. 90. Windows and Special builds are in different repositories, links are towards the top of the README.md.
+- [midzer/tobii](https://github.com/midzer/tobii) ([v2.3.3](https://github.com/midzer/tobii/releases/tag/v2.3.3), 4 days ago) - An accessible, open-source lightbox with no dependencies
+- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M100.0.4891.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M100.0.4891.0), 1 month ago) - Special builds of Thorium for different processors and NEW experimental Android builds for ARM64
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.1.0](https://github.com/thednp/bootstrap.native/releases/tag/4.1.0), 1 month ago) - If you are looking for Bootstrap without jQuery, this is it.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) ([v4.6.1](https://github.com/twbs/bootstrap/releases/tag/v4.6.1), 4 months ago) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
@@ -36,7 +36,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 - [prefer larger dataset](https://github.com/creack/geobed/pull/2) on [creack/geobed](https://github.com/creack/geobed) (2 months ago)
 - [export MatchLocation](https://github.com/creack/geobed/pull/1) on [creack/geobed](https://github.com/creack/geobed) (2 months ago)
 - [replace setTimeout](https://github.com/joelnet/pico-redux/pull/13) on [joelnet/pico-redux](https://github.com/joelnet/pico-redux) (2 months ago)
-- [add SvenPanel](https://github.com/hemanth/awesome-pwa/pull/243) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (2 months ago)
+- [add SvenPanel](https://github.com/hemanth/awesome-pwa/pull/243) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (3 months ago)
 
 #### 📜 My recent blog posts
 
