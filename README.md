@@ -9,8 +9,8 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 #### 👷 Check out what I'm currently working on
 
 - [lokal-ninja/provence-alpes-cote-d-azur](https://github.com/lokal-ninja/provence-alpes-cote-d-azur) -  (3 days ago)
-- [lokal-ninja/south-dakota](https://github.com/lokal-ninja/south-dakota) -  (3 days ago)
-- [lokal-ninja/west-virginia](https://github.com/lokal-ninja/west-virginia) -  (3 days ago)
+- [lokal-ninja/nova-scotia](https://github.com/lokal-ninja/nova-scotia) -  (3 days ago)
+- [lokal-ninja/south-africa](https://github.com/lokal-ninja/south-africa) -  (3 days ago)
 - [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (3 days ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
 
