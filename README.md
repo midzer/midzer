@@ -24,7 +24,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M102.0.4952.0-1](https://github.com/Alex313031/Thorium-Special/releases/tag/M102.0.4952.0-1), 5 days ago) - Special builds of Thorium for different processors and NEW experimental Android builds for ARM64
+- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M102.0.4952.0-1](https://github.com/Alex313031/Thorium-Special/releases/tag/M102.0.4952.0-1), 6 days ago) - Special builds of Thorium for different processors and NEW experimental Android builds for ARM64
 - [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M101.0.4949.0](https://github.com/Alex313031/Thorium/releases/tag/M101.0.4949.0), 1 week ago) - Chromium fork for linux named after radioactive element No. 90. Windows and Special builds are in different repositories, links are towards the top of the README.md.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.3.3](https://github.com/midzer/tobii/releases/tag/v2.3.3), 1 week ago) - An accessible, open-source lightbox with no dependencies
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.1.0](https://github.com/thednp/bootstrap.native/releases/tag/4.1.0), 1 month ago) - If you are looking for Bootstrap without jQuery, this is it.
@@ -49,7 +49,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 #### 📓 Gists I wrote
 
 - [Fixed header and footer with scrollable content using flexbox](https://gist.github.com/3893ce8c0bec6f805ec1a7bb3269775d) (10 months ago)
-- [Hide Twitter Trending, Who to follow and liked tweets with uBlock Origin filters](https://gist.github.com/1afc39bdf5adbfe0020d1c2212b76b87) (10 months ago)
+- [Hide Twitter Trending, Who to follow and liked tweets with uBlock Origin filters](https://gist.github.com/1afc39bdf5adbfe0020d1c2212b76b87) (11 months ago)
 - [GitHub origin HTTPS to SSH](https://gist.github.com/3ceba8ad7d956e02d9e920b121d8d059) (2 years ago)
 
 #### 👯 Check out some of my recent followers
