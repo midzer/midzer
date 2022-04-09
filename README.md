@@ -8,11 +8,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/rhone-alpes](https://github.com/lokal-ninja/rhone-alpes) -  (1 day ago)
-- [lokal-ninja/west-virginia](https://github.com/lokal-ninja/west-virginia) -  (1 day ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 day ago)
-- [lokal-ninja/nova-scotia](https://github.com/lokal-ninja/nova-scotia) -  (1 day ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/rhone-alpes](https://github.com/lokal-ninja/rhone-alpes) -  (2 days ago)
+- [lokal-ninja/west-virginia](https://github.com/lokal-ninja/west-virginia) -  (2 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (2 days ago)
+- [lokal-ninja/nova-scotia](https://github.com/lokal-ninja/nova-scotia) -  (2 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -24,7 +24,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M102.0.4985.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M102.0.4985.0), 2 days ago) - Special builds of Thorium for different processors and NEW experimental Android builds for ARM64
+- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M102.0.4985.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M102.0.4985.0), 3 days ago) - Special builds of Thorium for different processors and NEW experimental Android builds for ARM64
 - [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M102.0.4976.0](https://github.com/Alex313031/Thorium/releases/tag/M102.0.4976.0), 1 week ago) - Chromium fork for linux named after radioactive element No. 90. Windows and Special builds are in different repositories, links are towards the top of the README.md.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.3.3](https://github.com/midzer/tobii/releases/tag/v2.3.3), 3 weeks ago) - An accessible, open-source lightbox with no dependencies
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.1.0](https://github.com/thednp/bootstrap.native/releases/tag/4.1.0), 1 month ago) - If you are looking for Bootstrap without jQuery, this is it.
