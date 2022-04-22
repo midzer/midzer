@@ -8,8 +8,8 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/rhone-alpes](https://github.com/lokal-ninja/rhone-alpes) -  (4 days ago)
-- [lokal-ninja/south-dakota](https://github.com/lokal-ninja/south-dakota) -  (4 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal Angular website (today)
+- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (4 days ago)
 - [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (4 days ago)
 - [lokal-ninja/west-virginia](https://github.com/lokal-ninja/west-virginia) -  (4 days ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
