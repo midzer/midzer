@@ -8,10 +8,10 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/rhone-alpes](https://github.com/lokal-ninja/rhone-alpes) -  (today)
-- [lokal-ninja/south-dakota](https://github.com/lokal-ninja/south-dakota) -  (today)
+- [lokal-ninja/pennsylvania](https://github.com/lokal-ninja/pennsylvania) -  (today)
+- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (today)
+- [lokal-ninja/new-mexico](https://github.com/lokal-ninja/new-mexico) -  (today)
 - [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
-- [lokal-ninja/west-virginia](https://github.com/lokal-ninja/west-virginia) -  (today)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
 
 #### 🌱 My latest projects
