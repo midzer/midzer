@@ -66,7 +66,6 @@ Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/midzer
 - Fediverse: https://chaos.social/@midzer
 - Web: https://midzer.de
 - IRC: midzer on Libera
