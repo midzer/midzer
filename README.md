@@ -8,11 +8,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/guyane](https://github.com/lokal-ninja/guyane) -  (1 day ago)
-- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (1 day ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 day ago)
-- [lokal-ninja/new-mexico](https://github.com/lokal-ninja/new-mexico) -  (1 day ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/guyane](https://github.com/lokal-ninja/guyane) -  (2 days ago)
+- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (2 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (2 days ago)
+- [lokal-ninja/new-mexico](https://github.com/lokal-ninja/new-mexico) -  (2 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -24,8 +24,8 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M103.0.5034.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M103.0.5034.0), 1 day ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
-- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M103.0.5006.0](https://github.com/Alex313031/Thorium/releases/tag/M103.0.5006.0), 1 week ago) - Chromium fork for Linux named after radioactive element No. 90. Windows and Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M103.0.5034.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M103.0.5034.0), 2 days ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
+- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M103.0.5006.0](https://github.com/Alex313031/Thorium/releases/tag/M103.0.5006.0), 2 weeks ago) - Chromium fork for Linux named after radioactive element No. 90. Windows and Special builds are in different repositories, links are towards the top of the README.md.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.3.3](https://github.com/midzer/tobii/releases/tag/v2.3.3), 1 month ago) - An accessible, open-source lightbox with no dependencies
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.1.0](https://github.com/thednp/bootstrap.native/releases/tag/4.1.0), 2 months ago) - If you are looking for Bootstrap without jQuery, this is it.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) ([v4.6.1](https://github.com/twbs/bootstrap/releases/tag/v4.6.1), 6 months ago) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
