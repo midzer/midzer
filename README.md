@@ -11,8 +11,8 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 - [lokal-ninja/guyane](https://github.com/lokal-ninja/guyane) -  (1 week ago)
 - [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (1 week ago)
 - [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 week ago)
-- [lokal-ninja/new-mexico](https://github.com/lokal-ninja/new-mexico) -  (1 week ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 week ago)
+- [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (1 week ago)
 
 #### 🌱 My latest projects
 
