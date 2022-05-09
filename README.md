@@ -24,15 +24,15 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M103.0.5045.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M103.0.5045.0), 1 day ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
-- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M103.0.5036.0](https://github.com/Alex313031/Thorium/releases/tag/M103.0.5036.0), 5 days ago) - Chromium fork for Linux named after radioactive element No. 90. Windows and Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M103.0.5045.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M103.0.5045.0), 2 days ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
+- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M103.0.5036.0](https://github.com/Alex313031/Thorium/releases/tag/M103.0.5036.0), 6 days ago) - Chromium fork for Linux named after radioactive element No. 90. Windows and Special builds are in different repositories, links are towards the top of the README.md.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.3.3](https://github.com/midzer/tobii/releases/tag/v2.3.3), 1 month ago) - An accessible, open-source lightbox with no dependencies
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.1.0](https://github.com/thednp/bootstrap.native/releases/tag/4.1.0), 2 months ago) - If you are looking for Bootstrap without jQuery, this is it.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) ([v4.6.1](https://github.com/twbs/bootstrap/releases/tag/v4.6.1), 6 months ago) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 #### 🔨 Latest Pull Requests I published
 
-- [prefer Python 3](https://github.com/Alex313031/Thorium/pull/21) on [Alex313031/Thorium](https://github.com/Alex313031/Thorium) (4 weeks ago)
+- [prefer Python 3](https://github.com/Alex313031/Thorium/pull/21) on [Alex313031/Thorium](https://github.com/Alex313031/Thorium) (1 month ago)
 - [add regex101](https://github.com/hemanth/awesome-pwa/pull/246) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (3 months ago)
 - [prefer larger dataset](https://github.com/creack/geobed/pull/2) on [creack/geobed](https://github.com/creack/geobed) (4 months ago)
 - [export MatchLocation](https://github.com/creack/geobed/pull/1) on [creack/geobed](https://github.com/creack/geobed) (4 months ago)
