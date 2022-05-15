@@ -10,9 +10,9 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 - [midzer/eisolzried](https://github.com/midzer/eisolzried) - Jekyll website of Feuerwehr Eisolzried (2 days ago)
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal Angular website (3 days ago)
-- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (6 days ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (6 days ago)
+- [lokal-ninja/rhone-alpes](https://github.com/lokal-ninja/rhone-alpes) -  (6 days ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (6 days ago)
+- [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (6 days ago)
 
 #### 🌱 My latest projects
 
