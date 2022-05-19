@@ -8,8 +8,8 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal Angular website (2 days ago)
-- [midzer/eisolzried](https://github.com/midzer/eisolzried) - Jekyll website of Feuerwehr Eisolzried (5 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal Angular website (3 days ago)
+- [midzer/eisolzried](https://github.com/midzer/eisolzried) - Jekyll website of Feuerwehr Eisolzried (6 days ago)
 - [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 week ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 week ago)
 - [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (1 week ago)
@@ -24,8 +24,8 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 🔭 Latest releases I've contributed to
 
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) ([v5.2.0-beta1](https://github.com/twbs/bootstrap/releases/tag/v5.2.0-beta1), 5 days ago) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M103.0.5055.0](https://github.com/Alex313031/Thorium/releases/tag/M103.0.5055.0), 6 days ago) - Chromium fork for Linux named after radioactive element No. 90. Windows and Special builds are in different repositories, links are towards the top of the README.md.
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) ([v5.2.0-beta1](https://github.com/twbs/bootstrap/releases/tag/v5.2.0-beta1), 6 days ago) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M103.0.5055.0](https://github.com/Alex313031/Thorium/releases/tag/M103.0.5055.0), 1 week ago) - Chromium fork for Linux named after radioactive element No. 90. Windows and Special builds are in different repositories, links are towards the top of the README.md.
 - [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M103.0.5045.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M103.0.5045.0), 1 week ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.3.3](https://github.com/midzer/tobii/releases/tag/v2.3.3), 2 months ago) - An accessible, open-source lightbox with no dependencies
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.1.0](https://github.com/thednp/bootstrap.native/releases/tag/4.1.0), 3 months ago) - If you are looking for Bootstrap without jQuery, this is it.
@@ -48,7 +48,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 📓 Gists I wrote
 
-- [Fixed header and footer with scrollable content using flexbox](https://gist.github.com/3893ce8c0bec6f805ec1a7bb3269775d) (11 months ago)
+- [Fixed header and footer with scrollable content using flexbox](https://gist.github.com/3893ce8c0bec6f805ec1a7bb3269775d) (1 year ago)
 - [Hide Twitter Trending, Who to follow and liked tweets with uBlock Origin filters](https://gist.github.com/1afc39bdf5adbfe0020d1c2212b76b87) (1 year ago)
 - [GitHub origin HTTPS to SSH](https://gist.github.com/3ceba8ad7d956e02d9e920b121d8d059) (2 years ago)
 
