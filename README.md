@@ -9,10 +9,10 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 #### 👷 Check out what I'm currently working on
 
 - [lokal-ninja/rhone-alpes](https://github.com/lokal-ninja/rhone-alpes) -  (3 days ago)
-- [lokal-ninja/nova-scotia](https://github.com/lokal-ninja/nova-scotia) -  (3 days ago)
 - [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (3 days ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
 - [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (3 days ago)
+- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (3 days ago)
 
 #### 🌱 My latest projects
 
