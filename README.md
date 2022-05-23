@@ -54,11 +54,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 👯 Check out some of my recent followers
 
+- [Cyebukayire](https://github.com/Cyebukayire)
 - [schbz](https://github.com/schbz)
 - [micahscopes](https://github.com/micahscopes)
 - [gz83](https://github.com/gz83)
 - [prk0ghy](https://github.com/prk0ghy)
-- [danno859](https://github.com/danno859)
 
 #### 💬 Feedback
 
