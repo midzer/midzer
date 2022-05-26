@@ -54,11 +54,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 👯 Check out some of my recent followers
 
+- [trimechee](https://github.com/trimechee)
 - [takacskalman](https://github.com/takacskalman)
 - [Cyebukayire](https://github.com/Cyebukayire)
 - [schbz](https://github.com/schbz)
 - [micahscopes](https://github.com/micahscopes)
-- [gz83](https://github.com/gz83)
 
 #### 💬 Feedback
 
