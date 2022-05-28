@@ -16,19 +16,19 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 🌱 My latest projects
 
+- [midzer/choices](https://github.com/midzer/choices) - A vanilla JS customisable select box/text input plugin
 - [midzer/beerbase](https://github.com/midzer/beerbase) - An accessible worldwide open beer database
 - [midzer/beer2md](https://github.com/midzer/beer2md) - Parse OpenBeerDB *.csv files and convert the data to markdown files
 - [midzer/no-3rd-party](https://github.com/midzer/no-3rd-party) - A curated list of websites which do not load any obtrusive 3rd party content
 - [midzer/feedi](https://github.com/midzer/feedi) - Local news that matter
-- [midzer/av1me](https://github.com/midzer/av1me) - Encode any mp4 and mkv videos in a folder to webm AV1 using ffmpeg
 
 #### 🔭 Latest releases I've contributed to
 
+- [midzer/choices](https://github.com/midzer/choices) ([v1.0.1](https://github.com/midzer/choices/releases/tag/v1.0.1), today) - A vanilla JS customisable select box/text input plugin
 - [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M104.0.5083.0](https://github.com/Alex313031/Thorium/releases/tag/M104.0.5083.0), 3 days ago) - Chromium fork for Linux named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M104.0.5079.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M104.0.5079.0), 4 days ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.3.3](https://github.com/midzer/tobii/releases/tag/v2.3.3), 2 months ago) - An accessible, open-source lightbox with no dependencies
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.1.0](https://github.com/thednp/bootstrap.native/releases/tag/4.1.0), 3 months ago) - If you are looking for Bootstrap without jQuery, this is it.
-- [thednp/minifill](https://github.com/thednp/minifill) ([0.0.4](https://github.com/thednp/minifill/releases/tag/0.0.4), 5 years ago) - The polyfill for IE8-11 and other HTML4 browsers, a minimal set with most essential polyfills.
 
 #### 🔨 Latest Pull Requests I published
 
