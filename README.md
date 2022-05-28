@@ -16,7 +16,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 🌱 My latest projects
 
-- [midzer/choices](https://github.com/midzer/choices) - A vanilla JS customisable select box/text input plugin
+- [midzer/choices](https://github.com/midzer/choices) - A fast, vanilla JS customisable select box/text input plugin for modern browsers ⚡
 - [midzer/beerbase](https://github.com/midzer/beerbase) - An accessible worldwide open beer database
 - [midzer/beer2md](https://github.com/midzer/beer2md) - Parse OpenBeerDB *.csv files and convert the data to markdown files
 - [midzer/no-3rd-party](https://github.com/midzer/no-3rd-party) - A curated list of websites which do not load any obtrusive 3rd party content
@@ -24,7 +24,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 🔭 Latest releases I've contributed to
 
-- [midzer/choices](https://github.com/midzer/choices) ([v1.0.4](https://github.com/midzer/choices/releases/tag/v1.0.4), today) - A vanilla JS customisable select box/text input plugin
+- [midzer/choices](https://github.com/midzer/choices) ([v1.0.4](https://github.com/midzer/choices/releases/tag/v1.0.4), today) - A fast, vanilla JS customisable select box/text input plugin for modern browsers ⚡
 - [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M104.0.5083.0](https://github.com/Alex313031/Thorium/releases/tag/M104.0.5083.0), 3 days ago) - Chromium fork for Linux named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M104.0.5079.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M104.0.5079.0), 4 days ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.3.3](https://github.com/midzer/tobii/releases/tag/v2.3.3), 2 months ago) - An accessible, open-source lightbox with no dependencies
