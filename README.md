@@ -28,7 +28,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 - [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M104.0.5083.0](https://github.com/Alex313031/Thorium/releases/tag/M104.0.5083.0), 4 days ago) - Chromium fork for Linux named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M104.0.5079.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M104.0.5079.0), 5 days ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.3.3](https://github.com/midzer/tobii/releases/tag/v2.3.3), 2 months ago) - An accessible, open-source lightbox with no dependencies
-- [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.1.0](https://github.com/thednp/bootstrap.native/releases/tag/4.1.0), 3 months ago) - If you are looking for Bootstrap without jQuery, this is it.
+- [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.1.0](https://github.com/thednp/bootstrap.native/releases/tag/4.1.0), 3 months ago) - Native JavaScript for Bootstrap
 
 #### 🔨 Latest Pull Requests I published
 
