@@ -9,10 +9,10 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 #### 👷 Check out what I'm currently working on
 
 - [lokal-ninja/ln-base](https://github.com/lokal-ninja/ln-base) - Hugo theme for all shoogle sites (today)
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal Angular website (3 days ago)
-- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (1 week ago)
-- [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (1 week ago)
-- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (1 week ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
+- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (today)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
 
 #### 🌱 My latest projects
 
