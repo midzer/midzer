@@ -8,7 +8,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/ln-base](https://github.com/lokal-ninja/ln-base) - Hugo theme for all shoogle sites (today)
+- [lokal-ninja/south-africa](https://github.com/lokal-ninja/south-africa) -  (today)
 - [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
 - [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (today)
