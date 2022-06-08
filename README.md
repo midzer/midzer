@@ -8,11 +8,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal Angular website (today)
-- [lokal-ninja/ln-base](https://github.com/lokal-ninja/ln-base) - Hugo theme for all shoogle sites (1 day ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
-- [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (1 day ago)
-- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (1 day ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal Angular website (1 day ago)
+- [lokal-ninja/ln-base](https://github.com/lokal-ninja/ln-base) - Hugo theme for all shoogle sites (2 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
+- [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (2 days ago)
+- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -24,15 +24,15 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 🔭 Latest releases I've contributed to
 
-- [midzer/tobii](https://github.com/midzer/tobii) ([v2.4.0](https://github.com/midzer/tobii/releases/tag/v2.4.0), today) - An accessible, open-source lightbox with no dependencies
-- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M104.0.5091.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M104.0.5091.0), 6 days ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
+- [midzer/tobii](https://github.com/midzer/tobii) ([v2.4.0](https://github.com/midzer/tobii/releases/tag/v2.4.0), 1 day ago) - An accessible, open-source lightbox with no dependencies
+- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M104.0.5091.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M104.0.5091.0), 1 week ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.2.0](https://github.com/thednp/bootstrap.native/releases/tag/4.2.0), 1 week ago) - Native JavaScript for Bootstrap
 - [midzer/choices](https://github.com/midzer/choices) ([v1.0.4](https://github.com/midzer/choices/releases/tag/v1.0.4), 1 week ago) - A fast, vanilla JS customisable select box/text input plugin for modern browsers ⚡
-- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M104.0.5083.0](https://github.com/Alex313031/Thorium/releases/tag/M104.0.5083.0), 1 week ago) - Chromium fork for Linux named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M104.0.5083.0](https://github.com/Alex313031/Thorium/releases/tag/M104.0.5083.0), 2 weeks ago) - Chromium fork for Linux named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 
 #### 🔨 Latest Pull Requests I published
 
-- [prefer Python 3](https://github.com/Alex313031/Thorium/pull/21) on [Alex313031/Thorium](https://github.com/Alex313031/Thorium) (1 month ago)
+- [prefer Python 3](https://github.com/Alex313031/Thorium/pull/21) on [Alex313031/Thorium](https://github.com/Alex313031/Thorium) (2 months ago)
 - [add regex101](https://github.com/hemanth/awesome-pwa/pull/246) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (4 months ago)
 - [prefer larger dataset](https://github.com/creack/geobed/pull/2) on [creack/geobed](https://github.com/creack/geobed) (5 months ago)
 - [export MatchLocation](https://github.com/creack/geobed/pull/1) on [creack/geobed](https://github.com/creack/geobed) (5 months ago)
