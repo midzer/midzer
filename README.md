@@ -8,11 +8,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/ln-base](https://github.com/lokal-ninja/ln-base) - Hugo theme for all shoogle sites (today)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (today)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (today)
+- [lokal-ninja/ln-base](https://github.com/lokal-ninja/ln-base) - Hugo theme for all shoogle sites (1 day ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (1 day ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -24,7 +24,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 🔭 Latest releases I've contributed to
 
-- [midzer/tobii](https://github.com/midzer/tobii) ([v2.4.0](https://github.com/midzer/tobii/releases/tag/v2.4.0), 1 day ago) - An accessible, open-source lightbox with no dependencies
+- [midzer/tobii](https://github.com/midzer/tobii) ([v2.4.0](https://github.com/midzer/tobii/releases/tag/v2.4.0), 2 days ago) - An accessible, open-source lightbox with no dependencies
 - [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M104.0.5091.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M104.0.5091.0), 1 week ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.2.0](https://github.com/thednp/bootstrap.native/releases/tag/4.2.0), 1 week ago) - Native JavaScript for Bootstrap
 - [midzer/choices](https://github.com/midzer/choices) ([v1.0.4](https://github.com/midzer/choices/releases/tag/v1.0.4), 1 week ago) - A fast, vanilla JS customisable select box/text input plugin for modern browsers ⚡
