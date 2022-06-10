@@ -16,7 +16,7 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 🌱 My latest projects
 
-- [midzer/pfiatdi](https://github.com/midzer/pfiatdi) - 
+- [midzer/pfiatdi](https://github.com/midzer/pfiatdi) - Say bye in bavarian
 - [midzer/dehre](https://github.com/midzer/dehre) - Say hello in bavarian
 - [midzer/choices](https://github.com/midzer/choices) - A fast, vanilla JS customisable select box/text input plugin for modern browsers ⚡
 - [midzer/beerbase](https://github.com/midzer/beerbase) - An accessible worldwide open beer database
