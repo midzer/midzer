@@ -8,23 +8,23 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal Angular website (today)
-- [lokal-ninja/ln-base](https://github.com/lokal-ninja/ln-base) - Hugo theme for all shoogle sites (1 day ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 day ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
-- [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (1 day ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal Angular website (1 day ago)
+- [lokal-ninja/ln-base](https://github.com/lokal-ninja/ln-base) - Hugo theme for all shoogle sites (2 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (2 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
+- [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (2 days ago)
 
 #### 🌱 My latest projects
 
+- [midzer/dehre](https://github.com/midzer/dehre) - 
 - [midzer/choices](https://github.com/midzer/choices) - A fast, vanilla JS customisable select box/text input plugin for modern browsers ⚡
 - [midzer/beerbase](https://github.com/midzer/beerbase) - An accessible worldwide open beer database
 - [midzer/beer2md](https://github.com/midzer/beer2md) - Parse OpenBeerDB *.csv files and convert the data to markdown files
 - [midzer/no-3rd-party](https://github.com/midzer/no-3rd-party) - A curated list of websites which do not load any obtrusive 3rd party content
-- [midzer/feedi](https://github.com/midzer/feedi) - Local news that matter
 
 #### 🔭 Latest releases I've contributed to
 
-- [midzer/tobii](https://github.com/midzer/tobii) ([v2.4.0](https://github.com/midzer/tobii/releases/tag/v2.4.0), 2 days ago) - An accessible, open-source lightbox with no dependencies
+- [midzer/tobii](https://github.com/midzer/tobii) ([v2.4.0](https://github.com/midzer/tobii/releases/tag/v2.4.0), 3 days ago) - An accessible, open-source lightbox with no dependencies
 - [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M104.0.5091.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M104.0.5091.0), 1 week ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.2.0](https://github.com/thednp/bootstrap.native/releases/tag/4.2.0), 1 week ago) - Native JavaScript for Bootstrap
 - [midzer/choices](https://github.com/midzer/choices) ([v1.0.4](https://github.com/midzer/choices/releases/tag/v1.0.4), 1 week ago) - A fast, vanilla JS customisable select box/text input plugin for modern browsers ⚡
