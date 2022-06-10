@@ -16,11 +16,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 🌱 My latest projects
 
+- [midzer/guad](https://github.com/midzer/guad) - An open list of things which are good for the future of mankind
+- [midzer/foisch](https://github.com/midzer/foisch) - An open list of things which are bad for the future of mankind
 - [midzer/pfiatdi](https://github.com/midzer/pfiatdi) - Say bye in bavarian
 - [midzer/dehre](https://github.com/midzer/dehre) - Say hello in bavarian
 - [midzer/choices](https://github.com/midzer/choices) - A fast, vanilla JS customisable select box/text input plugin for modern browsers ⚡
-- [midzer/beerbase](https://github.com/midzer/beerbase) - An accessible worldwide open beer database
-- [midzer/beer2md](https://github.com/midzer/beer2md) - Parse OpenBeerDB *.csv files and convert the data to markdown files
 
 #### 🔭 Latest releases I've contributed to
 
