@@ -24,8 +24,8 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 🔭 Latest releases I've contributed to
 
+- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M105.0.5115.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M105.0.5115.0), today) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.4.0](https://github.com/midzer/tobii/releases/tag/v2.4.0), 5 days ago) - An accessible, open-source lightbox with no dependencies
-- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M104.0.5091.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M104.0.5091.0), 1 week ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.2.0](https://github.com/thednp/bootstrap.native/releases/tag/4.2.0), 1 week ago) - Native JavaScript for Bootstrap
 - [midzer/choices](https://github.com/midzer/choices) ([v1.0.4](https://github.com/midzer/choices/releases/tag/v1.0.4), 2 weeks ago) - A fast, vanilla JS customisable select box/text input plugin for modern browsers ⚡
 - [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M104.0.5083.0](https://github.com/Alex313031/Thorium/releases/tag/M104.0.5083.0), 2 weeks ago) - Chromium fork for Linux named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
@@ -54,11 +54,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 
 #### 👯 Check out some of my recent followers
 
+- [NateFerrero](https://github.com/NateFerrero)
 - [pierro78](https://github.com/pierro78)
 - [pingus901](https://github.com/pingus901)
 - [nightlyworker](https://github.com/nightlyworker)
 - [trimechee](https://github.com/trimechee)
-- [takacskalman](https://github.com/takacskalman)
 
 #### 💬 Feedback
 
