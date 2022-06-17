@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+All of my web projects are lighthouse approved and I always aim for:
+
+<p align="center">
+  <kbd><img src="https://github.com/midzer/midzer/blob/master/lighthouse.svg" width="1000" height="200" alt="Lighthouse score 100s"></kbd>
+</p>
+
+Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
 <p align="center">
   <kbd><img src="https://github-readme-stats.vercel.app/api?username=midzer&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight" alt="midzer's GitHub stats"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midzer&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages of midzer"></kbd>
