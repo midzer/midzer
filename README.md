@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-All of my web projects are lighthouse approved and I always aim for:
+All of my web projects are lighthouse approved, always aiming for:
 
 <p align="center">
   <kbd><img src="https://github.com/midzer/midzer/blob/master/lighthouse.svg" alt="Lighthouse score 100s"></kbd>
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [MangioneAndrea/lighthouse-only-scores-svg](https://github.com/MangioneAndrea/lighthouse-only-scores-svg) (today)
 - [bake/solar-theme-hugo](https://github.com/bake/solar-theme-hugo) - A port of solar-theme-ghost for Hugo (1 week ago)
 - [jenskutilek/homecomputer-fonts](https://github.com/jenskutilek/homecomputer-fonts) - Variable fonts based on the Commodore 64 and Amiga fonts. (1 week ago)
 - [jibolash/Eve](https://github.com/jibolash/Eve) - Ultra Minimal Single-page Jekyll Template for Building Personal Portfolio Websites (3 weeks ago)
 - [gevhaz/hugo-theme-notrack](https://github.com/gevhaz/hugo-theme-notrack) - A libre hugo personal webpage theme without reliance on third parties and no tracking. (1 month ago)
-- [fiduswriter/Simple-DataTables](https://github.com/fiduswriter/Simple-DataTables) - DataTables but in Vanilla ES2018 JS (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
