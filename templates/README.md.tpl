@@ -3,7 +3,7 @@
 All of my web projects are lighthouse approved and I always aim for:
 
 <p align="center">
-  <kbd><img src="https://github.com/midzer/midzer/blob/master/lighthouse.svg" width="1000" height="200" alt="Lighthouse score 100s"></kbd>
+  <kbd><img src="https://github.com/midzer/midzer/blob/master/lighthouse.svg" alt="Lighthouse score 100s"></kbd>
 </p>
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
