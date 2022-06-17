@@ -36,6 +36,11 @@ What's this? A mysterious secret page? Shhh, don't tell anyone! Want your own se
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
+#### ⭐ Recent stars
+{{range recentStars 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
+{{- end }}
+
 #### 👯 Check out some of my recent followers
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
