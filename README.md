@@ -16,9 +16,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [lokal-ninja/ln-base](https://github.com/lokal-ninja/ln-base) - Hugo theme for all shoogle sites (today)
 - [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (today)
+- [lokal-ninja/website](https://github.com/lokal-ninja/website) - Hugo country homepages (today)
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (4 days ago)
 - [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (5 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
 
 #### 🌱 My latest projects
 
