@@ -15,10 +15,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [lokal-ninja/ln-base](https://github.com/lokal-ninja/ln-base) - Hugo theme for all shoogle sites (today)
+- [lokal-ninja/australia](https://github.com/lokal-ninja/australia) -  (today)
 - [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (today)
-- [lokal-ninja/website](https://github.com/lokal-ninja/website) - Hugo country homepages (today)
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (5 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (6 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
 
 #### 🌱 My latest projects
 
