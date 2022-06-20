@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/nevada](https://github.com/lokal-ninja/nevada) -  (today)
+- [lokal-ninja/ln-base](https://github.com/lokal-ninja/ln-base) - Hugo theme for all shoogle sites (today)
 - [lokal-ninja/mississippi](https://github.com/lokal-ninja/mississippi) -  (today)
 - [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (today)
 - [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
