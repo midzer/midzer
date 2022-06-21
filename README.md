@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/ln-base](https://github.com/lokal-ninja/ln-base) - Hugo theme for all shoogle sites (today)
-- [lokal-ninja/mississippi](https://github.com/lokal-ninja/mississippi) -  (today)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (today)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
+- [lokal-ninja/ln-base](https://github.com/lokal-ninja/ln-base) - Hugo theme for all shoogle sites (1 day ago)
+- [lokal-ninja/mississippi](https://github.com/lokal-ninja/mississippi) -  (1 day ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (1 day ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -30,9 +30,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M105.0.5127.0](https://github.com/Alex313031/Thorium/releases/tag/M105.0.5127.0), 1 day ago) - Chromium fork for Linux named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M105.0.5127.0](https://github.com/Alex313031/Thorium/releases/tag/M105.0.5127.0), 2 days ago) - Chromium fork for Linux named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M105.0.5115.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M105.0.5115.0), 1 week ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
-- [midzer/tobii](https://github.com/midzer/tobii) ([v2.4.0](https://github.com/midzer/tobii/releases/tag/v2.4.0), 1 week ago) - An accessible, open-source lightbox with no dependencies
+- [midzer/tobii](https://github.com/midzer/tobii) ([v2.4.0](https://github.com/midzer/tobii/releases/tag/v2.4.0), 2 weeks ago) - An accessible, open-source lightbox with no dependencies
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.2.0](https://github.com/thednp/bootstrap.native/releases/tag/4.2.0), 3 weeks ago) - Native JavaScript for Bootstrap
 - [midzer/choices](https://github.com/midzer/choices) ([v1.0.4](https://github.com/midzer/choices/releases/tag/v1.0.4), 3 weeks ago) - A fast, vanilla JS customisable select box/text input plugin for modern browsers ⚡
 
@@ -60,8 +60,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [MangioneAndrea/lighthouse-only-scores-svg](https://github.com/MangioneAndrea/lighthouse-only-scores-svg) (3 days ago)
-- [bake/solar-theme-hugo](https://github.com/bake/solar-theme-hugo) - A port of solar-theme-ghost for Hugo (1 week ago)
+- [MangioneAndrea/lighthouse-only-scores-svg](https://github.com/MangioneAndrea/lighthouse-only-scores-svg) (4 days ago)
+- [bake/solar-theme-hugo](https://github.com/bake/solar-theme-hugo) - A port of solar-theme-ghost for Hugo (2 weeks ago)
 - [jenskutilek/homecomputer-fonts](https://github.com/jenskutilek/homecomputer-fonts) - Variable fonts based on the Commodore 64 and Amiga fonts. (2 weeks ago)
 - [jibolash/Eve](https://github.com/jibolash/Eve) - Ultra Minimal Single-page Jekyll Template for Building Personal Portfolio Websites (3 weeks ago)
 - [gevhaz/hugo-theme-notrack](https://github.com/gevhaz/hugo-theme-notrack) - A libre hugo personal webpage theme without reliance on third parties and no tracking. (1 month ago)
