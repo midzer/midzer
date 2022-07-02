@@ -68,11 +68,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
-- [edglaz](https://github.com/edglaz)
 - [NateFerrero](https://github.com/NateFerrero)
 - [pierro78](https://github.com/pierro78)
 - [pingus901](https://github.com/pingus901)
 - [nightlyworker](https://github.com/nightlyworker)
+- [trimechee](https://github.com/trimechee)
 
 #### 💬 Feedback
 
