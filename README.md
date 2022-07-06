@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/provence-alpes-cote-d-azur](https://github.com/lokal-ninja/provence-alpes-cote-d-azur) -  (today)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (today)
-- [lokal-ninja/south-dakota](https://github.com/lokal-ninja/south-dakota) -  (today)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
+- [lokal-ninja/provence-alpes-cote-d-azur](https://github.com/lokal-ninja/provence-alpes-cote-d-azur) -  (1 day ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (1 day ago)
+- [lokal-ninja/south-dakota](https://github.com/lokal-ninja/south-dakota) -  (1 day ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [blaze-slider/blaze-slider](https://github.com/blaze-slider/blaze-slider) - The Fastest slider library for high performance websites (6 days ago)
+- [blaze-slider/blaze-slider](https://github.com/blaze-slider/blaze-slider) - The Fastest slider library for high performance websites (1 week ago)
 - [roobottom/twitter-archive-to-markdown-files](https://github.com/roobottom/twitter-archive-to-markdown-files) - Convert your twitter archive to markdown files (1 week ago)
 - [ronv/minimalist](https://github.com/ronv/minimalist) - Minimalist is content focused, minimal theme for Hugo (1 week ago)
 - [MangioneAndrea/lighthouse-only-scores-svg](https://github.com/MangioneAndrea/lighthouse-only-scores-svg) (2 weeks ago)
