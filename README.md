@@ -16,8 +16,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [lokal-ninja/provence-alpes-cote-d-azur](https://github.com/lokal-ninja/provence-alpes-cote-d-azur) -  (2 days ago)
 - [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (2 days ago)
-- [lokal-ninja/hawaii](https://github.com/lokal-ninja/hawaii) -  (2 days ago)
 - [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (2 days ago)
+- [lokal-ninja/hawaii](https://github.com/lokal-ninja/hawaii) -  (2 days ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
 
 #### 🌱 My latest projects
