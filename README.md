@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/provence-alpes-cote-d-azur](https://github.com/lokal-ninja/provence-alpes-cote-d-azur) -  (5 days ago)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (5 days ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (5 days ago)
-- [lokal-ninja/hawaii](https://github.com/lokal-ninja/hawaii) -  (5 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
+- [lokal-ninja/provence-alpes-cote-d-azur](https://github.com/lokal-ninja/provence-alpes-cote-d-azur) -  (6 days ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (6 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (6 days ago)
+- [lokal-ninja/hawaii](https://github.com/lokal-ninja/hawaii) -  (6 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M105.0.5183.0](https://github.com/Alex313031/Thorium/releases/tag/M105.0.5183.0), 3 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M105.0.5183.0](https://github.com/Alex313031/Thorium/releases/tag/M105.0.5183.0), 4 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M105.0.5174.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M105.0.5174.0), 1 week ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.4.0](https://github.com/midzer/tobii/releases/tag/v2.4.0), 1 month ago) - An accessible, open-source lightbox with no dependencies
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.2.0](https://github.com/thednp/bootstrap.native/releases/tag/4.2.0), 1 month ago) - Native JavaScript for Bootstrap
@@ -68,11 +68,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [making787](https://github.com/making787)
 - [jagarinart](https://github.com/jagarinart)
 - [daGreifor](https://github.com/daGreifor)
 - [NateFerrero](https://github.com/NateFerrero)
 - [pierro78](https://github.com/pierro78)
-- [pingus901](https://github.com/pingus901)
 
 #### 💬 Feedback
 
