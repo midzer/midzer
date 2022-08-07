@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/provence-alpes-cote-d-azur](https://github.com/lokal-ninja/provence-alpes-cote-d-azur) -  (1 day ago)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (1 day ago)
-- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (1 day ago)
-- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (1 day ago)
-- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (1 day ago)
+- [lokal-ninja/provence-alpes-cote-d-azur](https://github.com/lokal-ninja/provence-alpes-cote-d-azur) -  (2 days ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (2 days ago)
+- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (2 days ago)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (2 days ago)
+- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,15 +30,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M106.0.5215.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M106.0.5215.0), 3 days ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
-- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M106.0.5212.0](https://github.com/Alex313031/Thorium/releases/tag/M106.0.5212.0), 4 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M106.0.5215.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M106.0.5215.0), 4 days ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
+- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M106.0.5212.0](https://github.com/Alex313031/Thorium/releases/tag/M106.0.5212.0), 5 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.4.0](https://github.com/midzer/tobii/releases/tag/v2.4.0), 2 months ago) - An accessible, open-source lightbox with no dependencies
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.2.0](https://github.com/thednp/bootstrap.native/releases/tag/4.2.0), 2 months ago) - Native JavaScript for Bootstrap
 - [midzer/choices](https://github.com/midzer/choices) ([v1.0.4](https://github.com/midzer/choices/releases/tag/v1.0.4), 2 months ago) - A fast, vanilla JS customisable select box/text input plugin for modern browsers ⚡
 
 #### 🔨 Latest Pull Requests I published
 
-- [prefer Python 3](https://github.com/Alex313031/Thorium/pull/21) on [Alex313031/Thorium](https://github.com/Alex313031/Thorium) (3 months ago)
+- [prefer Python 3](https://github.com/Alex313031/Thorium/pull/21) on [Alex313031/Thorium](https://github.com/Alex313031/Thorium) (4 months ago)
 - [add regex101](https://github.com/hemanth/awesome-pwa/pull/246) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (6 months ago)
 - [prefer larger dataset](https://github.com/creack/geobed/pull/2) on [creack/geobed](https://github.com/creack/geobed) (7 months ago)
 - [export MatchLocation](https://github.com/creack/geobed/pull/1) on [creack/geobed](https://github.com/creack/geobed) (7 months ago)
