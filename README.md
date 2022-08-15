@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [abhinavs/moonwalk](https://github.com/abhinavs/moonwalk) - A fast &amp; minimal Jekyll blog theme with clean dark mode (today)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 weeks ago)
 - [blaze-slider/blaze-slider](https://github.com/blaze-slider/blaze-slider) - The Fastest slider library for high performance websites (1 month ago)
 - [roobottom/twitter-archive-to-markdown-files](https://github.com/roobottom/twitter-archive-to-markdown-files) - Convert your twitter archive to markdown files (1 month ago)
 - [ronv/minimalist](https://github.com/ronv/minimalist) - Minimalist is content focused, minimal theme for Hugo (1 month ago)
-- [MangioneAndrea/lighthouse-only-scores-svg](https://github.com/MangioneAndrea/lighthouse-only-scores-svg) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
