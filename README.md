@@ -31,10 +31,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔭 Latest releases I've contributed to
 
 - [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M106.0.5215.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M106.0.5215.0), 1 week ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
-- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M106.0.5212.0](https://github.com/Alex313031/Thorium/releases/tag/M106.0.5212.0), 1 week ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.4.0](https://github.com/midzer/tobii/releases/tag/v2.4.0), 2 months ago) - An accessible, open-source lightbox with no dependencies
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.2.0](https://github.com/thednp/bootstrap.native/releases/tag/4.2.0), 2 months ago) - Native JavaScript for Bootstrap
 - [midzer/choices](https://github.com/midzer/choices) ([v1.0.4](https://github.com/midzer/choices/releases/tag/v1.0.4), 2 months ago) - A fast, vanilla JS customisable select box/text input plugin for modern browsers ⚡
+- [thednp/minifill](https://github.com/thednp/minifill) ([0.0.4](https://github.com/thednp/minifill/releases/tag/0.0.4), 5 years ago) - The polyfill for IE8-11 and other HTML4 browsers, a minimal set with most essential polyfills.
 
 #### 🔨 Latest Pull Requests I published
 
