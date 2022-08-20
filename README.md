@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/south-africa](https://github.com/lokal-ninja/south-africa) -  (today)
+- [lokal-ninja/arizona](https://github.com/lokal-ninja/arizona) -  (today)
 - [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (today)
 - [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (today)
 - [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (today)
