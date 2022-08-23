@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/provence-alpes-cote-d-azur](https://github.com/lokal-ninja/provence-alpes-cote-d-azur) -  (2 days ago)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (2 days ago)
-- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (2 days ago)
-- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (2 days ago)
-- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (2 days ago)
+- [lokal-ninja/provence-alpes-cote-d-azur](https://github.com/lokal-ninja/provence-alpes-cote-d-azur) -  (3 days ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (3 days ago)
+- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (3 days ago)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (3 days ago)
+- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -38,7 +38,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix header](https://github.com/Alex313031/Alex313031.github.io/pull/2) on [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) (3 days ago)
+- [fix header](https://github.com/Alex313031/Alex313031.github.io/pull/2) on [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) (4 days ago)
 - [prefer Python 3](https://github.com/Alex313031/Thorium/pull/21) on [Alex313031/Thorium](https://github.com/Alex313031/Thorium) (4 months ago)
 - [add regex101](https://github.com/hemanth/awesome-pwa/pull/246) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (6 months ago)
 - [prefer larger dataset](https://github.com/creack/geobed/pull/2) on [creack/geobed](https://github.com/creack/geobed) (8 months ago)
@@ -64,7 +64,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (3 weeks ago)
 - [blaze-slider/blaze-slider](https://github.com/blaze-slider/blaze-slider) - The Fastest slider library for high performance websites (1 month ago)
 - [roobottom/twitter-archive-to-markdown-files](https://github.com/roobottom/twitter-archive-to-markdown-files) - Convert your twitter archive to markdown files (1 month ago)
-- [ronv/minimalist](https://github.com/ronv/minimalist) - Minimalist is content focused, minimal theme for Hugo (1 month ago)
+- [ronv/minimalist](https://github.com/ronv/minimalist) - Minimalist is content focused, minimal theme for Hugo (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
