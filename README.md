@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/provence-alpes-cote-d-azur](https://github.com/lokal-ninja/provence-alpes-cote-d-azur) -  (6 days ago)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (6 days ago)
-- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (6 days ago)
-- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (6 days ago)
-- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (6 days ago)
+- [lokal-ninja/provence-alpes-cote-d-azur](https://github.com/lokal-ninja/provence-alpes-cote-d-azur) -  (1 week ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (1 week ago)
+- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (1 week ago)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (1 week ago)
+- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M107.0.5270.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M107.0.5270.0), 2 days ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
+- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M107.0.5270.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M107.0.5270.0), 3 days ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
 - [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M107.0.5253.0](https://github.com/Alex313031/Thorium/releases/tag/M107.0.5253.0), 1 week ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.4.0](https://github.com/midzer/tobii/releases/tag/v2.4.0), 2 months ago) - An accessible, open-source lightbox with no dependencies
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.2.0](https://github.com/thednp/bootstrap.native/releases/tag/4.2.0), 3 months ago) - Native JavaScript for Bootstrap
