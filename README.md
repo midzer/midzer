@@ -68,11 +68,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [RoneoOrg](https://github.com/RoneoOrg)
 - [making787](https://github.com/making787)
 - [jagarinart](https://github.com/jagarinart)
 - [daGreifor](https://github.com/daGreifor)
 - [NateFerrero](https://github.com/NateFerrero)
-- [pierro78](https://github.com/pierro78)
 
 #### 💬 Feedback
 
