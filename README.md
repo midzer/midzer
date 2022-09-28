@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (today)
 - [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) - Fast Hugo gallery theme/module suitable for lots of images. (1 week ago)
 - [abhinavs/moonwalk](https://github.com/abhinavs/moonwalk) - A fast &amp; minimal Jekyll blog theme with clean dark mode (1 month ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 months ago)
 - [blaze-slider/blaze-slider](https://github.com/blaze-slider/blaze-slider) - The Fastest slider library for high performance websites (3 months ago)
-- [roobottom/twitter-archive-to-markdown-files](https://github.com/roobottom/twitter-archive-to-markdown-files) - Convert your twitter archive to markdown files (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
