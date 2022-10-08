@@ -22,11 +22,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🌱 My latest projects
 
+- [midzer/filelove](https://github.com/midzer/filelove) - 
 - [midzer/guad](https://github.com/midzer/guad) - An open list of things which are good for the future of mankind
 - [midzer/foisch](https://github.com/midzer/foisch) - An open list of things which are bad for the future of mankind
 - [midzer/pfiatdi](https://github.com/midzer/pfiatdi) - Say bye in bavarian
 - [midzer/dehre](https://github.com/midzer/dehre) - Say hello in bavarian
-- [midzer/choices](https://github.com/midzer/choices) - A fast, vanilla JS customisable select box/text input plugin for modern browsers ⚡
 
 #### 🔭 Latest releases I've contributed to
 
