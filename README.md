@@ -14,9 +14,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/british-columbia](https://github.com/lokal-ninja/british-columbia) -  (today)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (today)
 - [lokal-ninja/alaska](https://github.com/lokal-ninja/alaska) -  (today)
-- [lokal-ninja/mississippi](https://github.com/lokal-ninja/mississippi) -  (today)
+- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (today)
 - [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (today)
 - [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (today)
 
