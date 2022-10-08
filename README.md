@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (4 days ago)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (6 days ago)
-- [lokal-ninja/alaska](https://github.com/lokal-ninja/alaska) -  (6 days ago)
-- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (6 days ago)
-- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (6 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (5 days ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (1 week ago)
+- [lokal-ninja/alaska](https://github.com/lokal-ninja/alaska) -  (1 week ago)
+- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (1 week ago)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -60,9 +60,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [s-macke/SIDSpectro](https://github.com/s-macke/SIDSpectro) - Online SID player with spectrum analyzer (6 days ago)
-- [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn&#39;t suck (6 days ago)
-- [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (6 days ago)
+- [s-macke/SIDSpectro](https://github.com/s-macke/SIDSpectro) - Online SID player with spectrum analyzer (1 week ago)
+- [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn&#39;t suck (1 week ago)
+- [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (1 week ago)
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (1 week ago)
 - [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) - Fast Hugo gallery theme/module suitable for lots of images. (2 weeks ago)
 
