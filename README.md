@@ -22,7 +22,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🌱 My latest projects
 
-- [midzer/filelove](https://github.com/midzer/filelove) - 
+- [midzer/filelove](https://github.com/midzer/filelove) - Minimal p2p file transfer right in the browser
 - [midzer/guad](https://github.com/midzer/guad) - An open list of things which are good for the future of mankind
 - [midzer/foisch](https://github.com/midzer/foisch) - An open list of things which are bad for the future of mankind
 - [midzer/pfiatdi](https://github.com/midzer/pfiatdi) - Say bye in bavarian
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [Demindiro/agreper](https://github.com/Demindiro/agreper) - Minimal, no-JS web forum software (today)
 - [s-macke/SIDSpectro](https://github.com/s-macke/SIDSpectro) - Online SID player with spectrum analyzer (1 week ago)
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn&#39;t suck (1 week ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (1 week ago)
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (1 week ago)
-- [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) - Fast Hugo gallery theme/module suitable for lots of images. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
