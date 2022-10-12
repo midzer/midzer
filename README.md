@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) - A list of publicly available STUN servers, refreshed every hour. (today)
 - [Demindiro/agreper](https://github.com/Demindiro/agreper) - Minimal, no-JS web forum software (1 day ago)
 - [s-macke/SIDSpectro](https://github.com/s-macke/SIDSpectro) - Online SID player with spectrum analyzer (1 week ago)
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn&#39;t suck (1 week ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (1 week ago)
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
