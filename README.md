@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (3 days ago)
-- [lokal-ninja/alaska](https://github.com/lokal-ninja/alaska) -  (3 days ago)
-- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (3 days ago)
-- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (3 days ago)
-- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (3 days ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (4 days ago)
+- [lokal-ninja/alaska](https://github.com/lokal-ninja/alaska) -  (4 days ago)
+- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (4 days ago)
+- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (4 days ago)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [Demindiro/agreper](https://github.com/Demindiro/agreper) - Minimal, no-JS web forum software (today)
+- [Demindiro/agreper](https://github.com/Demindiro/agreper) - Minimal, no-JS web forum software (1 day ago)
 - [s-macke/SIDSpectro](https://github.com/s-macke/SIDSpectro) - Online SID player with spectrum analyzer (1 week ago)
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn&#39;t suck (1 week ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (1 week ago)
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (1 week ago)
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
