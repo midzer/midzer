@@ -68,11 +68,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [MarblesTheMadOne](https://github.com/MarblesTheMadOne)
 - [cadars](https://github.com/cadars)
 - [Neucher](https://github.com/Neucher)
 - [sandeep-devarapalli](https://github.com/sandeep-devarapalli)
 - [RoneoOrg](https://github.com/RoneoOrg)
-- [making787](https://github.com/making787)
 
 #### 💬 Feedback
 
