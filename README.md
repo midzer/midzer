@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (5 days ago)
-- [lokal-ninja/alaska](https://github.com/lokal-ninja/alaska) -  (5 days ago)
-- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (5 days ago)
-- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (5 days ago)
-- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (5 days ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (6 days ago)
+- [lokal-ninja/alaska](https://github.com/lokal-ninja/alaska) -  (6 days ago)
+- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (6 days ago)
+- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (6 days ago)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M108.0.5312.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M108.0.5312.0), 2 weeks ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
+- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M108.0.5312.0](https://github.com/Alex313031/Thorium-Special/releases/tag/M108.0.5312.0), 3 weeks ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
 - [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M108.0.5312.0](https://github.com/Alex313031/Thorium/releases/tag/M108.0.5312.0), 3 weeks ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.4.0](https://github.com/midzer/tobii/releases/tag/v2.4.0), 4 months ago) - An accessible, open-source lightbox with no dependencies
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.2.0](https://github.com/thednp/bootstrap.native/releases/tag/4.2.0), 4 months ago) - Native JavaScript for Bootstrap
@@ -60,8 +60,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) - A list of publicly available STUN servers, refreshed every hour. (1 day ago)
-- [Demindiro/agreper](https://github.com/Demindiro/agreper) - Minimal, no-JS web forum software (2 days ago)
+- [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) - A list of publicly available STUN servers, refreshed every hour. (2 days ago)
+- [Demindiro/agreper](https://github.com/Demindiro/agreper) - Minimal, no-JS web forum software (3 days ago)
 - [s-macke/SIDSpectro](https://github.com/s-macke/SIDSpectro) - Online SID player with spectrum analyzer (1 week ago)
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn&#39;t suck (1 week ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (1 week ago)
