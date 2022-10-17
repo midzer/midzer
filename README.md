@@ -38,11 +38,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [support more file types](https://github.com/pseudosavant/player.html/pull/22) on [pseudosavant/player.html](https://github.com/pseudosavant/player.html) (today)
 - [fix header](https://github.com/Alex313031/Alex313031.github.io/pull/2) on [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) (1 month ago)
 - [prefer Python 3](https://github.com/Alex313031/Thorium/pull/21) on [Alex313031/Thorium](https://github.com/Alex313031/Thorium) (6 months ago)
 - [add regex101](https://github.com/hemanth/awesome-pwa/pull/246) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (8 months ago)
 - [prefer larger dataset](https://github.com/creack/geobed/pull/2) on [creack/geobed](https://github.com/creack/geobed) (9 months ago)
-- [export MatchLocation](https://github.com/creack/geobed/pull/1) on [creack/geobed](https://github.com/creack/geobed) (9 months ago)
 
 #### 📜 My recent blog posts
 
