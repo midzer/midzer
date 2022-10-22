@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/filelove](https://github.com/midzer/filelove) - Minimal p2p file transfer right in the browser (2 days ago)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (6 days ago)
-- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (6 days ago)
-- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (6 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (6 days ago)
+- [midzer/filelove](https://github.com/midzer/filelove) - Minimal p2p file transfer right in the browser (3 days ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (1 week ago)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (1 week ago)
+- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (1 week ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -30,16 +30,16 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M109.0.5361.0_2](https://github.com/Alex313031/Thorium-Special/releases/tag/M109.0.5361.0_2), 3 days ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
-- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M109.0.5361.0](https://github.com/Alex313031/Thorium/releases/tag/M109.0.5361.0), 3 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M109.0.5361.0_2](https://github.com/Alex313031/Thorium-Special/releases/tag/M109.0.5361.0_2), 4 days ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
+- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M109.0.5361.0](https://github.com/Alex313031/Thorium/releases/tag/M109.0.5361.0), 4 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.4.0](https://github.com/midzer/tobii/releases/tag/v2.4.0), 4 months ago) - An accessible, open-source lightbox with no dependencies
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.2.0](https://github.com/thednp/bootstrap.native/releases/tag/4.2.0), 4 months ago) - Native JavaScript for Bootstrap
 - [midzer/choices](https://github.com/midzer/choices) ([v1.0.4](https://github.com/midzer/choices/releases/tag/v1.0.4), 4 months ago) - A fast, vanilla JS customisable select box/text input plugin for modern browsers ⚡
 
 #### 🔨 Latest Pull Requests I published
 
-- [Clean up](https://github.com/moba/ethicalparking/pull/1) on [moba/ethicalparking](https://github.com/moba/ethicalparking) (4 days ago)
-- [support more file types](https://github.com/pseudosavant/player.html/pull/22) on [pseudosavant/player.html](https://github.com/pseudosavant/player.html) (4 days ago)
+- [Clean up](https://github.com/moba/ethicalparking/pull/1) on [moba/ethicalparking](https://github.com/moba/ethicalparking) (5 days ago)
+- [support more file types](https://github.com/pseudosavant/player.html/pull/22) on [pseudosavant/player.html](https://github.com/pseudosavant/player.html) (5 days ago)
 - [fix header](https://github.com/Alex313031/Alex313031.github.io/pull/2) on [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) (2 months ago)
 - [prefer Python 3](https://github.com/Alex313031/Thorium/pull/21) on [Alex313031/Thorium](https://github.com/Alex313031/Thorium) (6 months ago)
 - [add regex101](https://github.com/hemanth/awesome-pwa/pull/246) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (8 months ago)
@@ -55,16 +55,16 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 📓 Gists I wrote
 
 - [Fixed header and footer with scrollable content using flexbox](https://gist.github.com/3893ce8c0bec6f805ec1a7bb3269775d) (1 year ago)
-- [Hide Twitter Trending, Who to follow and liked tweets with uBlock Origin filters](https://gist.github.com/1afc39bdf5adbfe0020d1c2212b76b87) (1 year ago)
+- [Hide Twitter Trending, Who to follow and liked tweets with uBlock Origin filters](https://gist.github.com/1afc39bdf5adbfe0020d1c2212b76b87) (2 years ago)
 - [GitHub origin HTTPS to SSH](https://gist.github.com/3ceba8ad7d956e02d9e920b121d8d059) (2 years ago)
 
 #### ⭐ Recent stars
 
-- [moba/ethicalparking](https://github.com/moba/ethicalparking) - simple static site for &#39;ethical parking&#39; of domains based on Designa Template by Sylvain Lafitte (4 days ago)
-- [pseudosavant/player.html](https://github.com/pseudosavant/player.html) - One file drop-in video player web app for using video files served using basic directory listing (4 days ago)
+- [moba/ethicalparking](https://github.com/moba/ethicalparking) - simple static site for &#39;ethical parking&#39; of domains based on Designa Template by Sylvain Lafitte (5 days ago)
+- [pseudosavant/player.html](https://github.com/pseudosavant/player.html) - One file drop-in video player web app for using video files served using basic directory listing (5 days ago)
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) - A list of publicly available STUN servers, refreshed every hour. (1 week ago)
 - [Demindiro/agreper](https://github.com/Demindiro/agreper) - Minimal, no-JS web forum software (1 week ago)
-- [s-macke/SIDSpectro](https://github.com/s-macke/SIDSpectro) - Online SID player with spectrum analyzer (2 weeks ago)
+- [s-macke/SIDSpectro](https://github.com/s-macke/SIDSpectro) - Online SID player with spectrum analyzer (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
