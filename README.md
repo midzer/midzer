@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (today)
-- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (today)
-- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (today)
-- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (today)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (today)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (1 day ago)
+- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (1 day ago)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (1 day ago)
+- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (1 day ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -38,7 +38,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [remove legacy IE artifacts](https://github.com/moba/ethicalparking/pull/2) on [moba/ethicalparking](https://github.com/moba/ethicalparking) (2 days ago)
+- [remove legacy IE artifacts](https://github.com/moba/ethicalparking/pull/2) on [moba/ethicalparking](https://github.com/moba/ethicalparking) (3 days ago)
 - [cleanup packages](https://github.com/lokal-ninja/ln-chat/pull/1) on [lokal-ninja/ln-chat](https://github.com/lokal-ninja/ln-chat) (1 week ago)
 - [support AC3 and E-AC3](https://github.com/Alex313031/Thorium/pull/89) on [Alex313031/Thorium](https://github.com/Alex313031/Thorium) (1 week ago)
 - [Clean up](https://github.com/moba/ethicalparking/pull/1) on [moba/ethicalparking](https://github.com/moba/ethicalparking) (1 week ago)
