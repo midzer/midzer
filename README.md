@@ -40,7 +40,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [remove legacy IE artifacts](https://github.com/moba/ethicalparking/pull/2) on [moba/ethicalparking](https://github.com/moba/ethicalparking) (4 days ago)
 - [cleanup packages](https://github.com/lokal-ninja/ln-chat/pull/1) on [lokal-ninja/ln-chat](https://github.com/lokal-ninja/ln-chat) (1 week ago)
-- [support AC3 and E-AC3](https://github.com/Alex313031/Thorium/pull/89) on [Alex313031/Thorium](https://github.com/Alex313031/Thorium) (1 week ago)
+- [hacktoberfest-accepted](https://github.com/Alex313031/Thorium/pull/89) on [Alex313031/Thorium](https://github.com/Alex313031/Thorium) (1 week ago)
 - [Clean up](https://github.com/moba/ethicalparking/pull/1) on [moba/ethicalparking](https://github.com/moba/ethicalparking) (2 weeks ago)
 - [support more file types](https://github.com/pseudosavant/player.html/pull/22) on [pseudosavant/player.html](https://github.com/pseudosavant/player.html) (2 weeks ago)
 
