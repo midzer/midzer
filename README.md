@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (today)
-- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (today)
-- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (today)
-- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (today)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (today)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (1 day ago)
+- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (1 day ago)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (1 day ago)
+- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (1 day ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -39,8 +39,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔨 Latest Pull Requests I published
 
 - [remove legacy IE artifacts](https://github.com/moba/ethicalparking/pull/2) on [moba/ethicalparking](https://github.com/moba/ethicalparking) (1 week ago)
-- [cleanup packages](https://github.com/lokal-ninja/ln-chat/pull/1) on [lokal-ninja/ln-chat](https://github.com/lokal-ninja/ln-chat) (1 week ago)
-- [hacktoberfest-accepted](https://github.com/Alex313031/Thorium/pull/89) on [Alex313031/Thorium](https://github.com/Alex313031/Thorium) (1 week ago)
+- [cleanup packages](https://github.com/lokal-ninja/ln-chat/pull/1) on [lokal-ninja/ln-chat](https://github.com/lokal-ninja/ln-chat) (2 weeks ago)
+- [hacktoberfest-accepted](https://github.com/Alex313031/Thorium/pull/89) on [Alex313031/Thorium](https://github.com/Alex313031/Thorium) (2 weeks ago)
 - [Clean up](https://github.com/moba/ethicalparking/pull/1) on [moba/ethicalparking](https://github.com/moba/ethicalparking) (2 weeks ago)
 - [support more file types](https://github.com/pseudosavant/player.html/pull/22) on [pseudosavant/player.html](https://github.com/pseudosavant/player.html) (2 weeks ago)
 
@@ -60,8 +60,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [1dot13/source](https://github.com/1dot13/source) - Source code for the game executable of the Jagged Alliance 2 v1.13 project (1 day ago)
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (1 week ago)
+- [1dot13/source](https://github.com/1dot13/source) - Source code for the game executable of the Jagged Alliance 2 v1.13 project (2 days ago)
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (2 weeks ago)
 - [moba/ethicalparking](https://github.com/moba/ethicalparking) - simple static site for &#39;ethical parking&#39; of domains based on Designa Template by Sylvain Lafitte (2 weeks ago)
 - [pseudosavant/player.html](https://github.com/pseudosavant/player.html) - One file drop-in video player web app for using video files served using basic directory listing (2 weeks ago)
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) - A list of publicly available STUN servers, refreshed every hour. (3 weeks ago)
