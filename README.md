@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (1 day ago)
-- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (1 day ago)
-- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (1 day ago)
-- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (1 day ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 day ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (2 days ago)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (2 days ago)
+- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [1dot13/source](https://github.com/1dot13/source) - Source code for the game executable of the Jagged Alliance 2 v1.13 project (2 days ago)
+- [1dot13/source](https://github.com/1dot13/source) - Source code for the game executable of the Jagged Alliance 2 v1.13 project (3 days ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (2 weeks ago)
 - [moba/ethicalparking](https://github.com/moba/ethicalparking) - simple static site for &#39;ethical parking&#39; of domains based on Designa Template by Sylvain Lafitte (2 weeks ago)
 - [pseudosavant/player.html](https://github.com/pseudosavant/player.html) - One file drop-in video player web app for using video files served using basic directory listing (2 weeks ago)
