@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [DhrBaksteen/ScripTracker](https://github.com/DhrBaksteen/ScripTracker) - A MOD, S3M and XM module player for JavaScript (today)
 - [1dot13/source](https://github.com/1dot13/source) - Source code for the game executable of the Jagged Alliance 2 v1.13 project (4 days ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (2 weeks ago)
 - [moba/ethicalparking](https://github.com/moba/ethicalparking) - simple static site for &#39;ethical parking&#39; of domains based on Designa Template by Sylvain Lafitte (3 weeks ago)
 - [pseudosavant/player.html](https://github.com/pseudosavant/player.html) - One file drop-in video player web app for using video files served using basic directory listing (3 weeks ago)
-- [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) - A list of publicly available STUN servers, refreshed every hour. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
