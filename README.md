@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (3 days ago)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (4 days ago)
-- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (4 days ago)
-- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (4 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (4 days ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (5 days ago)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (5 days ago)
+- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -60,8 +60,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [DhrBaksteen/ScripTracker](https://github.com/DhrBaksteen/ScripTracker) - A MOD, S3M and XM module player for JavaScript (1 day ago)
-- [1dot13/source](https://github.com/1dot13/source) - Source code for the game executable of the Jagged Alliance 2 v1.13 project (5 days ago)
+- [DhrBaksteen/ScripTracker](https://github.com/DhrBaksteen/ScripTracker) - A MOD, S3M and XM module player for JavaScript (2 days ago)
+- [1dot13/source](https://github.com/1dot13/source) - Source code for the game executable of the Jagged Alliance 2 v1.13 project (6 days ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (2 weeks ago)
 - [moba/ethicalparking](https://github.com/moba/ethicalparking) - simple static site for &#39;ethical parking&#39; of domains based on Designa Template by Sylvain Lafitte (3 weeks ago)
 - [pseudosavant/player.html](https://github.com/pseudosavant/player.html) - One file drop-in video player web app for using video files served using basic directory listing (3 weeks ago)
