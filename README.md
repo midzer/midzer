@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (3 days ago)
-- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (3 days ago)
-- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (3 days ago)
-- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (3 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (4 days ago)
+- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (4 days ago)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (4 days ago)
+- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,8 +30,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M109.0.5361.0_2](https://github.com/Alex313031/Thorium-Special/releases/tag/M109.0.5361.0_2), 3 weeks ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
-- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M109.0.5361.0](https://github.com/Alex313031/Thorium/releases/tag/M109.0.5361.0), 3 weeks ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M109.0.5361.0_2](https://github.com/Alex313031/Thorium-Special/releases/tag/M109.0.5361.0_2), 4 weeks ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
+- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M109.0.5361.0](https://github.com/Alex313031/Thorium/releases/tag/M109.0.5361.0), 4 weeks ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.4.0](https://github.com/midzer/tobii/releases/tag/v2.4.0), 5 months ago) - An accessible, open-source lightbox with no dependencies
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.2.0](https://github.com/thednp/bootstrap.native/releases/tag/4.2.0), 5 months ago) - Native JavaScript for Bootstrap
 - [midzer/choices](https://github.com/midzer/choices) ([v1.0.4](https://github.com/midzer/choices/releases/tag/v1.0.4), 5 months ago) - A fast, vanilla JS customisable select box/text input plugin for modern browsers ⚡
@@ -54,14 +54,14 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📓 Gists I wrote
 
-- [Fixed header and footer with scrollable content using flexbox](https://gist.github.com/3893ce8c0bec6f805ec1a7bb3269775d) (1 year ago)
+- [Fixed header and footer with scrollable content using flexbox](https://gist.github.com/3893ce8c0bec6f805ec1a7bb3269775d) (2 years ago)
 - [Hide Twitter Trending, Who to follow and liked tweets with uBlock Origin filters](https://gist.github.com/1afc39bdf5adbfe0020d1c2212b76b87) (2 years ago)
 - [GitHub origin HTTPS to SSH](https://gist.github.com/3ceba8ad7d956e02d9e920b121d8d059) (2 years ago)
 
 #### ⭐ Recent stars
 
-- [og2t/jsSID](https://github.com/og2t/jsSID) - JavaScript SID soundchip emulator and player (1 day ago)
-- [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V (2 days ago)
+- [og2t/jsSID](https://github.com/og2t/jsSID) - JavaScript SID soundchip emulator and player (2 days ago)
+- [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V (3 days ago)
 - [DhrBaksteen/ScripTracker](https://github.com/DhrBaksteen/ScripTracker) - A MOD, S3M and XM module player for JavaScript (1 week ago)
 - [1dot13/source](https://github.com/1dot13/source) - Source code for the game executable of the Jagged Alliance 2 v1.13 project (1 week ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (3 weeks ago)
