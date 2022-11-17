@@ -14,31 +14,31 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (5 days ago)
-- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (5 days ago)
-- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (5 days ago)
-- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (5 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (6 days ago)
+- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (6 days ago)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (6 days ago)
+- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (6 days ago)
 
 #### 🌱 My latest projects
 
+- [midzer/dontbore](https://github.com/midzer/dontbore) - 
 - [midzer/filelove](https://github.com/midzer/filelove) - Minimal p2p file transfer right in the browser
 - [midzer/guad](https://github.com/midzer/guad) - An open list of things which are good for the future of mankind
 - [midzer/foisch](https://github.com/midzer/foisch) - An open list of things which are bad for the future of mankind
 - [midzer/pfiatdi](https://github.com/midzer/pfiatdi) - Say bye in bavarian
-- [midzer/dehre](https://github.com/midzer/dehre) - Say hello in bavarian
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M109.0.5361.0_2](https://github.com/Alex313031/Thorium-Special/releases/tag/M109.0.5361.0_2), 4 weeks ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
-- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M109.0.5361.0](https://github.com/Alex313031/Thorium/releases/tag/M109.0.5361.0), 4 weeks ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M109.0.5361.0_2](https://github.com/Alex313031/Thorium-Special/releases/tag/M109.0.5361.0_2), 1 month ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
+- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M109.0.5361.0](https://github.com/Alex313031/Thorium/releases/tag/M109.0.5361.0), 1 month ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.4.0](https://github.com/midzer/tobii/releases/tag/v2.4.0), 5 months ago) - An accessible, open-source lightbox with no dependencies
 - [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) ([4.2.0](https://github.com/thednp/bootstrap.native/releases/tag/4.2.0), 5 months ago) - Native JavaScript for Bootstrap
 - [midzer/choices](https://github.com/midzer/choices) ([v1.0.4](https://github.com/midzer/choices/releases/tag/v1.0.4), 5 months ago) - A fast, vanilla JS customisable select box/text input plugin for modern browsers ⚡
 
 #### 🔨 Latest Pull Requests I published
 
-- [remove legacy IE artifacts](https://github.com/moba/ethicalparking/pull/2) on [moba/ethicalparking](https://github.com/moba/ethicalparking) (2 weeks ago)
+- [remove legacy IE artifacts](https://github.com/moba/ethicalparking/pull/2) on [moba/ethicalparking](https://github.com/moba/ethicalparking) (3 weeks ago)
 - [cleanup packages](https://github.com/lokal-ninja/ln-chat/pull/1) on [lokal-ninja/ln-chat](https://github.com/lokal-ninja/ln-chat) (3 weeks ago)
 - [hacktoberfest-accepted](https://github.com/Alex313031/Thorium/pull/89) on [Alex313031/Thorium](https://github.com/Alex313031/Thorium) (3 weeks ago)
 - [Clean up](https://github.com/moba/ethicalparking/pull/1) on [moba/ethicalparking](https://github.com/moba/ethicalparking) (1 month ago)
@@ -60,10 +60,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [og2t/jsSID](https://github.com/og2t/jsSID) - JavaScript SID soundchip emulator and player (3 days ago)
-- [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V (4 days ago)
+- [og2t/jsSID](https://github.com/og2t/jsSID) - JavaScript SID soundchip emulator and player (4 days ago)
+- [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V (5 days ago)
 - [DhrBaksteen/ScripTracker](https://github.com/DhrBaksteen/ScripTracker) - A MOD, S3M and XM module player for JavaScript (1 week ago)
-- [1dot13/source](https://github.com/1dot13/source) - Source code for the game executable of the Jagged Alliance 2 v1.13 project (1 week ago)
+- [1dot13/source](https://github.com/1dot13/source) - Source code for the game executable of the Jagged Alliance 2 v1.13 project (2 weeks ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
