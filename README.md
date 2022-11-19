@@ -22,11 +22,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🌱 My latest projects
 
+- [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) - 
 - [midzer/dontbore-web-service](https://github.com/midzer/dontbore-web-service) - Node backend for DontBore
 - [midzer/dontbore](https://github.com/midzer/dontbore) - Find and share logins provided by the community
 - [midzer/filelove](https://github.com/midzer/filelove) - Minimal p2p file transfer right in the browser
 - [midzer/guad](https://github.com/midzer/guad) - An open list of things which are good for the future of mankind
-- [midzer/foisch](https://github.com/midzer/foisch) - An open list of things which are bad for the future of mankind
 
 #### 🔭 Latest releases I've contributed to
 
