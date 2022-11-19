@@ -22,7 +22,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🌱 My latest projects
 
-- [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) - 
+- [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) - CLI tool for DontBore
 - [midzer/dontbore-web-service](https://github.com/midzer/dontbore-web-service) - Node backend for DontBore
 - [midzer/dontbore](https://github.com/midzer/dontbore) - Find and share logins provided by the community
 - [midzer/filelove](https://github.com/midzer/filelove) - Minimal p2p file transfer right in the browser
