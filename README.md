@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [heaths/gh-template](https://github.com/heaths/gh-template) - GitHub CLI extension to format a repository template (today)
 - [marijohannessen/color-contrast-checker](https://github.com/marijohannessen/color-contrast-checker) - A simple tool for calculating the contrast ratio between two HEX values. Based on WCAG 2.0 Level AA standards. (3 days ago)
 - [og2t/jsSID](https://github.com/og2t/jsSID) - JavaScript SID soundchip emulator and player (1 week ago)
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V (1 week ago)
 - [DhrBaksteen/ScripTracker](https://github.com/DhrBaksteen/ScripTracker) - A MOD, S3M and XM module player for JavaScript (1 week ago)
-- [1dot13/source](https://github.com/1dot13/source) - Source code for the game executable of the Jagged Alliance 2 v1.13 project (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
