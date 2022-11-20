@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
 - [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (1 week ago)
 - [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 week ago)
 - [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (1 week ago)
@@ -22,11 +22,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🌱 My latest projects
 
+- [midzer/go-cli-template](https://github.com/midzer/go-cli-template) - Minimal Go CLI boilerplate/template with zero dependencies
 - [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) - CLI tool for DontBore
 - [midzer/dontbore-web-service](https://github.com/midzer/dontbore-web-service) - Node backend for DontBore
 - [midzer/dontbore](https://github.com/midzer/dontbore) - Find and share logins provided by the community
 - [midzer/filelove](https://github.com/midzer/filelove) - Minimal p2p file transfer right in the browser
-- [midzer/guad](https://github.com/midzer/guad) - An open list of things which are good for the future of mankind
 
 #### 🔭 Latest releases I've contributed to
 
@@ -60,8 +60,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [marijohannessen/color-contrast-checker](https://github.com/marijohannessen/color-contrast-checker) - A simple tool for calculating the contrast ratio between two HEX values. Based on WCAG 2.0 Level AA standards. (2 days ago)
-- [og2t/jsSID](https://github.com/og2t/jsSID) - JavaScript SID soundchip emulator and player (6 days ago)
+- [marijohannessen/color-contrast-checker](https://github.com/marijohannessen/color-contrast-checker) - A simple tool for calculating the contrast ratio between two HEX values. Based on WCAG 2.0 Level AA standards. (3 days ago)
+- [og2t/jsSID](https://github.com/og2t/jsSID) - JavaScript SID soundchip emulator and player (1 week ago)
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V (1 week ago)
 - [DhrBaksteen/ScripTracker](https://github.com/DhrBaksteen/ScripTracker) - A MOD, S3M and XM module player for JavaScript (1 week ago)
 - [1dot13/source](https://github.com/1dot13/source) - Source code for the game executable of the Jagged Alliance 2 v1.13 project (2 weeks ago)
