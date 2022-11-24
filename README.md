@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/filelove](https://github.com/midzer/filelove) - Minimal p2p file transfer right in the browser (today)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (1 day ago)
-- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (1 day ago)
-- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (1 day ago)
-- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (1 day ago)
+- [midzer/filelove](https://github.com/midzer/filelove) - Minimal p2p file transfer right in the browser (1 day ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (2 days ago)
+- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (2 days ago)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (2 days ago)
+- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [midzer/go-cli-template](https://github.com/midzer/go-cli-template) ([v0.0.1](https://github.com/midzer/go-cli-template/releases/tag/v0.0.1), today) - Minimal Go CLI boilerplate/template with zero dependencies
+- [midzer/go-cli-template](https://github.com/midzer/go-cli-template) ([v0.0.1](https://github.com/midzer/go-cli-template/releases/tag/v0.0.1), 1 day ago) - Minimal Go CLI boilerplate/template with zero dependencies
 - [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M109.0.5361.0_2](https://github.com/Alex313031/Thorium-Special/releases/tag/M109.0.5361.0_2), 1 month ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
 - [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M109.0.5361.0](https://github.com/Alex313031/Thorium/releases/tag/M109.0.5361.0), 1 month ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.4.0](https://github.com/midzer/tobii/releases/tag/v2.4.0), 5 months ago) - An accessible, open-source lightbox with no dependencies
@@ -38,10 +38,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [add Shoogle](https://github.com/theNewDynamic/awesome-hugo/pull/69) on [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) (today)
-- [add DontBore](https://github.com/hemanth/awesome-pwa/pull/264) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (today)
-- [add FileLove](https://github.com/hemanth/awesome-pwa/pull/263) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (today)
-- [remove legacy IE artifacts](https://github.com/moba/ethicalparking/pull/2) on [moba/ethicalparking](https://github.com/moba/ethicalparking) (3 weeks ago)
+- [add Shoogle](https://github.com/theNewDynamic/awesome-hugo/pull/69) on [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) (1 day ago)
+- [add DontBore](https://github.com/hemanth/awesome-pwa/pull/264) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (1 day ago)
+- [add FileLove](https://github.com/hemanth/awesome-pwa/pull/263) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (1 day ago)
+- [remove legacy IE artifacts](https://github.com/moba/ethicalparking/pull/2) on [moba/ethicalparking](https://github.com/moba/ethicalparking) (4 weeks ago)
 - [cleanup packages](https://github.com/lokal-ninja/ln-chat/pull/1) on [lokal-ninja/ln-chat](https://github.com/lokal-ninja/ln-chat) (1 month ago)
 
 #### 📜 My recent blog posts
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world&#39;s fastest framework for building websites. (today)
-- [heaths/gh-template](https://github.com/heaths/gh-template) - GitHub CLI extension to format a repository template (3 days ago)
-- [marijohannessen/color-contrast-checker](https://github.com/marijohannessen/color-contrast-checker) - A simple tool for calculating the contrast ratio between two HEX values. Based on WCAG 2.0 Level AA standards. (6 days ago)
+- [sblisesivdin/biscuit](https://github.com/sblisesivdin/biscuit) - Single-page responsive Jekyll theme (1 day ago)
+- [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world&#39;s fastest framework for building websites. (1 day ago)
+- [heaths/gh-template](https://github.com/heaths/gh-template) - GitHub CLI extension to format a repository template (4 days ago)
+- [marijohannessen/color-contrast-checker](https://github.com/marijohannessen/color-contrast-checker) - A simple tool for calculating the contrast ratio between two HEX values. Based on WCAG 2.0 Level AA standards. (1 week ago)
 - [og2t/jsSID](https://github.com/og2t/jsSID) - JavaScript SID soundchip emulator and player (1 week ago)
-- [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
