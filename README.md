@@ -62,9 +62,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [sblisesivdin/biscuit](https://github.com/sblisesivdin/biscuit) - Single-page responsive Jekyll theme (2 days ago)
 - [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world&#39;s fastest framework for building websites. (2 days ago)
-- [heaths/gh-template](https://github.com/heaths/gh-template) - GitHub CLI extension to format a repository template (5 days ago)
 - [marijohannessen/color-contrast-checker](https://github.com/marijohannessen/color-contrast-checker) - A simple tool for calculating the contrast ratio between two HEX values. Based on WCAG 2.0 Level AA standards. (1 week ago)
 - [og2t/jsSID](https://github.com/og2t/jsSID) - JavaScript SID soundchip emulator and player (1 week ago)
+- [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
