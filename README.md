@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [tobyzerner/inclusive-sort](https://github.com/tobyzerner/inclusive-sort) - Drag and drop sorting that just works – for everyone. (today)
 - [de-souza/hugo-flex](https://github.com/de-souza/hugo-flex) - A lightweight Hugo theme leveraging CSS Flexbox. (2 days ago)
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing. (3 days ago)
 - [sblisesivdin/biscuit](https://github.com/sblisesivdin/biscuit) - Single-page responsive Jekyll theme (6 days ago)
 - [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world&#39;s fastest framework for building websites. (6 days ago)
-- [marijohannessen/color-contrast-checker](https://github.com/marijohannessen/color-contrast-checker) - A simple tool for calculating the contrast ratio between two HEX values. Based on WCAG 2.0 Level AA standards. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
