@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (3 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (3 days ago)
-- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (3 days ago)
-- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (3 days ago)
-- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (3 days ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (4 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (4 days ago)
+- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (4 days ago)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (4 days ago)
+- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 5 days ago) - CLI tool for DontBore
+- [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 6 days ago) - CLI tool for DontBore
 - [midzer/go-cli-template](https://github.com/midzer/go-cli-template) ([v0.0.1](https://github.com/midzer/go-cli-template/releases/tag/v0.0.1), 1 week ago) - Minimal Go CLI boilerplate/template with zero dependencies
 - [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M109.0.5361.0_2](https://github.com/Alex313031/Thorium-Special/releases/tag/M109.0.5361.0_2), 1 month ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
 - [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M109.0.5361.0](https://github.com/Alex313031/Thorium/releases/tag/M109.0.5361.0), 1 month ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
@@ -60,9 +60,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [tobyzerner/inclusive-sort](https://github.com/tobyzerner/inclusive-sort) - Drag and drop sorting that just works – for everyone. (2 days ago)
-- [de-souza/hugo-flex](https://github.com/de-souza/hugo-flex) - A lightweight Hugo theme leveraging CSS Flexbox. (4 days ago)
-- [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing. (5 days ago)
+- [tobyzerner/inclusive-sort](https://github.com/tobyzerner/inclusive-sort) - Drag and drop sorting that just works – for everyone. (3 days ago)
+- [de-souza/hugo-flex](https://github.com/de-souza/hugo-flex) - A lightweight Hugo theme leveraging CSS Flexbox. (5 days ago)
+- [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing. (6 days ago)
 - [sblisesivdin/biscuit](https://github.com/sblisesivdin/biscuit) - Single-page responsive Jekyll theme (1 week ago)
 - [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world&#39;s fastest framework for building websites. (1 week ago)
 
