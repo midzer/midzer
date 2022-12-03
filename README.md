@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js (today)
 - [tobyzerner/inclusive-sort](https://github.com/tobyzerner/inclusive-sort) - Drag and drop sorting that just works – for everyone. (4 days ago)
 - [de-souza/hugo-flex](https://github.com/de-souza/hugo-flex) - A lightweight Hugo theme leveraging CSS Flexbox. (6 days ago)
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing. (1 week ago)
 - [sblisesivdin/biscuit](https://github.com/sblisesivdin/biscuit) - Single-page responsive Jekyll theme (1 week ago)
-- [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world&#39;s fastest framework for building websites. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
