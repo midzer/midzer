@@ -38,11 +38,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [expand searchbar to the left](https://github.com/fossjobs/fossjobs/pull/63) on [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) (today)
 - [improve accessibility in top navbar](https://github.com/fossjobs/fossjobs/pull/61) on [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) (1 day ago)
 - [add Shoogle](https://github.com/theNewDynamic/awesome-hugo/pull/69) on [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) (1 week ago)
 - [add DontBore](https://github.com/hemanth/awesome-pwa/pull/264) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (1 week ago)
 - [add FileLove](https://github.com/hemanth/awesome-pwa/pull/263) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (1 week ago)
-- [remove legacy IE artifacts](https://github.com/moba/ethicalparking/pull/2) on [moba/ethicalparking](https://github.com/moba/ethicalparking) (1 month ago)
 
 #### 📜 My recent blog posts
 
