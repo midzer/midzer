@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [timvisee/send-instances](https://github.com/timvisee/send-instances) - 🌍 A list of public Send instances. Mirror. (today)
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. (today)
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍 (today)
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js (2 days ago)
 - [tobyzerner/inclusive-sort](https://github.com/tobyzerner/inclusive-sort) - Drag and drop sorting that just works – for everyone. (6 days ago)
-- [de-souza/hugo-flex](https://github.com/de-souza/hugo-flex) - A lightweight Hugo theme leveraging CSS Flexbox. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
