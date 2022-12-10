@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (3 days ago)
-- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (3 days ago)
-- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (3 days ago)
-- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (3 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (4 days ago)
+- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (4 days ago)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (4 days ago)
+- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 1 week ago) - CLI tool for DontBore
+- [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 2 weeks ago) - CLI tool for DontBore
 - [midzer/go-cli-template](https://github.com/midzer/go-cli-template) ([v0.0.1](https://github.com/midzer/go-cli-template/releases/tag/v0.0.1), 2 weeks ago) - Minimal Go CLI boilerplate/template with zero dependencies
 - [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M109.0.5361.0_2](https://github.com/Alex313031/Thorium-Special/releases/tag/M109.0.5361.0_2), 1 month ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
 - [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M109.0.5361.0](https://github.com/Alex313031/Thorium/releases/tag/M109.0.5361.0), 1 month ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
@@ -38,9 +38,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [add FileLove](https://github.com/croqaz/awesome-decentralized/pull/27) on [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) (4 days ago)
-- [expand searchbar to the left](https://github.com/fossjobs/fossjobs/pull/63) on [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) (4 days ago)
-- [improve accessibility in top navbar](https://github.com/fossjobs/fossjobs/pull/61) on [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) (5 days ago)
+- [add FileLove](https://github.com/croqaz/awesome-decentralized/pull/27) on [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) (5 days ago)
+- [expand searchbar to the left](https://github.com/fossjobs/fossjobs/pull/63) on [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) (5 days ago)
+- [improve accessibility in top navbar](https://github.com/fossjobs/fossjobs/pull/61) on [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) (6 days ago)
 - [add Shoogle](https://github.com/theNewDynamic/awesome-hugo/pull/69) on [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) (2 weeks ago)
 - [add DontBore](https://github.com/hemanth/awesome-pwa/pull/264) on [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) (2 weeks ago)
 
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [kurtextrem/instant.page](https://github.com/kurtextrem/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1% - This fork adds preload &amp; prerendering. (1 day ago)
-- [timvisee/send-instances](https://github.com/timvisee/send-instances) - 🌍 A list of public Send instances. Mirror. (4 days ago)
-- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. (4 days ago)
-- [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍 (4 days ago)
-- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js (6 days ago)
+- [kurtextrem/instant.page](https://github.com/kurtextrem/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1% - This fork adds preload &amp; prerendering. (2 days ago)
+- [timvisee/send-instances](https://github.com/timvisee/send-instances) - 🌍 A list of public Send instances. Mirror. (5 days ago)
+- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. (5 days ago)
+- [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍 (5 days ago)
+- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
