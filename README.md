@@ -16,7 +16,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [midzer/filelove](https://github.com/midzer/filelove) - Minimal p2p file transfer right in the browser (today)
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
-- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (5 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (5 days ago)
 - [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (5 days ago)
 - [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (5 days ago)
 
