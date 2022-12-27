@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/nord-pas-de-calais](https://github.com/lokal-ninja/nord-pas-de-calais) -  (today)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (today)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
-- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (today)
-- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (today)
+- [lokal-ninja/nord-pas-de-calais](https://github.com/lokal-ninja/nord-pas-de-calais) -  (1 day ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (1 day ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 day ago)
+- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (1 day ago)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (1 day ago)
 
 #### 🌱 My latest projects
 
