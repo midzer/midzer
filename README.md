@@ -68,11 +68,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [0xN0x](https://github.com/0xN0x)
 - [q4z1](https://github.com/q4z1)
 - [InCredibleSash](https://github.com/InCredibleSash)
 - [Velocet](https://github.com/Velocet)
 - [repag](https://github.com/repag)
-- [m1yag1](https://github.com/m1yag1)
 
 #### 💬 Feedback
 
