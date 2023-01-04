@@ -68,11 +68,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [adb-sh](https://github.com/adb-sh)
 - [ColaAlin](https://github.com/ColaAlin)
 - [KoljaL](https://github.com/KoljaL)
 - [q4z1](https://github.com/q4z1)
 - [InCredibleSash](https://github.com/InCredibleSash)
-- [Velocet](https://github.com/Velocet)
 
 #### 💬 Feedback
 
