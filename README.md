@@ -15,7 +15,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (5 days ago)
-- [lokal-ninja/nordrhein-westfalen](https://github.com/lokal-ninja/nordrhein-westfalen) -  (6 days ago)
+- [lokal-ninja/rheinland-pfalz](https://github.com/lokal-ninja/rheinland-pfalz) -  (6 days ago)
 - [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (6 days ago)
 - [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (6 days ago)
 - [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (6 days ago)
