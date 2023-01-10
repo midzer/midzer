@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [moba/pixelpost](https://github.com/moba/pixelpost) - bash script using curl to upload and post media to pixelfed/mastodon (today)
 - [pawelgrzybek/siema](https://github.com/pawelgrzybek/siema) - Siema - Lightweight and simple carousel in pure JavaScript (5 days ago)
 - [q4z1/bbc_wec_site](https://github.com/q4z1/bbc_wec_site) - re-design of bbc.pokerth.net - base for wec.pokerth.net (1 week ago)
 - [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research on Web Performance (1 week ago)
 - [kurtextrem/instant.page](https://github.com/kurtextrem/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1% - This fork adds preload &amp; prerendering. (1 month ago)
-- [timvisee/send-instances](https://github.com/timvisee/send-instances) - 🌍 A list of public Send instances. Mirror. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
