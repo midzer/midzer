@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 day ago)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (1 day ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 day ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (2 days ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (2 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (2 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (2 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -60,19 +60,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [moba/pixelpost](https://github.com/moba/pixelpost) - bash script using curl to upload and post media to pixelfed/mastodon (1 day ago)
-- [pawelgrzybek/siema](https://github.com/pawelgrzybek/siema) - Siema - Lightweight and simple carousel in pure JavaScript (6 days ago)
+- [moba/pixelpost](https://github.com/moba/pixelpost) - bash script using curl to upload and post media to pixelfed/mastodon (2 days ago)
+- [pawelgrzybek/siema](https://github.com/pawelgrzybek/siema) - Siema - Lightweight and simple carousel in pure JavaScript (1 week ago)
 - [q4z1/bbc_wec_site](https://github.com/q4z1/bbc_wec_site) - re-design of bbc.pokerth.net - base for wec.pokerth.net (1 week ago)
-- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research on Web Performance (1 week ago)
+- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research on Web Performance (2 weeks ago)
 - [kurtextrem/instant.page](https://github.com/kurtextrem/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1% - This fork adds preload &amp; prerendering. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
+- [Bedrovelsen](https://github.com/Bedrovelsen)
 - [adb-sh](https://github.com/adb-sh)
 - [ColaAlin](https://github.com/ColaAlin)
 - [KoljaL](https://github.com/KoljaL)
 - [q4z1](https://github.com/q4z1)
-- [InCredibleSash](https://github.com/InCredibleSash)
 
 #### 💬 Feedback
 
