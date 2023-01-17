@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/pays-de-la-loire](https://github.com/lokal-ninja/pays-de-la-loire) -  (1 day ago)
-- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (1 day ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 day ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/pays-de-la-loire](https://github.com/lokal-ninja/pays-de-la-loire) -  (2 days ago)
+- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (2 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (2 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (2 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), today) - An accessible, open-source lightbox with no dependencies
+- [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 1 day ago) - An accessible, open-source lightbox with no dependencies
 - [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 1 month ago) - CLI tool for DontBore
 - [midzer/go-cli-template](https://github.com/midzer/go-cli-template) ([v0.0.1](https://github.com/midzer/go-cli-template/releases/tag/v0.0.1), 1 month ago) - Minimal Go CLI boilerplate/template with zero dependencies
 - [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M109.0.5361.0_2](https://github.com/Alex313031/Thorium-Special/releases/tag/M109.0.5361.0_2), 3 months ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
@@ -38,8 +38,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [add DontBore](https://github.com/janosh/awesome-sveltekit/pull/88) on [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) (2 weeks ago)
-- [add favicon](https://github.com/q4z1/bbc_wec_site/pull/51) on [q4z1/bbc_wec_site](https://github.com/q4z1/bbc_wec_site) (2 weeks ago)
+- [add DontBore](https://github.com/janosh/awesome-sveltekit/pull/88) on [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) (3 weeks ago)
+- [add favicon](https://github.com/q4z1/bbc_wec_site/pull/51) on [q4z1/bbc_wec_site](https://github.com/q4z1/bbc_wec_site) (3 weeks ago)
 - [add FileLove](https://github.com/croqaz/awesome-decentralized/pull/27) on [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) (1 month ago)
 - [expand searchbar to the left](https://github.com/fossjobs/fossjobs/pull/63) on [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) (1 month ago)
 - [improve accessibility in top navbar](https://github.com/fossjobs/fossjobs/pull/61) on [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) (1 month ago)
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [moba/pixelpost](https://github.com/moba/pixelpost) - bash script using curl to upload and post media to pixelfed/mastodon (6 days ago)
+- [moba/pixelpost](https://github.com/moba/pixelpost) - bash script using curl to upload and post media to pixelfed/mastodon (1 week ago)
 - [pawelgrzybek/siema](https://github.com/pawelgrzybek/siema) - Siema - Lightweight and simple carousel in pure JavaScript (1 week ago)
 - [q4z1/bbc_wec_site](https://github.com/q4z1/bbc_wec_site) - re-design of bbc.pokerth.net - base for wec.pokerth.net (2 weeks ago)
 - [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research on Web Performance (2 weeks ago)
