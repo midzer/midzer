@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/filelove](https://github.com/midzer/filelove) - Minimal p2p file transfer right in the browser (5 days ago)
-- [lokal-ninja/pays-de-la-loire](https://github.com/lokal-ninja/pays-de-la-loire) -  (1 week ago)
-- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (1 week ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 week ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 week ago)
+- [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (today)
+- [lokal-ninja/south-africa](https://github.com/lokal-ninja/south-africa) -  (today)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
+- [lokal-ninja/mecklenburg-vorpommern](https://github.com/lokal-ninja/mecklenburg-vorpommern) -  (today)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (today)
 
 #### 🌱 My latest projects
 
