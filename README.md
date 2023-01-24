@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/pays-de-la-loire](https://github.com/lokal-ninja/pays-de-la-loire) -  (1 day ago)
-- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (1 day ago)
-- [lokal-ninja/nebraska](https://github.com/lokal-ninja/nebraska) -  (1 day ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 day ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
+- [lokal-ninja/pays-de-la-loire](https://github.com/lokal-ninja/pays-de-la-loire) -  (2 days ago)
+- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (2 days ago)
+- [lokal-ninja/nebraska](https://github.com/lokal-ninja/nebraska) -  (2 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (2 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -38,8 +38,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [add DontBore](https://github.com/janosh/awesome-sveltekit/pull/88) on [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) (3 weeks ago)
-- [add favicon](https://github.com/q4z1/bbc_wec_site/pull/51) on [q4z1/bbc_wec_site](https://github.com/q4z1/bbc_wec_site) (3 weeks ago)
+- [add DontBore](https://github.com/janosh/awesome-sveltekit/pull/88) on [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) (4 weeks ago)
+- [add favicon](https://github.com/q4z1/bbc_wec_site/pull/51) on [q4z1/bbc_wec_site](https://github.com/q4z1/bbc_wec_site) (4 weeks ago)
 - [add FileLove](https://github.com/croqaz/awesome-decentralized/pull/27) on [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) (1 month ago)
 - [expand searchbar to the left](https://github.com/fossjobs/fossjobs/pull/63) on [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) (1 month ago)
 - [improve accessibility in top navbar](https://github.com/fossjobs/fossjobs/pull/61) on [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) (1 month ago)
@@ -60,8 +60,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [jpanther/lynx](https://github.com/jpanther/lynx) - A simple links theme for Hugo built with Tailwind CSS. (4 days ago)
-- [moba/pixelpost](https://github.com/moba/pixelpost) - bash script using curl to upload and post media to pixelfed/mastodon (1 week ago)
+- [jpanther/lynx](https://github.com/jpanther/lynx) - A simple links theme for Hugo built with Tailwind CSS. (5 days ago)
+- [moba/pixelpost](https://github.com/moba/pixelpost) - bash script using curl to upload and post media to pixelfed/mastodon (2 weeks ago)
 - [pawelgrzybek/siema](https://github.com/pawelgrzybek/siema) - Siema - Lightweight and simple carousel in pure JavaScript (2 weeks ago)
 - [q4z1/bbc_wec_site](https://github.com/q4z1/bbc_wec_site) - re-design of bbc.pokerth.net - base for wec.pokerth.net (3 weeks ago)
 - [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research on Web Performance (3 weeks ago)
