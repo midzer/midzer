@@ -30,8 +30,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M109.0.5414.120-1](https://github.com/Alex313031/Thorium-Special/releases/tag/M109.0.5414.120-1), 2 days ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
-- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M109.0.5414.120](https://github.com/Alex313031/Thorium/releases/tag/M109.0.5414.120), 3 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M109.0.5414.120-1](https://github.com/Alex313031/Thorium-Special/releases/tag/M109.0.5414.120-1), 3 days ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
+- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M109.0.5414.120](https://github.com/Alex313031/Thorium/releases/tag/M109.0.5414.120), 4 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 2 weeks ago) - An accessible, open-source lightbox with no dependencies
 - [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 2 months ago) - CLI tool for DontBore
 - [midzer/go-cli-template](https://github.com/midzer/go-cli-template) ([v0.0.1](https://github.com/midzer/go-cli-template/releases/tag/v0.0.1), 2 months ago) - Minimal Go CLI boilerplate/template with zero dependencies
@@ -42,7 +42,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [add favicon](https://github.com/q4z1/bbc_wec_site/pull/51) on [q4z1/bbc_wec_site](https://github.com/q4z1/bbc_wec_site) (1 month ago)
 - [add FileLove](https://github.com/croqaz/awesome-decentralized/pull/27) on [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) (1 month ago)
 - [expand searchbar to the left](https://github.com/fossjobs/fossjobs/pull/63) on [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) (1 month ago)
-- [improve accessibility in top navbar](https://github.com/fossjobs/fossjobs/pull/61) on [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) (1 month ago)
+- [improve accessibility in top navbar](https://github.com/fossjobs/fossjobs/pull/61) on [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) (2 months ago)
 
 #### 📜 My recent blog posts
 
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [cadars/portable-php](https://github.com/cadars/portable-php) - A blog in one HTML file (today)
-- [snesrev/zelda3](https://github.com/snesrev/zelda3) (2 days ago)
-- [jpanther/lynx](https://github.com/jpanther/lynx) - A simple links theme for Hugo built with Tailwind CSS. (1 week ago)
+- [cadars/portable-php](https://github.com/cadars/portable-php) - A blog in one HTML file (1 day ago)
+- [snesrev/zelda3](https://github.com/snesrev/zelda3) (3 days ago)
+- [jpanther/lynx](https://github.com/jpanther/lynx) - A simple links theme for Hugo built with Tailwind CSS. (2 weeks ago)
 - [moba/pixelpost](https://github.com/moba/pixelpost) - bash script using curl to upload and post media to pixelfed/mastodon (3 weeks ago)
-- [pawelgrzybek/siema](https://github.com/pawelgrzybek/siema) - Siema - Lightweight and simple carousel in pure JavaScript (3 weeks ago)
+- [pawelgrzybek/siema](https://github.com/pawelgrzybek/siema) - Siema - Lightweight and simple carousel in pure JavaScript (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
