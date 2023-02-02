@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (today)
+- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (today)
 - [lokal-ninja/south-africa](https://github.com/lokal-ninja/south-africa) -  (today)
 - [lokal-ninja/kenya](https://github.com/lokal-ninja/kenya) -  (today)
 - [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
