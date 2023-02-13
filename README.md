@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation (today)
 - [thomersch/gosmparse](https://github.com/thomersch/gosmparse) - Processing OpenStreetMap PBF files at speed with Go (2 days ago)
 - [cadars/portable-php](https://github.com/cadars/portable-php) - A blog in one HTML file (1 week ago)
 - [snesrev/zelda3](https://github.com/snesrev/zelda3) (2 weeks ago)
 - [jpanther/lynx](https://github.com/jpanther/lynx) - A simple links theme for Hugo built with Tailwind CSS. (3 weeks ago)
-- [moba/pixelpost](https://github.com/moba/pixelpost) - bash script using curl to upload and post media to pixelfed/mastodon (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
