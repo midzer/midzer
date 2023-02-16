@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/languedoc-roussillon](https://github.com/lokal-ninja/languedoc-roussillon) -  (3 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (3 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (3 days ago)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (3 days ago)
+- [lokal-ninja/languedoc-roussillon](https://github.com/lokal-ninja/languedoc-roussillon) -  (4 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (4 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (4 days ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -38,7 +38,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [perf: pass by reference](https://github.com/transmission/transmission/pull/4876) on [transmission/transmission](https://github.com/transmission/transmission) (2 days ago)
+- [perf: pass by reference](https://github.com/transmission/transmission/pull/4876) on [transmission/transmission](https://github.com/transmission/transmission) (3 days ago)
 - [add DontBore](https://github.com/janosh/awesome-sveltekit/pull/88) on [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) (1 month ago)
 - [add favicon](https://github.com/q4z1/bbc_wec_site/pull/51) on [q4z1/bbc_wec_site](https://github.com/q4z1/bbc_wec_site) (1 month ago)
 - [add FileLove](https://github.com/croqaz/awesome-decentralized/pull/27) on [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) (2 months ago)
@@ -60,9 +60,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [hasse69/rar2fs](https://github.com/hasse69/rar2fs) - FUSE file system for reading RAR archives (1 day ago)
-- [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation (2 days ago)
-- [thomersch/gosmparse](https://github.com/thomersch/gosmparse) - Processing OpenStreetMap PBF files at speed with Go (4 days ago)
+- [hasse69/rar2fs](https://github.com/hasse69/rar2fs) - FUSE file system for reading RAR archives (2 days ago)
+- [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation (3 days ago)
+- [thomersch/gosmparse](https://github.com/thomersch/gosmparse) - Processing OpenStreetMap PBF files at speed with Go (5 days ago)
 - [cadars/portable-php](https://github.com/cadars/portable-php) - A blog in one HTML file (2 weeks ago)
 - [snesrev/zelda3](https://github.com/snesrev/zelda3) (2 weeks ago)
 
