@@ -38,11 +38,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [improve build instructions](https://github.com/transmission/transmission/pull/4980) on [transmission/transmission](https://github.com/transmission/transmission) (today)
 - [perf: pass by reference](https://github.com/transmission/transmission/pull/4876) on [transmission/transmission](https://github.com/transmission/transmission) (1 week ago)
 - [add DontBore](https://github.com/janosh/awesome-sveltekit/pull/88) on [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) (1 month ago)
 - [add favicon](https://github.com/q4z1/bbc_wec_site/pull/51) on [q4z1/bbc_wec_site](https://github.com/q4z1/bbc_wec_site) (1 month ago)
 - [add FileLove](https://github.com/croqaz/awesome-decentralized/pull/27) on [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) (2 months ago)
-- [expand searchbar to the left](https://github.com/fossjobs/fossjobs/pull/63) on [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) (2 months ago)
 
 #### 📜 My recent blog posts
 
