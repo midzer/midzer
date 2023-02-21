@@ -22,7 +22,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🌱 My latest projects
 
-- [midzer/prespeculation](https://github.com/midzer/prespeculation) - 
+- [midzer/prespeculation](https://github.com/midzer/prespeculation) - Prefetch/preload links on hover and prerender on click via Speculation Rules API
 - [midzer/go-cli-template](https://github.com/midzer/go-cli-template) - Minimal Go CLI boilerplate/template with zero dependencies
 - [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) - CLI tool for DontBore
 - [midzer/dontbore-web-service](https://github.com/midzer/dontbore-web-service) - Node backend for DontBore
