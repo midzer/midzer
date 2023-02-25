@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [skynettx/raptor](https://github.com/skynettx/raptor) - Reversed-engineered source port from Raptor Call Of The Shadows (today)
 - [hasse69/rar2fs](https://github.com/hasse69/rar2fs) - FUSE file system for reading RAR archives (1 week ago)
 - [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation (1 week ago)
 - [thomersch/gosmparse](https://github.com/thomersch/gosmparse) - Processing OpenStreetMap PBF files at speed with Go (2 weeks ago)
 - [cadars/portable-php](https://github.com/cadars/portable-php) - A blog in one HTML file (3 weeks ago)
-- [snesrev/zelda3](https://github.com/snesrev/zelda3) (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
