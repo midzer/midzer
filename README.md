@@ -14,8 +14,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/languedoc-roussillon](https://github.com/lokal-ninja/languedoc-roussillon) -  (6 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (6 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
+- [lokal-ninja/hamburg](https://github.com/lokal-ninja/hamburg) -  (6 days ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (6 days ago)
 - [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (6 days ago)
 - [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (6 days ago)
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [rochus-keller/LeanCreator](https://github.com/rochus-keller/LeanCreator) - LeanCreator is a stripped-down version of Qt Creator, easy to build from source on all platforms supported by LeanQt and using BUSY instead of qmake. (today)
 - [skynettx/raptor](https://github.com/skynettx/raptor) - Reversed-engineered source port from Raptor Call Of The Shadows (1 day ago)
 - [hasse69/rar2fs](https://github.com/hasse69/rar2fs) - FUSE file system for reading RAR archives (1 week ago)
 - [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation (1 week ago)
 - [thomersch/gosmparse](https://github.com/thomersch/gosmparse) - Processing OpenStreetMap PBF files at speed with Go (2 weeks ago)
-- [cadars/portable-php](https://github.com/cadars/portable-php) - A blog in one HTML file (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
