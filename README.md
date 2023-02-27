@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/hamburg](https://github.com/lokal-ninja/hamburg) -  (6 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (6 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (6 days ago)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (6 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/hamburg](https://github.com/lokal-ninja/hamburg) -  (1 week ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 week ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 week ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -38,8 +38,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [improve build instructions](https://github.com/transmission/transmission/pull/4980) on [transmission/transmission](https://github.com/transmission/transmission) (5 days ago)
-- [perf: pass by reference](https://github.com/transmission/transmission/pull/4876) on [transmission/transmission](https://github.com/transmission/transmission) (1 week ago)
+- [improve build instructions](https://github.com/transmission/transmission/pull/4980) on [transmission/transmission](https://github.com/transmission/transmission) (6 days ago)
+- [perf: pass by reference](https://github.com/transmission/transmission/pull/4876) on [transmission/transmission](https://github.com/transmission/transmission) (2 weeks ago)
 - [add DontBore](https://github.com/janosh/awesome-sveltekit/pull/88) on [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) (2 months ago)
 - [add favicon](https://github.com/q4z1/bbc_wec_site/pull/51) on [q4z1/bbc_wec_site](https://github.com/q4z1/bbc_wec_site) (2 months ago)
 - [add FileLove](https://github.com/croqaz/awesome-decentralized/pull/27) on [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) (2 months ago)
@@ -60,10 +60,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [rochus-keller/LeanCreator](https://github.com/rochus-keller/LeanCreator) - LeanCreator is a stripped-down version of Qt Creator, easy to build from source on all platforms supported by LeanQt and using BUSY instead of qmake. (today)
-- [skynettx/raptor](https://github.com/skynettx/raptor) - Reversed-engineered source port from Raptor Call Of The Shadows (1 day ago)
+- [rochus-keller/LeanCreator](https://github.com/rochus-keller/LeanCreator) - LeanCreator is a stripped-down version of Qt Creator, easy to build from source on all platforms supported by LeanQt and using BUSY instead of qmake. (1 day ago)
+- [skynettx/raptor](https://github.com/skynettx/raptor) - Reversed-engineered source port from Raptor Call Of The Shadows (2 days ago)
 - [hasse69/rar2fs](https://github.com/hasse69/rar2fs) - FUSE file system for reading RAR archives (1 week ago)
-- [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation (1 week ago)
+- [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation (2 weeks ago)
 - [thomersch/gosmparse](https://github.com/thomersch/gosmparse) - Processing OpenStreetMap PBF files at speed with Go (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
