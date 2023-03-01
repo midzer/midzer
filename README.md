@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/languedoc-roussillon](https://github.com/lokal-ninja/languedoc-roussillon) -  (1 day ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 day ago)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (1 day ago)
+- [lokal-ninja/languedoc-roussillon](https://github.com/lokal-ninja/languedoc-roussillon) -  (2 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (2 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (2 days ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -60,8 +60,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [rochus-keller/LeanCreator](https://github.com/rochus-keller/LeanCreator) - LeanCreator is a stripped-down version of Qt Creator, easy to build from source on all platforms supported by LeanQt and using BUSY instead of qmake. (2 days ago)
-- [skynettx/raptor](https://github.com/skynettx/raptor) - Reversed-engineered source port from Raptor Call Of The Shadows (3 days ago)
+- [rochus-keller/LeanCreator](https://github.com/rochus-keller/LeanCreator) - LeanCreator is a stripped-down version of Qt Creator, easy to build from source on all platforms supported by LeanQt and using BUSY instead of qmake. (3 days ago)
+- [skynettx/raptor](https://github.com/skynettx/raptor) - Reversed-engineered source port from Raptor Call Of The Shadows (4 days ago)
 - [hasse69/rar2fs](https://github.com/hasse69/rar2fs) - FUSE file system for reading RAR archives (2 weeks ago)
 - [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation (2 weeks ago)
 - [thomersch/gosmparse](https://github.com/thomersch/gosmparse) - Processing OpenStreetMap PBF files at speed with Go (2 weeks ago)
