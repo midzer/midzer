@@ -30,8 +30,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M110.0.5481.178](https://github.com/Alex313031/Thorium/releases/tag/M110.0.5481.178), today) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M109.0.5414.120-2](https://github.com/Alex313031/Thorium-Special/releases/tag/M109.0.5414.120-2), 3 weeks ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
-- [Alex313031/Thorium](https://github.com/Alex313031/Thorium) ([M109.0.5414.120](https://github.com/Alex313031/Thorium/releases/tag/M109.0.5414.120), 1 month ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 1 month ago) - An accessible, open-source lightbox with no dependencies
 - [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 3 months ago) - CLI tool for DontBore
 - [midzer/go-cli-template](https://github.com/midzer/go-cli-template) ([v0.0.1](https://github.com/midzer/go-cli-template/releases/tag/v0.0.1), 3 months ago) - Minimal Go CLI boilerplate/template with zero dependencies
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [fabiangreffrath/wolf4sdl](https://github.com/fabiangreffrath/wolf4sdl) - SDL-Port of Wolfenstein 3-D and Spear of Destiny (today)
 - [rochus-keller/LeanCreator](https://github.com/rochus-keller/LeanCreator) - LeanCreator is a stripped-down version of Qt Creator, easy to build from source on all platforms supported by LeanQt and using BUSY instead of qmake. (4 days ago)
 - [skynettx/raptor](https://github.com/skynettx/raptor) - Reversed-engineered source port from Raptor Call Of The Shadows (5 days ago)
 - [hasse69/rar2fs](https://github.com/hasse69/rar2fs) - FUSE file system for reading RAR archives (2 weeks ago)
 - [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation (2 weeks ago)
-- [thomersch/gosmparse](https://github.com/thomersch/gosmparse) - Processing OpenStreetMap PBF files at speed with Go (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
