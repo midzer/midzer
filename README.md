@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/languedoc-roussillon](https://github.com/lokal-ninja/languedoc-roussillon) -  (2 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (2 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (2 days ago)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (2 days ago)
+- [lokal-ninja/languedoc-roussillon](https://github.com/lokal-ninja/languedoc-roussillon) -  (3 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (3 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (3 days ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -49,7 +49,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [Gib dein Senf dazua](https://ampergai.de/2021/02/001/) (2 years ago)
 - [Voisperrung](https://ampergai.de/2020/08/001/) (2 years ago)
 - [Tauschbare Kost](https://ampergai.de/2020/04/001/) (2 years ago)
-- [Dahoam sterm d&#39;Leid](https://ampergai.de/2020/03/001/) (2 years ago)
+- [Dahoam sterm d&#39;Leid](https://ampergai.de/2020/03/001/) (3 years ago)
 - [Astl glaub auf](https://ampergai.de/2020/02/001/) (3 years ago)
 
 #### 📓 Gists I wrote
@@ -60,8 +60,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [rochus-keller/LeanCreator](https://github.com/rochus-keller/LeanCreator) - LeanCreator is a stripped-down version of Qt Creator, easy to build from source on all platforms supported by LeanQt and using BUSY instead of qmake. (3 days ago)
-- [skynettx/raptor](https://github.com/skynettx/raptor) - Reversed-engineered source port from Raptor Call Of The Shadows (4 days ago)
+- [rochus-keller/LeanCreator](https://github.com/rochus-keller/LeanCreator) - LeanCreator is a stripped-down version of Qt Creator, easy to build from source on all platforms supported by LeanQt and using BUSY instead of qmake. (4 days ago)
+- [skynettx/raptor](https://github.com/skynettx/raptor) - Reversed-engineered source port from Raptor Call Of The Shadows (5 days ago)
 - [hasse69/rar2fs](https://github.com/hasse69/rar2fs) - FUSE file system for reading RAR archives (2 weeks ago)
 - [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation (2 weeks ago)
 - [thomersch/gosmparse](https://github.com/thomersch/gosmparse) - Processing OpenStreetMap PBF files at speed with Go (2 weeks ago)
