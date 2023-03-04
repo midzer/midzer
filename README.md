@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [bjaraujo/Bombermaaan](https://github.com/bjaraujo/Bombermaaan) - Bombermaaan is inspired on the classic Bomberman game. (today)
 - [fabiangreffrath/wolf4sdl](https://github.com/fabiangreffrath/wolf4sdl) - SDL-Port of Wolfenstein 3-D and Spear of Destiny (2 days ago)
 - [rochus-keller/LeanCreator](https://github.com/rochus-keller/LeanCreator) - LeanCreator is a stripped-down version of Qt Creator, easy to build from source on all platforms supported by LeanQt and using BUSY instead of qmake. (6 days ago)
 - [skynettx/raptor](https://github.com/skynettx/raptor) - Reversed-engineered source port from Raptor Call Of The Shadows (1 week ago)
 - [hasse69/rar2fs](https://github.com/hasse69/rar2fs) - FUSE file system for reading RAR archives (2 weeks ago)
-- [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
