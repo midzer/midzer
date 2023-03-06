@@ -32,9 +32,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M110.0.5481.178](https://github.com/Alex313031/Thorium-Special/releases/tag/M110.0.5481.178), 4 days ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M110.0.5481.178](https://github.com/Alex313031/thorium/releases/tag/M110.0.5481.178), 4 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
+- [transmission/transmission](https://github.com/transmission/transmission) ([4.0.1](https://github.com/transmission/transmission/releases/tag/4.0.1), 1 week ago) - Official Transmission BitTorrent client repository
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 1 month ago) - An accessible, open-source lightbox with no dependencies
 - [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 3 months ago) - CLI tool for DontBore
-- [midzer/go-cli-template](https://github.com/midzer/go-cli-template) ([v0.0.1](https://github.com/midzer/go-cli-template/releases/tag/v0.0.1), 3 months ago) - Minimal Go CLI boilerplate/template with zero dependencies
 
 #### 🔨 Latest Pull Requests I published
 
