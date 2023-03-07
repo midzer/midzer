@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) - Freegemas is an open source version of the well known Bejeweled, built in C&#43;&#43; using SDL2 (today)
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System (3 days ago)
 - [bjaraujo/Bombermaaan](https://github.com/bjaraujo/Bombermaaan) - Bombermaaan is inspired on the classic Bomberman game. (3 days ago)
 - [fabiangreffrath/wolf4sdl](https://github.com/fabiangreffrath/wolf4sdl) - SDL-Port of Wolfenstein 3-D and Spear of Destiny (5 days ago)
 - [rochus-keller/LeanCreator](https://github.com/rochus-keller/LeanCreator) - LeanCreator is a stripped-down version of Qt Creator, easy to build from source on all platforms supported by LeanQt and using BUSY instead of qmake. (1 week ago)
-- [skynettx/raptor](https://github.com/skynettx/raptor) - Reversed-engineered source port from Raptor Call Of The Shadows (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
