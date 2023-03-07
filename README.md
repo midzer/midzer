@@ -14,15 +14,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/languedoc-roussillon](https://github.com/lokal-ninja/languedoc-roussillon) -  (1 day ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
+- [lokal-ninja/hamburg](https://github.com/lokal-ninja/hamburg) -  (1 day ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
 - [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 day ago)
 - [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (1 day ago)
 
 #### 🌱 My latest projects
 
-- [midzer/chromium-bsu](https://github.com/midzer/chromium-bsu) - 
+- [midzer/chromium-bsu](https://github.com/midzer/chromium-bsu) - Chromium B.S.U. fork with Emscripten
 - [midzer/jumpnbump](https://github.com/midzer/jumpnbump) - Jump &#39;n Bump, play cute bunnies jumping on each other&#39;s heads - Emscripten fork
 - [midzer/prespeculation](https://github.com/midzer/prespeculation) - Prefetch/preload links on hover and prerender on click via Speculation Rules API
 - [midzer/go-cli-template](https://github.com/midzer/go-cli-template) - Minimal Go CLI boilerplate/template with zero dependencies
