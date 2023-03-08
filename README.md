@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
 - [lokal-ninja/hamburg](https://github.com/lokal-ninja/hamburg) -  (2 days ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
 - [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (2 days ago)
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [freeserf/freeserf](https://github.com/freeserf/freeserf) - Settlers 1 (Serf City) clone. (today)
 - [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) - Freegemas is an open source version of the well known Bejeweled, built in C&#43;&#43; using SDL2 (1 day ago)
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System (4 days ago)
 - [bjaraujo/Bombermaaan](https://github.com/bjaraujo/Bombermaaan) - Bombermaaan is inspired on the classic Bomberman game. (4 days ago)
 - [fabiangreffrath/wolf4sdl](https://github.com/fabiangreffrath/wolf4sdl) - SDL-Port of Wolfenstein 3-D and Spear of Destiny (6 days ago)
-- [rochus-keller/LeanCreator](https://github.com/rochus-keller/LeanCreator) - LeanCreator is a stripped-down version of Qt Creator, easy to build from source on all platforms supported by LeanQt and using BUSY instead of qmake. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
