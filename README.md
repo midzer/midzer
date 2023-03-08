@@ -22,11 +22,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🌱 My latest projects
 
+- [midzer/awesome-emscripten](https://github.com/midzer/awesome-emscripten) - Curated list of awesome Emscripten ports (Apps, Games, Libraries)
 - [midzer/chromium-bsu](https://github.com/midzer/chromium-bsu) - Chromium B.S.U. fork with Emscripten
 - [midzer/jumpnbump](https://github.com/midzer/jumpnbump) - Jump &#39;n Bump, play cute bunnies jumping on each other&#39;s heads - Emscripten fork
 - [midzer/prespeculation](https://github.com/midzer/prespeculation) - Prefetch/preload links on hover and prerender on click via Speculation Rules API
 - [midzer/go-cli-template](https://github.com/midzer/go-cli-template) - Minimal Go CLI boilerplate/template with zero dependencies
-- [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) - CLI tool for DontBore
 
 #### 🔭 Latest releases I've contributed to
 
