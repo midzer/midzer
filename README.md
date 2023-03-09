@@ -38,11 +38,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [add FreeCol](https://github.com/opengaming/osgameclones/pull/2048) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (today)
+- [add Colonization](https://github.com/opengaming/osgameclones/pull/2047) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (today)
 - [sdl2 version](https://github.com/bjaraujo/Bombermaaan/pull/54) on [bjaraujo/Bombermaaan](https://github.com/bjaraujo/Bombermaaan) (3 days ago)
 - [docs: improve build instructions](https://github.com/transmission/transmission/pull/4980) on [transmission/transmission](https://github.com/transmission/transmission) (2 weeks ago)
 - [perf: pass by reference](https://github.com/transmission/transmission/pull/4876) on [transmission/transmission](https://github.com/transmission/transmission) (3 weeks ago)
-- [add DontBore](https://github.com/janosh/awesome-sveltekit/pull/88) on [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) (2 months ago)
-- [add favicon](https://github.com/q4z1/bbc_wec_site/pull/51) on [q4z1/bbc_wec_site](https://github.com/q4z1/bbc_wec_site) (2 months ago)
 
 #### 📜 My recent blog posts
 
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [xmoto/xmoto](https://github.com/xmoto/xmoto) - A challenging 2D motocross platform game, where physics play an important role. (today)
 - [freeserf/freeserf](https://github.com/freeserf/freeserf) - Settlers 1 (Serf City) clone. (1 day ago)
 - [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) - Freegemas is an open source version of the well known Bejeweled, built in C&#43;&#43; using SDL2 (2 days ago)
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System (5 days ago)
 - [bjaraujo/Bombermaaan](https://github.com/bjaraujo/Bombermaaan) - Bombermaaan is inspired on the classic Bomberman game. (5 days ago)
-- [fabiangreffrath/wolf4sdl](https://github.com/fabiangreffrath/wolf4sdl) - SDL-Port of Wolfenstein 3-D and Spear of Destiny (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
