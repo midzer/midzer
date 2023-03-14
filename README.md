@@ -68,11 +68,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [kenjinote](https://github.com/kenjinote)
+- [FullStackStar](https://github.com/FullStackStar)
 - [Tyler-Barham](https://github.com/Tyler-Barham)
 - [topdeveloper-dev](https://github.com/topdeveloper-dev)
 - [richardrobertov](https://github.com/richardrobertov)
-- [luckchain007](https://github.com/luckchain007)
-- [Bedrovelsen](https://github.com/Bedrovelsen)
 
 #### 💬 Feedback
 
