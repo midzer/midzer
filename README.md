@@ -68,11 +68,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [AbdeenM](https://github.com/AbdeenM)
 - [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
 - [cumsoft](https://github.com/cumsoft)
 - [kenjinote](https://github.com/kenjinote)
 - [FullStackStar](https://github.com/FullStackStar)
-- [topdeveloper-dev](https://github.com/topdeveloper-dev)
 
 #### 💬 Feedback
 
