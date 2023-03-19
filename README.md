@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/filelove](https://github.com/midzer/filelove) - Minimal p2p file transfer right in the browser (1 day ago)
-- [lokal-ninja/languedoc-roussillon](https://github.com/lokal-ninja/languedoc-roussillon) -  (5 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (5 days ago)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (5 days ago)
+- [midzer/filelove](https://github.com/midzer/filelove) - Minimal p2p file transfer right in the browser (2 days ago)
+- [lokal-ninja/languedoc-roussillon](https://github.com/lokal-ninja/languedoc-roussillon) -  (6 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (6 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (6 days ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,8 +30,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M110.0.5481.179-2](https://github.com/Alex313031/Thorium-Special/releases/tag/M110.0.5481.179-2), today) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
-- [transmission/transmission](https://github.com/transmission/transmission) ([4.0.2](https://github.com/transmission/transmission/releases/tag/4.0.2), 3 days ago) - Official Transmission BitTorrent client repository
+- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M110.0.5481.179-2](https://github.com/Alex313031/Thorium-Special/releases/tag/M110.0.5481.179-2), 1 day ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
+- [transmission/transmission](https://github.com/transmission/transmission) ([4.0.2](https://github.com/transmission/transmission/releases/tag/4.0.2), 4 days ago) - Official Transmission BitTorrent client repository
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M110.0.5481.178](https://github.com/Alex313031/thorium/releases/tag/M110.0.5481.178), 2 weeks ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 2 months ago) - An accessible, open-source lightbox with no dependencies
 - [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 3 months ago) - CLI tool for DontBore
