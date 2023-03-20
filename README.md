@@ -18,7 +18,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (today)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
 - [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (today)
+- [midzer/filelove](https://github.com/midzer/filelove) - Minimal p2p file transfer right in the browser (today)
 
 #### 🌱 My latest projects
 
