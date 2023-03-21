@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/languedoc-roussillon](https://github.com/lokal-ninja/languedoc-roussillon) -  (today)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
-- [midzer/filelove](https://github.com/midzer/filelove) - Minimal p2p file transfer right in the browser (today)
+- [lokal-ninja/languedoc-roussillon](https://github.com/lokal-ninja/languedoc-roussillon) -  (1 day ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 day ago)
+- [midzer/filelove](https://github.com/midzer/filelove) - Minimal p2p file transfer right in the browser (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -30,8 +30,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M110.0.5481.179-2](https://github.com/Alex313031/Thorium-Special/releases/tag/M110.0.5481.179-2), 2 days ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
-- [transmission/transmission](https://github.com/transmission/transmission) ([4.0.2](https://github.com/transmission/transmission/releases/tag/4.0.2), 5 days ago) - Official Transmission BitTorrent client repository
+- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M110.0.5481.179-2](https://github.com/Alex313031/Thorium-Special/releases/tag/M110.0.5481.179-2), 3 days ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
+- [transmission/transmission](https://github.com/transmission/transmission) ([4.0.2](https://github.com/transmission/transmission/releases/tag/4.0.2), 6 days ago) - Official Transmission BitTorrent client repository
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M110.0.5481.178](https://github.com/Alex313031/thorium/releases/tag/M110.0.5481.178), 2 weeks ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 2 months ago) - An accessible, open-source lightbox with no dependencies
 - [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 3 months ago) - CLI tool for DontBore
@@ -41,7 +41,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [add FreeCol](https://github.com/opengaming/osgameclones/pull/2048) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (1 week ago)
 - [add Colonization](https://github.com/opengaming/osgameclones/pull/2047) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (1 week ago)
 - [sdl2 version](https://github.com/bjaraujo/Bombermaaan/pull/54) on [bjaraujo/Bombermaaan](https://github.com/bjaraujo/Bombermaaan) (2 weeks ago)
-- [docs: improve build instructions](https://github.com/transmission/transmission/pull/4980) on [transmission/transmission](https://github.com/transmission/transmission) (3 weeks ago)
+- [docs: improve build instructions](https://github.com/transmission/transmission/pull/4980) on [transmission/transmission](https://github.com/transmission/transmission) (4 weeks ago)
 - [perf: pass by reference](https://github.com/transmission/transmission/pull/4876) on [transmission/transmission](https://github.com/transmission/transmission) (1 month ago)
 
 #### 📜 My recent blog posts
@@ -62,7 +62,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [xmoto/xmoto](https://github.com/xmoto/xmoto) - A challenging 2D motocross platform game, where physics play an important role. (1 week ago)
 - [freeserf/freeserf](https://github.com/freeserf/freeserf) - Settlers 1 (Serf City) clone. (1 week ago)
-- [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) - Freegemas is an open source version of the well known Bejeweled, built in C&#43;&#43; using SDL2 (1 week ago)
+- [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) - Freegemas is an open source version of the well known Bejeweled, built in C&#43;&#43; using SDL2 (2 weeks ago)
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System (2 weeks ago)
 - [bjaraujo/Bombermaaan](https://github.com/bjaraujo/Bombermaaan) - Bombermaaan is inspired on the classic Bomberman game. (2 weeks ago)
 
