@@ -14,15 +14,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
-- [midzer/filelove](https://github.com/midzer/filelove) - Minimal p2p file transfer right in the browser (6 days ago)
-- [lokal-ninja/mecklenburg-vorpommern](https://github.com/lokal-ninja/mecklenburg-vorpommern) -  (1 week ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 week ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 week ago)
+- [lokal-ninja/south-africa](https://github.com/lokal-ninja/south-africa) -  (today)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (today)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (today)
 
 #### 🌱 My latest projects
 
-- [midzer/REminiscence](https://github.com/midzer/REminiscence) - REminiscence is a rewrite of the engine used in the game Flashback from Delphine Software ported for the web
+- [midzer/reminiscence](https://github.com/midzer/reminiscence) - REminiscence is a rewrite of the engine used in the game Flashback from Delphine Software ported for the web
 - [midzer/awesome-emscripten](https://github.com/midzer/awesome-emscripten) - Curated list of awesome Emscripten ports (Apps, Games, Libraries)
 - [midzer/chromium-bsu](https://github.com/midzer/chromium-bsu) - Arcade-style, top-scrolling space shooter Chromium B.S.U. ported for the web
 - [midzer/jumpnbump](https://github.com/midzer/jumpnbump) - Jump &#39;n Bump, play cute bunnies jumping on each other&#39;s heads, ported for the web
