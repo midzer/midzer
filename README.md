@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
-- [lokal-ninja/mecklenburg-vorpommern](https://github.com/lokal-ninja/mecklenburg-vorpommern) -  (4 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (4 days ago)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (4 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
+- [lokal-ninja/mecklenburg-vorpommern](https://github.com/lokal-ninja/mecklenburg-vorpommern) -  (5 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (5 days ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,8 +30,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M111.0.5563.111-3](https://github.com/Alex313031/Thorium-Special/releases/tag/M111.0.5563.111-3), 1 day ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M111.0.5563.111](https://github.com/Alex313031/thorium/releases/tag/M111.0.5563.111), 4 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M111.0.5563.111-3](https://github.com/Alex313031/Thorium-Special/releases/tag/M111.0.5563.111-3), 2 days ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M111.0.5563.111](https://github.com/Alex313031/thorium/releases/tag/M111.0.5563.111), 5 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [transmission/transmission](https://github.com/transmission/transmission) ([4.0.2](https://github.com/transmission/transmission/releases/tag/4.0.2), 2 weeks ago) - Official Transmission BitTorrent client repository
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 2 months ago) - An accessible, open-source lightbox with no dependencies
 - [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 4 months ago) - CLI tool for DontBore
@@ -60,8 +60,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [angband/angband](https://github.com/angband/angband) - A free, single-player roguelike dungeon exploration game (4 days ago)
-- [shiromino/shiromino](https://github.com/shiromino/shiromino) - A fast-paced puzzle game with roots in the arcade. (6 days ago)
+- [angband/angband](https://github.com/angband/angband) - A free, single-player roguelike dungeon exploration game (5 days ago)
+- [shiromino/shiromino](https://github.com/shiromino/shiromino) - A fast-paced puzzle game with roots in the arcade. (1 week ago)
 - [danielknobe/blobbyvolley2](https://github.com/danielknobe/blobbyvolley2) - Official continuation of the famous Blobby Volley 1.x arcade game. (1 week ago)
 - [xmoto/xmoto](https://github.com/xmoto/xmoto) - A challenging 2D motocross platform game, where physics play an important role. (3 weeks ago)
 - [freeserf/freeserf](https://github.com/freeserf/freeserf) - Settlers 1 (Serf City) clone. (3 weeks ago)
