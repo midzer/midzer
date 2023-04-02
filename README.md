@@ -18,7 +18,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [lokal-ninja/mecklenburg-vorpommern](https://github.com/lokal-ninja/mecklenburg-vorpommern) -  (6 days ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (6 days ago)
 - [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (6 days ago)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (6 days ago)
+- [lokal-ninja/hawaii](https://github.com/lokal-ninja/hawaii) -  (6 days ago)
 
 #### 🌱 My latest projects
 
