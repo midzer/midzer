@@ -14,9 +14,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
 - [lokal-ninja/mecklenburg-vorpommern](https://github.com/lokal-ninja/mecklenburg-vorpommern) -  (1 week ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 week ago)
 - [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 week ago)
 - [lokal-ninja/hawaii](https://github.com/lokal-ninja/hawaii) -  (1 week ago)
 
