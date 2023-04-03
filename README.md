@@ -68,11 +68,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [PatrickHolderness](https://github.com/PatrickHolderness)
 - [ers35](https://github.com/ers35)
 - [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
 - [cumsoft](https://github.com/cumsoft)
 - [kenjinote](https://github.com/kenjinote)
-- [FullStackStar](https://github.com/FullStackStar)
 
 #### 💬 Feedback
 
