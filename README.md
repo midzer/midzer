@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
-- [lokal-ninja/mecklenburg-vorpommern](https://github.com/lokal-ninja/mecklenburg-vorpommern) -  (3 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (3 days ago)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (3 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
+- [lokal-ninja/mecklenburg-vorpommern](https://github.com/lokal-ninja/mecklenburg-vorpommern) -  (4 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (4 days ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -38,7 +38,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix emscripten build](https://github.com/cxong/cdogs-sdl/pull/759) on [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) (1 week ago)
+- [fix emscripten build](https://github.com/cxong/cdogs-sdl/pull/759) on [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) (2 weeks ago)
 - [add FreeCol](https://github.com/opengaming/osgameclones/pull/2048) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (4 weeks ago)
 - [add Colonization](https://github.com/opengaming/osgameclones/pull/2047) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (4 weeks ago)
 - [sdl2 version](https://github.com/bjaraujo/Bombermaaan/pull/54) on [bjaraujo/Bombermaaan](https://github.com/bjaraujo/Bombermaaan) (1 month ago)
@@ -60,10 +60,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [NickColley/semaphore](https://github.com/NickColley/semaphore) - Accessible, simple and fast web client for Mastodon (1 day ago)
+- [NickColley/semaphore](https://github.com/NickColley/semaphore) - Accessible, simple and fast web client for Mastodon (2 days ago)
 - [angband/angband](https://github.com/angband/angband) - A free, single-player roguelike dungeon exploration game (1 week ago)
 - [shiromino/shiromino](https://github.com/shiromino/shiromino) - A fast-paced puzzle game with roots in the arcade. (1 week ago)
-- [danielknobe/blobbyvolley2](https://github.com/danielknobe/blobbyvolley2) - Official continuation of the famous Blobby Volley 1.x arcade game. (1 week ago)
+- [danielknobe/blobbyvolley2](https://github.com/danielknobe/blobbyvolley2) - Official continuation of the famous Blobby Volley 1.x arcade game. (2 weeks ago)
 - [xmoto/xmoto](https://github.com/xmoto/xmoto) - A challenging 2D motocross platform game, where physics play an important role. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
