@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/languedoc-roussillon](https://github.com/lokal-ninja/languedoc-roussillon) -  (today)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (today)
+- [lokal-ninja/languedoc-roussillon](https://github.com/lokal-ninja/languedoc-roussillon) -  (1 day ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 day ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -31,7 +31,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔭 Latest releases I've contributed to
 
 - [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M111.0.5563.111-3](https://github.com/Alex313031/Thorium-Special/releases/tag/M111.0.5563.111-3), 1 week ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M111.0.5563.111](https://github.com/Alex313031/thorium/releases/tag/M111.0.5563.111), 1 week ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M111.0.5563.111](https://github.com/Alex313031/thorium/releases/tag/M111.0.5563.111), 2 weeks ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [transmission/transmission](https://github.com/transmission/transmission) ([4.0.2](https://github.com/transmission/transmission/releases/tag/4.0.2), 3 weeks ago) - Official Transmission BitTorrent client repository
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([1.4.1](https://github.com/cxong/cdogs-sdl/releases/tag/1.4.1), 1 month ago) - Classic overhead run-and-gun game
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 2 months ago) - An accessible, open-source lightbox with no dependencies
@@ -60,8 +60,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [NickColley/semaphore](https://github.com/NickColley/semaphore) - Accessible, simple and fast web client for Mastodon (4 days ago)
-- [angband/angband](https://github.com/angband/angband) - A free, single-player roguelike dungeon exploration game (1 week ago)
+- [NickColley/semaphore](https://github.com/NickColley/semaphore) - Accessible, simple and fast web client for Mastodon (5 days ago)
+- [angband/angband](https://github.com/angband/angband) - A free, single-player roguelike dungeon exploration game (2 weeks ago)
 - [shiromino/shiromino](https://github.com/shiromino/shiromino) - A fast-paced puzzle game with roots in the arcade. (2 weeks ago)
 - [danielknobe/blobbyvolley2](https://github.com/danielknobe/blobbyvolley2) - Official continuation of the famous Blobby Volley 1.x arcade game. (2 weeks ago)
 - [xmoto/xmoto](https://github.com/xmoto/xmoto) - A challenging 2D motocross platform game, where physics play an important role. (1 month ago)
