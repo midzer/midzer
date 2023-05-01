@@ -32,9 +32,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M112.0.5615.166](https://github.com/Alex313031/thorium/releases/tag/M112.0.5615.166), 2 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [transmission/transmission](https://github.com/transmission/transmission) ([4.0.3](https://github.com/transmission/transmission/releases/tag/4.0.3), 2 weeks ago) - Official Transmission BitTorrent client repository
-- [Alex313031/Thorium-Special](https://github.com/Alex313031/Thorium-Special) ([M111.0.5563.111-3](https://github.com/Alex313031/Thorium-Special/releases/tag/M111.0.5563.111-3), 1 month ago) - Builds of Thorium for MacOS, different processors and NEW Raspberry Pi ARM64 builds.
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([1.4.1](https://github.com/cxong/cdogs-sdl/releases/tag/1.4.1), 2 months ago) - Classic overhead run-and-gun game
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 3 months ago) - An accessible, open-source lightbox with no dependencies
+- [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 5 months ago) - CLI tool for DontBore
 
 #### 🔨 Latest Pull Requests I published
 
