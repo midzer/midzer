@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (3 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (3 days ago)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (3 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (4 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (4 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (4 days ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,9 +30,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([1.4.2](https://github.com/cxong/cdogs-sdl/releases/tag/1.4.2), today) - Classic overhead run-and-gun game
+- [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([1.4.2](https://github.com/cxong/cdogs-sdl/releases/tag/1.4.2), 1 day ago) - Classic overhead run-and-gun game
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M112.0.5615.166](https://github.com/Alex313031/thorium/releases/tag/M112.0.5615.166), 1 week ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
-- [transmission/transmission](https://github.com/transmission/transmission) ([4.0.3](https://github.com/transmission/transmission/releases/tag/4.0.3), 3 weeks ago) - Official Transmission BitTorrent client repository
+- [transmission/transmission](https://github.com/transmission/transmission) ([4.0.3](https://github.com/transmission/transmission/releases/tag/4.0.3), 4 weeks ago) - Official Transmission BitTorrent client repository
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 3 months ago) - An accessible, open-source lightbox with no dependencies
 - [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 5 months ago) - CLI tool for DontBore
 
@@ -61,7 +61,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ⭐ Recent stars
 
 - [piharpi/jekyll-klise](https://github.com/piharpi/jekyll-klise) - :beach_umbrella: Klisé is a minimalist Jekyll theme for running a personal site or blog, light &amp; dark mode support. (https://klise.vercel.app) (2 weeks ago)
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go. (2 weeks ago)
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go. (3 weeks ago)
 - [NickColley/semaphore](https://github.com/NickColley/semaphore) - Accessible, simple and fast web client for Mastodon (1 month ago)
 - [angband/angband](https://github.com/angband/angband) - A free, single-player roguelike dungeon exploration game (1 month ago)
 - [shiromino/shiromino](https://github.com/shiromino/shiromino) - A fast-paced puzzle game with roots in the arcade. (1 month ago)
