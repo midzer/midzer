@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/bretagne](https://github.com/lokal-ninja/bretagne) -  (6 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (6 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (6 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (6 days ago)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (6 days ago)
+- [lokal-ninja/bretagne](https://github.com/lokal-ninja/bretagne) -  (1 week ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 week ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 week ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 week ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -60,9 +60,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [hugo-sid/hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) - Fast, minimal blog with dark mode support. (5 days ago)
+- [hugo-sid/hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) - Fast, minimal blog with dark mode support. (6 days ago)
 - [piharpi/jekyll-klise](https://github.com/piharpi/jekyll-klise) - :beach_umbrella: Klisé is a minimalist Jekyll theme for running a personal site or blog, light &amp; dark mode support. (https://klise.vercel.app) (3 weeks ago)
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go. (4 weeks ago)
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go. (1 month ago)
 - [NickColley/semaphore](https://github.com/NickColley/semaphore) - Accessible, simple and fast web client for Mastodon (1 month ago)
 - [angband/angband](https://github.com/angband/angband) - A free, single-player roguelike dungeon exploration game (1 month ago)
 
