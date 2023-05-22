@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/bretagne](https://github.com/lokal-ninja/bretagne) -  (today)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
-- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (today)
+- [lokal-ninja/bretagne](https://github.com/lokal-ninja/bretagne) -  (1 day ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 day ago)
+- [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -42,7 +42,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [add FreeCol](https://github.com/opengaming/osgameclones/pull/2048) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (2 months ago)
 - [add Colonization](https://github.com/opengaming/osgameclones/pull/2047) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (2 months ago)
 - [sdl2 version](https://github.com/bjaraujo/Bombermaaan/pull/54) on [bjaraujo/Bombermaaan](https://github.com/bjaraujo/Bombermaaan) (2 months ago)
-- [docs: improve build instructions](https://github.com/transmission/transmission/pull/4980) on [transmission/transmission](https://github.com/transmission/transmission) (2 months ago)
+- [docs: improve build instructions](https://github.com/transmission/transmission/pull/4980) on [transmission/transmission](https://github.com/transmission/transmission) (3 months ago)
 
 #### 📜 My recent blog posts
 
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [hugo-sid/hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) - Fast, minimal blog with dark mode support. (6 days ago)
+- [hugo-sid/hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) - Fast, minimal blog with dark mode support. (1 week ago)
 - [piharpi/jekyll-klise](https://github.com/piharpi/jekyll-klise) - :beach_umbrella: Klisé is a minimalist Jekyll theme for running a personal site or blog, light &amp; dark mode support. (https://klise.vercel.app) (3 weeks ago)
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go. (1 month ago)
 - [NickColley/semaphore](https://github.com/NickColley/semaphore) - Accessible, simple and fast web client for Mastodon (1 month ago)
