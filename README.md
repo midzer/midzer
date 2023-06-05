@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/south-carolina](https://github.com/lokal-ninja/south-carolina) -  (today)
+- [lokal-ninja/north-carolina](https://github.com/lokal-ninja/north-carolina) -  (today)
 - [lokal-ninja/champagne-ardenne](https://github.com/lokal-ninja/champagne-ardenne) -  (today)
 - [lokal-ninja/nebraska](https://github.com/lokal-ninja/nebraska) -  (today)
 - [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (today)
