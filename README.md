@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/north-carolina](https://github.com/lokal-ninja/north-carolina) -  (today)
-- [lokal-ninja/champagne-ardenne](https://github.com/lokal-ninja/champagne-ardenne) -  (today)
-- [lokal-ninja/nebraska](https://github.com/lokal-ninja/nebraska) -  (today)
-- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (today)
-- [lokal-ninja/new-hampshire](https://github.com/lokal-ninja/new-hampshire) -  (today)
+- [lokal-ninja/north-carolina](https://github.com/lokal-ninja/north-carolina) -  (1 day ago)
+- [lokal-ninja/champagne-ardenne](https://github.com/lokal-ninja/champagne-ardenne) -  (1 day ago)
+- [lokal-ninja/nebraska](https://github.com/lokal-ninja/nebraska) -  (1 day ago)
+- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (1 day ago)
+- [lokal-ninja/new-hampshire](https://github.com/lokal-ninja/new-hampshire) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M113.0.5672.134](https://github.com/Alex313031/thorium/releases/tag/M113.0.5672.134), 4 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M113.0.5672.134](https://github.com/Alex313031/thorium/releases/tag/M113.0.5672.134), 5 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([1.4.2](https://github.com/cxong/cdogs-sdl/releases/tag/1.4.2), 3 weeks ago) - Classic overhead run-and-gun game
 - [transmission/transmission](https://github.com/transmission/transmission) ([4.0.3](https://github.com/transmission/transmission/releases/tag/4.0.3), 1 month ago) - Official Transmission BitTorrent client repository
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 4 months ago) - An accessible, open-source lightbox with no dependencies
