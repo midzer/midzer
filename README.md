@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/north-carolina](https://github.com/lokal-ninja/north-carolina) -  (3 days ago)
-- [lokal-ninja/champagne-ardenne](https://github.com/lokal-ninja/champagne-ardenne) -  (3 days ago)
-- [lokal-ninja/nebraska](https://github.com/lokal-ninja/nebraska) -  (3 days ago)
-- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (3 days ago)
-- [lokal-ninja/new-hampshire](https://github.com/lokal-ninja/new-hampshire) -  (3 days ago)
+- [lokal-ninja/north-carolina](https://github.com/lokal-ninja/north-carolina) -  (4 days ago)
+- [lokal-ninja/champagne-ardenne](https://github.com/lokal-ninja/champagne-ardenne) -  (4 days ago)
+- [lokal-ninja/nebraska](https://github.com/lokal-ninja/nebraska) -  (4 days ago)
+- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (4 days ago)
+- [lokal-ninja/new-hampshire](https://github.com/lokal-ninja/new-hampshire) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [nucliweb/webperf-snippets](https://github.com/nucliweb/webperf-snippets) - ⚡️ 💾  Web Performance Snippets (1 week ago)
+- [nucliweb/webperf-snippets](https://github.com/nucliweb/webperf-snippets) - ⚡️ 💾  Web Performance Snippets (2 weeks ago)
 - [Track3/hermit](https://github.com/Track3/hermit) - A minimal &amp; fast Hugo theme for bloggers (2 weeks ago)
 - [hugo-sid/hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) - Fast, minimal blog with dark mode support. (3 weeks ago)
 - [piharpi/jekyll-klise](https://github.com/piharpi/jekyll-klise) - :beach_umbrella: Klisé is a minimalist Jekyll theme for running a personal site or blog, light &amp; dark mode support. (https://klise.vercel.app) (1 month ago)
