@@ -72,7 +72,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [PatrickHolderness](https://github.com/PatrickHolderness)
 - [ers35](https://github.com/ers35)
 - [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
-- [kenjinote](https://github.com/kenjinote)
+- [cumsoft](https://github.com/cumsoft)
 
 #### 💬 Feedback
 
