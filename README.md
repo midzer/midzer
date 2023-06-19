@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/filelove](https://github.com/midzer/filelove) - Minimal p2p file transfer right in the browser (today)
-- [lokal-ninja/hamburg](https://github.com/lokal-ninja/hamburg) -  (2 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (2 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (2 days ago)
+- [midzer/filelove](https://github.com/midzer/filelove) - Minimal p2p file transfer right in the browser (1 day ago)
+- [lokal-ninja/hamburg](https://github.com/lokal-ninja/hamburg) -  (3 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (3 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems (today)
+- [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems (1 day ago)
 - [nucliweb/webperf-snippets](https://github.com/nucliweb/webperf-snippets) - ⚡️ 💾  Web Performance Snippets (3 weeks ago)
 - [Track3/hermit](https://github.com/Track3/hermit) - A minimal &amp; fast Hugo theme for bloggers (3 weeks ago)
 - [hugo-sid/hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) - Fast, minimal blog with dark mode support. (1 month ago)
