@@ -22,11 +22,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🌱 My latest projects
 
+- [midzer/faces4peace-web-service](https://github.com/midzer/faces4peace-web-service) - 
 - [midzer/reminiscence](https://github.com/midzer/reminiscence) - REminiscence is a rewrite of the engine used in the game Flashback from Delphine Software ported for the web
 - [midzer/awesome-emscripten](https://github.com/midzer/awesome-emscripten) - Curated list of awesome Emscripten ports (Apps, Games, Libraries)
 - [midzer/chromium-bsu](https://github.com/midzer/chromium-bsu) - Arcade-style, top-scrolling space shooter Chromium B.S.U. ported for the web
 - [midzer/jumpnbump](https://github.com/midzer/jumpnbump) - Jump &#39;n Bump, play cute bunnies jumping on each other&#39;s heads, ported for the web
-- [midzer/prespeculation](https://github.com/midzer/prespeculation) - Prefetch/preload links on hover and prerender on click via Speculation Rules API
 
 #### 🔭 Latest releases I've contributed to
 
