@@ -22,7 +22,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🌱 My latest projects
 
-- [midzer/faces4peace-web-service](https://github.com/midzer/faces4peace-web-service) - 
+- [midzer/faces4peace-web-service](https://github.com/midzer/faces4peace-web-service) - My face for world peace - NodeJS backend
 - [midzer/faces4peace](https://github.com/midzer/faces4peace) - My face for world peace
 - [midzer/reminiscence](https://github.com/midzer/reminiscence) - REminiscence is a rewrite of the engine used in the game Flashback from Delphine Software ported for the web
 - [midzer/awesome-emscripten](https://github.com/midzer/awesome-emscripten) - Curated list of awesome Emscripten ports (Apps, Games, Libraries)
