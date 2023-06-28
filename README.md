@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/faces4peace](https://github.com/midzer/faces4peace) - My face for world peace (today)
-- [lokal-ninja/maryland](https://github.com/lokal-ninja/maryland) -  (1 day ago)
-- [lokal-ninja/mississippi](https://github.com/lokal-ninja/mississippi) -  (1 day ago)
-- [lokal-ninja/new-hampshire](https://github.com/lokal-ninja/new-hampshire) -  (1 day ago)
-- [lokal-ninja/west-virginia](https://github.com/lokal-ninja/west-virginia) -  (1 day ago)
+- [midzer/faces4peace](https://github.com/midzer/faces4peace) - My face for world peace (1 day ago)
+- [lokal-ninja/maryland](https://github.com/lokal-ninja/maryland) -  (2 days ago)
+- [lokal-ninja/mississippi](https://github.com/lokal-ninja/mississippi) -  (2 days ago)
+- [lokal-ninja/new-hampshire](https://github.com/lokal-ninja/new-hampshire) -  (2 days ago)
+- [lokal-ninja/west-virginia](https://github.com/lokal-ninja/west-virginia) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M114.0.5735.134](https://github.com/Alex313031/thorium/releases/tag/M114.0.5735.134), 4 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M114.0.5735.134](https://github.com/Alex313031/thorium/releases/tag/M114.0.5735.134), 5 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([1.4.2](https://github.com/cxong/cdogs-sdl/releases/tag/1.4.2), 1 month ago) - Classic overhead run-and-gun game
 - [transmission/transmission](https://github.com/transmission/transmission) ([4.0.3](https://github.com/transmission/transmission/releases/tag/4.0.3), 2 months ago) - Official Transmission BitTorrent client repository
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 5 months ago) - An accessible, open-source lightbox with no dependencies
@@ -38,7 +38,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix typo](https://github.com/chaostreff-flensburg/chaostreff-flensburg.de-website/pull/4) on [chaostreff-flensburg/chaostreff-flensburg.de-website](https://github.com/chaostreff-flensburg/chaostreff-flensburg.de-website) (5 days ago)
+- [fix typo](https://github.com/chaostreff-flensburg/chaostreff-flensburg.de-website/pull/4) on [chaostreff-flensburg/chaostreff-flensburg.de-website](https://github.com/chaostreff-flensburg/chaostreff-flensburg.de-website) (6 days ago)
 - [fix emscripten build](https://github.com/cxong/cdogs-sdl/pull/759) on [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) (3 months ago)
 - [add FreeCol](https://github.com/opengaming/osgameclones/pull/2048) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (3 months ago)
 - [add Colonization](https://github.com/opengaming/osgameclones/pull/2047) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (3 months ago)
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [radity/raditian-free-hugo-theme](https://github.com/radity/raditian-free-hugo-theme) - Raditian Hugo Theme for Personal Websites (today)
+- [radity/raditian-free-hugo-theme](https://github.com/radity/raditian-free-hugo-theme) - Raditian Hugo Theme for Personal Websites (1 day ago)
 - [lissomware/css](https://github.com/lissomware/css) - Lissom.CSS is a classless, minimalist, accessible, and themeable CSS library (1 week ago)
 - [simevidas/web-dev-feeds](https://github.com/simevidas/web-dev-feeds) - A collection of over 1000 RSS feeds for web developers, updated monthly (1 week ago)
 - [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems (1 week ago)
