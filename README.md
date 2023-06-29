@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [midzer/faces4peace](https://github.com/midzer/faces4peace) - My face for world peace (1 day ago)
-- [lokal-ninja/indiana](https://github.com/lokal-ninja/indiana) -  (2 days ago)
-- [lokal-ninja/mississippi](https://github.com/lokal-ninja/mississippi) -  (2 days ago)
-- [lokal-ninja/new-hampshire](https://github.com/lokal-ninja/new-hampshire) -  (2 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [midzer/faces4peace](https://github.com/midzer/faces4peace) - My face for world peace (2 days ago)
+- [lokal-ninja/indiana](https://github.com/lokal-ninja/indiana) -  (3 days ago)
+- [lokal-ninja/mississippi](https://github.com/lokal-ninja/mississippi) -  (3 days ago)
+- [lokal-ninja/new-hampshire](https://github.com/lokal-ninja/new-hampshire) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M114.0.5735.134](https://github.com/Alex313031/thorium/releases/tag/M114.0.5735.134), 5 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M114.0.5735.134](https://github.com/Alex313031/thorium/releases/tag/M114.0.5735.134), 6 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([1.4.2](https://github.com/cxong/cdogs-sdl/releases/tag/1.4.2), 1 month ago) - Classic overhead run-and-gun game
 - [transmission/transmission](https://github.com/transmission/transmission) ([4.0.3](https://github.com/transmission/transmission/releases/tag/4.0.3), 2 months ago) - Official Transmission BitTorrent client repository
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 5 months ago) - An accessible, open-source lightbox with no dependencies
@@ -38,7 +38,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix typo](https://github.com/chaostreff-flensburg/chaostreff-flensburg.de-website/pull/4) on [chaostreff-flensburg/chaostreff-flensburg.de-website](https://github.com/chaostreff-flensburg/chaostreff-flensburg.de-website) (6 days ago)
+- [fix typo](https://github.com/chaostreff-flensburg/chaostreff-flensburg.de-website/pull/4) on [chaostreff-flensburg/chaostreff-flensburg.de-website](https://github.com/chaostreff-flensburg/chaostreff-flensburg.de-website) (1 week ago)
 - [fix emscripten build](https://github.com/cxong/cdogs-sdl/pull/759) on [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) (3 months ago)
 - [add FreeCol](https://github.com/opengaming/osgameclones/pull/2048) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (3 months ago)
 - [add Colonization](https://github.com/opengaming/osgameclones/pull/2047) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (3 months ago)
@@ -60,10 +60,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [chollinger93/ink-free](https://github.com/chollinger93/ink-free) - Crisp, minimal personal website and blog theme Hugo, designed for a collaborative, open-source, privacy conscious blog. (today)
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱! (today)
-- [avivharuzi/xml-sitemaps-spa](https://github.com/avivharuzi/xml-sitemaps-spa) - Generate easily XML sitemaps focusing on single page applications (today)
-- [radity/raditian-free-hugo-theme](https://github.com/radity/raditian-free-hugo-theme) - Raditian Hugo Theme for Personal Websites (1 day ago)
+- [chollinger93/ink-free](https://github.com/chollinger93/ink-free) - Crisp, minimal personal website and blog theme Hugo, designed for a collaborative, open-source, privacy conscious blog. (1 day ago)
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱! (1 day ago)
+- [avivharuzi/xml-sitemaps-spa](https://github.com/avivharuzi/xml-sitemaps-spa) - Generate easily XML sitemaps focusing on single page applications (1 day ago)
+- [radity/raditian-free-hugo-theme](https://github.com/radity/raditian-free-hugo-theme) - Raditian Hugo Theme for Personal Websites (2 days ago)
 - [lissomware/css](https://github.com/lissomware/css) - Lissom.CSS is a classless, minimalist, accessible, and themeable CSS library (1 week ago)
 
 #### 👯 Check out some of my recent followers
