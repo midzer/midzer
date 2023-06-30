@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (today)
 - [rviscomi/capo.js](https://github.com/rviscomi/capo.js) - Get your &lt;head&gt; in order (today)
 - [RoneoOrg/jamstack.club](https://github.com/RoneoOrg/jamstack.club) - A collection of free Jamstack themes for Hugo, Eleventy, Jekyll, Gatsby and many more. See live at https://jamstack.club (today)
 - [chollinger93/ink-free](https://github.com/chollinger93/ink-free) - Crisp, minimal personal website and blog theme Hugo, designed for a collaborative, open-source, privacy conscious blog. (2 days ago)
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱! (2 days ago)
-- [avivharuzi/xml-sitemaps-spa](https://github.com/avivharuzi/xml-sitemaps-spa) - Generate easily XML sitemaps focusing on single page applications (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
