@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/faces4peace](https://github.com/midzer/faces4peace) - My face for world peace (1 day ago)
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
-- [lokal-ninja/bretagne](https://github.com/lokal-ninja/bretagne) -  (3 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (3 days ago)
+- [midzer/faces4peace](https://github.com/midzer/faces4peace) - My face for world peace (2 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
+- [lokal-ninja/bretagne](https://github.com/lokal-ninja/bretagne) -  (4 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (2 days ago)
-- [rviscomi/capo.js](https://github.com/rviscomi/capo.js) - Get your &lt;head&gt; in order (2 days ago)
-- [RoneoOrg/jamstack.club](https://github.com/RoneoOrg/jamstack.club) - A collection of free Jamstack themes for Hugo, Eleventy, Jekyll, Gatsby and many more. See live at https://jamstack.club (2 days ago)
-- [chollinger93/ink-free](https://github.com/chollinger93/ink-free) - Crisp, minimal personal website and blog theme Hugo, designed for a collaborative, open-source, privacy conscious blog. (4 days ago)
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱! (4 days ago)
+- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (3 days ago)
+- [rviscomi/capo.js](https://github.com/rviscomi/capo.js) - Get your &lt;head&gt; in order (3 days ago)
+- [RoneoOrg/jamstack.club](https://github.com/RoneoOrg/jamstack.club) - A collection of free Jamstack themes for Hugo, Eleventy, Jekyll, Gatsby and many more. See live at https://jamstack.club (3 days ago)
+- [chollinger93/ink-free](https://github.com/chollinger93/ink-free) - Crisp, minimal personal website and blog theme Hugo, designed for a collaborative, open-source, privacy conscious blog. (5 days ago)
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱! (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
