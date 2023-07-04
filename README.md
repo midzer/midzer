@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/faces4peace](https://github.com/midzer/faces4peace) - My face for world peace (2 days ago)
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
-- [lokal-ninja/bretagne](https://github.com/lokal-ninja/bretagne) -  (4 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (4 days ago)
+- [midzer/faces4peace](https://github.com/midzer/faces4peace) - My face for world peace (3 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (4 days ago)
+- [lokal-ninja/bretagne](https://github.com/lokal-ninja/bretagne) -  (5 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -42,7 +42,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [fix emscripten build](https://github.com/cxong/cdogs-sdl/pull/759) on [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) (3 months ago)
 - [add FreeCol](https://github.com/opengaming/osgameclones/pull/2048) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (3 months ago)
 - [add Colonization](https://github.com/opengaming/osgameclones/pull/2047) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (3 months ago)
-- [sdl2 version](https://github.com/bjaraujo/Bombermaaan/pull/54) on [bjaraujo/Bombermaaan](https://github.com/bjaraujo/Bombermaaan) (3 months ago)
+- [sdl2 version](https://github.com/bjaraujo/Bombermaaan/pull/54) on [bjaraujo/Bombermaaan](https://github.com/bjaraujo/Bombermaaan) (4 months ago)
 
 #### 📜 My recent blog posts
 
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (3 days ago)
-- [rviscomi/capo.js](https://github.com/rviscomi/capo.js) - Get your &lt;head&gt; in order (3 days ago)
-- [RoneoOrg/jamstack.club](https://github.com/RoneoOrg/jamstack.club) - A collection of free Jamstack themes for Hugo, Eleventy, Jekyll, Gatsby and many more. See live at https://jamstack.club (3 days ago)
-- [chollinger93/ink-free](https://github.com/chollinger93/ink-free) - Crisp, minimal personal website and blog theme Hugo, designed for a collaborative, open-source, privacy conscious blog. (5 days ago)
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱! (5 days ago)
+- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (4 days ago)
+- [rviscomi/capo.js](https://github.com/rviscomi/capo.js) - Get your &lt;head&gt; in order (4 days ago)
+- [RoneoOrg/jamstack.club](https://github.com/RoneoOrg/jamstack.club) - A collection of free Jamstack themes for Hugo, Eleventy, Jekyll, Gatsby and many more. See live at https://jamstack.club (4 days ago)
+- [chollinger93/ink-free](https://github.com/chollinger93/ink-free) - Crisp, minimal personal website and blog theme Hugo, designed for a collaborative, open-source, privacy conscious blog. (6 days ago)
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱! (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
