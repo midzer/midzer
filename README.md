@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/bretagne](https://github.com/lokal-ninja/bretagne) -  (1 day ago)
-- [lokal-ninja/district-of-columbia](https://github.com/lokal-ninja/district-of-columbia) -  (1 day ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 day ago)
+- [lokal-ninja/bretagne](https://github.com/lokal-ninja/bretagne) -  (2 days ago)
+- [lokal-ninja/district-of-columbia](https://github.com/lokal-ninja/district-of-columbia) -  (2 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (2 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -38,7 +38,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix typo](https://github.com/chaostreff-flensburg/chaostreff-flensburg.de-website/pull/4) on [chaostreff-flensburg/chaostreff-flensburg.de-website](https://github.com/chaostreff-flensburg/chaostreff-flensburg.de-website) (1 week ago)
+- [fix typo](https://github.com/chaostreff-flensburg/chaostreff-flensburg.de-website/pull/4) on [chaostreff-flensburg/chaostreff-flensburg.de-website](https://github.com/chaostreff-flensburg/chaostreff-flensburg.de-website) (2 weeks ago)
 - [fix emscripten build](https://github.com/cxong/cdogs-sdl/pull/759) on [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) (3 months ago)
 - [add FreeCol](https://github.com/opengaming/osgameclones/pull/2048) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (3 months ago)
 - [add Colonization](https://github.com/opengaming/osgameclones/pull/2047) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (3 months ago)
@@ -60,10 +60,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) - Multi gallery Hugo theme. (1 day ago)
-- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (5 days ago)
-- [rviscomi/capo.js](https://github.com/rviscomi/capo.js) - Get your &lt;head&gt; in order (5 days ago)
-- [RoneoOrg/jamstack.club](https://github.com/RoneoOrg/jamstack.club) - A collection of free Jamstack themes for Hugo, Eleventy, Jekyll, Gatsby and many more. See live at https://jamstack.club (5 days ago)
+- [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) - Multi gallery Hugo theme. (2 days ago)
+- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (6 days ago)
+- [rviscomi/capo.js](https://github.com/rviscomi/capo.js) - Get your &lt;head&gt; in order (6 days ago)
+- [RoneoOrg/jamstack.club](https://github.com/RoneoOrg/jamstack.club) - A collection of free Jamstack themes for Hugo, Eleventy, Jekyll, Gatsby and many more. See live at https://jamstack.club (6 days ago)
 - [chollinger93/ink-free](https://github.com/chollinger93/ink-free) - Crisp, minimal personal website and blog theme Hugo, designed for a collaborative, open-source, privacy conscious blog. (1 week ago)
 
 #### 👯 Check out some of my recent followers
