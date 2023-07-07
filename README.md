@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/bretagne](https://github.com/lokal-ninja/bretagne) -  (2 days ago)
-- [lokal-ninja/district-of-columbia](https://github.com/lokal-ninja/district-of-columbia) -  (2 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (2 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (2 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
+- [lokal-ninja/bretagne](https://github.com/lokal-ninja/bretagne) -  (3 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (3 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M114.0.5735.134](https://github.com/Alex313031/thorium/releases/tag/M114.0.5735.134), 1 week ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M114.0.5735.134](https://github.com/Alex313031/thorium/releases/tag/M114.0.5735.134), 2 weeks ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([1.4.2](https://github.com/cxong/cdogs-sdl/releases/tag/1.4.2), 1 month ago) - Classic overhead run-and-gun game
 - [transmission/transmission](https://github.com/transmission/transmission) ([4.0.3](https://github.com/transmission/transmission/releases/tag/4.0.3), 2 months ago) - Official Transmission BitTorrent client repository
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 5 months ago) - An accessible, open-source lightbox with no dependencies
@@ -40,8 +40,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [fix typo](https://github.com/chaostreff-flensburg/chaostreff-flensburg.de-website/pull/4) on [chaostreff-flensburg/chaostreff-flensburg.de-website](https://github.com/chaostreff-flensburg/chaostreff-flensburg.de-website) (2 weeks ago)
 - [fix emscripten build](https://github.com/cxong/cdogs-sdl/pull/759) on [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) (3 months ago)
-- [add FreeCol](https://github.com/opengaming/osgameclones/pull/2048) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (3 months ago)
-- [add Colonization](https://github.com/opengaming/osgameclones/pull/2047) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (3 months ago)
+- [add FreeCol](https://github.com/opengaming/osgameclones/pull/2048) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (4 months ago)
+- [add Colonization](https://github.com/opengaming/osgameclones/pull/2047) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (4 months ago)
 - [sdl2 version](https://github.com/bjaraujo/Bombermaaan/pull/54) on [bjaraujo/Bombermaaan](https://github.com/bjaraujo/Bombermaaan) (4 months ago)
 
 #### 📜 My recent blog posts
@@ -60,10 +60,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) - Multi gallery Hugo theme. (2 days ago)
-- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (6 days ago)
-- [rviscomi/capo.js](https://github.com/rviscomi/capo.js) - Get your &lt;head&gt; in order (6 days ago)
-- [RoneoOrg/jamstack.club](https://github.com/RoneoOrg/jamstack.club) - A collection of free Jamstack themes for Hugo, Eleventy, Jekyll, Gatsby and many more. See live at https://jamstack.club (6 days ago)
+- [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) - Multi gallery Hugo theme. (3 days ago)
+- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (1 week ago)
+- [rviscomi/capo.js](https://github.com/rviscomi/capo.js) - Get your &lt;head&gt; in order (1 week ago)
+- [RoneoOrg/jamstack.club](https://github.com/RoneoOrg/jamstack.club) - A collection of free Jamstack themes for Hugo, Eleventy, Jekyll, Gatsby and many more. See live at https://jamstack.club (1 week ago)
 - [chollinger93/ink-free](https://github.com/chollinger93/ink-free) - Crisp, minimal personal website and blog theme Hugo, designed for a collaborative, open-source, privacy conscious blog. (1 week ago)
 
 #### 👯 Check out some of my recent followers
