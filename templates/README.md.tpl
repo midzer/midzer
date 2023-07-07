@@ -33,7 +33,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://ampergai.de/index.xml" 5}}
+{{range rss "https://midzer.de/sitemap.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
