@@ -34,7 +34,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 {{range rss "https://midzer.de/feed.json" 5}}
-- [{{.URL}}]({{.URL}}) ({{humanize .PublishedAt}})
+- [{{replace .URL "https://midzer.de/" ""}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 📓 Gists I wrote
