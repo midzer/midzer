@@ -46,11 +46,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [https://midzer.de/eierlikoerkuchen](https://midzer.de/eierlikoerkuchen) (2 months ago)
-- [https://midzer.de/a-short-guideline-for-getting-stuff-done-without-ai](https://midzer.de/a-short-guideline-for-getting-stuff-done-without-ai) (3 months ago)
-- [https://midzer.de/omas-faschingskrapfen](https://midzer.de/omas-faschingskrapfen) (4 months ago)
-- [https://midzer.de/eine-frage-des-geldes](https://midzer.de/eine-frage-des-geldes) (5 months ago)
-- [https://midzer.de/avocado-mit-shrimps](https://midzer.de/avocado-mit-shrimps) (6 months ago)
+- [](https://midzer.de/eierlikoerkuchen) (2 months ago)
+- [](https://midzer.de/a-short-guideline-for-getting-stuff-done-without-ai) (3 months ago)
+- [](https://midzer.de/omas-faschingskrapfen) (4 months ago)
+- [](https://midzer.de/eine-frage-des-geldes) (5 months ago)
+- [](https://midzer.de/avocado-mit-shrimps) (6 months ago)
 
 #### 📓 Gists I wrote
 
