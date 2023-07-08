@@ -15,10 +15,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/bretagne](https://github.com/lokal-ninja/bretagne) -  (3 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (3 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (3 days ago)
+- [lokal-ninja/bretagne](https://github.com/lokal-ninja/bretagne) -  (4 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (4 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -46,11 +46,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [Gib dein Senf dazua](https://ampergai.de/2021/02/001/) (2 years ago)
-- [Voisperrung](https://ampergai.de/2020/08/001/) (2 years ago)
-- [Tauschbare Kost](https://ampergai.de/2020/04/001/) (3 years ago)
-- [Dahoam sterm d&#39;Leid](https://ampergai.de/2020/03/001/) (3 years ago)
-- [Astl glaub auf](https://ampergai.de/2020/02/001/) (3 years ago)
+- [](https://midzer.de/eierlikoerkuchen) (2 months ago)
+- [](https://midzer.de/a-short-guideline-for-getting-stuff-done-without-ai) (3 months ago)
+- [](https://midzer.de/omas-faschingskrapfen) (4 months ago)
+- [](https://midzer.de/eine-frage-des-geldes) (5 months ago)
+- [](https://midzer.de/avocado-mit-shrimps) (6 months ago)
 
 #### 📓 Gists I wrote
 
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) - Multi gallery Hugo theme. (3 days ago)
+- [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) - Multi gallery Hugo theme. (4 days ago)
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (1 week ago)
 - [rviscomi/capo.js](https://github.com/rviscomi/capo.js) - Get your &lt;head&gt; in order (1 week ago)
 - [RoneoOrg/jamstack.club](https://github.com/RoneoOrg/jamstack.club) - A collection of free Jamstack themes for Hugo, Eleventy, Jekyll, Gatsby and many more. See live at https://jamstack.club (1 week ago)
