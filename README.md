@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [willfaught/paige](https://github.com/willfaught/paige) - Powerful, pliable pixel perfection. An advanced Hugo theme. (today)
 - [schnerring/hugo-theme-gruvbox](https://github.com/schnerring/hugo-theme-gruvbox) - A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes. (1 day ago)
 - [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT) - Open source PDF editor. (1 day ago)
 - [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) - Multi gallery Hugo theme. (1 week ago)
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (1 week ago)
-- [rviscomi/capo.js](https://github.com/rviscomi/capo.js) - Get your &lt;head&gt; in order (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
