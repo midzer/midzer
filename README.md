@@ -38,11 +38,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [replace deprecated flag](https://github.com/muesli/markscribe/pull/82) on [muesli/markscribe](https://github.com/muesli/markscribe) (today)
+- [remove deprecated replacements](https://github.com/muesli/markscribe/pull/81) on [muesli/markscribe](https://github.com/muesli/markscribe) (today)
 - [extend RSSEntry by GUID](https://github.com/muesli/markscribe/pull/80) on [muesli/markscribe](https://github.com/muesli/markscribe) (4 days ago)
 - [fix typo](https://github.com/chaostreff-flensburg/chaostreff-flensburg.de-website/pull/4) on [chaostreff-flensburg/chaostreff-flensburg.de-website](https://github.com/chaostreff-flensburg/chaostreff-flensburg.de-website) (2 weeks ago)
 - [fix emscripten build](https://github.com/cxong/cdogs-sdl/pull/759) on [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) (3 months ago)
-- [add FreeCol](https://github.com/opengaming/osgameclones/pull/2048) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (4 months ago)
-- [add Colonization](https://github.com/opengaming/osgameclones/pull/2047) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (4 months ago)
 
 #### 📜 My recent blog posts
 
