@@ -68,11 +68,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [lelezjg](https://github.com/lelezjg)
 - [benatkin](https://github.com/benatkin)
 - [lanastasov](https://github.com/lanastasov)
 - [earthtopomaps](https://github.com/earthtopomaps)
 - [Racquetballer](https://github.com/Racquetballer)
-- [Hajjimeee](https://github.com/Hajjimeee)
 
 #### 💬 Feedback
 
