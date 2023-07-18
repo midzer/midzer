@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
-- [lokal-ninja/bretagne](https://github.com/lokal-ninja/bretagne) -  (4 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (4 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (4 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (4 days ago)
+- [lokal-ninja/bretagne](https://github.com/lokal-ninja/bretagne) -  (5 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (5 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -38,8 +38,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [replace deprecated flag](https://github.com/muesli/markscribe/pull/82) on [muesli/markscribe](https://github.com/muesli/markscribe) (5 days ago)
-- [remove deprecated replacements](https://github.com/muesli/markscribe/pull/81) on [muesli/markscribe](https://github.com/muesli/markscribe) (5 days ago)
+- [replace deprecated flag](https://github.com/muesli/markscribe/pull/82) on [muesli/markscribe](https://github.com/muesli/markscribe) (6 days ago)
+- [remove deprecated replacements](https://github.com/muesli/markscribe/pull/81) on [muesli/markscribe](https://github.com/muesli/markscribe) (6 days ago)
 - [extend RSSEntry by GUID](https://github.com/muesli/markscribe/pull/80) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 week ago)
 - [fix typo](https://github.com/chaostreff-flensburg/chaostreff-flensburg.de-website/pull/4) on [chaostreff-flensburg/chaostreff-flensburg.de-website](https://github.com/chaostreff-flensburg/chaostreff-flensburg.de-website) (3 weeks ago)
 - [fix emscripten build](https://github.com/cxong/cdogs-sdl/pull/759) on [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) (3 months ago)
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [wjh18/hugo-liftoff](https://github.com/wjh18/hugo-liftoff) - Minimal blog/portfolio theme with a focus on content creation and SEO best practices. An ideal choice for technical users jump-starting a personal brand. (5 days ago)
-- [willfaught/paige](https://github.com/willfaught/paige) - Powerful, pliable pixel perfection. An advanced Hugo theme. (6 days ago)
+- [wjh18/hugo-liftoff](https://github.com/wjh18/hugo-liftoff) - Minimal blog/portfolio theme with a focus on content creation and SEO best practices. An ideal choice for technical users jump-starting a personal brand. (6 days ago)
+- [willfaught/paige](https://github.com/willfaught/paige) - Powerful, pliable pixel perfection. An advanced Hugo theme. (1 week ago)
 - [schnerring/hugo-theme-gruvbox](https://github.com/schnerring/hugo-theme-gruvbox) - A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes. (1 week ago)
 - [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT) - Open source PDF editor. (1 week ago)
-- [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) - Multi gallery Hugo theme. (1 week ago)
+- [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) - Multi gallery Hugo theme. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
