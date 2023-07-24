@@ -30,11 +30,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M114.0.5735.205](https://github.com/Alex313031/thorium/releases/tag/M114.0.5735.205), 3 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M114.0.5735.205](https://github.com/Alex313031/thorium/releases/tag/M114.0.5735.205), 4 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Special builds are in different repositories, links are towards the top of the README.md.
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([1.4.2](https://github.com/cxong/cdogs-sdl/releases/tag/1.4.2), 2 months ago) - Classic overhead run-and-gun game
 - [transmission/transmission](https://github.com/transmission/transmission) ([4.0.3](https://github.com/transmission/transmission/releases/tag/4.0.3), 3 months ago) - Official Transmission BitTorrent client repository
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 6 months ago) - An accessible, open-source lightbox with no dependencies
-- [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 7 months ago) - CLI tool for DontBore
+- [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 8 months ago) - CLI tool for DontBore
 
 #### 🔨 Latest Pull Requests I published
 
@@ -46,7 +46,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/eierlikoerkuchen) (2 months ago)
+- [](https://midzer.de/eierlikoerkuchen) (3 months ago)
 - [](https://midzer.de/a-short-guideline-for-getting-stuff-done-without-ai) (3 months ago)
 - [](https://midzer.de/omas-faschingskrapfen) (5 months ago)
 - [](https://midzer.de/eine-frage-des-geldes) (5 months ago)
@@ -62,8 +62,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [wjh18/hugo-liftoff](https://github.com/wjh18/hugo-liftoff) - Minimal blog/portfolio theme with a focus on content creation and SEO best practices. An ideal choice for technical users jump-starting a personal brand. (1 week ago)
 - [willfaught/paige](https://github.com/willfaught/paige) - Powerful, pliable pixel perfection. An advanced Hugo theme. (1 week ago)
-- [schnerring/hugo-theme-gruvbox](https://github.com/schnerring/hugo-theme-gruvbox) - A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes. (1 week ago)
-- [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT) - Open source PDF editor. (1 week ago)
+- [schnerring/hugo-theme-gruvbox](https://github.com/schnerring/hugo-theme-gruvbox) - A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes. (2 weeks ago)
+- [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT) - Open source PDF editor. (2 weeks ago)
 - [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) - Multi gallery Hugo theme. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
