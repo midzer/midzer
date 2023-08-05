@@ -15,10 +15,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/bourgogne](https://github.com/lokal-ninja/bourgogne) -  (3 days ago)
-- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (3 days ago)
-- [lokal-ninja/franche-comte](https://github.com/lokal-ninja/franche-comte) -  (3 days ago)
-- [lokal-ninja/lorraine](https://github.com/lokal-ninja/lorraine) -  (3 days ago)
+- [lokal-ninja/bourgogne](https://github.com/lokal-ninja/bourgogne) -  (4 days ago)
+- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (4 days ago)
+- [lokal-ninja/franche-comte](https://github.com/lokal-ninja/franche-comte) -  (4 days ago)
+- [lokal-ninja/lorraine](https://github.com/lokal-ninja/lorraine) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -40,7 +40,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [replace deprecated flag](https://github.com/muesli/markscribe/pull/82) on [muesli/markscribe](https://github.com/muesli/markscribe) (3 weeks ago)
 - [remove deprecated replacements](https://github.com/muesli/markscribe/pull/81) on [muesli/markscribe](https://github.com/muesli/markscribe) (3 weeks ago)
-- [extend RSSEntry by GUID](https://github.com/muesli/markscribe/pull/80) on [muesli/markscribe](https://github.com/muesli/markscribe) (3 weeks ago)
+- [extend RSSEntry by GUID](https://github.com/muesli/markscribe/pull/80) on [muesli/markscribe](https://github.com/muesli/markscribe) (4 weeks ago)
 - [fix typo](https://github.com/chaostreff-flensburg/chaostreff-flensburg.de-website/pull/4) on [chaostreff-flensburg/chaostreff-flensburg.de-website](https://github.com/chaostreff-flensburg/chaostreff-flensburg.de-website) (1 month ago)
 - [fix emscripten build](https://github.com/cxong/cdogs-sdl/pull/759) on [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) (4 months ago)
 
