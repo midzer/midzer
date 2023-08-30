@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [darshanbaral/kitab](https://github.com/darshanbaral/kitab) - A hugo theme for publishing books (today)
+- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book (today)
 - [stefanbohacek/detect-missing-adblocker](https://github.com/stefanbohacek/detect-missing-adblocker) - Provide a more secure experience to your website’s visitors. (1 day ago)
 - [osteele/gojekyll](https://github.com/osteele/gojekyll) - A fast Go implementation of the Jekyll blogging engine (4 days ago)
 - [phoboslab/wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) (5 days ago)
-- [rayfrankenstein/AITOW](https://github.com/rayfrankenstein/AITOW) (2 weeks ago)
-- [wjh18/hugo-liftoff](https://github.com/wjh18/hugo-liftoff) - Minimal blog/portfolio theme with a focus on content creation and SEO best practices. An ideal choice for technical users jump-starting a personal brand. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
