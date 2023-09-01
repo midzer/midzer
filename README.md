@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
-- [lokal-ninja/district-of-columbia](https://github.com/lokal-ninja/district-of-columbia) -  (2 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (2 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (2 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
+- [lokal-ninja/district-of-columbia](https://github.com/lokal-ninja/district-of-columbia) -  (3 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (3 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [transmission/transmission](https://github.com/transmission/transmission) ([4.0.4](https://github.com/transmission/transmission/releases/tag/4.0.4), 3 days ago) - Official Transmission BitTorrent client repository
+- [transmission/transmission](https://github.com/transmission/transmission) ([4.0.4](https://github.com/transmission/transmission/releases/tag/4.0.4), 4 days ago) - Official Transmission BitTorrent client repository
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M115.0.5790.172](https://github.com/Alex313031/thorium/releases/tag/M115.0.5790.172), 2 weeks ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([1.5.0](https://github.com/cxong/cdogs-sdl/releases/tag/1.5.0), 1 month ago) - Classic overhead run-and-gun game
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 7 months ago) - An accessible, open-source lightbox with no dependencies
@@ -38,9 +38,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [add submodule](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/9) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (4 days ago)
-- [update authors and data directories](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/8) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (4 days ago)
-- [add Gemfile](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/7) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (4 days ago)
+- [add submodule](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/9) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (5 days ago)
+- [update authors and data directories](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/8) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (5 days ago)
+- [add Gemfile](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/7) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (5 days ago)
 - [replace deprecated flag](https://github.com/muesli/markscribe/pull/82) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 month ago)
 - [remove deprecated replacements](https://github.com/muesli/markscribe/pull/81) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 month ago)
 
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [darshanbaral/kitab](https://github.com/darshanbaral/kitab) - A hugo theme for publishing books (1 day ago)
-- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book (1 day ago)
-- [stefanbohacek/detect-missing-adblocker](https://github.com/stefanbohacek/detect-missing-adblocker) - Provide a more secure experience to your website’s visitors. (2 days ago)
-- [osteele/gojekyll](https://github.com/osteele/gojekyll) - A fast Go implementation of the Jekyll blogging engine (5 days ago)
-- [phoboslab/wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) (6 days ago)
+- [darshanbaral/kitab](https://github.com/darshanbaral/kitab) - A hugo theme for publishing books (2 days ago)
+- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book (2 days ago)
+- [stefanbohacek/detect-missing-adblocker](https://github.com/stefanbohacek/detect-missing-adblocker) - Provide a more secure experience to your website’s visitors. (3 days ago)
+- [osteele/gojekyll](https://github.com/osteele/gojekyll) - A fast Go implementation of the Jekyll blogging engine (6 days ago)
+- [phoboslab/wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
