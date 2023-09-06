@@ -14,8 +14,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
+- [midzer/faces4peace](https://github.com/midzer/faces4peace) - My face for world peace (today)
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
-- [lokal-ninja/district-of-columbia](https://github.com/lokal-ninja/district-of-columbia) -  (2 days ago)
 - [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (2 days ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
 - [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (2 days ago)
