@@ -60,19 +60,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [hannesm/jackline](https://github.com/hannesm/jackline) - minimalistic secure XMPP client in OCaml (today)
 - [mwenge/tempest2k](https://github.com/mwenge/tempest2k) - Tempest 2000 (1994) by Jeff Minter (1 week ago)
 - [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites (1 week ago)
 - [darshanbaral/kitab](https://github.com/darshanbaral/kitab) - A hugo theme for publishing books (1 week ago)
 - [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book (1 week ago)
-- [stefanbohacek/detect-missing-adblocker](https://github.com/stefanbohacek/detect-missing-adblocker) - Provide a more secure experience to your website’s visitors. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
 - [muhammed-mukthar](https://github.com/muhammed-mukthar)
 - [AMDmi3](https://github.com/AMDmi3)
 - [yeabsira-mesfin](https://github.com/yeabsira-mesfin)
-- [zbejas](https://github.com/zbejas)
 - [postprivee](https://github.com/postprivee)
+- [MuhammadMujtabaa](https://github.com/MuhammadMujtabaa)
 
 #### 💬 Feedback
 
