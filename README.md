@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/faces4peace](https://github.com/midzer/faces4peace) - My face for world peace (3 days ago)
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (5 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (5 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (5 days ago)
+- [midzer/faces4peace](https://github.com/midzer/faces4peace) - My face for world peace (4 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (6 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (6 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (6 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M116.0.5845.169](https://github.com/Alex313031/thorium/releases/tag/M116.0.5845.169), 5 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M116.0.5845.169](https://github.com/Alex313031/thorium/releases/tag/M116.0.5845.169), 6 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [transmission/transmission](https://github.com/transmission/transmission) ([4.0.4](https://github.com/transmission/transmission/releases/tag/4.0.4), 1 week ago) - Official Transmission BitTorrent client repository
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([1.5.0](https://github.com/cxong/cdogs-sdl/releases/tag/1.5.0), 1 month ago) - Classic overhead run-and-gun game
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 7 months ago) - An accessible, open-source lightbox with no dependencies
@@ -38,15 +38,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [add submodule](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/9) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (1 week ago)
-- [update authors and data directories](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/8) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (1 week ago)
-- [add Gemfile](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/7) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (1 week ago)
-- [replace deprecated flag](https://github.com/muesli/markscribe/pull/82) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 month ago)
-- [remove deprecated replacements](https://github.com/muesli/markscribe/pull/81) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 month ago)
+- [add submodule](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/9) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (2 weeks ago)
+- [update authors and data directories](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/8) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (2 weeks ago)
+- [add Gemfile](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/7) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (2 weeks ago)
+- [replace deprecated flag](https://github.com/muesli/markscribe/pull/82) on [muesli/markscribe](https://github.com/muesli/markscribe) (2 months ago)
+- [remove deprecated replacements](https://github.com/muesli/markscribe/pull/81) on [muesli/markscribe](https://github.com/muesli/markscribe) (2 months ago)
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/how-to-win-an-online-conversation-legally) (5 days ago)
+- [](https://midzer.de/how-to-win-an-online-conversation-legally) (6 days ago)
 - [](https://midzer.de/eierlikoerkuchen) (4 months ago)
 - [](https://midzer.de/a-short-guideline-for-getting-stuff-done-without-ai) (5 months ago)
 - [](https://midzer.de/omas-faschingskrapfen) (6 months ago)
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [hannesm/jackline](https://github.com/hannesm/jackline) - minimalistic secure XMPP client in OCaml (today)
+- [hannesm/jackline](https://github.com/hannesm/jackline) - minimalistic secure XMPP client in OCaml (1 day ago)
 - [mwenge/tempest2k](https://github.com/mwenge/tempest2k) - Tempest 2000 (1994) by Jeff Minter (1 week ago)
 - [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites (1 week ago)
 - [darshanbaral/kitab](https://github.com/darshanbaral/kitab) - A hugo theme for publishing books (1 week ago)
