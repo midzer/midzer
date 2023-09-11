@@ -68,11 +68,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [ThatMarko](https://github.com/ThatMarko)
 - [muhammed-mukthar](https://github.com/muhammed-mukthar)
 - [AMDmi3](https://github.com/AMDmi3)
 - [yeabsira-mesfin](https://github.com/yeabsira-mesfin)
 - [postprivee](https://github.com/postprivee)
-- [MuhammadMujtabaa](https://github.com/MuhammadMujtabaa)
 
 #### 💬 Feedback
 
