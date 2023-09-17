@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [viewizard/astromenace](https://github.com/viewizard/astromenace) - Hardcore 3D space scroll-shooter with spaceship upgrade possibilities. (today)
 - [afwbkbc/glsmac](https://github.com/afwbkbc/glsmac) - Unofficial open-source OpenGL/SDL2 client for Sid Meier&#39;s Alpha Centauri ( &#43; Alien Crossfire ) (6 days ago)
 - [hannesm/jackline](https://github.com/hannesm/jackline) - minimalistic secure XMPP client in OCaml (1 week ago)
 - [mwenge/tempest2k](https://github.com/mwenge/tempest2k) - Tempest 2000 (1994) by Jeff Minter (2 weeks ago)
 - [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites (2 weeks ago)
-- [darshanbaral/kitab](https://github.com/darshanbaral/kitab) - A hugo theme for publishing books (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
