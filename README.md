@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/auvergne](https://github.com/lokal-ninja/auvergne) -  (6 days ago)
-- [lokal-ninja/idaho](https://github.com/lokal-ninja/idaho) -  (6 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (6 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (6 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (6 days ago)
+- [lokal-ninja/auvergne](https://github.com/lokal-ninja/auvergne) -  (1 week ago)
+- [lokal-ninja/idaho](https://github.com/lokal-ninja/idaho) -  (1 week ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 week ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 week ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -31,7 +31,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔭 Latest releases I've contributed to
 
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M116.0.5845.169](https://github.com/Alex313031/thorium/releases/tag/M116.0.5845.169), 3 weeks ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
-- [transmission/transmission](https://github.com/transmission/transmission) ([4.0.4](https://github.com/transmission/transmission/releases/tag/4.0.4), 4 weeks ago) - Official Transmission BitTorrent client repository
+- [transmission/transmission](https://github.com/transmission/transmission) ([4.0.4](https://github.com/transmission/transmission/releases/tag/4.0.4), 1 month ago) - Official Transmission BitTorrent client repository
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([1.5.0](https://github.com/cxong/cdogs-sdl/releases/tag/1.5.0), 2 months ago) - Classic overhead run-and-gun game
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 8 months ago) - An accessible, open-source lightbox with no dependencies
 - [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 10 months ago) - CLI tool for DontBore
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [rafael2k/darkice](https://github.com/rafael2k/darkice) - DarkIce is a live audio streamer. It records audio from an audio interface (e.g. sound card), encodes it and sends it to a streaming server.  This is the official development repository of Darkice. (2 days ago)
+- [rafael2k/darkice](https://github.com/rafael2k/darkice) - DarkIce is a live audio streamer. It records audio from an audio interface (e.g. sound card), encodes it and sends it to a streaming server.  This is the official development repository of Darkice. (3 days ago)
 - [viewizard/astromenace](https://github.com/viewizard/astromenace) - Hardcore 3D space scroll-shooter with spaceship upgrade possibilities. (1 week ago)
 - [afwbkbc/glsmac](https://github.com/afwbkbc/glsmac) - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier&#39;s Alpha Centauri ( &#43; Alien Crossfire ) (2 weeks ago)
 - [hannesm/jackline](https://github.com/hannesm/jackline) - minimalistic secure XMPP client in OCaml (2 weeks ago)
