@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (2 days ago)
-- [lokal-ninja/saskatchewan](https://github.com/lokal-ninja/saskatchewan) -  (2 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (2 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (2 days ago)
+- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (3 days ago)
+- [lokal-ninja/saskatchewan](https://github.com/lokal-ninja/saskatchewan) -  (3 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (3 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -60,10 +60,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [rafael2k/darkice](https://github.com/rafael2k/darkice) - DarkIce is a live audio streamer. It records audio from an audio interface (e.g. sound card), encodes it and sends it to a streaming server.  This is the official development repository of Darkice. (5 days ago)
+- [rafael2k/darkice](https://github.com/rafael2k/darkice) - DarkIce is a live audio streamer. It records audio from an audio interface (e.g. sound card), encodes it and sends it to a streaming server.  This is the official development repository of Darkice. (6 days ago)
 - [viewizard/astromenace](https://github.com/viewizard/astromenace) - Hardcore 3D space scroll-shooter with spaceship upgrade possibilities. (1 week ago)
 - [afwbkbc/glsmac](https://github.com/afwbkbc/glsmac) - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier&#39;s Alpha Centauri ( &#43; Alien Crossfire ) (2 weeks ago)
-- [hannesm/jackline](https://github.com/hannesm/jackline) - minimalistic secure XMPP client in OCaml (2 weeks ago)
+- [hannesm/jackline](https://github.com/hannesm/jackline) - minimalistic secure XMPP client in OCaml (3 weeks ago)
 - [mwenge/tempest2k](https://github.com/mwenge/tempest2k) - Tempest 2000 (1994) by Jeff Minter (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
