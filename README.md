@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (5 days ago)
-- [lokal-ninja/ghana](https://github.com/lokal-ninja/ghana) -  (5 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (5 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (5 days ago)
+- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (6 days ago)
+- [lokal-ninja/ghana](https://github.com/lokal-ninja/ghana) -  (6 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (6 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (6 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -50,7 +50,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [](https://midzer.de/eierlikoerkuchen) (5 months ago)
 - [](https://midzer.de/a-short-guideline-for-getting-stuff-done-without-ai) (6 months ago)
 - [](https://midzer.de/omas-faschingskrapfen) (7 months ago)
-- [](https://midzer.de/eine-frage-des-geldes) (7 months ago)
+- [](https://midzer.de/eine-frage-des-geldes) (8 months ago)
 
 #### 📓 Gists I wrote
 
