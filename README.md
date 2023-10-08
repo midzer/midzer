@@ -60,8 +60,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [rafael2k/darkice](https://github.com/rafael2k/darkice) - DarkIce is a live audio streamer. It records audio from an audio interface (e.g. sound card), encodes it and sends it to a streaming server.  This is the official development repository of Darkice. (1 week ago)
-- [viewizard/astromenace](https://github.com/viewizard/astromenace) - Hardcore 3D space scroll-shooter with spaceship upgrade possibilities. (2 weeks ago)
+- [rafael2k/darkice](https://github.com/rafael2k/darkice) - DarkIce is a live audio streamer. It records audio from an audio interface (e.g. sound card), encodes it and sends it to a streaming server.  This is the official development repository of Darkice. (2 weeks ago)
+- [viewizard/astromenace](https://github.com/viewizard/astromenace) - Hardcore 3D space scroll-shooter with spaceship upgrade possibilities. (3 weeks ago)
 - [afwbkbc/glsmac](https://github.com/afwbkbc/glsmac) - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier&#39;s Alpha Centauri ( &#43; Alien Crossfire ) (3 weeks ago)
 - [hannesm/jackline](https://github.com/hannesm/jackline) - minimalistic secure XMPP client in OCaml (4 weeks ago)
 - [mwenge/tempest2k](https://github.com/mwenge/tempest2k) - Tempest 2000 (1994) by Jeff Minter (1 month ago)
