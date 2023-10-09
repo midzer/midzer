@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M116.0.5845.169](https://github.com/Alex313031/thorium/releases/tag/M116.0.5845.169), 1 month ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M117.0.5938.157](https://github.com/Alex313031/thorium/releases/tag/M117.0.5938.157), today) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [transmission/transmission](https://github.com/transmission/transmission) ([4.0.4](https://github.com/transmission/transmission/releases/tag/4.0.4), 1 month ago) - Official Transmission BitTorrent client repository
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([1.5.0](https://github.com/cxong/cdogs-sdl/releases/tag/1.5.0), 2 months ago) - Classic overhead run-and-gun game
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 8 months ago) - An accessible, open-source lightbox with no dependencies
@@ -62,8 +62,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [rafael2k/darkice](https://github.com/rafael2k/darkice) - DarkIce is a live audio streamer. It records audio from an audio interface (e.g. sound card), encodes it and sends it to a streaming server.  This is the official development repository of Darkice. (2 weeks ago)
 - [viewizard/astromenace](https://github.com/viewizard/astromenace) - Hardcore 3D space scroll-shooter with spaceship upgrade possibilities. (3 weeks ago)
-- [afwbkbc/glsmac](https://github.com/afwbkbc/glsmac) - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier&#39;s Alpha Centauri ( &#43; Alien Crossfire ) (3 weeks ago)
-- [hannesm/jackline](https://github.com/hannesm/jackline) - minimalistic secure XMPP client in OCaml (4 weeks ago)
+- [afwbkbc/glsmac](https://github.com/afwbkbc/glsmac) - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier&#39;s Alpha Centauri ( &#43; Alien Crossfire ) (4 weeks ago)
+- [hannesm/jackline](https://github.com/hannesm/jackline) - minimalistic secure XMPP client in OCaml (1 month ago)
 - [mwenge/tempest2k](https://github.com/mwenge/tempest2k) - Tempest 2000 (1994) by Jeff Minter (1 month ago)
 
 #### 👯 Check out some of my recent followers
