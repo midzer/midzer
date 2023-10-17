@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/virginia](https://github.com/lokal-ninja/virginia) -  (3 days ago)
-- [lokal-ninja/puerto-rico](https://github.com/lokal-ninja/puerto-rico) -  (3 days ago)
-- [lokal-ninja/oklahoma](https://github.com/lokal-ninja/oklahoma) -  (3 days ago)
-- [lokal-ninja/vermont](https://github.com/lokal-ninja/vermont) -  (3 days ago)
-- [lokal-ninja/west-virginia](https://github.com/lokal-ninja/west-virginia) -  (3 days ago)
+- [lokal-ninja/virginia](https://github.com/lokal-ninja/virginia) -  (4 days ago)
+- [lokal-ninja/puerto-rico](https://github.com/lokal-ninja/puerto-rico) -  (4 days ago)
+- [lokal-ninja/oklahoma](https://github.com/lokal-ninja/oklahoma) -  (4 days ago)
+- [lokal-ninja/vermont](https://github.com/lokal-ninja/vermont) -  (4 days ago)
+- [lokal-ninja/west-virginia](https://github.com/lokal-ninja/west-virginia) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -49,7 +49,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [](https://midzer.de/how-to-win-an-online-conversation-legally) (1 month ago)
 - [](https://midzer.de/eierlikoerkuchen) (5 months ago)
 - [](https://midzer.de/a-short-guideline-for-getting-stuff-done-without-ai) (6 months ago)
-- [](https://midzer.de/omas-faschingskrapfen) (7 months ago)
+- [](https://midzer.de/omas-faschingskrapfen) (8 months ago)
 - [](https://midzer.de/eine-frage-des-geldes) (8 months ago)
 
 #### 📓 Gists I wrote
@@ -61,7 +61,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ⭐ Recent stars
 
 - [rafael2k/darkice](https://github.com/rafael2k/darkice) - DarkIce is a live audio streamer. It records audio from an audio interface (e.g. sound card), encodes it and sends it to a streaming server.  This is the official development repository of Darkice. (3 weeks ago)
-- [viewizard/astromenace](https://github.com/viewizard/astromenace) - Hardcore 3D space scroll-shooter with spaceship upgrade possibilities. (4 weeks ago)
+- [viewizard/astromenace](https://github.com/viewizard/astromenace) - Hardcore 3D space scroll-shooter with spaceship upgrade possibilities. (1 month ago)
 - [afwbkbc/glsmac](https://github.com/afwbkbc/glsmac) - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier&#39;s Alpha Centauri ( &#43; Alien Crossfire ) (1 month ago)
 - [hannesm/jackline](https://github.com/hannesm/jackline) - minimalistic secure XMPP client in OCaml (1 month ago)
 - [mwenge/tempest2k](https://github.com/mwenge/tempest2k) - Tempest 2000 (1994) by Jeff Minter (1 month ago)
