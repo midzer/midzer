@@ -68,11 +68,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [ziagakisthanos](https://github.com/ziagakisthanos)
 - [silentpatrik](https://github.com/silentpatrik)
 - [ThatMarko](https://github.com/ThatMarko)
 - [muhammed-mukthar](https://github.com/muhammed-mukthar)
 - [yeabsira-mesfin](https://github.com/yeabsira-mesfin)
-- [postprivee](https://github.com/postprivee)
 
 #### 💬 Feedback
 
