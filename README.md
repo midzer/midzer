@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/ghana](https://github.com/lokal-ninja/ghana) -  (today)
+- [lokal-ninja/australia](https://github.com/lokal-ninja/australia) -  (today)
 - [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (today)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
 - [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
@@ -34,7 +34,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [transmission/transmission](https://github.com/transmission/transmission) ([4.0.4](https://github.com/transmission/transmission/releases/tag/4.0.4), 1 month ago) - Official Transmission BitTorrent client repository
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([1.5.0](https://github.com/cxong/cdogs-sdl/releases/tag/1.5.0), 2 months ago) - Classic overhead run-and-gun game
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 9 months ago) - An accessible, open-source lightbox with no dependencies
-- [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 10 months ago) - CLI tool for DontBore
+- [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 11 months ago) - CLI tool for DontBore
 
 #### 🔨 Latest Pull Requests I published
 
@@ -47,7 +47,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 📜 My recent blog posts
 
 - [](https://midzer.de/how-to-win-an-online-conversation-legally) (1 month ago)
-- [](https://midzer.de/eierlikoerkuchen) (5 months ago)
+- [](https://midzer.de/eierlikoerkuchen) (6 months ago)
 - [](https://midzer.de/a-short-guideline-for-getting-stuff-done-without-ai) (6 months ago)
 - [](https://midzer.de/omas-faschingskrapfen) (8 months ago)
 - [](https://midzer.de/eine-frage-des-geldes) (8 months ago)
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [rafael2k/darkice](https://github.com/rafael2k/darkice) - DarkIce is a live audio streamer. It records audio from an audio interface (e.g. sound card), encodes it and sends it to a streaming server.  This is the official development repository of Darkice. (3 weeks ago)
+- [rafael2k/darkice](https://github.com/rafael2k/darkice) - DarkIce is a live audio streamer. It records audio from an audio interface (e.g. sound card), encodes it and sends it to a streaming server.  This is the official development repository of Darkice. (4 weeks ago)
 - [viewizard/astromenace](https://github.com/viewizard/astromenace) - Hardcore 3D space scroll-shooter with spaceship upgrade possibilities. (1 month ago)
 - [afwbkbc/glsmac](https://github.com/afwbkbc/glsmac) - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier&#39;s Alpha Centauri ( &#43; Alien Crossfire ) (1 month ago)
 - [hannesm/jackline](https://github.com/hannesm/jackline) - minimalistic secure XMPP client in OCaml (1 month ago)
