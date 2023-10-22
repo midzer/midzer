@@ -68,11 +68,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [zZeck](https://github.com/zZeck)
 - [Zinoujoker](https://github.com/Zinoujoker)
 - [fbifido](https://github.com/fbifido)
 - [StuartStephens](https://github.com/StuartStephens)
 - [ziagakisthanos](https://github.com/ziagakisthanos)
-- [silentpatrik](https://github.com/silentpatrik)
 
 #### 💬 Feedback
 
