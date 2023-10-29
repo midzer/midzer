@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/provence-alpes-cote-d-azur](https://github.com/lokal-ninja/provence-alpes-cote-d-azur) -  (1 day ago)
+- [lokal-ninja/nord-pas-de-calais](https://github.com/lokal-ninja/nord-pas-de-calais) -  (1 day ago)
 - [lokal-ninja/mississippi](https://github.com/lokal-ninja/mississippi) -  (1 day ago)
 - [lokal-ninja/oklahoma](https://github.com/lokal-ninja/oklahoma) -  (1 day ago)
 - [lokal-ninja/puerto-rico](https://github.com/lokal-ninja/puerto-rico) -  (1 day ago)
