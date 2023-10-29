@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/provence-alpes-cote-d-azur](https://github.com/lokal-ninja/provence-alpes-cote-d-azur) -  (today)
-- [lokal-ninja/mississippi](https://github.com/lokal-ninja/mississippi) -  (today)
-- [lokal-ninja/oklahoma](https://github.com/lokal-ninja/oklahoma) -  (today)
-- [lokal-ninja/puerto-rico](https://github.com/lokal-ninja/puerto-rico) -  (today)
-- [lokal-ninja/vermont](https://github.com/lokal-ninja/vermont) -  (today)
+- [lokal-ninja/provence-alpes-cote-d-azur](https://github.com/lokal-ninja/provence-alpes-cote-d-azur) -  (1 day ago)
+- [lokal-ninja/mississippi](https://github.com/lokal-ninja/mississippi) -  (1 day ago)
+- [lokal-ninja/oklahoma](https://github.com/lokal-ninja/oklahoma) -  (1 day ago)
+- [lokal-ninja/puerto-rico](https://github.com/lokal-ninja/puerto-rico) -  (1 day ago)
+- [lokal-ninja/vermont](https://github.com/lokal-ninja/vermont) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -48,7 +48,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [](https://midzer.de/how-to-win-an-online-conversation-legally) (1 month ago)
 - [](https://midzer.de/eierlikoerkuchen) (6 months ago)
-- [](https://midzer.de/a-short-guideline-for-getting-stuff-done-without-ai) (6 months ago)
+- [](https://midzer.de/a-short-guideline-for-getting-stuff-done-without-ai) (7 months ago)
 - [](https://midzer.de/omas-faschingskrapfen) (8 months ago)
 - [](https://midzer.de/eine-frage-des-geldes) (8 months ago)
 
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [vitamin-caig/zxtune](https://github.com/vitamin-caig/zxtune) - Mirror of http://bitbucket.org/zxtune/zxtune repository with robot-only issues tracker (6 days ago)
+- [vitamin-caig/zxtune](https://github.com/vitamin-caig/zxtune) - Mirror of http://bitbucket.org/zxtune/zxtune repository with robot-only issues tracker (1 week ago)
 - [rafael2k/darkice](https://github.com/rafael2k/darkice) - DarkIce is a live audio streamer. It records audio from an audio interface (e.g. sound card), encodes it and sends it to a streaming server.  This is the official development repository of Darkice. (1 month ago)
 - [viewizard/astromenace](https://github.com/viewizard/astromenace) - Hardcore 3D space scroll-shooter with spaceship upgrade possibilities. (1 month ago)
 - [afwbkbc/glsmac](https://github.com/afwbkbc/glsmac) - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier&#39;s Alpha Centauri ( &#43; Alien Crossfire ) (1 month ago)
