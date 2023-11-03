@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (today)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
+- [lokal-ninja/aquitaine](https://github.com/lokal-ninja/aquitaine) -  (today)
+- [lokal-ninja/pays-de-la-loire](https://github.com/lokal-ninja/pays-de-la-loire) -  (today)
+- [lokal-ninja/lorraine](https://github.com/lokal-ninja/lorraine) -  (today)
+- [lokal-ninja/poitou-charentes](https://github.com/lokal-ninja/poitou-charentes) -  (today)
+- [lokal-ninja/franche-comte](https://github.com/lokal-ninja/franche-comte) -  (today)
 
 #### 🌱 My latest projects
 
@@ -46,7 +46,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/how-to-win-an-online-conversation-legally) (1 month ago)
+- [](https://midzer.de/how-to-win-an-online-conversation-legally) (2 months ago)
 - [](https://midzer.de/eierlikoerkuchen) (6 months ago)
 - [](https://midzer.de/a-short-guideline-for-getting-stuff-done-without-ai) (7 months ago)
 - [](https://midzer.de/omas-faschingskrapfen) (8 months ago)
