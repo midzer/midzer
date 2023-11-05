@@ -68,11 +68,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [Yrahate7](https://github.com/Yrahate7)
 - [mariamsdesign](https://github.com/mariamsdesign)
 - [Runa-Chin](https://github.com/Runa-Chin)
 - [zZeck](https://github.com/zZeck)
 - [Zinoujoker](https://github.com/Zinoujoker)
-- [fbifido](https://github.com/fbifido)
 
 #### 💬 Feedback
 
