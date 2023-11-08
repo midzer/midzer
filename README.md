@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/aquitaine](https://github.com/lokal-ninja/aquitaine) -  (4 days ago)
-- [lokal-ninja/pays-de-la-loire](https://github.com/lokal-ninja/pays-de-la-loire) -  (4 days ago)
-- [lokal-ninja/lorraine](https://github.com/lokal-ninja/lorraine) -  (4 days ago)
-- [lokal-ninja/poitou-charentes](https://github.com/lokal-ninja/poitou-charentes) -  (4 days ago)
-- [lokal-ninja/franche-comte](https://github.com/lokal-ninja/franche-comte) -  (4 days ago)
+- [lokal-ninja/aquitaine](https://github.com/lokal-ninja/aquitaine) -  (5 days ago)
+- [lokal-ninja/pays-de-la-loire](https://github.com/lokal-ninja/pays-de-la-loire) -  (5 days ago)
+- [lokal-ninja/lorraine](https://github.com/lokal-ninja/lorraine) -  (5 days ago)
+- [lokal-ninja/poitou-charentes](https://github.com/lokal-ninja/poitou-charentes) -  (5 days ago)
+- [lokal-ninja/franche-comte](https://github.com/lokal-ninja/franche-comte) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -64,7 +64,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [rafael2k/darkice](https://github.com/rafael2k/darkice) - DarkIce is a live audio streamer. It records audio from an audio interface (e.g. sound card), encodes it and sends it to a streaming server.  This is the official development repository of Darkice. (1 month ago)
 - [viewizard/astromenace](https://github.com/viewizard/astromenace) - Hardcore 3D space scroll-shooter with spaceship upgrade possibilities. (1 month ago)
 - [afwbkbc/glsmac](https://github.com/afwbkbc/glsmac) - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier&#39;s Alpha Centauri ( &#43; Alien Crossfire ) (1 month ago)
-- [hannesm/jackline](https://github.com/hannesm/jackline) - minimalistic secure XMPP client in OCaml (1 month ago)
+- [hannesm/jackline](https://github.com/hannesm/jackline) - minimalistic secure XMPP client in OCaml (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
