@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/aquitaine](https://github.com/lokal-ninja/aquitaine) -  (5 days ago)
-- [lokal-ninja/pays-de-la-loire](https://github.com/lokal-ninja/pays-de-la-loire) -  (5 days ago)
-- [lokal-ninja/lorraine](https://github.com/lokal-ninja/lorraine) -  (5 days ago)
-- [lokal-ninja/poitou-charentes](https://github.com/lokal-ninja/poitou-charentes) -  (5 days ago)
-- [lokal-ninja/franche-comte](https://github.com/lokal-ninja/franche-comte) -  (5 days ago)
+- [lokal-ninja/aquitaine](https://github.com/lokal-ninja/aquitaine) -  (6 days ago)
+- [lokal-ninja/pays-de-la-loire](https://github.com/lokal-ninja/pays-de-la-loire) -  (6 days ago)
+- [lokal-ninja/lorraine](https://github.com/lokal-ninja/lorraine) -  (6 days ago)
+- [lokal-ninja/poitou-charentes](https://github.com/lokal-ninja/poitou-charentes) -  (6 days ago)
+- [lokal-ninja/franche-comte](https://github.com/lokal-ninja/franche-comte) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -41,8 +41,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [add submodule](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/9) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (2 months ago)
 - [update authors and data directories](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/8) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (2 months ago)
 - [add Gemfile](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/7) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (2 months ago)
-- [replace deprecated flag](https://github.com/muesli/markscribe/pull/82) on [muesli/markscribe](https://github.com/muesli/markscribe) (3 months ago)
-- [remove deprecated replacements](https://github.com/muesli/markscribe/pull/81) on [muesli/markscribe](https://github.com/muesli/markscribe) (3 months ago)
+- [replace deprecated flag](https://github.com/muesli/markscribe/pull/82) on [muesli/markscribe](https://github.com/muesli/markscribe) (4 months ago)
+- [remove deprecated replacements](https://github.com/muesli/markscribe/pull/81) on [muesli/markscribe](https://github.com/muesli/markscribe) (4 months ago)
 
 #### 📜 My recent blog posts
 
