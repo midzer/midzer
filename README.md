@@ -22,11 +22,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🌱 My latest projects
 
+- [midzer/sdl-ball](https://github.com/midzer/sdl-ball) - Brick-breaking game like DX-Ball/Arkanoid
 - [midzer/vectoroids](https://github.com/midzer/vectoroids) - Vectoroids is a clone of the classic arcade game Asteroids by Atari
 - [midzer/lbreakouthd](https://github.com/midzer/lbreakouthd) - LBreakoutHD is a scaleable 16:9 remake of LBreakout2 ported for the web
 - [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) - Convert an online sitemap to Atom, RSS and JSON feeds
 - [midzer/faces4peace-web-service](https://github.com/midzer/faces4peace-web-service) - My face for world peace - NodeJS backend
-- [midzer/faces4peace](https://github.com/midzer/faces4peace) - My face for world peace
 
 #### 🔭 Latest releases I've contributed to
 
