@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [equeim/tremotesf2](https://github.com/equeim/tremotesf2) - Remote GUI for transmission-daemon (today)
 - [vitamin-caig/zxtune](https://github.com/vitamin-caig/zxtune) - Mirror of http://bitbucket.org/zxtune/zxtune repository with robot-only issues tracker (1 month ago)
 - [rafael2k/darkice](https://github.com/rafael2k/darkice) - DarkIce is a live audio streamer. It records audio from an audio interface (e.g. sound card), encodes it and sends it to a streaming server.  This is the official development repository of Darkice. (1 month ago)
 - [viewizard/astromenace](https://github.com/viewizard/astromenace) - Hardcore 3D space scroll-shooter with spaceship upgrade possibilities. (2 months ago)
 - [afwbkbc/glsmac](https://github.com/afwbkbc/glsmac) - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier&#39;s Alpha Centauri ( &#43; Alien Crossfire ) (2 months ago)
-- [hannesm/jackline](https://github.com/hannesm/jackline) - minimalistic secure XMPP client in OCaml (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
