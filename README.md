@@ -46,11 +46,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/how-to-win-an-online-conversation-legally) (2 months ago)
+- [](https://midzer.de/obatzda) (today)
+- [](https://midzer.de/how-to-disrupt-an-online-conversation-legally) (2 months ago)
 - [](https://midzer.de/eierlikoerkuchen) (7 months ago)
 - [](https://midzer.de/a-short-guideline-for-getting-stuff-done-without-ai) (7 months ago)
 - [](https://midzer.de/omas-faschingskrapfen) (9 months ago)
-- [](https://midzer.de/eine-frage-des-geldes) (9 months ago)
 
 #### 📓 Gists I wrote
 
