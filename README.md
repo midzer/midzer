@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [scummvm/scummvm](https://github.com/scummvm/scummvm) - ScummVM main repository (today)
 - [luciusDXL/TheForceEngine](https://github.com/luciusDXL/TheForceEngine) - Modern &#34;Jedi Engine&#34; replacement supporting Dark Forces, mods, and in the future Outlaws. (today)
 - [lukeorth/poison](https://github.com/lukeorth/poison) - Professional Hugo theme for dev bloggers.  Based on Mdo&#39;s classic Hyde theme. (4 days ago)
 - [naev/naev](https://github.com/naev/naev) - Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres. (4 days ago)
 - [fragglet/sdl-sopwith](https://github.com/fragglet/sdl-sopwith) - Classic bi-plane shoot-&#39;em up (5 days ago)
-- [alexbatalov/fallout1-ce](https://github.com/alexbatalov/fallout1-ce) - Fallout for modern operating systems (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
