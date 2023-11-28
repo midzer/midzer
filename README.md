@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 day ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 day ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (2 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (2 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -46,10 +46,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/obatzda) (2 days ago)
+- [](https://midzer.de/obatzda) (3 days ago)
 - [](https://midzer.de/how-to-disrupt-an-online-conversation-legally) (2 months ago)
 - [](https://midzer.de/eierlikoerkuchen) (7 months ago)
-- [](https://midzer.de/a-short-guideline-for-getting-stuff-done-without-ai) (7 months ago)
+- [](https://midzer.de/a-short-guideline-for-getting-stuff-done-without-ai) (8 months ago)
 - [](https://midzer.de/omas-faschingskrapfen) (9 months ago)
 
 #### 📓 Gists I wrote
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [scummvm/scummvm](https://github.com/scummvm/scummvm) - ScummVM main repository (today)
-- [luciusDXL/TheForceEngine](https://github.com/luciusDXL/TheForceEngine) - Modern &#34;Jedi Engine&#34; replacement supporting Dark Forces, mods, and in the future Outlaws. (today)
-- [lukeorth/poison](https://github.com/lukeorth/poison) - Professional Hugo theme for dev bloggers.  Based on Mdo&#39;s classic Hyde theme. (4 days ago)
-- [naev/naev](https://github.com/naev/naev) - Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres. (4 days ago)
-- [fragglet/sdl-sopwith](https://github.com/fragglet/sdl-sopwith) - Classic bi-plane shoot-&#39;em up (5 days ago)
+- [scummvm/scummvm](https://github.com/scummvm/scummvm) - ScummVM main repository (1 day ago)
+- [luciusDXL/TheForceEngine](https://github.com/luciusDXL/TheForceEngine) - Modern &#34;Jedi Engine&#34; replacement supporting Dark Forces, mods, and in the future Outlaws. (1 day ago)
+- [lukeorth/poison](https://github.com/lukeorth/poison) - Professional Hugo theme for dev bloggers.  Based on Mdo&#39;s classic Hyde theme. (5 days ago)
+- [naev/naev](https://github.com/naev/naev) - Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres. (5 days ago)
+- [fragglet/sdl-sopwith](https://github.com/fragglet/sdl-sopwith) - Classic bi-plane shoot-&#39;em up (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
