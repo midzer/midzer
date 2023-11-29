@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (3 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (3 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (3 days ago)
+- [lokal-ninja/ghana](https://github.com/lokal-ninja/ghana) -  (today)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (today)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
 
 #### 🌱 My latest projects
 
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [susam/nimb](https://github.com/susam/nimb) - NIMB IRC Matrix Bridge (NIMB) is a simple client tool that bridges IRC and Matrix channels and forwards messages from one to others (today)
 - [scummvm/scummvm](https://github.com/scummvm/scummvm) - ScummVM main repository (2 days ago)
 - [luciusDXL/TheForceEngine](https://github.com/luciusDXL/TheForceEngine) - Modern &#34;Jedi Engine&#34; replacement supporting Dark Forces, mods, and in the future Outlaws. (2 days ago)
 - [lukeorth/poison](https://github.com/lukeorth/poison) - Professional Hugo theme for dev bloggers.  Based on Mdo&#39;s classic Hyde theme. (6 days ago)
 - [naev/naev](https://github.com/naev/naev) - Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres. (6 days ago)
-- [fragglet/sdl-sopwith](https://github.com/fragglet/sdl-sopwith) - Classic bi-plane shoot-&#39;em up (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
