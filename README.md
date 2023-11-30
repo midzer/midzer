@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [TheAssemblyArmada/Vanilla-Conquer](https://github.com/TheAssemblyArmada/Vanilla-Conquer) - Vanilla Conquer provides clean, cross-platform builds of the C&amp;C Remastered Collection and the standalone legacy games. (today)
 - [susam/nimb](https://github.com/susam/nimb) - NIMB IRC Matrix Bridge (NIMB) is a simple client tool that bridges IRC and Matrix channels and forwards messages from one to others (1 day ago)
 - [scummvm/scummvm](https://github.com/scummvm/scummvm) - ScummVM main repository (3 days ago)
 - [luciusDXL/TheForceEngine](https://github.com/luciusDXL/TheForceEngine) - Modern &#34;Jedi Engine&#34; replacement supporting Dark Forces, mods, and in the future Outlaws. (3 days ago)
 - [lukeorth/poison](https://github.com/lukeorth/poison) - Professional Hugo theme for dev bloggers.  Based on Mdo&#39;s classic Hyde theme. (1 week ago)
-- [naev/naev](https://github.com/naev/naev) - Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
