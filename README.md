@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 day ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -46,7 +46,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/obatzda) (4 days ago)
+- [](https://midzer.de/obatzda) (5 days ago)
 - [](https://midzer.de/how-to-disrupt-an-online-conversation-legally) (2 months ago)
 - [](https://midzer.de/eierlikoerkuchen) (7 months ago)
 - [](https://midzer.de/a-short-guideline-for-getting-stuff-done-without-ai) (8 months ago)
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [susam/nimb](https://github.com/susam/nimb) - NIMB IRC Matrix Bridge (NIMB) is a simple client tool that bridges IRC and Matrix channels and forwards messages from one to others (today)
-- [scummvm/scummvm](https://github.com/scummvm/scummvm) - ScummVM main repository (2 days ago)
-- [luciusDXL/TheForceEngine](https://github.com/luciusDXL/TheForceEngine) - Modern &#34;Jedi Engine&#34; replacement supporting Dark Forces, mods, and in the future Outlaws. (2 days ago)
-- [lukeorth/poison](https://github.com/lukeorth/poison) - Professional Hugo theme for dev bloggers.  Based on Mdo&#39;s classic Hyde theme. (6 days ago)
-- [naev/naev](https://github.com/naev/naev) - Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres. (6 days ago)
+- [susam/nimb](https://github.com/susam/nimb) - NIMB IRC Matrix Bridge (NIMB) is a simple client tool that bridges IRC and Matrix channels and forwards messages from one to others (1 day ago)
+- [scummvm/scummvm](https://github.com/scummvm/scummvm) - ScummVM main repository (3 days ago)
+- [luciusDXL/TheForceEngine](https://github.com/luciusDXL/TheForceEngine) - Modern &#34;Jedi Engine&#34; replacement supporting Dark Forces, mods, and in the future Outlaws. (3 days ago)
+- [lukeorth/poison](https://github.com/lukeorth/poison) - Professional Hugo theme for dev bloggers.  Based on Mdo&#39;s classic Hyde theme. (1 week ago)
+- [naev/naev](https://github.com/naev/naev) - Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
