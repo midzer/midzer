@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/washington](https://github.com/lokal-ninja/washington) -  (today)
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (2 days ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (2 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (2 days ago)
+- [lokal-ninja/washington](https://github.com/lokal-ninja/washington) -  (1 day ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (3 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (3 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -46,7 +46,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/obatzda) (6 days ago)
+- [](https://midzer.de/obatzda) (1 week ago)
 - [](https://midzer.de/how-to-disrupt-an-online-conversation-legally) (2 months ago)
 - [](https://midzer.de/eierlikoerkuchen) (7 months ago)
 - [](https://midzer.de/a-short-guideline-for-getting-stuff-done-without-ai) (8 months ago)
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [freeorion/freeorion](https://github.com/freeorion/freeorion) - Source code repository of the FreeOrion project. (today)
-- [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (today)
-- [TheAssemblyArmada/Vanilla-Conquer](https://github.com/TheAssemblyArmada/Vanilla-Conquer) - Vanilla Conquer provides clean, cross-platform builds of the C&amp;C Remastered Collection and the standalone legacy games. (1 day ago)
-- [susam/nimb](https://github.com/susam/nimb) - NIMB IRC Matrix Bridge (NIMB) is a simple client tool that bridges IRC and Matrix channels and forwards messages from one to others (2 days ago)
-- [scummvm/scummvm](https://github.com/scummvm/scummvm) - ScummVM main repository (4 days ago)
+- [freeorion/freeorion](https://github.com/freeorion/freeorion) - Source code repository of the FreeOrion project. (1 day ago)
+- [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (1 day ago)
+- [TheAssemblyArmada/Vanilla-Conquer](https://github.com/TheAssemblyArmada/Vanilla-Conquer) - Vanilla Conquer provides clean, cross-platform builds of the C&amp;C Remastered Collection and the standalone legacy games. (2 days ago)
+- [susam/nimb](https://github.com/susam/nimb) - NIMB IRC Matrix Bridge (NIMB) is a simple client tool that bridges IRC and Matrix channels and forwards messages from one to others (3 days ago)
+- [scummvm/scummvm](https://github.com/scummvm/scummvm) - ScummVM main repository (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
