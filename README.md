@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (4 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (4 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (4 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (4 days ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (5 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (5 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -60,9 +60,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [freeorion/freeorion](https://github.com/freeorion/freeorion) - Source code repository of the FreeOrion project. (5 days ago)
-- [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (5 days ago)
-- [TheAssemblyArmada/Vanilla-Conquer](https://github.com/TheAssemblyArmada/Vanilla-Conquer) - Vanilla Conquer provides clean, cross-platform builds of the C&amp;C Remastered Collection and the standalone legacy games. (6 days ago)
+- [freeorion/freeorion](https://github.com/freeorion/freeorion) - Source code repository of the FreeOrion project. (6 days ago)
+- [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (6 days ago)
+- [TheAssemblyArmada/Vanilla-Conquer](https://github.com/TheAssemblyArmada/Vanilla-Conquer) - Vanilla Conquer provides clean, cross-platform builds of the C&amp;C Remastered Collection and the standalone legacy games. (1 week ago)
 - [susam/nimb](https://github.com/susam/nimb) - NIMB IRC Matrix Bridge (NIMB) is a simple client tool that bridges IRC and Matrix channels and forwards messages from one to others (1 week ago)
 - [scummvm/scummvm](https://github.com/scummvm/scummvm) - ScummVM main repository (1 week ago)
 
