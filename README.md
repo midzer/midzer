@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (3 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (3 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (3 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (4 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (4 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [transmission/transmission](https://github.com/transmission/transmission) ([4.0.5](https://github.com/transmission/transmission/releases/tag/4.0.5), 3 days ago) - Official Transmission BitTorrent client repository
+- [transmission/transmission](https://github.com/transmission/transmission) ([4.0.5](https://github.com/transmission/transmission/releases/tag/4.0.5), 4 days ago) - Official Transmission BitTorrent client repository
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([1.5.0](https://github.com/cxong/cdogs-sdl/releases/tag/1.5.0), 4 months ago) - Classic overhead run-and-gun game
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 10 months ago) - An accessible, open-source lightbox with no dependencies
 - [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 1 year ago) - CLI tool for DontBore
@@ -64,7 +64,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (1 week ago)
 - [TheAssemblyArmada/Vanilla-Conquer](https://github.com/TheAssemblyArmada/Vanilla-Conquer) - Vanilla Conquer provides clean, cross-platform builds of the C&amp;C Remastered Collection and the standalone legacy games. (1 week ago)
 - [susam/nimb](https://github.com/susam/nimb) - NIMB IRC Matrix Bridge (NIMB) is a simple client tool that bridges IRC and Matrix channels and forwards messages from one to others (1 week ago)
-- [scummvm/scummvm](https://github.com/scummvm/scummvm) - ScummVM main repository (1 week ago)
+- [scummvm/scummvm](https://github.com/scummvm/scummvm) - ScummVM main repository (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
