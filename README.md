@@ -15,24 +15,24 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 day ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 day ago)
 
 #### 🌱 My latest projects
 
+- [midzer/freesiege](https://github.com/midzer/freesiege) - An intense tetris-like wargame ported for the web
 - [midzer/sdl-ball](https://github.com/midzer/sdl-ball) - Brick-breaking game like DX-Ball/Arkanoid
 - [midzer/vectoroids](https://github.com/midzer/vectoroids) - Vectoroids is a clone of the classic arcade game Asteroids by Atari
 - [midzer/lbreakouthd](https://github.com/midzer/lbreakouthd) - LBreakoutHD is a scaleable 16:9 remake of LBreakout2 ported for the web
 - [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) - Convert an online sitemap to Atom, RSS and JSON feeds
-- [midzer/faces4peace-web-service](https://github.com/midzer/faces4peace-web-service) - My face for world peace - NodeJS backend
 
 #### 🔭 Latest releases I've contributed to
 
-- [transmission/transmission](https://github.com/transmission/transmission) ([4.0.5](https://github.com/transmission/transmission/releases/tag/4.0.5), 4 days ago) - Official Transmission BitTorrent client repository
+- [transmission/transmission](https://github.com/transmission/transmission) ([4.0.5](https://github.com/transmission/transmission/releases/tag/4.0.5), 5 days ago) - Official Transmission BitTorrent client repository
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([1.5.0](https://github.com/cxong/cdogs-sdl/releases/tag/1.5.0), 4 months ago) - Classic overhead run-and-gun game
-- [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 10 months ago) - An accessible, open-source lightbox with no dependencies
+- [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 11 months ago) - An accessible, open-source lightbox with no dependencies
 - [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 1 year ago) - CLI tool for DontBore
 - [midzer/go-cli-template](https://github.com/midzer/go-cli-template) ([v0.0.1](https://github.com/midzer/go-cli-template/releases/tag/v0.0.1), 1 year ago) - Minimal Go CLI boilerplate/template with zero dependencies
 
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [Chordian/deepsid](https://github.com/Chordian/deepsid) - The source codes for running DeepSID, a modern online SID player for the High Voltage and Compute&#39;s Gazette SID collections. (today)
+- [Chordian/deepsid](https://github.com/Chordian/deepsid) - The source codes for running DeepSID, a modern online SID player for the High Voltage and Compute&#39;s Gazette SID collections. (1 day ago)
 - [freeorion/freeorion](https://github.com/freeorion/freeorion) - Source code repository of the FreeOrion project. (1 week ago)
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (1 week ago)
 - [TheAssemblyArmada/Vanilla-Conquer](https://github.com/TheAssemblyArmada/Vanilla-Conquer) - Vanilla Conquer provides clean, cross-platform builds of the C&amp;C Remastered Collection and the standalone legacy games. (1 week ago)
