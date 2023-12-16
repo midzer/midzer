@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 day ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -46,11 +46,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/obatzda) (2 weeks ago)
+- [](https://midzer.de/obatzda) (3 weeks ago)
 - [](https://midzer.de/how-to-disrupt-an-online-conversation-legally) (3 months ago)
 - [](https://midzer.de/eierlikoerkuchen) (7 months ago)
 - [](https://midzer.de/a-short-guideline-for-getting-stuff-done-without-ai) (8 months ago)
-- [](https://midzer.de/omas-faschingskrapfen) (9 months ago)
+- [](https://midzer.de/omas-faschingskrapfen) (10 months ago)
 
 #### 📓 Gists I wrote
 
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [Chordian/deepsid](https://github.com/Chordian/deepsid) - The source codes for running DeepSID, a modern online SID player for the High Voltage and Compute&#39;s Gazette SID collections. (4 days ago)
+- [Chordian/deepsid](https://github.com/Chordian/deepsid) - The source codes for running DeepSID, a modern online SID player for the High Voltage and Compute&#39;s Gazette SID collections. (5 days ago)
 - [freeorion/freeorion](https://github.com/freeorion/freeorion) - Source code repository of the FreeOrion project. (2 weeks ago)
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (2 weeks ago)
 - [TheAssemblyArmada/Vanilla-Conquer](https://github.com/TheAssemblyArmada/Vanilla-Conquer) - Vanilla Conquer provides clean, cross-platform builds of the C&amp;C Remastered Collection and the standalone legacy games. (2 weeks ago)
