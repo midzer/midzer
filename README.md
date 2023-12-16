@@ -68,11 +68,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [ferarilalon](https://github.com/ferarilalon)
 - [KohGeek](https://github.com/KohGeek)
 - [PhylumChordata](https://github.com/PhylumChordata)
 - [blackinitial](https://github.com/blackinitial)
 - [abaynp](https://github.com/abaynp)
-- [Neustradamus](https://github.com/Neustradamus)
 
 #### 💬 Feedback
 
