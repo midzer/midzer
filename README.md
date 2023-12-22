@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (1 day ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 day ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 day ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (2 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (2 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -61,8 +61,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ⭐ Recent stars
 
 - [Chordian/deepsid](https://github.com/Chordian/deepsid) - The source codes for running DeepSID, a modern online SID player for the High Voltage and Compute&#39;s Gazette SID collections. (1 week ago)
-- [freeorion/freeorion](https://github.com/freeorion/freeorion) - Source code repository of the FreeOrion project. (2 weeks ago)
-- [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (2 weeks ago)
+- [freeorion/freeorion](https://github.com/freeorion/freeorion) - Source code repository of the FreeOrion project. (3 weeks ago)
+- [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (3 weeks ago)
 - [TheAssemblyArmada/Vanilla-Conquer](https://github.com/TheAssemblyArmada/Vanilla-Conquer) - Vanilla Conquer provides clean, cross-platform builds of the C&amp;C Remastered Collection and the standalone legacy games. (3 weeks ago)
 - [susam/nimb](https://github.com/susam/nimb) - NIMB IRC Matrix Bridge (NIMB) is a simple client tool that bridges IRC and Matrix channels and forwards messages from one to others (3 weeks ago)
 
