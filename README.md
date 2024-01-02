@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - Descent-Rebirth and Descent II-Rebirth (today)
 - [ptitSeb/gl4es](https://github.com/ptitSeb/gl4es) - GL4ES is a OpenGL 2.1/1.5 to GL ES 2.0/1.1 translation library, with support for Pandora, ODroid, OrangePI, CHIP, Raspberry PI, Android, Emscripten and AmigaOS4. (6 days ago)
 - [chrede88/qubt](https://github.com/chrede88/qubt) - Qubt - Personal blog theme for Hugo (6 days ago)
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) - Classic overhead run-and-gun game (1 week ago)
 - [alexbatalov/fallout2-ce](https://github.com/alexbatalov/fallout2-ce) - Fallout 2 for modern operating systems (1 week ago)
-- [Chordian/deepsid](https://github.com/Chordian/deepsid) - The source codes for running DeepSID, a modern online SID player for the High Voltage and Compute&#39;s Gazette SID collections. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
