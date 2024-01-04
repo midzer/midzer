@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/ireland-and-northern-ireland](https://github.com/lokal-ninja/ireland-and-northern-ireland) -  (3 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (3 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (3 days ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (3 days ago)
+- [lokal-ninja/ireland-and-northern-ireland](https://github.com/lokal-ninja/ireland-and-northern-ireland) -  (4 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (4 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (4 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -31,14 +31,14 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔭 Latest releases I've contributed to
 
 - [bjaraujo/Bombermaaan](https://github.com/bjaraujo/Bombermaaan) ([v2.2.8.2275](https://github.com/bjaraujo/Bombermaaan/releases/tag/v2.2.8.2275), 1 week ago) - Bombermaaan is inspired on the classic Bomberman game.
-- [transmission/transmission](https://github.com/transmission/transmission) ([4.0.5](https://github.com/transmission/transmission/releases/tag/4.0.5), 3 weeks ago) - Official Transmission BitTorrent client repository
+- [transmission/transmission](https://github.com/transmission/transmission) ([4.0.5](https://github.com/transmission/transmission/releases/tag/4.0.5), 4 weeks ago) - Official Transmission BitTorrent client repository
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([1.5.0](https://github.com/cxong/cdogs-sdl/releases/tag/1.5.0), 5 months ago) - Classic overhead run-and-gun game
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 11 months ago) - An accessible, open-source lightbox with no dependencies
 - [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 1 year ago) - CLI tool for DontBore
 
 #### 🔨 Latest Pull Requests I published
 
-- [Web port](https://github.com/dxx-rebirth/dxx-rebirth/pull/746) on [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) (today)
+- [Web port](https://github.com/dxx-rebirth/dxx-rebirth/pull/746) on [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) (1 day ago)
 - [add submodule](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/9) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (4 months ago)
 - [update authors and data directories](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/8) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (4 months ago)
 - [add Gemfile](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/7) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (4 months ago)
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - Descent-Rebirth and Descent II-Rebirth (1 day ago)
+- [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - Descent-Rebirth and Descent II-Rebirth (2 days ago)
 - [ptitSeb/gl4es](https://github.com/ptitSeb/gl4es) - GL4ES is a OpenGL 2.1/1.5 to GL ES 2.0/1.1 translation library, with support for Pandora, ODroid, OrangePI, CHIP, Raspberry PI, Android, Emscripten and AmigaOS4. (1 week ago)
 - [chrede88/qubt](https://github.com/chrede88/qubt) - Qubt - Personal blog theme for Hugo (1 week ago)
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) - Classic overhead run-and-gun game (1 week ago)
