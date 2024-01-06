@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (1 day ago)
+- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (1 day ago)
 - [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
 - [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 day ago)
@@ -68,11 +68,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [sigvef](https://github.com/sigvef)
 - [Marcushawley](https://github.com/Marcushawley)
 - [ferarilalon](https://github.com/ferarilalon)
 - [KohGeek](https://github.com/KohGeek)
 - [PhylumChordata](https://github.com/PhylumChordata)
-- [blackinitial](https://github.com/blackinitial)
 
 #### 💬 Feedback
 
