@@ -38,11 +38,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [Replace manual delays by frame time measurement](https://github.com/dxx-rebirth/dxx-rebirth/pull/750) on [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) (today)
 - [Web port](https://github.com/dxx-rebirth/dxx-rebirth/pull/746) on [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) (6 days ago)
 - [add submodule](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/9) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (4 months ago)
 - [update authors and data directories](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/8) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (4 months ago)
 - [add Gemfile](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/7) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (4 months ago)
-- [replace deprecated flag](https://github.com/muesli/markscribe/pull/82) on [muesli/markscribe](https://github.com/muesli/markscribe) (6 months ago)
 
 #### 📜 My recent blog posts
 
