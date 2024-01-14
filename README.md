@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (4 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (4 days ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (4 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (5 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (5 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -31,22 +31,22 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔭 Latest releases I've contributed to
 
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M119.0.6045.214](https://github.com/Alex313031/thorium/releases/tag/M119.0.6045.214), 1 week ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
-- [bjaraujo/Bombermaaan](https://github.com/bjaraujo/Bombermaaan) ([v2.2.8.2275](https://github.com/bjaraujo/Bombermaaan/releases/tag/v2.2.8.2275), 2 weeks ago) - Bombermaaan is inspired on the classic Bomberman game.
+- [bjaraujo/Bombermaaan](https://github.com/bjaraujo/Bombermaaan) ([v2.2.8.2275](https://github.com/bjaraujo/Bombermaaan/releases/tag/v2.2.8.2275), 3 weeks ago) - Bombermaaan is inspired on the classic Bomberman game.
 - [transmission/transmission](https://github.com/transmission/transmission) ([4.0.5](https://github.com/transmission/transmission/releases/tag/4.0.5), 1 month ago) - Official Transmission BitTorrent client repository
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([1.5.0](https://github.com/cxong/cdogs-sdl/releases/tag/1.5.0), 5 months ago) - Classic overhead run-and-gun game
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.5.0](https://github.com/midzer/tobii/releases/tag/v2.5.0), 1 year ago) - An accessible, open-source lightbox with no dependencies
 
 #### 🔨 Latest Pull Requests I published
 
-- [reduce CPU usage and better rendering for all resolutions](https://github.com/JoseTomasTocino/freegemas/pull/42) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (2 days ago)
-- [Replace manual delays by frame time measurement](https://github.com/dxx-rebirth/dxx-rebirth/pull/750) on [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) (4 days ago)
+- [reduce CPU usage and better rendering for all resolutions](https://github.com/JoseTomasTocino/freegemas/pull/42) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (3 days ago)
+- [Replace manual delays by frame time measurement](https://github.com/dxx-rebirth/dxx-rebirth/pull/750) on [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) (5 days ago)
 - [Web port](https://github.com/dxx-rebirth/dxx-rebirth/pull/746) on [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) (1 week ago)
 - [add submodule](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/9) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (4 months ago)
 - [update authors and data directories](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/8) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (4 months ago)
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/the-future-is-remix) (2 days ago)
+- [](https://midzer.de/the-future-is-remix) (3 days ago)
 - [](https://midzer.de/obatzda) (1 month ago)
 - [](https://midzer.de/how-to-disrupt-an-online-conversation-legally) (4 months ago)
 - [](https://midzer.de/eierlikoerkuchen) (8 months ago)
