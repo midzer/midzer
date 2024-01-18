@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (3 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (3 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (3 days ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (3 days ago)
+- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (4 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (4 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (4 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -38,7 +38,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [reduce CPU usage and better rendering for all resolutions](https://github.com/JoseTomasTocino/freegemas/pull/42) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (6 days ago)
+- [reduce CPU usage and better rendering for all resolutions](https://github.com/JoseTomasTocino/freegemas/pull/42) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (1 week ago)
 - [Replace manual delays by frame time measurement](https://github.com/dxx-rebirth/dxx-rebirth/pull/750) on [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) (1 week ago)
 - [Web port](https://github.com/dxx-rebirth/dxx-rebirth/pull/746) on [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) (2 weeks ago)
 - [add submodule](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/9) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (4 months ago)
@@ -46,7 +46,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/the-future-is-remix) (6 days ago)
+- [](https://midzer.de/the-future-is-remix) (1 week ago)
 - [](https://midzer.de/obatzda) (1 month ago)
 - [](https://midzer.de/how-to-disrupt-an-online-conversation-legally) (4 months ago)
 - [](https://midzer.de/eierlikoerkuchen) (8 months ago)
@@ -60,9 +60,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [sezero/quakespasm](https://github.com/sezero/quakespasm) - QuakeSpasm -- A modern, cross-platform Quake game engine based on FitzQuake. (3 days ago)
+- [sezero/quakespasm](https://github.com/sezero/quakespasm) - QuakeSpasm -- A modern, cross-platform Quake game engine based on FitzQuake. (4 days ago)
 - [astoilkov/main-thread-scheduling](https://github.com/astoilkov/main-thread-scheduling) - Fast and consistently responsive apps using a single function call (1 week ago)
-- [ptitSeb/friking-shark](https://github.com/ptitSeb/friking-shark) - Port of Friking Shark (remake of Flying Shark) on the OpenPandora, Odroid and most Linux. Also with AmigaOS4 support. Status: Working (using gl4es). (1 week ago)
+- [ptitSeb/friking-shark](https://github.com/ptitSeb/friking-shark) - Port of Friking Shark (remake of Flying Shark) on the OpenPandora, Odroid and most Linux. Also with AmigaOS4 support. Status: Working (using gl4es). (2 weeks ago)
 - [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - Descent-Rebirth and Descent II-Rebirth (2 weeks ago)
 - [ptitSeb/gl4es](https://github.com/ptitSeb/gl4es) - GL4ES is a OpenGL 2.1/1.5 to GL ES 2.0/1.1 translation library, with support for Pandora, ODroid, OrangePI, CHIP, Raspberry PI, Android, Emscripten and AmigaOS4. (3 weeks ago)
 
