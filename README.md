@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
+- [lokal-ninja/ghana](https://github.com/lokal-ninja/ghana) -  (today)
 - [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (today)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/south-africa](https://github.com/lokal-ninja/south-africa) -  (5 days ago)
-- [lokal-ninja/mecklenburg-vorpommern](https://github.com/lokal-ninja/mecklenburg-vorpommern) -  (5 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
 
 #### 🌱 My latest projects
 
@@ -46,11 +46,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
+- [](https://midzer.de/kaiserschmarrn) (today)
 - [](https://midzer.de/the-future-is-remix) (1 week ago)
 - [](https://midzer.de/obatzda) (1 month ago)
 - [](https://midzer.de/how-to-disrupt-an-online-conversation-legally) (4 months ago)
 - [](https://midzer.de/eierlikoerkuchen) (8 months ago)
-- [](https://midzer.de/a-short-guideline-for-getting-stuff-done-without-ai) (9 months ago)
 
 #### 📓 Gists I wrote
 
