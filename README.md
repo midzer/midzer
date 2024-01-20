@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 day ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M119.0.6045.214](https://github.com/Alex313031/thorium/releases/tag/M119.0.6045.214), 1 week ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M119.0.6045.214](https://github.com/Alex313031/thorium/releases/tag/M119.0.6045.214), 2 weeks ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 2 weeks ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 - [bjaraujo/Bombermaaan](https://github.com/bjaraujo/Bombermaaan) ([v2.2.8.2275](https://github.com/bjaraujo/Bombermaaan/releases/tag/v2.2.8.2275), 3 weeks ago) - Bombermaaan is inspired on the classic Bomberman game.
 - [transmission/transmission](https://github.com/transmission/transmission) ([4.0.5](https://github.com/transmission/transmission/releases/tag/4.0.5), 1 month ago) - Official Transmission BitTorrent client repository
@@ -38,7 +38,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix typos](https://github.com/kcat/openal-soft/pull/964) on [kcat/openal-soft](https://github.com/kcat/openal-soft) (1 day ago)
+- [fix typos](https://github.com/kcat/openal-soft/pull/964) on [kcat/openal-soft](https://github.com/kcat/openal-soft) (2 days ago)
 - [reduce CPU usage and better rendering for all resolutions](https://github.com/JoseTomasTocino/freegemas/pull/42) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (1 week ago)
 - [Replace manual delays by frame time measurement](https://github.com/dxx-rebirth/dxx-rebirth/pull/750) on [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) (1 week ago)
 - [Web port](https://github.com/dxx-rebirth/dxx-rebirth/pull/746) on [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) (2 weeks ago)
@@ -46,11 +46,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/kaiserschmarrn) (today)
+- [](https://midzer.de/kaiserschmarrn) (1 day ago)
 - [](https://midzer.de/the-future-is-remix) (1 week ago)
 - [](https://midzer.de/obatzda) (1 month ago)
 - [](https://midzer.de/how-to-disrupt-an-online-conversation-legally) (4 months ago)
-- [](https://midzer.de/eierlikoerkuchen) (8 months ago)
+- [](https://midzer.de/eierlikoerkuchen) (9 months ago)
 
 #### 📓 Gists I wrote
 
@@ -60,8 +60,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [sezero/quakespasm](https://github.com/sezero/quakespasm) - QuakeSpasm -- A modern, cross-platform Quake game engine based on FitzQuake. (5 days ago)
-- [astoilkov/main-thread-scheduling](https://github.com/astoilkov/main-thread-scheduling) - Fast and consistently responsive apps using a single function call (1 week ago)
+- [sezero/quakespasm](https://github.com/sezero/quakespasm) - QuakeSpasm -- A modern, cross-platform Quake game engine based on FitzQuake. (6 days ago)
+- [astoilkov/main-thread-scheduling](https://github.com/astoilkov/main-thread-scheduling) - Fast and consistently responsive apps using a single function call (2 weeks ago)
 - [ptitSeb/friking-shark](https://github.com/ptitSeb/friking-shark) - Port of Friking Shark (remake of Flying Shark) on the OpenPandora, Odroid and most Linux. Also with AmigaOS4 support. Status: Working (using gl4es). (2 weeks ago)
 - [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - Descent-Rebirth and Descent II-Rebirth (2 weeks ago)
 - [ptitSeb/gl4es](https://github.com/ptitSeb/gl4es) - GL4ES is a OpenGL 2.1/1.5 to GL ES 2.0/1.1 translation library, with support for Pandora, ODroid, OrangePI, CHIP, Raspberry PI, Android, Emscripten and AmigaOS4. (3 weeks ago)
