@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (4 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
-- [lokal-ninja/hamburg](https://github.com/lokal-ninja/hamburg) -  (4 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (4 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (5 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
+- [lokal-ninja/hamburg](https://github.com/lokal-ninja/hamburg) -  (5 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -34,21 +34,21 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 3 weeks ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 - [bjaraujo/Bombermaaan](https://github.com/bjaraujo/Bombermaaan) ([v2.2.8.2275](https://github.com/bjaraujo/Bombermaaan/releases/tag/v2.2.8.2275), 1 month ago) - Bombermaaan is inspired on the classic Bomberman game.
 - [transmission/transmission](https://github.com/transmission/transmission) ([4.0.5](https://github.com/transmission/transmission/releases/tag/4.0.5), 1 month ago) - Official Transmission BitTorrent client repository
-- [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([1.5.0](https://github.com/cxong/cdogs-sdl/releases/tag/1.5.0), 5 months ago) - Classic overhead run-and-gun game
+- [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([1.5.0](https://github.com/cxong/cdogs-sdl/releases/tag/1.5.0), 6 months ago) - Classic overhead run-and-gun game
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix typos](https://github.com/kcat/openal-soft/pull/964) on [kcat/openal-soft](https://github.com/kcat/openal-soft) (5 days ago)
+- [fix typos](https://github.com/kcat/openal-soft/pull/964) on [kcat/openal-soft](https://github.com/kcat/openal-soft) (6 days ago)
 - [reduce CPU usage and better rendering for all resolutions](https://github.com/JoseTomasTocino/freegemas/pull/42) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (1 week ago)
 - [Replace manual delays by frame time measurement](https://github.com/dxx-rebirth/dxx-rebirth/pull/750) on [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) (2 weeks ago)
-- [Web port](https://github.com/dxx-rebirth/dxx-rebirth/pull/746) on [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) (2 weeks ago)
-- [add submodule](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/9) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (4 months ago)
+- [Web port](https://github.com/dxx-rebirth/dxx-rebirth/pull/746) on [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) (3 weeks ago)
+- [add submodule](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/9) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (5 months ago)
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/kaiserschmarrn) (4 days ago)
+- [](https://midzer.de/kaiserschmarrn) (5 days ago)
 - [](https://midzer.de/the-future-is-remix) (1 week ago)
-- [](https://midzer.de/obatzda) (1 month ago)
+- [](https://midzer.de/obatzda) (2 months ago)
 - [](https://midzer.de/how-to-disrupt-an-online-conversation-legally) (4 months ago)
 - [](https://midzer.de/eierlikoerkuchen) (9 months ago)
 
@@ -64,7 +64,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [astoilkov/main-thread-scheduling](https://github.com/astoilkov/main-thread-scheduling) - Fast and consistently responsive apps using a single function call (2 weeks ago)
 - [ptitSeb/friking-shark](https://github.com/ptitSeb/friking-shark) - Port of Friking Shark (remake of Flying Shark) on the OpenPandora, Odroid and most Linux. Also with AmigaOS4 support. Status: Working (using gl4es). (2 weeks ago)
 - [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - Descent-Rebirth and Descent II-Rebirth (3 weeks ago)
-- [ptitSeb/gl4es](https://github.com/ptitSeb/gl4es) - GL4ES is a OpenGL 2.1/1.5 to GL ES 2.0/1.1 translation library, with support for Pandora, ODroid, OrangePI, CHIP, Raspberry PI, Android, Emscripten and AmigaOS4. (3 weeks ago)
+- [ptitSeb/gl4es](https://github.com/ptitSeb/gl4es) - GL4ES is a OpenGL 2.1/1.5 to GL ES 2.0/1.1 translation library, with support for Pandora, ODroid, OrangePI, CHIP, Raspberry PI, Android, Emscripten and AmigaOS4. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
