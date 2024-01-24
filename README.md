@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (today)
+- [lokal-ninja/ghana](https://github.com/lokal-ninja/ghana) -  (today)
 - [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (today)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/nordrhein-westfalen](https://github.com/lokal-ninja/nordrhein-westfalen) -  (today)
-- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (today)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M120.0.6099.235](https://github.com/Alex313031/thorium/releases/tag/M120.0.6099.235), today) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 3 weeks ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 - [bjaraujo/Bombermaaan](https://github.com/bjaraujo/Bombermaaan) ([v2.2.8.2275](https://github.com/bjaraujo/Bombermaaan/releases/tag/v2.2.8.2275), 1 month ago) - Bombermaaan is inspired on the classic Bomberman game.
 - [transmission/transmission](https://github.com/transmission/transmission) ([4.0.5](https://github.com/transmission/transmission/releases/tag/4.0.5), 1 month ago) - Official Transmission BitTorrent client repository
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([1.5.0](https://github.com/cxong/cdogs-sdl/releases/tag/1.5.0), 6 months ago) - Classic overhead run-and-gun game
-- [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 1 year ago) - CLI tool for DontBore
 
 #### 🔨 Latest Pull Requests I published
 
