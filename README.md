@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (today)
-- [lokal-ninja/aquitaine](https://github.com/lokal-ninja/aquitaine) -  (today)
-- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (today)
-- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (today)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (1 day ago)
+- [lokal-ninja/aquitaine](https://github.com/lokal-ninja/aquitaine) -  (1 day ago)
+- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (1 day ago)
+- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 2 days ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
+- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 3 days ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M120.0.6099.235](https://github.com/Alex313031/thorium/releases/tag/M120.0.6099.235), 1 week ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [bjaraujo/Bombermaaan](https://github.com/bjaraujo/Bombermaaan) ([v2.2.8.2275](https://github.com/bjaraujo/Bombermaaan/releases/tag/v2.2.8.2275), 1 month ago) - Bombermaaan is inspired on the classic Bomberman game.
 - [transmission/transmission](https://github.com/transmission/transmission) ([4.0.5](https://github.com/transmission/transmission/releases/tag/4.0.5), 1 month ago) - Official Transmission BitTorrent client repository
@@ -41,12 +41,12 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [fix typos](https://github.com/kcat/openal-soft/pull/964) on [kcat/openal-soft](https://github.com/kcat/openal-soft) (2 weeks ago)
 - [reduce CPU usage and better rendering for all resolutions](https://github.com/JoseTomasTocino/freegemas/pull/42) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (3 weeks ago)
 - [Replace manual delays by frame time measurement](https://github.com/dxx-rebirth/dxx-rebirth/pull/750) on [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) (3 weeks ago)
-- [Web port](https://github.com/dxx-rebirth/dxx-rebirth/pull/746) on [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) (4 weeks ago)
+- [Web port](https://github.com/dxx-rebirth/dxx-rebirth/pull/746) on [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) (1 month ago)
 - [add submodule](https://github.com/drjekyllthemes/drjekyllthemes.github.io/pull/9) on [drjekyllthemes/drjekyllthemes.github.io](https://github.com/drjekyllthemes/drjekyllthemes.github.io) (5 months ago)
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/kaiserschmarrn) (1 week ago)
+- [](https://midzer.de/kaiserschmarrn) (2 weeks ago)
 - [](https://midzer.de/the-future-is-remix) (3 weeks ago)
 - [](https://midzer.de/obatzda) (2 months ago)
 - [](https://midzer.de/how-to-disrupt-an-online-conversation-legally) (5 months ago)
