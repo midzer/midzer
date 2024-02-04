@@ -15,10 +15,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
-- [lokal-ninja/alabama](https://github.com/lokal-ninja/alabama) -  (3 days ago)
+- [lokal-ninja/australia](https://github.com/lokal-ninja/australia) -  (3 days ago)
+- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (3 days ago)
 - [lokal-ninja/bourgogne](https://github.com/lokal-ninja/bourgogne) -  (3 days ago)
 - [lokal-ninja/aquitaine](https://github.com/lokal-ninja/aquitaine) -  (3 days ago)
-- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (3 days ago)
 
 #### 🌱 My latest projects
 
