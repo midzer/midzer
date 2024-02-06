@@ -16,9 +16,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
 - [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (today)
-- [lokal-ninja/nordrhein-westfalen](https://github.com/lokal-ninja/nordrhein-westfalen) -  (today)
-- [lokal-ninja/rheinland-pfalz](https://github.com/lokal-ninja/rheinland-pfalz) -  (today)
-- [lokal-ninja/saarland](https://github.com/lokal-ninja/saarland) -  (today)
+- [lokal-ninja/aquitaine](https://github.com/lokal-ninja/aquitaine) -  (today)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (today)
+- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (today)
 
 #### 🌱 My latest projects
 
