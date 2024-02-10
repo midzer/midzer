@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (3 days ago)
-- [lokal-ninja/australia](https://github.com/lokal-ninja/australia) -  (3 days ago)
-- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (3 days ago)
-- [lokal-ninja/ireland-and-northern-ireland](https://github.com/lokal-ninja/ireland-and-northern-ireland) -  (3 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (4 days ago)
+- [lokal-ninja/australia](https://github.com/lokal-ninja/australia) -  (4 days ago)
+- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (4 days ago)
+- [lokal-ninja/ireland-and-northern-ireland](https://github.com/lokal-ninja/ireland-and-northern-ireland) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 2 days ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
+- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 3 days ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M120.0.6099.235](https://github.com/Alex313031/thorium/releases/tag/M120.0.6099.235), 2 weeks ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [bjaraujo/Bombermaaan](https://github.com/bjaraujo/Bombermaaan) ([v2.2.8.2275](https://github.com/bjaraujo/Bombermaaan/releases/tag/v2.2.8.2275), 1 month ago) - Bombermaaan is inspired on the classic Bomberman game.
 - [transmission/transmission](https://github.com/transmission/transmission) ([4.0.5](https://github.com/transmission/transmission/releases/tag/4.0.5), 2 months ago) - Official Transmission BitTorrent client repository
@@ -38,16 +38,16 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix off by 1 error](https://github.com/skanaar/nomnoml/pull/217) on [skanaar/nomnoml](https://github.com/skanaar/nomnoml) (1 day ago)
+- [fix off by 1 error](https://github.com/skanaar/nomnoml/pull/217) on [skanaar/nomnoml](https://github.com/skanaar/nomnoml) (2 days ago)
 - [Update Hurrican](https://github.com/opengaming/osgameclones/pull/2445) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (1 week ago)
 - [fix typos](https://github.com/kcat/openal-soft/pull/964) on [kcat/openal-soft](https://github.com/kcat/openal-soft) (3 weeks ago)
-- [reduce CPU usage and better rendering for all resolutions](https://github.com/JoseTomasTocino/freegemas/pull/42) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (4 weeks ago)
+- [reduce CPU usage and better rendering for all resolutions](https://github.com/JoseTomasTocino/freegemas/pull/42) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (1 month ago)
 - [Replace manual delays by frame time measurement](https://github.com/dxx-rebirth/dxx-rebirth/pull/750) on [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) (1 month ago)
 
 #### 📜 My recent blog posts
 
 - [](https://midzer.de/kaiserschmarrn) (3 weeks ago)
-- [](https://midzer.de/the-future-is-remix) (4 weeks ago)
+- [](https://midzer.de/the-future-is-remix) (1 month ago)
 - [](https://midzer.de/obatzda) (2 months ago)
 - [](https://midzer.de/how-to-disrupt-an-online-conversation-legally) (5 months ago)
 - [](https://midzer.de/eierlikoerkuchen) (9 months ago)
@@ -60,8 +60,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [louismerlin/concrete.css](https://github.com/louismerlin/concrete.css) - A simple and to the point classless CSS framework (1 day ago)
-- [skanaar/nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer (1 day ago)
+- [louismerlin/concrete.css](https://github.com/louismerlin/concrete.css) - A simple and to the point classless CSS framework (2 days ago)
+- [skanaar/nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer (2 days ago)
 - [sezero/quakespasm](https://github.com/sezero/quakespasm) - QuakeSpasm -- A modern, cross-platform Quake game engine based on FitzQuake. (3 weeks ago)
 - [astoilkov/main-thread-scheduling](https://github.com/astoilkov/main-thread-scheduling) - Fast and consistently responsive apps using a single function call (1 month ago)
 - [ptitSeb/friking-shark](https://github.com/ptitSeb/friking-shark) - Port of Friking Shark (remake of Flying Shark) on the OpenPandora, Odroid and most Linux. Also with AmigaOS4 support. Status: Working (using gl4es). (1 month ago)
