@@ -15,18 +15,18 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
-- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (5 days ago)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (5 days ago)
+- [lokal-ninja/mecklenburg-vorpommern](https://github.com/lokal-ninja/mecklenburg-vorpommern) -  (5 days ago)
 - [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (5 days ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
+- [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (5 days ago)
 
 #### 🌱 My latest projects
 
+- [midzer/wordofday](https://github.com/midzer/wordofday) - 
 - [midzer/freesiege](https://github.com/midzer/freesiege) - An intense tetris-like wargame ported for the web
 - [midzer/sdl-ball](https://github.com/midzer/sdl-ball) - Brick-breaking game like DX-Ball/Arkanoid
 - [midzer/vectoroids](https://github.com/midzer/vectoroids) - Vectoroids is a clone of the classic arcade game Asteroids by Atari
 - [midzer/lbreakouthd](https://github.com/midzer/lbreakouthd) - LBreakoutHD is a scaleable 16:9 remake of LBreakout2 ported for the web
-- [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) - Convert an online sitemap to Atom, RSS and JSON feeds
 
 #### 🔭 Latest releases I've contributed to
 
