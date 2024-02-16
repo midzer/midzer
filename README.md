@@ -22,7 +22,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🌱 My latest projects
 
-- [midzer/wordofday](https://github.com/midzer/wordofday) - 
+- [midzer/wordofday](https://github.com/midzer/wordofday) - World’s first Deceleration-Online-Word-Game (DOWG)
 - [midzer/freesiege](https://github.com/midzer/freesiege) - An intense tetris-like wargame ported for the web
 - [midzer/sdl-ball](https://github.com/midzer/sdl-ball) - Brick-breaking game like DX-Ball/Arkanoid
 - [midzer/vectoroids](https://github.com/midzer/vectoroids) - Vectoroids is a clone of the classic arcade game Asteroids by Atari
