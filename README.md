@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (today)
-- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (today)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (today)
-- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (today)
-- [lokal-ninja/ireland-and-northern-ireland](https://github.com/lokal-ninja/ireland-and-northern-ireland) -  (today)
+- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (1 day ago)
+- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (1 day ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (1 day ago)
+- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (1 day ago)
+- [lokal-ninja/ireland-and-northern-ireland](https://github.com/lokal-ninja/ireland-and-northern-ireland) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M121.0.6167.204](https://github.com/Alex313031/thorium/releases/tag/M121.0.6167.204), 6 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M121.0.6167.204](https://github.com/Alex313031/thorium/releases/tag/M121.0.6167.204), 1 week ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([2.0.0](https://github.com/cxong/cdogs-sdl/releases/tag/2.0.0), 1 week ago) - Classic overhead run-and-gun game
 - [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 1 week ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 - [bjaraujo/Bombermaaan](https://github.com/bjaraujo/Bombermaaan) ([v2.2.8.2275](https://github.com/bjaraujo/Bombermaaan/releases/tag/v2.2.8.2275), 2 months ago) - Bombermaaan is inspired on the classic Bomberman game.
@@ -38,7 +38,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix click effect](https://github.com/andybrewer/mvp/pull/112) on [andybrewer/mvp](https://github.com/andybrewer/mvp) (3 days ago)
+- [fix click effect](https://github.com/andybrewer/mvp/pull/112) on [andybrewer/mvp](https://github.com/andybrewer/mvp) (4 days ago)
 - [lazy loading and width&#43;height for &lt;img&gt;](https://github.com/oklabflensburg/oddfl/pull/2) on [oklabflensburg/oddfl](https://github.com/oklabflensburg/oddfl) (1 week ago)
 - [fix off by 1 error](https://github.com/skanaar/nomnoml/pull/217) on [skanaar/nomnoml](https://github.com/skanaar/nomnoml) (2 weeks ago)
 - [Update Hurrican](https://github.com/opengaming/osgameclones/pull/2445) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (3 weeks ago)
