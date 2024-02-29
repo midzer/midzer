@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (2 days ago)
-- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (2 days ago)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (2 days ago)
-- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (2 days ago)
-- [lokal-ninja/arizona](https://github.com/lokal-ninja/arizona) -  (2 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (3 days ago)
+- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (3 days ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (3 days ago)
+- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (3 days ago)
+- [lokal-ninja/arizona](https://github.com/lokal-ninja/arizona) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -38,10 +38,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [more inclusive wording](https://github.com/p3t3r67x0/oklabflensburg/pull/1) on [p3t3r67x0/oklabflensburg](https://github.com/p3t3r67x0/oklabflensburg) (today)
-- [fix click effect](https://github.com/andybrewer/mvp/pull/112) on [andybrewer/mvp](https://github.com/andybrewer/mvp) (5 days ago)
-- [lazy loading and width&#43;height for &lt;img&gt;](https://github.com/oklabflensburg/oddfl/pull/2) on [oklabflensburg/oddfl](https://github.com/oklabflensburg/oddfl) (1 week ago)
-- [fix off by 1 error](https://github.com/skanaar/nomnoml/pull/217) on [skanaar/nomnoml](https://github.com/skanaar/nomnoml) (2 weeks ago)
+- [more inclusive wording](https://github.com/p3t3r67x0/oklabflensburg/pull/1) on [p3t3r67x0/oklabflensburg](https://github.com/p3t3r67x0/oklabflensburg) (1 day ago)
+- [fix click effect](https://github.com/andybrewer/mvp/pull/112) on [andybrewer/mvp](https://github.com/andybrewer/mvp) (6 days ago)
+- [lazy loading and width&#43;height for &lt;img&gt;](https://github.com/oklabflensburg/oddfl/pull/2) on [oklabflensburg/oddfl](https://github.com/oklabflensburg/oddfl) (2 weeks ago)
+- [fix off by 1 error](https://github.com/skanaar/nomnoml/pull/217) on [skanaar/nomnoml](https://github.com/skanaar/nomnoml) (3 weeks ago)
 - [Update Hurrican](https://github.com/opengaming/osgameclones/pull/2445) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (3 weeks ago)
 
 #### 📜 My recent blog posts
@@ -61,8 +61,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ⭐ Recent stars
 
 - [wjaguar/mtPaint](https://github.com/wjaguar/mtPaint) - Mark Tyler&#39;s Painting Program (1 week ago)
-- [louismerlin/concrete.css](https://github.com/louismerlin/concrete.css) - A simple and to the point classless CSS framework (2 weeks ago)
-- [skanaar/nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer (2 weeks ago)
+- [louismerlin/concrete.css](https://github.com/louismerlin/concrete.css) - A simple and to the point classless CSS framework (3 weeks ago)
+- [skanaar/nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer (3 weeks ago)
 - [sezero/quakespasm](https://github.com/sezero/quakespasm) - QuakeSpasm -- A modern, cross-platform Quake game engine based on FitzQuake. (1 month ago)
 - [astoilkov/main-thread-scheduling](https://github.com/astoilkov/main-thread-scheduling) - Fast and consistently responsive apps using a single function call (1 month ago)
 
