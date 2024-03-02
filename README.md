@@ -17,8 +17,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
 - [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (today)
 - [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (today)
-- [lokal-ninja/california](https://github.com/lokal-ninja/california) -  (today)
-- [lokal-ninja/wales](https://github.com/lokal-ninja/wales) -  (today)
+- [lokal-ninja/washington](https://github.com/lokal-ninja/washington) -  (today)
+- [lokal-ninja/ghana](https://github.com/lokal-ninja/ghana) -  (today)
 
 #### 🌱 My latest projects
 
