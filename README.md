@@ -15,18 +15,18 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (2 days ago)
+- [lokal-ninja/ireland-and-northern-ireland](https://github.com/lokal-ninja/ireland-and-northern-ireland) -  (2 days ago)
 - [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (2 days ago)
 - [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (2 days ago)
-- [lokal-ninja/new-jersey](https://github.com/lokal-ninja/new-jersey) -  (2 days ago)
+- [lokal-ninja/colorado](https://github.com/lokal-ninja/colorado) -  (2 days ago)
 
 #### 🌱 My latest projects
 
+- [midzer/feed-flensburg](https://github.com/midzer/feed-flensburg) - 
 - [midzer/wordofday](https://github.com/midzer/wordofday) - World’s first Deceleration-Online-Word-Game (DOWG)
 - [midzer/freesiege](https://github.com/midzer/freesiege) - An intense tetris-like wargame ported for the web
 - [midzer/sdl-ball](https://github.com/midzer/sdl-ball) - Brick-breaking game like DX-Ball/Arkanoid
 - [midzer/vectoroids](https://github.com/midzer/vectoroids) - Vectoroids is a clone of the classic arcade game Asteroids by Atari
-- [midzer/lbreakouthd](https://github.com/midzer/lbreakouthd) - LBreakoutHD is a scaleable 16:9 remake of LBreakout2 ported for the web
 
 #### 🔭 Latest releases I've contributed to
 
