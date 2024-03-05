@@ -15,14 +15,14 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
-- [lokal-ninja/wales](https://github.com/lokal-ninja/wales) -  (3 days ago)
+- [lokal-ninja/kenya](https://github.com/lokal-ninja/kenya) -  (3 days ago)
 - [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (3 days ago)
+- [lokal-ninja/arkansas](https://github.com/lokal-ninja/arkansas) -  (3 days ago)
 - [lokal-ninja/california](https://github.com/lokal-ninja/california) -  (3 days ago)
-- [lokal-ninja/colorado](https://github.com/lokal-ninja/colorado) -  (3 days ago)
 
 #### 🌱 My latest projects
 
-- [midzer/feed-wittichenau](https://github.com/midzer/feed-wittichenau) - 
+- [midzer/feed-wittichenau](https://github.com/midzer/feed-wittichenau) - Website showing feed of local authorities, blogs, communities and news papers
 - [midzer/feed-flensburg](https://github.com/midzer/feed-flensburg) - Website showing feed of local authorities, blogs, communities and news papers
 - [midzer/wordofday](https://github.com/midzer/wordofday) - World’s first Deceleration-Online-Word-Game (DOWG)
 - [midzer/freesiege](https://github.com/midzer/freesiege) - An intense tetris-like wargame ported for the web
