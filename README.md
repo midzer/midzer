@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (1 day ago)
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
-- [lokal-ninja/kenya](https://github.com/lokal-ninja/kenya) -  (3 days ago)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (3 days ago)
-- [lokal-ninja/new-jersey](https://github.com/lokal-ninja/new-jersey) -  (3 days ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (2 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
+- [lokal-ninja/kenya](https://github.com/lokal-ninja/kenya) -  (4 days ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (4 days ago)
+- [lokal-ninja/new-jersey](https://github.com/lokal-ninja/new-jersey) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -47,7 +47,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 📜 My recent blog posts
 
 - [](https://midzer.de/kaiserschmarrn) (1 month ago)
-- [](https://midzer.de/the-future-is-remix) (1 month ago)
+- [](https://midzer.de/the-future-is-remix) (2 months ago)
 - [](https://midzer.de/obatzda) (3 months ago)
 - [](https://midzer.de/how-to-disrupt-an-online-conversation-legally) (6 months ago)
 - [](https://midzer.de/eierlikoerkuchen) (10 months ago)
