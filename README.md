@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (2 days ago)
-- [lokal-ninja/australia](https://github.com/lokal-ninja/australia) -  (4 days ago)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (4 days ago)
-- [lokal-ninja/colorado](https://github.com/lokal-ninja/colorado) -  (4 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (3 days ago)
+- [lokal-ninja/australia](https://github.com/lokal-ninja/australia) -  (5 days ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (5 days ago)
+- [lokal-ninja/colorado](https://github.com/lokal-ninja/colorado) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -31,7 +31,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔭 Latest releases I've contributed to
 
 - [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 1 week ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M121.0.6167.204](https://github.com/Alex313031/thorium/releases/tag/M121.0.6167.204), 2 weeks ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M121.0.6167.204](https://github.com/Alex313031/thorium/releases/tag/M121.0.6167.204), 3 weeks ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([2.0.0](https://github.com/cxong/cdogs-sdl/releases/tag/2.0.0), 3 weeks ago) - Classic overhead run-and-gun game
 - [transmission/transmission](https://github.com/transmission/transmission) ([4.0.5](https://github.com/transmission/transmission/releases/tag/4.0.5), 3 months ago) - Official Transmission BitTorrent client repository
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) ([v1.14](https://github.com/andybrewer/mvp/releases/tag/v1.14), 6 months ago) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
