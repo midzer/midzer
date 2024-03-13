@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (today)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (today)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (today)
-- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (today)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (1 day ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (1 day ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (1 day ago)
+- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -38,7 +38,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [more inclusive wording](https://github.com/p3t3r67x0/oklabflensburg/pull/1) on [p3t3r67x0/oklabflensburg](https://github.com/p3t3r67x0/oklabflensburg) (1 week ago)
+- [more inclusive wording](https://github.com/p3t3r67x0/oklabflensburg/pull/1) on [p3t3r67x0/oklabflensburg](https://github.com/p3t3r67x0/oklabflensburg) (2 weeks ago)
 - [fix click effect](https://github.com/andybrewer/mvp/pull/112) on [andybrewer/mvp](https://github.com/andybrewer/mvp) (2 weeks ago)
 - [lazy loading and width&#43;height for &lt;img&gt;](https://github.com/oklabflensburg/oddfl/pull/2) on [oklabflensburg/oddfl](https://github.com/oklabflensburg/oddfl) (3 weeks ago)
 - [fix off by 1 error](https://github.com/skanaar/nomnoml/pull/217) on [skanaar/nomnoml](https://github.com/skanaar/nomnoml) (1 month ago)
