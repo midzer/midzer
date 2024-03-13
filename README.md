@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [juni2k/libmoor](https://github.com/juni2k/libmoor) - C library &#43; front-end tools for reading Moorhuhn game files. 🐔🔫 (today)
 - [wjaguar/mtPaint](https://github.com/wjaguar/mtPaint) - Mark Tyler&#39;s Painting Program (3 weeks ago)
 - [louismerlin/concrete.css](https://github.com/louismerlin/concrete.css) - A simple and to the point classless CSS framework (1 month ago)
 - [skanaar/nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer (1 month ago)
 - [sezero/quakespasm](https://github.com/sezero/quakespasm) - QuakeSpasm -- A modern, cross-platform Quake game engine based on FitzQuake. (1 month ago)
-- [astoilkov/main-thread-scheduling](https://github.com/astoilkov/main-thread-scheduling) - Fast and consistently responsive apps using a single function call (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
