@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
-- [lokal-ninja/kenya](https://github.com/lokal-ninja/kenya) -  (2 days ago)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (2 days ago)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (2 days ago)
-- [lokal-ninja/new-jersey](https://github.com/lokal-ninja/new-jersey) -  (2 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
+- [lokal-ninja/kenya](https://github.com/lokal-ninja/kenya) -  (3 days ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (3 days ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (3 days ago)
+- [lokal-ninja/new-jersey](https://github.com/lokal-ninja/new-jersey) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -39,7 +39,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔨 Latest Pull Requests I published
 
 - [more inclusive wording](https://github.com/p3t3r67x0/oklabflensburg/pull/1) on [p3t3r67x0/oklabflensburg](https://github.com/p3t3r67x0/oklabflensburg) (2 weeks ago)
-- [fix click effect](https://github.com/andybrewer/mvp/pull/112) on [andybrewer/mvp](https://github.com/andybrewer/mvp) (2 weeks ago)
+- [fix click effect](https://github.com/andybrewer/mvp/pull/112) on [andybrewer/mvp](https://github.com/andybrewer/mvp) (3 weeks ago)
 - [lazy loading and width&#43;height for &lt;img&gt;](https://github.com/oklabflensburg/oddfl/pull/2) on [oklabflensburg/oddfl](https://github.com/oklabflensburg/oddfl) (4 weeks ago)
 - [fix off by 1 error](https://github.com/skanaar/nomnoml/pull/217) on [skanaar/nomnoml](https://github.com/skanaar/nomnoml) (1 month ago)
 - [Update Hurrican](https://github.com/opengaming/osgameclones/pull/2445) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (1 month ago)
@@ -60,8 +60,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [juni2k/libmoor](https://github.com/juni2k/libmoor) - C library &#43; front-end tools for reading Moorhuhn game files. 🐔🔫 (1 day ago)
-- [wjaguar/mtPaint](https://github.com/wjaguar/mtPaint) - Mark Tyler&#39;s Painting Program (3 weeks ago)
+- [juni2k/libmoor](https://github.com/juni2k/libmoor) - C library &#43; front-end tools for reading Moorhuhn game files. 🐔🔫 (2 days ago)
+- [wjaguar/mtPaint](https://github.com/wjaguar/mtPaint) - Mark Tyler&#39;s Painting Program (4 weeks ago)
 - [louismerlin/concrete.css](https://github.com/louismerlin/concrete.css) - A simple and to the point classless CSS framework (1 month ago)
 - [skanaar/nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer (1 month ago)
 - [sezero/quakespasm](https://github.com/sezero/quakespasm) - QuakeSpasm -- A modern, cross-platform Quake game engine based on FitzQuake. (2 months ago)
