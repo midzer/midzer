@@ -68,11 +68,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [Isingeorge](https://github.com/Isingeorge)
 - [joaorceschini](https://github.com/joaorceschini)
 - [Julian-Dumitrascu](https://github.com/Julian-Dumitrascu)
 - [sigvef](https://github.com/sigvef)
 - [Marcushawley](https://github.com/Marcushawley)
-- [ferarilalon](https://github.com/ferarilalon)
 
 #### 💬 Feedback
 
