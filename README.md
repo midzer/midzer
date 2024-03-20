@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (2 days ago)
-- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (2 days ago)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (2 days ago)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (2 days ago)
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (2 days ago)
+- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (3 days ago)
+- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (3 days ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (3 days ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (3 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M122.0.6261.132](https://github.com/Alex313031/thorium/releases/tag/M122.0.6261.132), 4 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M122.0.6261.132](https://github.com/Alex313031/thorium/releases/tag/M122.0.6261.132), 5 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 2 weeks ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([2.0.0](https://github.com/cxong/cdogs-sdl/releases/tag/2.0.0), 1 month ago) - Classic overhead run-and-gun game
 - [transmission/transmission](https://github.com/transmission/transmission) ([4.0.5](https://github.com/transmission/transmission/releases/tag/4.0.5), 3 months ago) - Official Transmission BitTorrent client repository
@@ -38,7 +38,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [more inclusive wording](https://github.com/p3t3r67x0/oklabflensburg/pull/1) on [p3t3r67x0/oklabflensburg](https://github.com/p3t3r67x0/oklabflensburg) (2 weeks ago)
+- [more inclusive wording](https://github.com/p3t3r67x0/oklabflensburg/pull/1) on [p3t3r67x0/oklabflensburg](https://github.com/p3t3r67x0/oklabflensburg) (3 weeks ago)
 - [fix click effect](https://github.com/andybrewer/mvp/pull/112) on [andybrewer/mvp](https://github.com/andybrewer/mvp) (3 weeks ago)
 - [lazy loading and width&#43;height for &lt;img&gt;](https://github.com/oklabflensburg/oddfl/pull/2) on [oklabflensburg/oddfl](https://github.com/oklabflensburg/oddfl) (1 month ago)
 - [fix off by 1 error](https://github.com/skanaar/nomnoml/pull/217) on [skanaar/nomnoml](https://github.com/skanaar/nomnoml) (1 month ago)
@@ -50,7 +50,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [](https://midzer.de/the-future-is-remix) (2 months ago)
 - [](https://midzer.de/obatzda) (3 months ago)
 - [](https://midzer.de/how-to-disrupt-an-online-conversation-legally) (6 months ago)
-- [](https://midzer.de/eierlikoerkuchen) (10 months ago)
+- [](https://midzer.de/eierlikoerkuchen) (11 months ago)
 
 #### 📓 Gists I wrote
 
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [juni2k/libmoor](https://github.com/juni2k/libmoor) - C library &#43; front-end tools for reading Moorhuhn game files. 🐔🔫 (6 days ago)
+- [juni2k/libmoor](https://github.com/juni2k/libmoor) - C library &#43; front-end tools for reading Moorhuhn game files. 🐔🔫 (1 week ago)
 - [wjaguar/mtPaint](https://github.com/wjaguar/mtPaint) - Mark Tyler&#39;s Painting Program (1 month ago)
 - [louismerlin/concrete.css](https://github.com/louismerlin/concrete.css) - A simple and to the point classless CSS framework (1 month ago)
 - [skanaar/nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer (1 month ago)
@@ -68,11 +68,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [celtic-coder](https://github.com/celtic-coder)
 - [joaorceschini](https://github.com/joaorceschini)
 - [Julian-Dumitrascu](https://github.com/Julian-Dumitrascu)
 - [sigvef](https://github.com/sigvef)
 - [Marcushawley](https://github.com/Marcushawley)
-- [ferarilalon](https://github.com/ferarilalon)
 
 #### 💬 Feedback
 
