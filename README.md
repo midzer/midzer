@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
 - [lokal-ninja/ireland-and-northern-ireland](https://github.com/lokal-ninja/ireland-and-northern-ireland) -  (3 days ago)
 - [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (3 days ago)
 - [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (3 days ago)
