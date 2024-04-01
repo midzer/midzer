@@ -16,8 +16,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [lokal-ninja/nigeria](https://github.com/lokal-ninja/nigeria) -  (today)
 - [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (today)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (today)
 - [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (today)
-- [lokal-ninja/liberia](https://github.com/lokal-ninja/liberia) -  (today)
 - [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
 
 #### 🌱 My latest projects
