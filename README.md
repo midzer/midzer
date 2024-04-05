@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/oregon](https://github.com/lokal-ninja/oregon) -  (2 days ago)
-- [lokal-ninja/languedoc-roussillon](https://github.com/lokal-ninja/languedoc-roussillon) -  (2 days ago)
-- [lokal-ninja/nord-pas-de-calais](https://github.com/lokal-ninja/nord-pas-de-calais) -  (2 days ago)
-- [lokal-ninja/midi-pyrenees](https://github.com/lokal-ninja/midi-pyrenees) -  (2 days ago)
-- [lokal-ninja/texas](https://github.com/lokal-ninja/texas) -  (2 days ago)
+- [lokal-ninja/oregon](https://github.com/lokal-ninja/oregon) -  (3 days ago)
+- [lokal-ninja/languedoc-roussillon](https://github.com/lokal-ninja/languedoc-roussillon) -  (3 days ago)
+- [lokal-ninja/nord-pas-de-calais](https://github.com/lokal-ninja/nord-pas-de-calais) -  (3 days ago)
+- [lokal-ninja/midi-pyrenees](https://github.com/lokal-ninja/midi-pyrenees) -  (3 days ago)
+- [lokal-ninja/texas](https://github.com/lokal-ninja/texas) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -31,9 +31,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔭 Latest releases I've contributed to
 
 - [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 1 week ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M122.0.6261.132](https://github.com/Alex313031/thorium/releases/tag/M122.0.6261.132), 2 weeks ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M122.0.6261.132](https://github.com/Alex313031/thorium/releases/tag/M122.0.6261.132), 3 weeks ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) ([2.0.0](https://github.com/cxong/cdogs-sdl/releases/tag/2.0.0), 1 month ago) - Classic overhead run-and-gun game
-- [transmission/transmission](https://github.com/transmission/transmission) ([4.0.5](https://github.com/transmission/transmission/releases/tag/4.0.5), 3 months ago) - Official Transmission BitTorrent client repository
+- [transmission/transmission](https://github.com/transmission/transmission) ([4.0.5](https://github.com/transmission/transmission/releases/tag/4.0.5), 4 months ago) - Official Transmission BitTorrent client repository
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) ([v1.14](https://github.com/andybrewer/mvp/releases/tag/v1.14), 7 months ago) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 
 #### 🔨 Latest Pull Requests I published
