@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/puerto-rico](https://github.com/lokal-ninja/puerto-rico) -  (4 days ago)
-- [lokal-ninja/nord-pas-de-calais](https://github.com/lokal-ninja/nord-pas-de-calais) -  (4 days ago)
-- [lokal-ninja/ile-de-france](https://github.com/lokal-ninja/ile-de-france) -  (4 days ago)
-- [lokal-ninja/midi-pyrenees](https://github.com/lokal-ninja/midi-pyrenees) -  (4 days ago)
-- [lokal-ninja/languedoc-roussillon](https://github.com/lokal-ninja/languedoc-roussillon) -  (4 days ago)
+- [lokal-ninja/puerto-rico](https://github.com/lokal-ninja/puerto-rico) -  (5 days ago)
+- [lokal-ninja/nord-pas-de-calais](https://github.com/lokal-ninja/nord-pas-de-calais) -  (5 days ago)
+- [lokal-ninja/ile-de-france](https://github.com/lokal-ninja/ile-de-france) -  (5 days ago)
+- [lokal-ninja/midi-pyrenees](https://github.com/lokal-ninja/midi-pyrenees) -  (5 days ago)
+- [lokal-ninja/languedoc-roussillon](https://github.com/lokal-ninja/languedoc-roussillon) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [andybrewer/mvp](https://github.com/andybrewer/mvp) ([v1.15](https://github.com/andybrewer/mvp/releases/tag/v1.15), 1 day ago) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
+- [andybrewer/mvp](https://github.com/andybrewer/mvp) ([v1.15](https://github.com/andybrewer/mvp/releases/tag/v1.15), 2 days ago) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 1 week ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M122.0.6261.132](https://github.com/Alex313031/thorium/releases/tag/M122.0.6261.132), 3 weeks ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [transmission/transmission](https://github.com/transmission/transmission) ([4.0.5](https://github.com/transmission/transmission/releases/tag/4.0.5), 4 months ago) - Official Transmission BitTorrent client repository
@@ -60,8 +60,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [ttybitnik/diego](https://github.com/ttybitnik/diego) - A CLI tool for importing and utilizing exported social media data from popular services on Hugo websites. (1 day ago)
-- [monal-im/Monal](https://github.com/monal-im/Monal) - Monal for XMPP (iOS and macOS) (1 week ago)
+- [ttybitnik/diego](https://github.com/ttybitnik/diego) - A CLI tool for importing and utilizing exported social media data from popular services on Hugo websites. (2 days ago)
+- [monal-im/Monal](https://github.com/monal-im/Monal) - Monal for XMPP (iOS and macOS) (2 weeks ago)
 - [wintermute-cell/magick.css](https://github.com/wintermute-cell/magick.css) - magically playful, yet simple styling. all in one file. (2 weeks ago)
 - [juni2k/libmoor](https://github.com/juni2k/libmoor) - C library &#43; front-end tools for reading Moorhuhn game files. 🐔🔫 (3 weeks ago)
 - [wjaguar/mtPaint](https://github.com/wjaguar/mtPaint) - Mark Tyler&#39;s Painting Program (1 month ago)
