@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (today)
-- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (today)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (today)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (today)
-- [lokal-ninja/british-columbia](https://github.com/lokal-ninja/british-columbia) -  (today)
+- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (1 day ago)
+- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (1 day ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (1 day ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (1 day ago)
+- [lokal-ninja/british-columbia](https://github.com/lokal-ninja/british-columbia) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [andybrewer/mvp](https://github.com/andybrewer/mvp) ([v1.15](https://github.com/andybrewer/mvp/releases/tag/v1.15), 2 days ago) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
+- [andybrewer/mvp](https://github.com/andybrewer/mvp) ([v1.15](https://github.com/andybrewer/mvp/releases/tag/v1.15), 3 days ago) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 1 week ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M122.0.6261.132](https://github.com/Alex313031/thorium/releases/tag/M122.0.6261.132), 3 weeks ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [transmission/transmission](https://github.com/transmission/transmission) ([4.0.5](https://github.com/transmission/transmission/releases/tag/4.0.5), 4 months ago) - Official Transmission BitTorrent client repository
@@ -41,7 +41,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [more inclusive wording](https://github.com/p3t3r67x0/oklabflensburg/pull/1) on [p3t3r67x0/oklabflensburg](https://github.com/p3t3r67x0/oklabflensburg) (1 month ago)
 - [fix click effect](https://github.com/andybrewer/mvp/pull/112) on [andybrewer/mvp](https://github.com/andybrewer/mvp) (1 month ago)
 - [lazy loading and width&#43;height for &lt;img&gt;](https://github.com/oklabflensburg/oddfl/pull/2) on [oklabflensburg/oddfl](https://github.com/oklabflensburg/oddfl) (1 month ago)
-- [fix off by 1 error](https://github.com/skanaar/nomnoml/pull/217) on [skanaar/nomnoml](https://github.com/skanaar/nomnoml) (1 month ago)
+- [fix off by 1 error](https://github.com/skanaar/nomnoml/pull/217) on [skanaar/nomnoml](https://github.com/skanaar/nomnoml) (2 months ago)
 - [Update Hurrican](https://github.com/opengaming/osgameclones/pull/2445) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (2 months ago)
 
 #### 📜 My recent blog posts
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [ttybitnik/diego](https://github.com/ttybitnik/diego) - A CLI tool for importing and utilizing exported social media data from popular services on Hugo websites. (2 days ago)
+- [ttybitnik/diego](https://github.com/ttybitnik/diego) - A CLI tool for importing and utilizing exported social media data from popular services on Hugo websites. (3 days ago)
 - [monal-im/Monal](https://github.com/monal-im/Monal) - Monal for XMPP (iOS and macOS) (2 weeks ago)
 - [wintermute-cell/magick.css](https://github.com/wintermute-cell/magick.css) - magically playful, yet simple styling. all in one file. (2 weeks ago)
 - [juni2k/libmoor](https://github.com/juni2k/libmoor) - C library &#43; front-end tools for reading Moorhuhn game files. 🐔🔫 (3 weeks ago)
