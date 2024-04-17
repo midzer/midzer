@@ -16,9 +16,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [lokal-ninja/manitoba](https://github.com/lokal-ninja/manitoba) -  (today)
 - [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (today)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (today)
 - [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (today)
-- [lokal-ninja/alberta](https://github.com/lokal-ninja/alberta) -  (today)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (today)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
 
 #### 🌱 My latest projects
 
