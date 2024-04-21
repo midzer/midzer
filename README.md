@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/franche-comte](https://github.com/lokal-ninja/franche-comte) -  (2 days ago)
-- [lokal-ninja/midi-pyrenees](https://github.com/lokal-ninja/midi-pyrenees) -  (2 days ago)
-- [lokal-ninja/nord-pas-de-calais](https://github.com/lokal-ninja/nord-pas-de-calais) -  (2 days ago)
-- [lokal-ninja/pays-de-la-loire](https://github.com/lokal-ninja/pays-de-la-loire) -  (2 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/franche-comte](https://github.com/lokal-ninja/franche-comte) -  (3 days ago)
+- [lokal-ninja/midi-pyrenees](https://github.com/lokal-ninja/midi-pyrenees) -  (3 days ago)
+- [lokal-ninja/nord-pas-de-calais](https://github.com/lokal-ninja/nord-pas-de-calais) -  (3 days ago)
+- [lokal-ninja/pays-de-la-loire](https://github.com/lokal-ninja/pays-de-la-loire) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -46,7 +46,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/porting-games-for-the-web-with-emscripten) (1 day ago)
+- [](https://midzer.de/porting-games-for-the-web-with-emscripten) (2 days ago)
 - [](https://midzer.de/kaiserschmarrn) (3 months ago)
 - [](https://midzer.de/the-future-is-remix) (3 months ago)
 - [](https://midzer.de/obatzda) (4 months ago)
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [nxengine/nxengine-evo](https://github.com/nxengine/nxengine-evo) - nxengine refactoring (1 day ago)
-- [jorio/CroMagRally](https://github.com/jorio/CroMagRally) - The wildest racing game since man invented the wheel! (1 day ago)
+- [nxengine/nxengine-evo](https://github.com/nxengine/nxengine-evo) - nxengine refactoring (2 days ago)
+- [jorio/CroMagRally](https://github.com/jorio/CroMagRally) - The wildest racing game since man invented the wheel! (2 days ago)
 - [rapiz1/DungeonRush](https://github.com/rapiz1/DungeonRush) - 👾🐍 A opensource game inspired by Snake, written in pure C with SDL (1 week ago)
 - [ttybitnik/diego](https://github.com/ttybitnik/diego) - A CLI tool for importing and utilizing exported social media data from popular services on Hugo websites. (2 weeks ago)
-- [monal-im/Monal](https://github.com/monal-im/Monal) - Monal for XMPP (iOS and macOS) (3 weeks ago)
+- [monal-im/Monal](https://github.com/monal-im/Monal) - Monal for XMPP (iOS and macOS) (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
