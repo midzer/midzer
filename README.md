@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [chmallon/ja2-stracciatella](https://github.com/chmallon/ja2-stracciatella) - Jagged Alliance 2 for SDL (today)
 - [nxengine/nxengine-evo](https://github.com/nxengine/nxengine-evo) - nxengine refactoring (1 week ago)
 - [jorio/CroMagRally](https://github.com/jorio/CroMagRally) - The wildest racing game since man invented the wheel! (1 week ago)
 - [rapiz1/DungeonRush](https://github.com/rapiz1/DungeonRush) - 👾🐍 A opensource game inspired by Snake, written in pure C with SDL (2 weeks ago)
 - [ttybitnik/diego](https://github.com/ttybitnik/diego) - A CLI tool for importing and utilizing exported social media data from popular services on Hugo websites. (3 weeks ago)
-- [monal-im/Monal](https://github.com/monal-im/Monal) - Monal for XMPP (iOS and macOS) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
