@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/hamburg](https://github.com/lokal-ninja/hamburg) -  (1 day ago)
-- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (1 day ago)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (1 day ago)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (1 day ago)
-- [lokal-ninja/british-columbia](https://github.com/lokal-ninja/british-columbia) -  (1 day ago)
+- [lokal-ninja/hamburg](https://github.com/lokal-ninja/hamburg) -  (2 days ago)
+- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (2 days ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (2 days ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (2 days ago)
+- [lokal-ninja/british-columbia](https://github.com/lokal-ninja/british-columbia) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,23 +30,23 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M123.0.6312.133](https://github.com/Alex313031/thorium/releases/tag/M123.0.6312.133), 1 day ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
-- [andybrewer/mvp](https://github.com/andybrewer/mvp) ([v1.15](https://github.com/andybrewer/mvp/releases/tag/v1.15), 2 weeks ago) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M123.0.6312.133](https://github.com/Alex313031/thorium/releases/tag/M123.0.6312.133), 2 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
+- [andybrewer/mvp](https://github.com/andybrewer/mvp) ([v1.15](https://github.com/andybrewer/mvp/releases/tag/v1.15), 3 weeks ago) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 1 month ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 - [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) ([v0.9.1](https://github.com/lethal-guitar/RigelEngine/releases/tag/v0.9.1), 1 year ago) - A modern re-implementation of the classic DOS game Duke Nukem II
 - [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 1 year ago) - CLI tool for DontBore
 
 #### 🔨 Latest Pull Requests I published
 
-- [do not preload videos with poster any more](https://github.com/Alex313031/Alex313031.github.io/pull/26) on [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) (1 day ago)
-- [fix Emscripten build](https://github.com/lethal-guitar/RigelEngine/pull/921) on [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) (1 week ago)
+- [do not preload videos with poster any more](https://github.com/Alex313031/Alex313031.github.io/pull/26) on [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) (2 days ago)
+- [fix Emscripten build](https://github.com/lethal-guitar/RigelEngine/pull/921) on [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) (2 weeks ago)
 - [more inclusive wording](https://github.com/p3t3r67x0/oklabflensburg/pull/1) on [p3t3r67x0/oklabflensburg](https://github.com/p3t3r67x0/oklabflensburg) (1 month ago)
 - [fix click effect](https://github.com/andybrewer/mvp/pull/112) on [andybrewer/mvp](https://github.com/andybrewer/mvp) (2 months ago)
 - [lazy loading and width&#43;height for &lt;img&gt;](https://github.com/oklabflensburg/oddfl/pull/2) on [oklabflensburg/oddfl](https://github.com/oklabflensburg/oddfl) (2 months ago)
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/porting-games-for-the-web-with-emscripten) (6 days ago)
+- [](https://midzer.de/porting-games-for-the-web-with-emscripten) (1 week ago)
 - [](https://midzer.de/kaiserschmarrn) (3 months ago)
 - [](https://midzer.de/the-future-is-remix) (3 months ago)
 - [](https://midzer.de/obatzda) (5 months ago)
@@ -60,10 +60,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [nxengine/nxengine-evo](https://github.com/nxengine/nxengine-evo) - nxengine refactoring (6 days ago)
-- [jorio/CroMagRally](https://github.com/jorio/CroMagRally) - The wildest racing game since man invented the wheel! (6 days ago)
+- [nxengine/nxengine-evo](https://github.com/nxengine/nxengine-evo) - nxengine refactoring (1 week ago)
+- [jorio/CroMagRally](https://github.com/jorio/CroMagRally) - The wildest racing game since man invented the wheel! (1 week ago)
 - [rapiz1/DungeonRush](https://github.com/rapiz1/DungeonRush) - 👾🐍 A opensource game inspired by Snake, written in pure C with SDL (2 weeks ago)
-- [ttybitnik/diego](https://github.com/ttybitnik/diego) - A CLI tool for importing and utilizing exported social media data from popular services on Hugo websites. (2 weeks ago)
+- [ttybitnik/diego](https://github.com/ttybitnik/diego) - A CLI tool for importing and utilizing exported social media data from popular services on Hugo websites. (3 weeks ago)
 - [monal-im/Monal](https://github.com/monal-im/Monal) - Monal for XMPP (iOS and macOS) (1 month ago)
 
 #### 👯 Check out some of my recent followers
