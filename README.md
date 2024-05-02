@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/arkansas](https://github.com/lokal-ninja/arkansas) -  (1 day ago)
-- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (1 day ago)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (1 day ago)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (1 day ago)
-- [lokal-ninja/new-jersey](https://github.com/lokal-ninja/new-jersey) -  (1 day ago)
+- [lokal-ninja/arkansas](https://github.com/lokal-ninja/arkansas) -  (2 days ago)
+- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (2 days ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (2 days ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (2 days ago)
+- [lokal-ninja/new-jersey](https://github.com/lokal-ninja/new-jersey) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -60,10 +60,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [dondido/flash-store](https://github.com/dondido/flash-store) - Welcome to the PWA Flash Game Gallery repo! This project is a collection of Progressive Web App (PWA) games developed and contributed by developers and enthusiasts like you. Whether you want to explore fun games or share your own creations, this gallery is the place to be. (3 days ago)
-- [cdleveille/kickups](https://github.com/cdleveille/kickups) - How long can you keep it up? (4 days ago)
-- [cdleveille/copterjs](https://github.com/cdleveille/copterjs) - Modern remake of the classic addicting flash game. (4 days ago)
-- [chmallon/ja2-stracciatella](https://github.com/chmallon/ja2-stracciatella) - Jagged Alliance 2 for SDL (5 days ago)
+- [dondido/flash-store](https://github.com/dondido/flash-store) - Welcome to the PWA Flash Game Gallery repo! This project is a collection of Progressive Web App (PWA) games developed and contributed by developers and enthusiasts like you. Whether you want to explore fun games or share your own creations, this gallery is the place to be. (4 days ago)
+- [cdleveille/kickups](https://github.com/cdleveille/kickups) - How long can you keep it up? (5 days ago)
+- [cdleveille/copterjs](https://github.com/cdleveille/copterjs) - Modern remake of the classic addicting flash game. (5 days ago)
+- [chmallon/ja2-stracciatella](https://github.com/chmallon/ja2-stracciatella) - Jagged Alliance 2 for SDL (6 days ago)
 - [nxengine/nxengine-evo](https://github.com/nxengine/nxengine-evo) - nxengine refactoring (1 week ago)
 
 #### 👯 Check out some of my recent followers
