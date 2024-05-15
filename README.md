@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
-- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (3 days ago)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (3 days ago)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (3 days ago)
-- [lokal-ninja/new-jersey](https://github.com/lokal-ninja/new-jersey) -  (3 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
+- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (4 days ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (4 days ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (4 days ago)
+- [lokal-ninja/new-jersey](https://github.com/lokal-ninja/new-jersey) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 3 days ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
+- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 4 days ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M123.0.6312.134](https://github.com/Alex313031/thorium/releases/tag/M123.0.6312.134), 1 week ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) ([v1.15](https://github.com/andybrewer/mvp/releases/tag/v1.15), 1 month ago) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) ([v0.9.1](https://github.com/lethal-guitar/RigelEngine/releases/tag/v0.9.1), 1 year ago) - A modern re-implementation of the classic DOS game Duke Nukem II
@@ -38,11 +38,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [do not preload videos with poster any more](https://github.com/Alex313031/Alex313031.github.io/pull/26) on [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) (2 weeks ago)
+- [do not preload videos with poster any more](https://github.com/Alex313031/Alex313031.github.io/pull/26) on [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) (3 weeks ago)
 - [fix Emscripten build](https://github.com/lethal-guitar/RigelEngine/pull/921) on [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) (1 month ago)
 - [more inclusive wording](https://github.com/p3t3r67x0/oklabflensburg/pull/1) on [p3t3r67x0/oklabflensburg](https://github.com/p3t3r67x0/oklabflensburg) (2 months ago)
 - [fix click effect](https://github.com/andybrewer/mvp/pull/112) on [andybrewer/mvp](https://github.com/andybrewer/mvp) (2 months ago)
-- [lazy loading and width&#43;height for &lt;img&gt;](https://github.com/oklabflensburg/oddfl/pull/2) on [oklabflensburg/oddfl](https://github.com/oklabflensburg/oddfl) (2 months ago)
+- [lazy loading and width&#43;height for &lt;img&gt;](https://github.com/oklabflensburg/oddfl/pull/2) on [oklabflensburg/oddfl](https://github.com/oklabflensburg/oddfl) (3 months ago)
 
 #### 📜 My recent blog posts
 
