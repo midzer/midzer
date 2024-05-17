@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (today)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (today)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (today)
-- [lokal-ninja/california](https://github.com/lokal-ninja/california) -  (today)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (1 day ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (1 day ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (1 day ago)
+- [lokal-ninja/california](https://github.com/lokal-ninja/california) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), today) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
+- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 1 day ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M123.0.6312.134](https://github.com/Alex313031/thorium/releases/tag/M123.0.6312.134), 1 week ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) ([v1.15](https://github.com/andybrewer/mvp/releases/tag/v1.15), 1 month ago) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) ([v0.9.1](https://github.com/lethal-guitar/RigelEngine/releases/tag/v0.9.1), 1 year ago) - A modern re-implementation of the classic DOS game Duke Nukem II
@@ -46,7 +46,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/porting-games-for-the-web-with-emscripten) (3 weeks ago)
+- [](https://midzer.de/porting-games-for-the-web-with-emscripten) (4 weeks ago)
 - [](https://midzer.de/kaiserschmarrn) (3 months ago)
 - [](https://midzer.de/the-future-is-remix) (4 months ago)
 - [](https://midzer.de/obatzda) (5 months ago)
@@ -63,8 +63,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [dondido/flash-store](https://github.com/dondido/flash-store) - Welcome to the PWA Flash Game Gallery repo! This project is a collection of Progressive Web App (PWA) games developed and contributed by developers and enthusiasts like you. Whether you want to explore fun games or share your own creations, this gallery is the place to be. (2 weeks ago)
 - [cdleveille/kickups](https://github.com/cdleveille/kickups) - How long can you keep it up? (2 weeks ago)
 - [cdleveille/copterjs](https://github.com/cdleveille/copterjs) - Modern remake of the classic addicting flash game. (2 weeks ago)
-- [chmallon/ja2-stracciatella](https://github.com/chmallon/ja2-stracciatella) - Jagged Alliance 2 for SDL (2 weeks ago)
-- [nxengine/nxengine-evo](https://github.com/nxengine/nxengine-evo) - nxengine refactoring (3 weeks ago)
+- [chmallon/ja2-stracciatella](https://github.com/chmallon/ja2-stracciatella) - Jagged Alliance 2 for SDL (3 weeks ago)
+- [nxengine/nxengine-evo](https://github.com/nxengine/nxengine-evo) - nxengine refactoring (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
