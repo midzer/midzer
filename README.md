@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/california](https://github.com/lokal-ninja/california) -  (1 day ago)
-- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (1 day ago)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (1 day ago)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (1 day ago)
-- [lokal-ninja/new-jersey](https://github.com/lokal-ninja/new-jersey) -  (1 day ago)
+- [lokal-ninja/california](https://github.com/lokal-ninja/california) -  (2 days ago)
+- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (2 days ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (2 days ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (2 days ago)
+- [lokal-ninja/new-jersey](https://github.com/lokal-ninja/new-jersey) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,8 +30,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M124.0.6367.218](https://github.com/Alex313031/thorium/releases/tag/M124.0.6367.218), 5 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
-- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 6 days ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M124.0.6367.218](https://github.com/Alex313031/thorium/releases/tag/M124.0.6367.218), 6 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
+- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 1 week ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) ([v1.15](https://github.com/andybrewer/mvp/releases/tag/v1.15), 1 month ago) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) ([v0.9.1](https://github.com/lethal-guitar/RigelEngine/releases/tag/v0.9.1), 1 year ago) - A modern re-implementation of the classic DOS game Duke Nukem II
 - [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 2 years ago) - CLI tool for DontBore
@@ -41,7 +41,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [do not preload videos with poster any more](https://github.com/Alex313031/Alex313031.github.io/pull/26) on [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) (4 weeks ago)
 - [fix Emscripten build](https://github.com/lethal-guitar/RigelEngine/pull/921) on [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) (1 month ago)
 - [more inclusive wording](https://github.com/p3t3r67x0/oklabflensburg/pull/1) on [p3t3r67x0/oklabflensburg](https://github.com/p3t3r67x0/oklabflensburg) (2 months ago)
-- [fix click effect](https://github.com/andybrewer/mvp/pull/112) on [andybrewer/mvp](https://github.com/andybrewer/mvp) (2 months ago)
+- [fix click effect](https://github.com/andybrewer/mvp/pull/112) on [andybrewer/mvp](https://github.com/andybrewer/mvp) (3 months ago)
 - [lazy loading and width&#43;height for &lt;img&gt;](https://github.com/oklabflensburg/oddfl/pull/2) on [oklabflensburg/oddfl](https://github.com/oklabflensburg/oddfl) (3 months ago)
 
 #### 📜 My recent blog posts
@@ -49,7 +49,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [](https://midzer.de/porting-games-for-the-web-with-emscripten) (1 month ago)
 - [](https://midzer.de/kaiserschmarrn) (4 months ago)
 - [](https://midzer.de/the-future-is-remix) (4 months ago)
-- [](https://midzer.de/obatzda) (5 months ago)
+- [](https://midzer.de/obatzda) (6 months ago)
 - [](https://midzer.de/how-to-disrupt-an-online-conversation-legally) (8 months ago)
 
 #### 📓 Gists I wrote
