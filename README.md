@@ -14,8 +14,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/alabama](https://github.com/lokal-ninja/alabama) -  (1 day ago)
-- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (1 day ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
+- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (1 day ago)
 - [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (1 day ago)
 - [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (1 day ago)
 - [lokal-ninja/colorado](https://github.com/lokal-ninja/colorado) -  (1 day ago)
@@ -46,11 +46,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
+- [](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (today)
 - [](https://midzer.de/porting-games-for-the-web-with-emscripten) (1 month ago)
 - [](https://midzer.de/kaiserschmarrn) (4 months ago)
 - [](https://midzer.de/the-future-is-remix) (4 months ago)
 - [](https://midzer.de/obatzda) (6 months ago)
-- [](https://midzer.de/how-to-disrupt-an-online-conversation-legally) (9 months ago)
 
 #### 📓 Gists I wrote
 
