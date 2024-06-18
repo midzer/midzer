@@ -47,7 +47,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 📜 My recent blog posts
 
 - [](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (1 week ago)
-- [](https://midzer.de/porting-games-for-the-web-with-emscripten) (1 month ago)
+- [](https://midzer.de/porting-games-for-the-web-with-emscripten) (2 months ago)
 - [](https://midzer.de/kaiserschmarrn) (5 months ago)
 - [](https://midzer.de/the-future-is-remix) (5 months ago)
 - [](https://midzer.de/obatzda) (6 months ago)
@@ -64,7 +64,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [cdleveille/kickups](https://github.com/cdleveille/kickups) - How long can you keep it up? (1 month ago)
 - [cdleveille/copterjs](https://github.com/cdleveille/copterjs) - Modern remake of the classic addicting flash game. (1 month ago)
 - [chmallon/ja2-stracciatella](https://github.com/chmallon/ja2-stracciatella) - Jagged Alliance 2 for SDL (1 month ago)
-- [nxengine/nxengine-evo](https://github.com/nxengine/nxengine-evo) - nxengine refactoring (1 month ago)
+- [nxengine/nxengine-evo](https://github.com/nxengine/nxengine-evo) - nxengine refactoring (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
