@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 week ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 weeks ago)
 - [lokal-ninja/australia](https://github.com/lokal-ninja/australia) -  (2 weeks ago)
 - [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (2 weeks ago)
 - [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (2 weeks ago)
@@ -46,7 +46,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (1 week ago)
+- [](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (2 weeks ago)
 - [](https://midzer.de/porting-games-for-the-web-with-emscripten) (2 months ago)
 - [](https://midzer.de/kaiserschmarrn) (5 months ago)
 - [](https://midzer.de/the-future-is-remix) (5 months ago)
