@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
 - [lokal-ninja/australia](https://github.com/lokal-ninja/australia) -  (2 weeks ago)
 - [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (2 weeks ago)
 - [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (2 weeks ago)
@@ -38,7 +38,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [do not preload videos with poster any more](https://github.com/Alex313031/Alex313031.github.io/pull/26) on [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) (1 month ago)
+- [do not preload videos with poster any more](https://github.com/Alex313031/Alex313031.github.io/pull/26) on [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) (2 months ago)
 - [fix Emscripten build](https://github.com/lethal-guitar/RigelEngine/pull/921) on [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) (2 months ago)
 - [more inclusive wording](https://github.com/p3t3r67x0/oklabflensburg/pull/1) on [p3t3r67x0/oklabflensburg](https://github.com/p3t3r67x0/oklabflensburg) (3 months ago)
 - [fix click effect](https://github.com/andybrewer/mvp/pull/112) on [andybrewer/mvp](https://github.com/andybrewer/mvp) (4 months ago)
