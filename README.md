@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (4 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (5 days ago)
 - [lokal-ninja/south-africa](https://github.com/lokal-ninja/south-africa) -  (2 weeks ago)
 - [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (2 weeks ago)
 - [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (2 weeks ago)
@@ -63,7 +63,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [dondido/flash-store](https://github.com/dondido/flash-store) - Welcome to the PWA Flash Game Gallery repo! This project is a collection of Progressive Web App (PWA) games developed and contributed by developers and enthusiasts like you. Whether you want to explore fun games or share your own creations, this gallery is the place to be. (1 month ago)
 - [cdleveille/kickups](https://github.com/cdleveille/kickups) - How long can you keep it up? (1 month ago)
 - [cdleveille/copterjs](https://github.com/cdleveille/copterjs) - Modern remake of the classic addicting flash game. (1 month ago)
-- [chmallon/ja2-stracciatella](https://github.com/chmallon/ja2-stracciatella) - Jagged Alliance 2 for SDL (1 month ago)
+- [chmallon/ja2-stracciatella](https://github.com/chmallon/ja2-stracciatella) - Jagged Alliance 2 for SDL (2 months ago)
 - [nxengine/nxengine-evo](https://github.com/nxengine/nxengine-evo) - nxengine refactoring (2 months ago)
 
 #### 👯 Check out some of my recent followers
