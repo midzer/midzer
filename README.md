@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [1oom-fork/1oom](https://github.com/1oom-fork/1oom) - 1oom is a Master of Orion (1993) game engine recreation that requires the original files to run. (today)
 - [dondido/flash-store](https://github.com/dondido/flash-store) - Welcome to the PWA Flash Game Gallery repo! This project is a collection of Progressive Web App (PWA) games developed and contributed by developers and enthusiasts like you. Whether you want to explore fun games or share your own creations, this gallery is the place to be. (1 month ago)
 - [cdleveille/kickups](https://github.com/cdleveille/kickups) - How long can you keep it up? (1 month ago)
 - [cdleveille/copterjs](https://github.com/cdleveille/copterjs) - Modern remake of the classic addicting flash game. (1 month ago)
 - [chmallon/ja2-stracciatella](https://github.com/chmallon/ja2-stracciatella) - Jagged Alliance 2 for SDL (2 months ago)
-- [nxengine/nxengine-evo](https://github.com/nxengine/nxengine-evo) - nxengine refactoring (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
