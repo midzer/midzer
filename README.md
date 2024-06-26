@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/south-africa](https://github.com/lokal-ninja/south-africa) -  (2 weeks ago)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (2 weeks ago)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (2 weeks ago)
-- [lokal-ninja/california](https://github.com/lokal-ninja/california) -  (2 weeks ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/south-africa](https://github.com/lokal-ninja/south-africa) -  (3 weeks ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (3 weeks ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (3 weeks ago)
+- [lokal-ninja/california](https://github.com/lokal-ninja/california) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [opentyrian/opentyrian](https://github.com/opentyrian/opentyrian) - An open-source port of the scrolling shooter Tyrian. (today)
-- [stephenjsweeney/waterCloset](https://github.com/stephenjsweeney/waterCloset) - Ridiculous 2D SDL platform game (today)
-- [1oom-fork/1oom](https://github.com/1oom-fork/1oom) - 1oom is a Master of Orion (1993) game engine recreation that requires the original files to run. (today)
+- [opentyrian/opentyrian](https://github.com/opentyrian/opentyrian) - An open-source port of the scrolling shooter Tyrian. (1 day ago)
+- [stephenjsweeney/waterCloset](https://github.com/stephenjsweeney/waterCloset) - Ridiculous 2D SDL platform game (1 day ago)
+- [1oom-fork/1oom](https://github.com/1oom-fork/1oom) - 1oom is a Master of Orion (1993) game engine recreation that requires the original files to run. (1 day ago)
 - [dondido/flash-store](https://github.com/dondido/flash-store) - Welcome to the PWA Flash Game Gallery repo! This project is a collection of Progressive Web App (PWA) games developed and contributed by developers and enthusiasts like you. Whether you want to explore fun games or share your own creations, this gallery is the place to be. (1 month ago)
-- [cdleveille/kickups](https://github.com/cdleveille/kickups) - How long can you keep it up? (1 month ago)
+- [cdleveille/kickups](https://github.com/cdleveille/kickups) - How long can you keep it up? (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
