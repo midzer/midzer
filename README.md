@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [AlisterT/openjazz](https://github.com/AlisterT/openjazz) - OpenJazz (today)
 - [petitlapin/Li-Ri](https://github.com/petitlapin/Li-Ri) - Fork of https://ri-li.sourceforge.net/ (today)
 - [opentyrian/opentyrian](https://github.com/opentyrian/opentyrian) - An open-source port of the scrolling shooter Tyrian. (1 day ago)
 - [stephenjsweeney/waterCloset](https://github.com/stephenjsweeney/waterCloset) - Ridiculous 2D SDL platform game (1 day ago)
 - [1oom-fork/1oom](https://github.com/1oom-fork/1oom) - 1oom is a Master of Orion (1993) game engine recreation that requires the original files to run. (1 day ago)
-- [dondido/flash-store](https://github.com/dondido/flash-store) - Welcome to the PWA Flash Game Gallery repo! This project is a collection of Progressive Web App (PWA) games developed and contributed by developers and enthusiasts like you. Whether you want to explore fun games or share your own creations, this gallery is the place to be. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
