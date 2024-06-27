@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog. (today)
 - [AlisterT/openjazz](https://github.com/AlisterT/openjazz) - OpenJazz (1 day ago)
 - [petitlapin/Li-Ri](https://github.com/petitlapin/Li-Ri) - Fork of https://ri-li.sourceforge.net/ (1 day ago)
 - [opentyrian/opentyrian](https://github.com/opentyrian/opentyrian) - An open-source port of the scrolling shooter Tyrian. (2 days ago)
 - [stephenjsweeney/waterCloset](https://github.com/stephenjsweeney/waterCloset) - Ridiculous 2D SDL platform game (2 days ago)
-- [1oom-fork/1oom](https://github.com/1oom-fork/1oom) - 1oom is a Master of Orion (1993) game engine recreation that requires the original files to run. (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
