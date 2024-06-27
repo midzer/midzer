@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
 - [lokal-ninja/south-africa](https://github.com/lokal-ninja/south-africa) -  (3 weeks ago)
 - [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (3 weeks ago)
 - [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (3 weeks ago)
@@ -22,11 +22,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🌱 My latest projects
 
+- [midzer/numptyphysics](https://github.com/midzer/numptyphysics) - Harness gravity with your crayon and set about creating blocks, ramps, levers, pulleys and whatever else you fancy to get the little red thing to the little yellow thing.
 - [midzer/feed-wittichenau](https://github.com/midzer/feed-wittichenau) - Website showing feed of local authorities, blogs, communities and news papers
 - [midzer/feed-flensburg](https://github.com/midzer/feed-flensburg) - Website showing feed of local authorities, blogs, communities and news papers
 - [midzer/wordofday](https://github.com/midzer/wordofday) - World’s first Deceleration-Online-Word-Game (DOWG)
 - [midzer/freesiege](https://github.com/midzer/freesiege) - An intense tetris-like wargame ported for the web
-- [midzer/sdl-ball](https://github.com/midzer/sdl-ball) - Brick-breaking game like DX-Ball/Arkanoid
 
 #### 🔭 Latest releases I've contributed to
 
