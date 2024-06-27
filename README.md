@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
 - [lokal-ninja/south-africa](https://github.com/lokal-ninja/south-africa) -  (3 weeks ago)
 - [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (3 weeks ago)
 - [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (3 weeks ago)
@@ -40,13 +40,13 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [do not preload videos with poster any more](https://github.com/Alex313031/Alex313031.github.io/pull/26) on [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) (2 months ago)
 - [fix Emscripten build](https://github.com/lethal-guitar/RigelEngine/pull/921) on [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) (2 months ago)
-- [more inclusive wording](https://github.com/p3t3r67x0/oklabflensburg/pull/1) on [p3t3r67x0/oklabflensburg](https://github.com/p3t3r67x0/oklabflensburg) (3 months ago)
+- [more inclusive wording](https://github.com/p3t3r67x0/oklabflensburg/pull/1) on [p3t3r67x0/oklabflensburg](https://github.com/p3t3r67x0/oklabflensburg) (4 months ago)
 - [fix click effect](https://github.com/andybrewer/mvp/pull/112) on [andybrewer/mvp](https://github.com/andybrewer/mvp) (4 months ago)
 - [lazy loading and width&#43;height for &lt;img&gt;](https://github.com/oklabflensburg/oddfl/pull/2) on [oklabflensburg/oddfl](https://github.com/oklabflensburg/oddfl) (4 months ago)
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (2 weeks ago)
+- [](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (3 weeks ago)
 - [](https://midzer.de/porting-games-for-the-web-with-emscripten) (2 months ago)
 - [](https://midzer.de/kaiserschmarrn) (5 months ago)
 - [](https://midzer.de/the-future-is-remix) (5 months ago)
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [AlisterT/openjazz](https://github.com/AlisterT/openjazz) - OpenJazz (today)
-- [petitlapin/Li-Ri](https://github.com/petitlapin/Li-Ri) - Fork of https://ri-li.sourceforge.net/ (today)
-- [opentyrian/opentyrian](https://github.com/opentyrian/opentyrian) - An open-source port of the scrolling shooter Tyrian. (1 day ago)
-- [stephenjsweeney/waterCloset](https://github.com/stephenjsweeney/waterCloset) - Ridiculous 2D SDL platform game (1 day ago)
-- [1oom-fork/1oom](https://github.com/1oom-fork/1oom) - 1oom is a Master of Orion (1993) game engine recreation that requires the original files to run. (1 day ago)
+- [AlisterT/openjazz](https://github.com/AlisterT/openjazz) - OpenJazz (1 day ago)
+- [petitlapin/Li-Ri](https://github.com/petitlapin/Li-Ri) - Fork of https://ri-li.sourceforge.net/ (1 day ago)
+- [opentyrian/opentyrian](https://github.com/opentyrian/opentyrian) - An open-source port of the scrolling shooter Tyrian. (2 days ago)
+- [stephenjsweeney/waterCloset](https://github.com/stephenjsweeney/waterCloset) - Ridiculous 2D SDL platform game (2 days ago)
+- [1oom-fork/1oom](https://github.com/1oom-fork/1oom) - 1oom is a Master of Orion (1993) game engine recreation that requires the original files to run. (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
