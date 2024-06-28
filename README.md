@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
 - [lokal-ninja/south-africa](https://github.com/lokal-ninja/south-africa) -  (3 weeks ago)
 - [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (3 weeks ago)
 - [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (3 weeks ago)
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog. (today)
-- [AlisterT/openjazz](https://github.com/AlisterT/openjazz) - OpenJazz (1 day ago)
-- [petitlapin/Li-Ri](https://github.com/petitlapin/Li-Ri) - Fork of https://ri-li.sourceforge.net/ (1 day ago)
-- [opentyrian/opentyrian](https://github.com/opentyrian/opentyrian) - An open-source port of the scrolling shooter Tyrian. (2 days ago)
-- [stephenjsweeney/waterCloset](https://github.com/stephenjsweeney/waterCloset) - Ridiculous 2D SDL platform game (2 days ago)
+- [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog. (1 day ago)
+- [AlisterT/openjazz](https://github.com/AlisterT/openjazz) - OpenJazz (2 days ago)
+- [petitlapin/Li-Ri](https://github.com/petitlapin/Li-Ri) - Fork of https://ri-li.sourceforge.net/ (2 days ago)
+- [opentyrian/opentyrian](https://github.com/opentyrian/opentyrian) - An open-source port of the scrolling shooter Tyrian. (3 days ago)
+- [stephenjsweeney/waterCloset](https://github.com/stephenjsweeney/waterCloset) - Ridiculous 2D SDL platform game (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
