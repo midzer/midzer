@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [LTCHIPS/rottexpr](https://github.com/LTCHIPS/rottexpr) - A Rise Of The Triad Source Port with additional gameplay options and more... (today)
 - [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog. (1 day ago)
 - [AlisterT/openjazz](https://github.com/AlisterT/openjazz) - OpenJazz (2 days ago)
 - [petitlapin/Li-Ri](https://github.com/petitlapin/Li-Ri) - Fork of https://ri-li.sourceforge.net/ (2 days ago)
 - [opentyrian/opentyrian](https://github.com/opentyrian/opentyrian) - An open-source port of the scrolling shooter Tyrian. (3 days ago)
-- [stephenjsweeney/waterCloset](https://github.com/stephenjsweeney/waterCloset) - Ridiculous 2D SDL platform game (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
