@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (2 days ago)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (2 days ago)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (2 days ago)
-- [lokal-ninja/california](https://github.com/lokal-ninja/california) -  (2 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (3 days ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (3 days ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (3 days ago)
+- [lokal-ninja/california](https://github.com/lokal-ninja/california) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [GPSnoopy/BelgianChocolateDuke3D](https://github.com/GPSnoopy/BelgianChocolateDuke3D) - Chocolate Duke Nukem 3D  (today)
-- [LTCHIPS/rottexpr](https://github.com/LTCHIPS/rottexpr) - A Rise Of The Triad Source Port with additional gameplay options and more... (2 days ago)
-- [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog. (3 days ago)
-- [AlisterT/openjazz](https://github.com/AlisterT/openjazz) - OpenJazz (4 days ago)
-- [petitlapin/Li-Ri](https://github.com/petitlapin/Li-Ri) - Fork of https://ri-li.sourceforge.net/ (4 days ago)
+- [GPSnoopy/BelgianChocolateDuke3D](https://github.com/GPSnoopy/BelgianChocolateDuke3D) - Chocolate Duke Nukem 3D  (1 day ago)
+- [LTCHIPS/rottexpr](https://github.com/LTCHIPS/rottexpr) - A Rise Of The Triad Source Port with additional gameplay options and more... (3 days ago)
+- [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog. (4 days ago)
+- [AlisterT/openjazz](https://github.com/AlisterT/openjazz) - OpenJazz (5 days ago)
+- [petitlapin/Li-Ri](https://github.com/petitlapin/Li-Ri) - Fork of https://ri-li.sourceforge.net/ (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
