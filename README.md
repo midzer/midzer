@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
-- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (4 days ago)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (4 days ago)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (4 days ago)
-- [lokal-ninja/colorado](https://github.com/lokal-ninja/colorado) -  (4 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
+- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (5 days ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (5 days ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (5 days ago)
+- [lokal-ninja/colorado](https://github.com/lokal-ninja/colorado) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [GardensOfKadesh/Homeworld](https://github.com/GardensOfKadesh/Homeworld) - Gardens of Kadesh: A WebAssembly port of Homeworld. (1 day ago)
-- [GPSnoopy/BelgianChocolateDuke3D](https://github.com/GPSnoopy/BelgianChocolateDuke3D) - Chocolate Duke Nukem 3D  (2 days ago)
-- [LTCHIPS/rottexpr](https://github.com/LTCHIPS/rottexpr) - A Rise Of The Triad Source Port with additional gameplay options and more... (4 days ago)
-- [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog. (5 days ago)
-- [AlisterT/openjazz](https://github.com/AlisterT/openjazz) - OpenJazz (6 days ago)
+- [GardensOfKadesh/Homeworld](https://github.com/GardensOfKadesh/Homeworld) - Gardens of Kadesh: A WebAssembly port of Homeworld. (2 days ago)
+- [GPSnoopy/BelgianChocolateDuke3D](https://github.com/GPSnoopy/BelgianChocolateDuke3D) - Chocolate Duke Nukem 3D  (3 days ago)
+- [LTCHIPS/rottexpr](https://github.com/LTCHIPS/rottexpr) - A Rise Of The Triad Source Port with additional gameplay options and more... (5 days ago)
+- [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog. (6 days ago)
+- [AlisterT/openjazz](https://github.com/AlisterT/openjazz) - OpenJazz (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
