@@ -15,10 +15,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (5 days ago)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (5 days ago)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (5 days ago)
-- [lokal-ninja/colorado](https://github.com/lokal-ninja/colorado) -  (5 days ago)
+- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (6 days ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (6 days ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (6 days ago)
+- [lokal-ninja/colorado](https://github.com/lokal-ninja/colorado) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +32,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 1 month ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M124.0.6367.218](https://github.com/Alex313031/thorium/releases/tag/M124.0.6367.218), 1 month ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
-- [andybrewer/mvp](https://github.com/andybrewer/mvp) ([v1.15](https://github.com/andybrewer/mvp/releases/tag/v1.15), 2 months ago) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
+- [andybrewer/mvp](https://github.com/andybrewer/mvp) ([v1.15](https://github.com/andybrewer/mvp/releases/tag/v1.15), 3 months ago) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) ([v0.9.1](https://github.com/lethal-guitar/RigelEngine/releases/tag/v0.9.1), 2 years ago) - A modern re-implementation of the classic DOS game Duke Nukem II
 - [midzer/dontbore-cli](https://github.com/midzer/dontbore-cli) ([v0.0.1](https://github.com/midzer/dontbore-cli/releases/tag/v0.0.1), 2 years ago) - CLI tool for DontBore
 
@@ -46,7 +46,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (3 weeks ago)
+- [](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (4 weeks ago)
 - [](https://midzer.de/porting-games-for-the-web-with-emscripten) (2 months ago)
 - [](https://midzer.de/kaiserschmarrn) (5 months ago)
 - [](https://midzer.de/the-future-is-remix) (5 months ago)
@@ -60,10 +60,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [GardensOfKadesh/Homeworld](https://github.com/GardensOfKadesh/Homeworld) - Gardens of Kadesh: A WebAssembly port of Homeworld. (2 days ago)
-- [GPSnoopy/BelgianChocolateDuke3D](https://github.com/GPSnoopy/BelgianChocolateDuke3D) - Chocolate Duke Nukem 3D  (3 days ago)
-- [LTCHIPS/rottexpr](https://github.com/LTCHIPS/rottexpr) - A Rise Of The Triad Source Port with additional gameplay options and more... (5 days ago)
-- [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog. (6 days ago)
+- [GardensOfKadesh/Homeworld](https://github.com/GardensOfKadesh/Homeworld) - Gardens of Kadesh: A WebAssembly port of Homeworld. (3 days ago)
+- [GPSnoopy/BelgianChocolateDuke3D](https://github.com/GPSnoopy/BelgianChocolateDuke3D) - Chocolate Duke Nukem 3D  (4 days ago)
+- [LTCHIPS/rottexpr](https://github.com/LTCHIPS/rottexpr) - A Rise Of The Triad Source Port with additional gameplay options and more... (6 days ago)
+- [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog. (1 week ago)
 - [AlisterT/openjazz](https://github.com/AlisterT/openjazz) - OpenJazz (1 week ago)
 
 #### 👯 Check out some of my recent followers
