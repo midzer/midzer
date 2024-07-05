@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (today)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (today)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (today)
-- [lokal-ninja/alaska](https://github.com/lokal-ninja/alaska) -  (today)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (1 day ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (1 day ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (1 day ago)
+- [lokal-ninja/alaska](https://github.com/lokal-ninja/alaska) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -60,9 +60,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [GardensOfKadesh/Homeworld](https://github.com/GardensOfKadesh/Homeworld) - Gardens of Kadesh: A WebAssembly port of Homeworld. (3 days ago)
-- [GPSnoopy/BelgianChocolateDuke3D](https://github.com/GPSnoopy/BelgianChocolateDuke3D) - Chocolate Duke Nukem 3D  (4 days ago)
-- [LTCHIPS/rottexpr](https://github.com/LTCHIPS/rottexpr) - A Rise Of The Triad Source Port with additional gameplay options and more... (6 days ago)
+- [GardensOfKadesh/Homeworld](https://github.com/GardensOfKadesh/Homeworld) - Gardens of Kadesh: A WebAssembly port of Homeworld. (4 days ago)
+- [GPSnoopy/BelgianChocolateDuke3D](https://github.com/GPSnoopy/BelgianChocolateDuke3D) - Chocolate Duke Nukem 3D  (5 days ago)
+- [LTCHIPS/rottexpr](https://github.com/LTCHIPS/rottexpr) - A Rise Of The Triad Source Port with additional gameplay options and more... (1 week ago)
 - [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog. (1 week ago)
 - [AlisterT/openjazz](https://github.com/AlisterT/openjazz) - OpenJazz (1 week ago)
 
