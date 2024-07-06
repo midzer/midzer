@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
-- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (1 day ago)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (1 day ago)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (1 day ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 day ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
+- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (2 days ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (2 days ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (2 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -46,7 +46,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (4 weeks ago)
+- [](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (1 month ago)
 - [](https://midzer.de/porting-games-for-the-web-with-emscripten) (2 months ago)
 - [](https://midzer.de/kaiserschmarrn) (5 months ago)
 - [](https://midzer.de/the-future-is-remix) (5 months ago)
@@ -60,8 +60,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [GardensOfKadesh/Homeworld](https://github.com/GardensOfKadesh/Homeworld) - Gardens of Kadesh: A WebAssembly port of Homeworld. (4 days ago)
-- [GPSnoopy/BelgianChocolateDuke3D](https://github.com/GPSnoopy/BelgianChocolateDuke3D) - Chocolate Duke Nukem 3D  (5 days ago)
+- [GardensOfKadesh/Homeworld](https://github.com/GardensOfKadesh/Homeworld) - Gardens of Kadesh: A WebAssembly port of Homeworld. (5 days ago)
+- [GPSnoopy/BelgianChocolateDuke3D](https://github.com/GPSnoopy/BelgianChocolateDuke3D) - Chocolate Duke Nukem 3D  (6 days ago)
 - [LTCHIPS/rottexpr](https://github.com/LTCHIPS/rottexpr) - A Rise Of The Triad Source Port with additional gameplay options and more... (1 week ago)
 - [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog. (1 week ago)
 - [AlisterT/openjazz](https://github.com/AlisterT/openjazz) - OpenJazz (1 week ago)
