@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/nova-scotia](https://github.com/lokal-ninja/nova-scotia) -  (5 days ago)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (5 days ago)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (5 days ago)
-- [lokal-ninja/california](https://github.com/lokal-ninja/california) -  (5 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/nova-scotia](https://github.com/lokal-ninja/nova-scotia) -  (6 days ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (6 days ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (6 days ago)
+- [lokal-ninja/california](https://github.com/lokal-ninja/california) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -60,10 +60,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [simutrans/simutrans](https://github.com/simutrans/simutrans) (today)
-- [GMH-Code/Asylum](https://github.com/GMH-Code/Asylum) - Platform game written in C and SDL2 for Windows, Linux and WebAssembly (2 days ago)
-- [mmatyas/supermariowar](https://github.com/mmatyas/supermariowar) - A fan-made multiplayer Super Mario Bros. style deathmatch game (2 days ago)
-- [pjasicek/OpenClaw](https://github.com/pjasicek/OpenClaw) - Reimplementation of Captain Claw (1997) platformer (3 days ago)
+- [simutrans/simutrans](https://github.com/simutrans/simutrans) (1 day ago)
+- [GMH-Code/Asylum](https://github.com/GMH-Code/Asylum) - Platform game written in C and SDL2 for Windows, Linux and WebAssembly (3 days ago)
+- [mmatyas/supermariowar](https://github.com/mmatyas/supermariowar) - A fan-made multiplayer Super Mario Bros. style deathmatch game (3 days ago)
+- [pjasicek/OpenClaw](https://github.com/pjasicek/OpenClaw) - Reimplementation of Captain Claw (1997) platformer (4 days ago)
 - [GardensOfKadesh/Homeworld](https://github.com/GardensOfKadesh/Homeworld) - Gardens of Kadesh: A WebAssembly port of Homeworld. (1 week ago)
 
 #### 👯 Check out some of my recent followers
