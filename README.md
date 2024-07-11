@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [bitfighter/bitfighter](https://github.com/bitfighter/bitfighter) - The Bitfighter source code (today)
 - [simutrans/simutrans](https://github.com/simutrans/simutrans) (2 days ago)
 - [GMH-Code/Asylum](https://github.com/GMH-Code/Asylum) - Platform game written in C and SDL2 for Windows, Linux and WebAssembly (4 days ago)
 - [mmatyas/supermariowar](https://github.com/mmatyas/supermariowar) - A fan-made multiplayer Super Mario Bros. style deathmatch game (4 days ago)
 - [pjasicek/OpenClaw](https://github.com/pjasicek/OpenClaw) - Reimplementation of Captain Claw (1997) platformer (5 days ago)
-- [GardensOfKadesh/Homeworld](https://github.com/GardensOfKadesh/Homeworld) - Gardens of Kadesh: A WebAssembly port of Homeworld. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
