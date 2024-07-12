@@ -68,11 +68,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [sammorozov](https://github.com/sammorozov)
 - [Katherina-Ushachov](https://github.com/Katherina-Ushachov)
 - [EleftheriaKn](https://github.com/EleftheriaKn)
 - [9kopb](https://github.com/9kopb)
 - [jk4freedom](https://github.com/jk4freedom)
-- [celtic-coder](https://github.com/celtic-coder)
 
 #### 💬 Feedback
 
