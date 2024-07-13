@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming (today)
 - [bitfighter/bitfighter](https://github.com/bitfighter/bitfighter) - The Bitfighter source code (2 days ago)
 - [simutrans/simutrans](https://github.com/simutrans/simutrans) (4 days ago)
 - [GMH-Code/Asylum](https://github.com/GMH-Code/Asylum) - Platform game written in C and SDL2 for Windows, Linux and WebAssembly (6 days ago)
 - [mmatyas/supermariowar](https://github.com/mmatyas/supermariowar) - A fan-made multiplayer Super Mario Bros. style deathmatch game (6 days ago)
-- [pjasicek/OpenClaw](https://github.com/pjasicek/OpenClaw) - Reimplementation of Captain Claw (1997) platformer (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
