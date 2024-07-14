@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (3 days ago)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (3 days ago)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (3 days ago)
-- [lokal-ninja/california](https://github.com/lokal-ninja/california) -  (3 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (4 days ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (4 days ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (4 days ago)
+- [lokal-ninja/california](https://github.com/lokal-ninja/california) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -42,7 +42,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [fix Emscripten build](https://github.com/lethal-guitar/RigelEngine/pull/921) on [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) (3 months ago)
 - [more inclusive wording](https://github.com/p3t3r67x0/oklabflensburg/pull/1) on [p3t3r67x0/oklabflensburg](https://github.com/p3t3r67x0/oklabflensburg) (4 months ago)
 - [fix click effect](https://github.com/andybrewer/mvp/pull/112) on [andybrewer/mvp](https://github.com/andybrewer/mvp) (4 months ago)
-- [lazy loading and width&#43;height for &lt;img&gt;](https://github.com/oklabflensburg/oddfl/pull/2) on [oklabflensburg/oddfl](https://github.com/oklabflensburg/oddfl) (4 months ago)
+- [lazy loading and width&#43;height for &lt;img&gt;](https://github.com/oklabflensburg/oddfl/pull/2) on [oklabflensburg/oddfl](https://github.com/oklabflensburg/oddfl) (5 months ago)
 
 #### 📜 My recent blog posts
 
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming (today)
-- [bitfighter/bitfighter](https://github.com/bitfighter/bitfighter) - The Bitfighter source code (2 days ago)
-- [simutrans/simutrans](https://github.com/simutrans/simutrans) (4 days ago)
-- [GMH-Code/Asylum](https://github.com/GMH-Code/Asylum) - Platform game written in C and SDL2 for Windows, Linux and WebAssembly (6 days ago)
-- [mmatyas/supermariowar](https://github.com/mmatyas/supermariowar) - A fan-made multiplayer Super Mario Bros. style deathmatch game (6 days ago)
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming (1 day ago)
+- [bitfighter/bitfighter](https://github.com/bitfighter/bitfighter) - The Bitfighter source code (3 days ago)
+- [simutrans/simutrans](https://github.com/simutrans/simutrans) (5 days ago)
+- [GMH-Code/Asylum](https://github.com/GMH-Code/Asylum) - Platform game written in C and SDL2 for Windows, Linux and WebAssembly (1 week ago)
+- [mmatyas/supermariowar](https://github.com/mmatyas/supermariowar) - A fan-made multiplayer Super Mario Bros. style deathmatch game (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
