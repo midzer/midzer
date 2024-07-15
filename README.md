@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
-- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (4 days ago)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (4 days ago)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (4 days ago)
-- [lokal-ninja/california](https://github.com/lokal-ninja/california) -  (4 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
+- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (5 days ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (5 days ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (5 days ago)
+- [lokal-ninja/california](https://github.com/lokal-ninja/california) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -60,9 +60,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming (1 day ago)
-- [bitfighter/bitfighter](https://github.com/bitfighter/bitfighter) - The Bitfighter source code (3 days ago)
-- [simutrans/simutrans](https://github.com/simutrans/simutrans) (5 days ago)
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming (2 days ago)
+- [bitfighter/bitfighter](https://github.com/bitfighter/bitfighter) - The Bitfighter source code (4 days ago)
+- [simutrans/simutrans](https://github.com/simutrans/simutrans) (6 days ago)
 - [GMH-Code/Asylum](https://github.com/GMH-Code/Asylum) - Platform game written in C and SDL2 for Windows, Linux and WebAssembly (1 week ago)
 - [mmatyas/supermariowar](https://github.com/mmatyas/supermariowar) - A fan-made multiplayer Super Mario Bros. style deathmatch game (1 week ago)
 
