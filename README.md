@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III (today)
 - [zpqrtbnk/xrick](https://github.com/zpqrtbnk/xrick) - Rick Dangerous (1 day ago)
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming (3 days ago)
 - [bitfighter/bitfighter](https://github.com/bitfighter/bitfighter) - The Bitfighter source code (5 days ago)
 - [simutrans/simutrans](https://github.com/simutrans/simutrans) (1 week ago)
-- [GMH-Code/Asylum](https://github.com/GMH-Code/Asylum) - Platform game written in C and SDL2 for Windows, Linux and WebAssembly (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
