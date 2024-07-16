@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (today)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (today)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (today)
-- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (today)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (1 day ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (1 day ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -31,15 +31,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔭 Latest releases I've contributed to
 
 - [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 1 month ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M124.0.6367.218](https://github.com/Alex313031/thorium/releases/tag/M124.0.6367.218), 1 month ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M124.0.6367.218](https://github.com/Alex313031/thorium/releases/tag/M124.0.6367.218), 2 months ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) ([v1.15](https://github.com/andybrewer/mvp/releases/tag/v1.15), 3 months ago) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
+- [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) ([v0.24.0](https://github.com/jekyll/jekyll-import/releases/tag/v0.24.0), 4 months ago) - :inbox_tray: The &#34;jekyll import&#34; command for importing from various blogs to Jekyll format.
 - [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) ([v0.9.1](https://github.com/lethal-guitar/RigelEngine/releases/tag/v0.9.1), 2 years ago) - A modern re-implementation of the classic DOS game Duke Nukem II
-- [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) ([22.02](https://github.com/JoseTomasTocino/freegemas/releases/tag/22.02), 2 years ago) - Freegemas is an open source version of the well known Bejeweled, built in C&#43;&#43; using SDL2
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix RuboCop](https://github.com/jekyll/jekyll-import/pull/545) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (today)
-- [docs: update latest release to 0.24.0](https://github.com/jekyll/jekyll-import/pull/544) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (today)
+- [fix RuboCop](https://github.com/jekyll/jekyll-import/pull/545) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (1 day ago)
+- [docs: update latest release to 0.24.0](https://github.com/jekyll/jekyll-import/pull/544) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (1 day ago)
 - [do not preload videos with poster any more](https://github.com/Alex313031/Alex313031.github.io/pull/26) on [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) (2 months ago)
 - [fix Emscripten build](https://github.com/lethal-guitar/RigelEngine/pull/921) on [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) (3 months ago)
 - [more inclusive wording](https://github.com/p3t3r67x0/oklabflensburg/pull/1) on [p3t3r67x0/oklabflensburg](https://github.com/p3t3r67x0/oklabflensburg) (4 months ago)
@@ -60,10 +60,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [zpqrtbnk/xrick](https://github.com/zpqrtbnk/xrick) - Rick Dangerous (today)
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming (2 days ago)
-- [bitfighter/bitfighter](https://github.com/bitfighter/bitfighter) - The Bitfighter source code (4 days ago)
-- [simutrans/simutrans](https://github.com/simutrans/simutrans) (6 days ago)
+- [zpqrtbnk/xrick](https://github.com/zpqrtbnk/xrick) - Rick Dangerous (1 day ago)
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming (3 days ago)
+- [bitfighter/bitfighter](https://github.com/bitfighter/bitfighter) - The Bitfighter source code (5 days ago)
+- [simutrans/simutrans](https://github.com/simutrans/simutrans) (1 week ago)
 - [GMH-Code/Asylum](https://github.com/GMH-Code/Asylum) - Platform game written in C and SDL2 for Windows, Linux and WebAssembly (1 week ago)
 
 #### 👯 Check out some of my recent followers
