@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/nigeria](https://github.com/lokal-ninja/nigeria) -  (today)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
 - [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (today)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (today)
 - [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (today)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (today)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (today)
+- [lokal-ninja/niedersachsen](https://github.com/lokal-ninja/niedersachsen) -  (today)
 
 #### 🌱 My latest projects
 
@@ -68,11 +68,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [vintagewang](https://github.com/vintagewang)
 - [eusme](https://github.com/eusme)
 - [sammorozov](https://github.com/sammorozov)
 - [Katherina-Ushachov](https://github.com/Katherina-Ushachov)
 - [EleftheriaKn](https://github.com/EleftheriaKn)
-- [9kopb](https://github.com/9kopb)
 
 #### 💬 Feedback
 
