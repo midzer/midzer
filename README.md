@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/wales](https://github.com/lokal-ninja/wales) -  (today)
-- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (today)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (today)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (today)
-- [lokal-ninja/arizona](https://github.com/lokal-ninja/arizona) -  (today)
+- [lokal-ninja/wales](https://github.com/lokal-ninja/wales) -  (1 day ago)
+- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (1 day ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (1 day ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (1 day ago)
+- [lokal-ninja/arizona](https://github.com/lokal-ninja/arizona) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -38,8 +38,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix RuboCop](https://github.com/jekyll/jekyll-import/pull/545) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (5 days ago)
-- [docs: update latest release to 0.24.0](https://github.com/jekyll/jekyll-import/pull/544) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (5 days ago)
+- [fix RuboCop](https://github.com/jekyll/jekyll-import/pull/545) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (6 days ago)
+- [docs: update latest release to 0.24.0](https://github.com/jekyll/jekyll-import/pull/544) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (6 days ago)
 - [do not preload videos with poster any more](https://github.com/Alex313031/Alex313031.github.io/pull/26) on [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) (2 months ago)
 - [fix Emscripten build](https://github.com/lethal-guitar/RigelEngine/pull/921) on [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) (3 months ago)
 - [more inclusive wording](https://github.com/p3t3r67x0/oklabflensburg/pull/1) on [p3t3r67x0/oklabflensburg](https://github.com/p3t3r67x0/oklabflensburg) (4 months ago)
@@ -60,8 +60,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III (4 days ago)
-- [zpqrtbnk/xrick](https://github.com/zpqrtbnk/xrick) - Rick Dangerous (5 days ago)
+- [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III (5 days ago)
+- [zpqrtbnk/xrick](https://github.com/zpqrtbnk/xrick) - Rick Dangerous (6 days ago)
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming (1 week ago)
 - [bitfighter/bitfighter](https://github.com/bitfighter/bitfighter) - The Bitfighter source code (1 week ago)
 - [simutrans/simutrans](https://github.com/simutrans/simutrans) (1 week ago)
