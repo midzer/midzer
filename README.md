@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/wales](https://github.com/lokal-ninja/wales) -  (1 day ago)
+- [lokal-ninja/arizona](https://github.com/lokal-ninja/arizona) -  (1 day ago)
 - [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (1 day ago)
 - [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (1 day ago)
 - [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (1 day ago)
-- [lokal-ninja/arizona](https://github.com/lokal-ninja/arizona) -  (1 day ago)
+- [lokal-ninja/california](https://github.com/lokal-ninja/california) -  (1 day ago)
 
 #### 🌱 My latest projects
 
