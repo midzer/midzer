@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [MarcelBraghetto/a-simple-triangle](https://github.com/MarcelBraghetto/a-simple-triangle) - A Simple Triangle - A journey into cross platform OpenGL and Vulkan (today)
 - [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III (6 days ago)
 - [zpqrtbnk/xrick](https://github.com/zpqrtbnk/xrick) - Rick Dangerous (1 week ago)
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming (1 week ago)
 - [bitfighter/bitfighter](https://github.com/bitfighter/bitfighter) - The Bitfighter source code (1 week ago)
-- [simutrans/simutrans](https://github.com/simutrans/simutrans) (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
