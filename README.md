@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/arizona](https://github.com/lokal-ninja/arizona) -  (2 days ago)
-- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (2 days ago)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (2 days ago)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (2 days ago)
-- [lokal-ninja/california](https://github.com/lokal-ninja/california) -  (2 days ago)
+- [lokal-ninja/arizona](https://github.com/lokal-ninja/arizona) -  (3 days ago)
+- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (3 days ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (3 days ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (3 days ago)
+- [lokal-ninja/california](https://github.com/lokal-ninja/california) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -38,10 +38,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix Pebble Regression](https://github.com/jekyll/jekyll-import/pull/546) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (1 day ago)
+- [fix Pebble Regression](https://github.com/jekyll/jekyll-import/pull/546) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (2 days ago)
 - [fix RuboCop](https://github.com/jekyll/jekyll-import/pull/545) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (1 week ago)
 - [docs: update latest release to 0.24.0](https://github.com/jekyll/jekyll-import/pull/544) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (1 week ago)
-- [do not preload videos with poster any more](https://github.com/Alex313031/Alex313031.github.io/pull/26) on [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) (2 months ago)
+- [do not preload videos with poster any more](https://github.com/Alex313031/Alex313031.github.io/pull/26) on [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) (3 months ago)
 - [fix Emscripten build](https://github.com/lethal-guitar/RigelEngine/pull/921) on [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) (3 months ago)
 
 #### 📜 My recent blog posts
@@ -60,9 +60,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [ooxi/violetland](https://github.com/ooxi/violetland) - An open source cross-platform game similar to Crimsonland (today)
-- [MarcelBraghetto/a-simple-triangle](https://github.com/MarcelBraghetto/a-simple-triangle) - A Simple Triangle - A journey into cross platform OpenGL and Vulkan (today)
-- [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III (6 days ago)
+- [ooxi/violetland](https://github.com/ooxi/violetland) - An open source cross-platform game similar to Crimsonland (1 day ago)
+- [MarcelBraghetto/a-simple-triangle](https://github.com/MarcelBraghetto/a-simple-triangle) - A Simple Triangle - A journey into cross platform OpenGL and Vulkan (1 day ago)
+- [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III (1 week ago)
 - [zpqrtbnk/xrick](https://github.com/zpqrtbnk/xrick) - Rick Dangerous (1 week ago)
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming (1 week ago)
 
