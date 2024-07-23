@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/arizona](https://github.com/lokal-ninja/arizona) -  (3 days ago)
+- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (3 days ago)
 - [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (3 days ago)
 - [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (3 days ago)
 - [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (3 days ago)
-- [lokal-ninja/california](https://github.com/lokal-ninja/california) -  (3 days ago)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -38,7 +38,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix Pebble Regression](https://github.com/jekyll/jekyll-import/pull/546) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (2 days ago)
+- [Fix erroneous cosmetic changes in Pebble importer](https://github.com/jekyll/jekyll-import/pull/546) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (2 days ago)
 - [fix RuboCop](https://github.com/jekyll/jekyll-import/pull/545) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (1 week ago)
 - [docs: update latest release to 0.24.0](https://github.com/jekyll/jekyll-import/pull/544) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (1 week ago)
 - [do not preload videos with poster any more](https://github.com/Alex313031/Alex313031.github.io/pull/26) on [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) (3 months ago)
