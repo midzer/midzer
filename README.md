@@ -68,11 +68,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
-- [vintagewang](https://github.com/vintagewang)
 - [eusme](https://github.com/eusme)
 - [sammorozov](https://github.com/sammorozov)
 - [Katherina-Ushachov](https://github.com/Katherina-Ushachov)
 - [EleftheriaKn](https://github.com/EleftheriaKn)
+- [9kopb](https://github.com/9kopb)
 
 #### 💬 Feedback
 
