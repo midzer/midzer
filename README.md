@@ -38,11 +38,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [allow HIGHDPI window](https://github.com/OpenDUNE/OpenDUNE/pull/402) on [OpenDUNE/OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) (today)
 - [Fix erroneous cosmetic changes in Pebble importer](https://github.com/jekyll/jekyll-import/pull/546) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (4 days ago)
 - [fix RuboCop](https://github.com/jekyll/jekyll-import/pull/545) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (1 week ago)
 - [docs: update latest release to 0.24.0](https://github.com/jekyll/jekyll-import/pull/544) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (1 week ago)
 - [do not preload videos with poster any more](https://github.com/Alex313031/Alex313031.github.io/pull/26) on [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) (3 months ago)
-- [fix Emscripten build](https://github.com/lethal-guitar/RigelEngine/pull/921) on [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) (3 months ago)
 
 #### 📜 My recent blog posts
 
