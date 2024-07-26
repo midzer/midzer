@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [usineur/hode](https://github.com/usineur/hode) - hode is a rewrite (made by Grégory Montoir) of the engine used in the game Heart of Darkness made by Amazing Studio. (today)
 - [ooxi/violetland](https://github.com/ooxi/violetland) - An open source cross-platform game similar to Crimsonland (4 days ago)
 - [MarcelBraghetto/a-simple-triangle](https://github.com/MarcelBraghetto/a-simple-triangle) - A Simple Triangle - A journey into cross platform OpenGL and Vulkan (4 days ago)
 - [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III (1 week ago)
 - [zpqrtbnk/xrick](https://github.com/zpqrtbnk/xrick) - Rick Dangerous (1 week ago)
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
