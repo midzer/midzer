@@ -22,7 +22,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🌱 My latest projects
 
-- [midzer/commentbeauty](https://github.com/midzer/commentbeauty) - 
+- [midzer/commentbeauty](https://github.com/midzer/commentbeauty) - Reignite the fabulousness of commenting on the Internet with ten points of reference
 - [midzer/numptyphysics](https://github.com/midzer/numptyphysics) - Harness gravity with your crayon and set about creating blocks, ramps, levers, pulleys and whatever else you fancy to get the little red thing to the little yellow thing.
 - [midzer/feed-wittichenau](https://github.com/midzer/feed-wittichenau) - Website showing feed of local authorities, blogs, communities and news papers
 - [midzer/feed-flensburg](https://github.com/midzer/feed-flensburg) - Website showing feed of local authorities, blogs, communities and news papers
