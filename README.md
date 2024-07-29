@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [ngagesdk/ccleste](https://github.com/ngagesdk/ccleste) - A portable Celeste Classic C source port. (today)
 - [usineur/hode](https://github.com/usineur/hode) - hode is a rewrite (made by Grégory Montoir) of the engine used in the game Heart of Darkness made by Amazing Studio. (3 days ago)
 - [ooxi/violetland](https://github.com/ooxi/violetland) - An open source cross-platform game similar to Crimsonland (1 week ago)
 - [MarcelBraghetto/a-simple-triangle](https://github.com/MarcelBraghetto/a-simple-triangle) - A Simple Triangle - A journey into cross platform OpenGL and Vulkan (1 week ago)
 - [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III (1 week ago)
-- [zpqrtbnk/xrick](https://github.com/zpqrtbnk/xrick) - Rick Dangerous (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
