@@ -18,7 +18,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [lokal-ninja/nova-scotia](https://github.com/lokal-ninja/nova-scotia) -  (4 days ago)
 - [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (4 days ago)
 - [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (4 days ago)
-- [lokal-ninja/california](https://github.com/lokal-ninja/california) -  (4 days ago)
+- [lokal-ninja/mexico](https://github.com/lokal-ninja/mexico) -  (4 days ago)
 
 #### 🌱 My latest projects
 
