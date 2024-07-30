@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [cyxx/f2bgl](https://github.com/cyxx/f2bgl) - Fade To Black engine reimplementation (SDL, OpenGL) (today)
 - [ngagesdk/ccleste](https://github.com/ngagesdk/ccleste) - A portable Celeste Classic C source port. (1 day ago)
 - [usineur/hode](https://github.com/usineur/hode) - hode is a rewrite (made by Grégory Montoir) of the engine used in the game Heart of Darkness made by Amazing Studio. (4 days ago)
 - [ooxi/violetland](https://github.com/ooxi/violetland) - An open source cross-platform game similar to Crimsonland (1 week ago)
 - [MarcelBraghetto/a-simple-triangle](https://github.com/MarcelBraghetto/a-simple-triangle) - A Simple Triangle - A journey into cross platform OpenGL and Vulkan (1 week ago)
-- [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
