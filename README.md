@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/saskatchewan](https://github.com/lokal-ninja/saskatchewan) -  (1 day ago)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (1 day ago)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (1 day ago)
-- [lokal-ninja/mexico](https://github.com/lokal-ninja/mexico) -  (1 day ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/saskatchewan](https://github.com/lokal-ninja/saskatchewan) -  (2 days ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (2 days ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (2 days ago)
+- [lokal-ninja/mexico](https://github.com/lokal-ninja/mexico) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -38,9 +38,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [allow HIGHDPI window](https://github.com/ngagesdk/ccleste/pull/19) on [ngagesdk/ccleste](https://github.com/ngagesdk/ccleste) (1 day ago)
-- [allow HIGHDPI window](https://github.com/usineur/hode/pull/23) on [usineur/hode](https://github.com/usineur/hode) (4 days ago)
-- [allow HIGHDPI window](https://github.com/OpenDUNE/OpenDUNE/pull/402) on [OpenDUNE/OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) (6 days ago)
+- [allow HIGHDPI window](https://github.com/ngagesdk/ccleste/pull/19) on [ngagesdk/ccleste](https://github.com/ngagesdk/ccleste) (2 days ago)
+- [allow HIGHDPI window](https://github.com/usineur/hode/pull/23) on [usineur/hode](https://github.com/usineur/hode) (5 days ago)
+- [allow HIGHDPI window](https://github.com/OpenDUNE/OpenDUNE/pull/402) on [OpenDUNE/OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) (1 week ago)
 - [Fix erroneous cosmetic changes in Pebble importer](https://github.com/jekyll/jekyll-import/pull/546) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (1 week ago)
 - [fix RuboCop](https://github.com/jekyll/jekyll-import/pull/545) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (2 weeks ago)
 
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web! (1 day ago)
-- [TerryCavanagh/VVVVVV](https://github.com/TerryCavanagh/VVVVVV) - The source code to VVVVVV! http://thelettervsixtim.es/ (1 day ago)
-- [cyxx/f2bgl](https://github.com/cyxx/f2bgl) - Fade To Black engine reimplementation (SDL, OpenGL) (1 day ago)
-- [ngagesdk/ccleste](https://github.com/ngagesdk/ccleste) - A portable Celeste Classic C source port. (2 days ago)
-- [usineur/hode](https://github.com/usineur/hode) - hode is a rewrite (made by Grégory Montoir) of the engine used in the game Heart of Darkness made by Amazing Studio. (5 days ago)
+- [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web! (2 days ago)
+- [TerryCavanagh/VVVVVV](https://github.com/TerryCavanagh/VVVVVV) - The source code to VVVVVV! http://thelettervsixtim.es/ (2 days ago)
+- [cyxx/f2bgl](https://github.com/cyxx/f2bgl) - Fade To Black engine reimplementation (SDL, OpenGL) (2 days ago)
+- [ngagesdk/ccleste](https://github.com/ngagesdk/ccleste) - A portable Celeste Classic C source port. (3 days ago)
+- [usineur/hode](https://github.com/usineur/hode) - hode is a rewrite (made by Grégory Montoir) of the engine used in the game Heart of Darkness made by Amazing Studio. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
