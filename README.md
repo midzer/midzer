@@ -68,11 +68,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [ratul0vai](https://github.com/ratul0vai)
 - [standardgalactic](https://github.com/standardgalactic)
 - [eust-w](https://github.com/eust-w)
 - [androids7](https://github.com/androids7)
 - [eusme](https://github.com/eusme)
-- [sammorozov](https://github.com/sammorozov)
 
 #### 💬 Feedback
 
