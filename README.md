@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 day ago)
-- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (1 day ago)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (1 day ago)
-- [lokal-ninja/mexico](https://github.com/lokal-ninja/mexico) -  (1 day ago)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (1 day ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (2 days ago)
+- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (2 days ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (2 days ago)
+- [lokal-ninja/mexico](https://github.com/lokal-ninja/mexico) -  (2 days ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 1 day ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
+- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([makemhr](https://github.com/kcat/openal-soft/releases/tag/makemhr), 2 days ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) ([v1.15](https://github.com/andybrewer/mvp/releases/tag/v1.15), 4 months ago) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) ([v0.24.0](https://github.com/jekyll/jekyll-import/releases/tag/v0.24.0), 5 months ago) - :inbox_tray: The &#34;jekyll import&#34; command for importing from various blogs to Jekyll format.
 - [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) ([v0.9.1](https://github.com/lethal-guitar/RigelEngine/releases/tag/v0.9.1), 2 years ago) - A modern re-implementation of the classic DOS game Duke Nukem II
@@ -38,7 +38,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [allow HIGHDPI window](https://github.com/ngagesdk/ccleste/pull/19) on [ngagesdk/ccleste](https://github.com/ngagesdk/ccleste) (6 days ago)
+- [allow HIGHDPI window](https://github.com/ngagesdk/ccleste/pull/19) on [ngagesdk/ccleste](https://github.com/ngagesdk/ccleste) (1 week ago)
 - [allow HIGHDPI window](https://github.com/usineur/hode/pull/23) on [usineur/hode](https://github.com/usineur/hode) (1 week ago)
 - [allow HIGHDPI window](https://github.com/OpenDUNE/OpenDUNE/pull/402) on [OpenDUNE/OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) (1 week ago)
 - [Fix erroneous cosmetic changes in Pebble importer](https://github.com/jekyll/jekyll-import/pull/546) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (2 weeks ago)
@@ -60,10 +60,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [madskjeldgaard/exformal-hugo-theme](https://github.com/madskjeldgaard/exformal-hugo-theme) - A Hugo theme for record labels/artists/weirdos (3 days ago)
-- [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web! (6 days ago)
-- [TerryCavanagh/VVVVVV](https://github.com/TerryCavanagh/VVVVVV) - The source code to VVVVVV! http://thelettervsixtim.es/ (6 days ago)
-- [cyxx/f2bgl](https://github.com/cyxx/f2bgl) - Fade To Black engine reimplementation (SDL, OpenGL) (6 days ago)
+- [madskjeldgaard/exformal-hugo-theme](https://github.com/madskjeldgaard/exformal-hugo-theme) - A Hugo theme for record labels/artists/weirdos (4 days ago)
+- [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web! (1 week ago)
+- [TerryCavanagh/VVVVVV](https://github.com/TerryCavanagh/VVVVVV) - The source code to VVVVVV! http://thelettervsixtim.es/ (1 week ago)
+- [cyxx/f2bgl](https://github.com/cyxx/f2bgl) - Fade To Black engine reimplementation (SDL, OpenGL) (1 week ago)
 - [ngagesdk/ccleste](https://github.com/ngagesdk/ccleste) - A portable Celeste Classic C source port. (1 week ago)
 
 #### 👯 Check out some of my recent followers
