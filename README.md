@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [vrza/derclou](https://github.com/vrza/derclou) - Der Clou! - SDL Port (today)
 - [OWASP/O-Saft](https://github.com/OWASP/O-Saft) - O-Saft  - OWASP SSL advanced forensic tool (4 days ago)
 - [madskjeldgaard/exformal-hugo-theme](https://github.com/madskjeldgaard/exformal-hugo-theme) - A Hugo theme for record labels/artists/weirdos (1 week ago)
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web! (2 weeks ago)
 - [TerryCavanagh/VVVVVV](https://github.com/TerryCavanagh/VVVVVV) - The source code to VVVVVV! http://thelettervsixtim.es/ (2 weeks ago)
-- [cyxx/f2bgl](https://github.com/cyxx/f2bgl) - Fade To Black engine reimplementation (SDL, OpenGL) (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
