@@ -15,10 +15,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/ghana](https://github.com/lokal-ninja/ghana) -  (4 days ago)
+- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (4 days ago)
 - [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (4 days ago)
 - [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (4 days ago)
-- [lokal-ninja/nova-scotia](https://github.com/lokal-ninja/nova-scotia) -  (4 days ago)
+- [lokal-ninja/alberta](https://github.com/lokal-ninja/alberta) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [swfans/swars](https://github.com/swfans/swars) - Syndicate Wars port, alternative binary for the classic Bullfrog game (today)
 - [raghudotcc/simply-jekyll](https://github.com/raghudotcc/simply-jekyll) - A simple yet highly functional jekyll theme with backlinks, wiki-style links, context menu, page preview, sidenote etc (2 days ago)
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (4 days ago)
 - [vrza/derclou](https://github.com/vrza/derclou) - Der Clou! - SDL Port (5 days ago)
 - [OWASP/O-Saft](https://github.com/OWASP/O-Saft) - O-Saft  - OWASP SSL advanced forensic tool (1 week ago)
-- [madskjeldgaard/exformal-hugo-theme](https://github.com/madskjeldgaard/exformal-hugo-theme) - A Hugo theme for record labels/artists/weirdos (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
