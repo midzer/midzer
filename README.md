@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
-- [lokal-ninja/mexico](https://github.com/lokal-ninja/mexico) -  (1 day ago)
-- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (1 day ago)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (1 day ago)
-- [lokal-ninja/arkansas](https://github.com/lokal-ninja/arkansas) -  (1 day ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
+- [lokal-ninja/mexico](https://github.com/lokal-ninja/mexico) -  (2 days ago)
+- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (2 days ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (2 days ago)
+- [lokal-ninja/arkansas](https://github.com/lokal-ninja/arkansas) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([latest](https://github.com/kcat/openal-soft/releases/tag/latest), 1 day ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
+- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([latest](https://github.com/kcat/openal-soft/releases/tag/latest), 2 days ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M126.0.6478.231](https://github.com/Alex313031/thorium/releases/tag/M126.0.6478.231), 1 week ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) ([v1.15](https://github.com/andybrewer/mvp/releases/tag/v1.15), 4 months ago) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) ([v0.24.0](https://github.com/jekyll/jekyll-import/releases/tag/v0.24.0), 6 months ago) - :inbox_tray: The &#34;jekyll import&#34; command for importing from various blogs to Jekyll format.
@@ -50,7 +50,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [](https://midzer.de/porting-games-for-the-web-with-emscripten) (4 months ago)
 - [](https://midzer.de/kaiserschmarrn) (7 months ago)
 - [](https://midzer.de/the-future-is-remix) (7 months ago)
-- [](https://midzer.de/obatzda) (8 months ago)
+- [](https://midzer.de/obatzda) (9 months ago)
 
 #### 📓 Gists I wrote
 
@@ -60,10 +60,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [sergiou87/open-supaplex](https://github.com/sergiou87/open-supaplex) - Reverse engineering Supaplex (1 day ago)
-- [swfans/swars](https://github.com/swfans/swars) - Syndicate Wars port, alternative binary for the classic Bullfrog game (2 days ago)
-- [raghudotcc/simply-jekyll](https://github.com/raghudotcc/simply-jekyll) - A simple yet highly functional jekyll theme with backlinks, wiki-style links, context menu, page preview, sidenote etc (4 days ago)
-- [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (6 days ago)
+- [sergiou87/open-supaplex](https://github.com/sergiou87/open-supaplex) - Reverse engineering Supaplex (2 days ago)
+- [swfans/swars](https://github.com/swfans/swars) - Syndicate Wars port, alternative binary for the classic Bullfrog game (3 days ago)
+- [raghudotcc/simply-jekyll](https://github.com/raghudotcc/simply-jekyll) - A simple yet highly functional jekyll theme with backlinks, wiki-style links, context menu, page preview, sidenote etc (5 days ago)
+- [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (1 week ago)
 - [vrza/derclou](https://github.com/vrza/derclou) - Der Clou! - SDL Port (1 week ago)
 
 #### 👯 Check out some of my recent followers
