@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [nixentric/Lowkey-Hugo-Theme](https://github.com/nixentric/Lowkey-Hugo-Theme) - A Simple &amp; Humble Hugo Themes (today)
 - [sergiou87/open-supaplex](https://github.com/sergiou87/open-supaplex) - Reverse engineering Supaplex (4 days ago)
 - [swfans/swars](https://github.com/swfans/swars) - Syndicate Wars port, alternative binary for the classic Bullfrog game (5 days ago)
 - [raghudotcc/simply-jekyll](https://github.com/raghudotcc/simply-jekyll) - A simple yet highly functional jekyll theme with backlinks, wiki-style links, context menu, page preview, sidenote etc (1 week ago)
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (1 week ago)
-- [vrza/derclou](https://github.com/vrza/derclou) - Der Clou! - SDL Port (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
