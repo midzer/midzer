@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (today)
-- [lokal-ninja/mexico](https://github.com/lokal-ninja/mexico) -  (today)
-- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (today)
-- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (today)
-- [lokal-ninja/pais-vasco](https://github.com/lokal-ninja/pais-vasco) -  (today)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (1 day ago)
+- [lokal-ninja/mexico](https://github.com/lokal-ninja/mexico) -  (1 day ago)
+- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (1 day ago)
+- [lokal-ninja/sachsen](https://github.com/lokal-ninja/sachsen) -  (1 day ago)
+- [lokal-ninja/pais-vasco](https://github.com/lokal-ninja/pais-vasco) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -30,8 +30,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([latest](https://github.com/kcat/openal-soft/releases/tag/latest), today) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M126.0.6478.246](https://github.com/Alex313031/thorium/releases/tag/M126.0.6478.246), 3 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
+- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([latest](https://github.com/kcat/openal-soft/releases/tag/latest), 1 day ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M126.0.6478.246](https://github.com/Alex313031/thorium/releases/tag/M126.0.6478.246), 4 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) ([v1.15](https://github.com/andybrewer/mvp/releases/tag/v1.15), 4 months ago) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) ([v0.24.0](https://github.com/jekyll/jekyll-import/releases/tag/v0.24.0), 6 months ago) - :inbox_tray: The &#34;jekyll import&#34; command for importing from various blogs to Jekyll format.
 - [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) ([v0.9.1](https://github.com/lethal-guitar/RigelEngine/releases/tag/v0.9.1), 2 years ago) - A modern re-implementation of the classic DOS game Duke Nukem II
@@ -39,7 +39,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔨 Latest Pull Requests I published
 
 - [allow HIGHDPI window](https://github.com/ngagesdk/ccleste/pull/19) on [ngagesdk/ccleste](https://github.com/ngagesdk/ccleste) (3 weeks ago)
-- [allow HIGHDPI window](https://github.com/usineur/hode/pull/23) on [usineur/hode](https://github.com/usineur/hode) (4 weeks ago)
+- [allow HIGHDPI window](https://github.com/usineur/hode/pull/23) on [usineur/hode](https://github.com/usineur/hode) (1 month ago)
 - [allow HIGHDPI window](https://github.com/OpenDUNE/OpenDUNE/pull/402) on [OpenDUNE/OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) (1 month ago)
 - [Fix erroneous cosmetic changes in Pebble importer](https://github.com/jekyll/jekyll-import/pull/546) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (1 month ago)
 - [fix RuboCop](https://github.com/jekyll/jekyll-import/pull/545) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (1 month ago)
@@ -60,8 +60,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [nixentric/Lowkey-Hugo-Theme](https://github.com/nixentric/Lowkey-Hugo-Theme) - A Simple &amp; Humble Hugo Themes (2 days ago)
-- [sergiou87/open-supaplex](https://github.com/sergiou87/open-supaplex) - Reverse engineering Supaplex (6 days ago)
+- [nixentric/Lowkey-Hugo-Theme](https://github.com/nixentric/Lowkey-Hugo-Theme) - A Simple &amp; Humble Hugo Themes (3 days ago)
+- [sergiou87/open-supaplex](https://github.com/sergiou87/open-supaplex) - Reverse engineering Supaplex (1 week ago)
 - [swfans/swars](https://github.com/swfans/swars) - Syndicate Wars port, alternative binary for the classic Bullfrog game (1 week ago)
 - [raghudotcc/simply-jekyll](https://github.com/raghudotcc/simply-jekyll) - A simple yet highly functional jekyll theme with backlinks, wiki-style links, context menu, page preview, sidenote etc (1 week ago)
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (1 week ago)
