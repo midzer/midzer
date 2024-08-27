@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [HurricanGame/Hurrican](https://github.com/HurricanGame/Hurrican) - Freeware jump and shoot game created by Poke53280, based on the Turrican game series by Manfred Trenz (today)
 - [jonof/jfsw](https://github.com/jonof/jfsw) - Port of the 3D Realms game &#34;Shadow Warrior&#34; (1 day ago)
 - [nixentric/Lowkey-Hugo-Theme](https://github.com/nixentric/Lowkey-Hugo-Theme) - A Simple &amp; Humble Hugo Themes (4 days ago)
 - [sergiou87/open-supaplex](https://github.com/sergiou87/open-supaplex) - Reverse engineering Supaplex (1 week ago)
 - [swfans/swars](https://github.com/swfans/swars) - Syndicate Wars port, alternative binary for the classic Bullfrog game (1 week ago)
-- [raghudotcc/simply-jekyll](https://github.com/raghudotcc/simply-jekyll) - A simple yet highly functional jekyll theme with backlinks, wiki-style links, context menu, page preview, sidenote etc (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
