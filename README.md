@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([latest](https://github.com/kcat/openal-soft/releases/tag/latest), 4 days ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
+- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([latest](https://github.com/kcat/openal-soft/releases/tag/latest), today) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M126.0.6478.246](https://github.com/Alex313031/thorium/releases/tag/M126.0.6478.246), 1 week ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) ([v1.15](https://github.com/andybrewer/mvp/releases/tag/v1.15), 4 months ago) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) ([v0.24.0](https://github.com/jekyll/jekyll-import/releases/tag/v0.24.0), 6 months ago) - :inbox_tray: The &#34;jekyll import&#34; command for importing from various blogs to Jekyll format.
