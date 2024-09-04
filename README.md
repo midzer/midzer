@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/andalucia](https://github.com/lokal-ninja/andalucia) -  (3 days ago)
-- [lokal-ninja/mexico](https://github.com/lokal-ninja/mexico) -  (3 days ago)
-- [lokal-ninja/guatemala](https://github.com/lokal-ninja/guatemala) -  (3 days ago)
-- [lokal-ninja/cuba](https://github.com/lokal-ninja/cuba) -  (3 days ago)
-- [lokal-ninja/colombia](https://github.com/lokal-ninja/colombia) -  (3 days ago)
+- [lokal-ninja/andalucia](https://github.com/lokal-ninja/andalucia) -  (4 days ago)
+- [lokal-ninja/mexico](https://github.com/lokal-ninja/mexico) -  (4 days ago)
+- [lokal-ninja/guatemala](https://github.com/lokal-ninja/guatemala) -  (4 days ago)
+- [lokal-ninja/cuba](https://github.com/lokal-ninja/cuba) -  (4 days ago)
+- [lokal-ninja/colombia](https://github.com/lokal-ninja/colombia) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,8 +30,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M126.0.6478.251](https://github.com/Alex313031/thorium/releases/tag/M126.0.6478.251), today) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
-- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([latest](https://github.com/kcat/openal-soft/releases/tag/latest), today) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M126.0.6478.251](https://github.com/Alex313031/thorium/releases/tag/M126.0.6478.251), 1 day ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
+- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([latest](https://github.com/kcat/openal-soft/releases/tag/latest), 1 day ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) ([v1.15](https://github.com/andybrewer/mvp/releases/tag/v1.15), 5 months ago) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) ([v0.24.0](https://github.com/jekyll/jekyll-import/releases/tag/v0.24.0), 6 months ago) - :inbox_tray: The &#34;jekyll import&#34; command for importing from various blogs to Jekyll format.
 - [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) ([v0.9.1](https://github.com/lethal-guitar/RigelEngine/releases/tag/v0.9.1), 2 years ago) - A modern re-implementation of the classic DOS game Duke Nukem II
@@ -46,7 +46,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (2 months ago)
+- [](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (3 months ago)
 - [](https://midzer.de/porting-games-for-the-web-with-emscripten) (4 months ago)
 - [](https://midzer.de/kaiserschmarrn) (7 months ago)
 - [](https://midzer.de/the-future-is-remix) (7 months ago)
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [ashishb/wp2hugo](https://github.com/ashishb/wp2hugo) - The best WordPress to Hugo migrator (written in Go) (6 days ago)
+- [ashishb/wp2hugo](https://github.com/ashishb/wp2hugo) - The best WordPress to Hugo migrator (written in Go) (1 week ago)
 - [HurricanGame/Hurrican](https://github.com/HurricanGame/Hurrican) - Freeware jump and shoot game created by Poke53280, based on the Turrican game series by Manfred Trenz (1 week ago)
 - [jonof/jfsw](https://github.com/jonof/jfsw) - Port of the 3D Realms game &#34;Shadow Warrior&#34; (1 week ago)
 - [nixentric/Lowkey-Hugo-Theme](https://github.com/nixentric/Lowkey-Hugo-Theme) - A Simple &amp; Humble Hugo Themes (1 week ago)
