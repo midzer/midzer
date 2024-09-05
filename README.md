@@ -15,10 +15,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/mexico](https://github.com/lokal-ninja/mexico) -  (today)
+- [lokal-ninja/costa-rica](https://github.com/lokal-ninja/costa-rica) -  (today)
 - [lokal-ninja/pais-vasco](https://github.com/lokal-ninja/pais-vasco) -  (today)
-- [lokal-ninja/argentina](https://github.com/lokal-ninja/argentina) -  (today)
 - [lokal-ninja/uruguay](https://github.com/lokal-ninja/uruguay) -  (today)
+- [lokal-ninja/guatemala](https://github.com/lokal-ninja/guatemala) -  (today)
 
 #### 🌱 My latest projects
 
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [fabiangreffrath/taradino](https://github.com/fabiangreffrath/taradino) - SDL2 port of Rise of the Triad (today)
 - [ashishb/wp2hugo](https://github.com/ashishb/wp2hugo) - The best WordPress to Hugo migrator (written in Go) (1 week ago)
 - [HurricanGame/Hurrican](https://github.com/HurricanGame/Hurrican) - Freeware jump and shoot game created by Poke53280, based on the Turrican game series by Manfred Trenz (1 week ago)
 - [jonof/jfsw](https://github.com/jonof/jfsw) - Port of the 3D Realms game &#34;Shadow Warrior&#34; (1 week ago)
 - [nixentric/Lowkey-Hugo-Theme](https://github.com/nixentric/Lowkey-Hugo-Theme) - A Simple &amp; Humble Hugo Themes (1 week ago)
-- [sergiou87/open-supaplex](https://github.com/sergiou87/open-supaplex) - Reverse engineering Supaplex (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
