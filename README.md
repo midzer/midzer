@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/bolivia](https://github.com/lokal-ninja/bolivia) -  (today)
+- [lokal-ninja/ecuador](https://github.com/lokal-ninja/ecuador) -  (today)
 - [lokal-ninja/mexico](https://github.com/lokal-ninja/mexico) -  (today)
 - [lokal-ninja/pais-vasco](https://github.com/lokal-ninja/pais-vasco) -  (today)
 - [lokal-ninja/argentina](https://github.com/lokal-ninja/argentina) -  (today)
