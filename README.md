@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [bemky/mdarea](https://github.com/bemky/mdarea) - Add a lightweight markdown editor to your textarea https://bemky.github.io/mdarea (today)
 - [fabiangreffrath/taradino](https://github.com/fabiangreffrath/taradino) - SDL2 port of Rise of the Triad (2 days ago)
 - [ashishb/wp2hugo](https://github.com/ashishb/wp2hugo) - The best WordPress to Hugo migrator (written in Go) (1 week ago)
 - [HurricanGame/Hurrican](https://github.com/HurricanGame/Hurrican) - Freeware jump and shoot game created by Poke53280, based on the Turrican game series by Manfred Trenz (1 week ago)
 - [jonof/jfsw](https://github.com/jonof/jfsw) - Port of the 3D Realms game &#34;Shadow Warrior&#34; (1 week ago)
-- [nixentric/Lowkey-Hugo-Theme](https://github.com/nixentric/Lowkey-Hugo-Theme) - A Simple &amp; Humble Hugo Themes (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
