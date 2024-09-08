@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
-- [lokal-ninja/guatemala](https://github.com/lokal-ninja/guatemala) -  (2 days ago)
-- [lokal-ninja/cuba](https://github.com/lokal-ninja/cuba) -  (2 days ago)
-- [lokal-ninja/colombia](https://github.com/lokal-ninja/colombia) -  (2 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
+- [lokal-ninja/guatemala](https://github.com/lokal-ninja/guatemala) -  (3 days ago)
+- [lokal-ninja/cuba](https://github.com/lokal-ninja/cuba) -  (3 days ago)
+- [lokal-ninja/colombia](https://github.com/lokal-ninja/colombia) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,8 +30,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([latest](https://github.com/kcat/openal-soft/releases/tag/latest), 1 day ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M126.0.6478.251](https://github.com/Alex313031/thorium/releases/tag/M126.0.6478.251), 4 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
+- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([latest](https://github.com/kcat/openal-soft/releases/tag/latest), 2 days ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M126.0.6478.251](https://github.com/Alex313031/thorium/releases/tag/M126.0.6478.251), 5 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) ([v1.15](https://github.com/andybrewer/mvp/releases/tag/v1.15), 5 months ago) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) ([v0.24.0](https://github.com/jekyll/jekyll-import/releases/tag/v0.24.0), 6 months ago) - :inbox_tray: The &#34;jekyll import&#34; command for importing from various blogs to Jekyll format.
 - [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) ([v0.9.1](https://github.com/lethal-guitar/RigelEngine/releases/tag/v0.9.1), 2 years ago) - A modern re-implementation of the classic DOS game Duke Nukem II
@@ -60,8 +60,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [bemky/mdarea](https://github.com/bemky/mdarea) - Add a lightweight markdown editor to your textarea https://bemky.github.io/mdarea (today)
-- [fabiangreffrath/taradino](https://github.com/fabiangreffrath/taradino) - SDL2 port of Rise of the Triad (2 days ago)
+- [bemky/mdarea](https://github.com/bemky/mdarea) - Add a lightweight markdown editor to your textarea https://bemky.github.io/mdarea (1 day ago)
+- [fabiangreffrath/taradino](https://github.com/fabiangreffrath/taradino) - SDL2 port of Rise of the Triad (3 days ago)
 - [ashishb/wp2hugo](https://github.com/ashishb/wp2hugo) - The best WordPress to Hugo migrator (written in Go) (1 week ago)
 - [HurricanGame/Hurrican](https://github.com/HurricanGame/Hurrican) - Freeware jump and shoot game created by Poke53280, based on the Turrican game series by Manfred Trenz (1 week ago)
 - [jonof/jfsw](https://github.com/jonof/jfsw) - Port of the 3D Realms game &#34;Shadow Warrior&#34; (1 week ago)
