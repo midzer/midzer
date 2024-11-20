@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-All of my web projects are lighthouse approved, always aiming for:
+All of my web projects are lighthouse approved, aiming for:
 
 <p align="center">
   <kbd><img src="https://github.com/midzer/midzer/blob/master/lighthouse.svg" alt="Lighthouse score 100s"></kbd>
