@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-All of my web projects are lighthouse approved, aiming for:
+All of my web projects are lighthouse approved, always aiming for:
 
 <p align="center">
   <kbd><img src="https://github.com/midzer/midzer/blob/master/lighthouse.svg" alt="Lighthouse score 100s"></kbd>
@@ -14,65 +14,64 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
-- [lokal-ninja/guatemala](https://github.com/lokal-ninja/guatemala) -  (4 days ago)
-- [lokal-ninja/cuba](https://github.com/lokal-ninja/cuba) -  (4 days ago)
-- [lokal-ninja/colombia](https://github.com/lokal-ninja/colombia) -  (4 days ago)
+- [lokal-ninja/extremadura](https://github.com/lokal-ninja/extremadura) -  (3 days ago)
+- [lokal-ninja/galicia](https://github.com/lokal-ninja/galicia) -  (3 days ago)
+- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (3 days ago)
+- [lokal-ninja/islas-baleares](https://github.com/lokal-ninja/islas-baleares) -  (3 days ago)
+- [lokal-ninja/madrid](https://github.com/lokal-ninja/madrid) -  (3 days ago)
 
 #### 🌱 My latest projects
 
-- [midzer/commentbeauty](https://github.com/midzer/commentbeauty) - Reignite the fabulousness of commenting on the Internet with ten points of reference
-- [midzer/numptyphysics](https://github.com/midzer/numptyphysics) - Harness gravity with your crayon and set about creating blocks, ramps, levers, pulleys and whatever else you fancy to get the little red thing to the little yellow thing.
-- [midzer/feed-wittichenau](https://github.com/midzer/feed-wittichenau) - Website showing feed of local authorities, blogs, communities and news papers
-- [midzer/feed-flensburg](https://github.com/midzer/feed-flensburg) - Website showing feed of local authorities, blogs, communities and news papers
-- [midzer/wordofday](https://github.com/midzer/wordofday) - World’s first Deceleration-Online-Word-Game (DOWG)
+- [midzer/ae](https://github.com/midzer/ae) - 
+- [midzer/empty-clip](https://github.com/midzer/empty-clip) - 2D role-playing game ported for the web
+- [midzer/cuyo](https://github.com/midzer/cuyo) - Tetris-like game with very impressive effects ported for the web
+- [midzer/atomiks](https://github.com/midzer/atomiks) - A classic puzzle game ported for the web
+- [midzer/simple-sokoban](https://github.com/midzer/simple-sokoban) - a (simple) Sokoban game aimed at playability and portability across systems ported for the web
 
 #### 🔭 Latest releases I've contributed to
 
-- [kcat/openal-soft](https://github.com/kcat/openal-soft) ([latest](https://github.com/kcat/openal-soft/releases/tag/latest), 3 days ago) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) ([M126.0.6478.251](https://github.com/Alex313031/thorium/releases/tag/M126.0.6478.251), 6 days ago) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
-- [andybrewer/mvp](https://github.com/andybrewer/mvp) ([v1.15](https://github.com/andybrewer/mvp/releases/tag/v1.15), 5 months ago) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
-- [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) ([v0.24.0](https://github.com/jekyll/jekyll-import/releases/tag/v0.24.0), 6 months ago) - :inbox_tray: The &#34;jekyll import&#34; command for importing from various blogs to Jekyll format.
+- [Choices-js/Choices](https://github.com/Choices-js/Choices) ([v11.1.0](https://github.com/Choices-js/Choices/releases/tag/v11.1.0), 3 weeks ago) - A vanilla JS customisable select box/text input plugin ⚡️
+- [midzer/tobii](https://github.com/midzer/tobii) ([v2.7.3](https://github.com/midzer/tobii/releases/tag/v2.7.3), 1 month ago) - An accessible, open-source lightbox with no dependencies
+- [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) ([v0.25.0](https://github.com/jekyll/jekyll-import/releases/tag/v0.25.0), 2 months ago) - :inbox_tray: The &#34;jekyll import&#34; command for importing from various blogs to Jekyll format.
 - [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) ([v0.9.1](https://github.com/lethal-guitar/RigelEngine/releases/tag/v0.9.1), 2 years ago) - A modern re-implementation of the classic DOS game Duke Nukem II
 
 #### 🔨 Latest Pull Requests I published
 
-- [allow HIGHDPI window](https://github.com/ngagesdk/ccleste/pull/19) on [ngagesdk/ccleste](https://github.com/ngagesdk/ccleste) (1 month ago)
-- [allow HIGHDPI window](https://github.com/usineur/hode/pull/23) on [usineur/hode](https://github.com/usineur/hode) (1 month ago)
-- [allow HIGHDPI window](https://github.com/OpenDUNE/OpenDUNE/pull/402) on [OpenDUNE/OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) (1 month ago)
-- [Fix erroneous cosmetic changes in Pebble importer](https://github.com/jekyll/jekyll-import/pull/546) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (1 month ago)
-- [fix RuboCop](https://github.com/jekyll/jekyll-import/pull/545) on [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) (1 month ago)
+- [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (1 week ago)
+- [add KMP search algorithm (gated by build flag)](https://github.com/Choices-js/Choices/pull/1277) on [Choices-js/Choices](https://github.com/Choices-js/Choices) (1 month ago)
+- [add mobile only controls](https://github.com/ptitSeb/prototype/pull/7) on [ptitSeb/prototype](https://github.com/ptitSeb/prototype) (2 months ago)
+- [Fix typo in ChangeLog. NFC](https://github.com/emscripten-core/emscripten/pull/23319) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (3 months ago)
+- [add flohmarkt](https://github.com/fedidb/communityDB/pull/3) on [fedidb/communityDB](https://github.com/fedidb/communityDB) (4 months ago)
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (3 months ago)
-- [](https://midzer.de/porting-games-for-the-web-with-emscripten) (4 months ago)
-- [](https://midzer.de/kaiserschmarrn) (7 months ago)
-- [](https://midzer.de/the-future-is-remix) (8 months ago)
-- [](https://midzer.de/obatzda) (9 months ago)
+- [](https://midzer.de/omas-kaesetorte) (5 months ago)
+- [](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (10 months ago)
+- [](https://midzer.de/porting-games-for-the-web-with-emscripten) (11 months ago)
+- [](https://midzer.de/kaiserschmarrn) (1 year ago)
+- [](https://midzer.de/the-future-is-remix) (1 year ago)
 
 #### 📓 Gists I wrote
 
 - [Fixed header and footer with scrollable content using flexbox](https://gist.github.com/3893ce8c0bec6f805ec1a7bb3269775d) (3 years ago)
 - [Hide Twitter Trending, Who to follow and liked tweets with uBlock Origin filters](https://gist.github.com/1afc39bdf5adbfe0020d1c2212b76b87) (3 years ago)
-- [GitHub origin HTTPS to SSH](https://gist.github.com/3ceba8ad7d956e02d9e920b121d8d059) (4 years ago)
+- [GitHub origin HTTPS to SSH](https://gist.github.com/3ceba8ad7d956e02d9e920b121d8d059) (5 years ago)
 
 #### ⭐ Recent stars
 
-- [bemky/mdarea](https://github.com/bemky/mdarea) - Add a lightweight markdown editor to your textarea https://bemky.github.io/mdarea (2 days ago)
-- [fabiangreffrath/taradino](https://github.com/fabiangreffrath/taradino) - SDL2 port of Rise of the Triad (4 days ago)
-- [ashishb/wp2hugo](https://github.com/ashishb/wp2hugo) - The best WordPress to Hugo migrator (written in Go) (1 week ago)
-- [HurricanGame/Hurrican](https://github.com/HurricanGame/Hurrican) - Freeware jump and shoot game created by Poke53280, based on the Turrican game series by Manfred Trenz (1 week ago)
-- [jonof/jfsw](https://github.com/jonof/jfsw) - Port of the 3D Realms game &#34;Shadow Warrior&#34; (2 weeks ago)
+- [snej55/paper-world](https://github.com/snej55/paper-world) - Defblade - a game made with SDL2 and C&#43;&#43; (1 day ago)
+- [jech/galene](https://github.com/jech/galene) - The Galène videoconference server (1 week ago)
+- [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player (3 weeks ago)
+- [olithissen/monkeyislandbot_mastodon](https://github.com/olithissen/monkeyislandbot_mastodon) (3 weeks ago)
+- [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
-- [eust-w](https://github.com/eust-w)
-- [Clownsw](https://github.com/Clownsw)
-- [ratul0vai](https://github.com/ratul0vai)
-- [standardgalactic](https://github.com/standardgalactic)
-- [androids7](https://github.com/androids7)
+- [13inccc](https://github.com/13inccc)
+- [alexx2024](https://github.com/alexx2024)
+- [eurror](https://github.com/eurror)
+- [adithya1010](https://github.com/adithya1010)
+- [MorviNord](https://github.com/MorviNord)
 
 #### 💬 Feedback
 
