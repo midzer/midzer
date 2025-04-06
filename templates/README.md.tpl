@@ -33,7 +33,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://midzer.de/feed.json" 5}}
+{{range rss "https://midzer.de/feed.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
