@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/extremadura](https://github.com/lokal-ninja/extremadura) -  (3 days ago)
-- [lokal-ninja/galicia](https://github.com/lokal-ninja/galicia) -  (3 days ago)
-- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (3 days ago)
-- [lokal-ninja/islas-baleares](https://github.com/lokal-ninja/islas-baleares) -  (3 days ago)
-- [lokal-ninja/madrid](https://github.com/lokal-ninja/madrid) -  (3 days ago)
+- [lokal-ninja/extremadura](https://github.com/lokal-ninja/extremadura) -  (4 days ago)
+- [lokal-ninja/galicia](https://github.com/lokal-ninja/galicia) -  (4 days ago)
+- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (4 days ago)
+- [lokal-ninja/islas-baleares](https://github.com/lokal-ninja/islas-baleares) -  (4 days ago)
+- [lokal-ninja/madrid](https://github.com/lokal-ninja/madrid) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -59,7 +59,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [snej55/paper-world](https://github.com/snej55/paper-world) - Defblade - a game made with SDL2 and C&#43;&#43; (1 day ago)
+- [snej55/paper-world](https://github.com/snej55/paper-world) - Defblade - a game made with SDL2 and C&#43;&#43; (2 days ago)
 - [jech/galene](https://github.com/jech/galene) - The Galène videoconference server (1 week ago)
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player (3 weeks ago)
 - [olithissen/monkeyislandbot_mastodon](https://github.com/olithissen/monkeyislandbot_mastodon) (3 weeks ago)
