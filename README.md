@@ -45,11 +45,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [](https://midzer.de/omas-kaesetorte) (5 months ago)
-- [](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (10 months ago)
-- [](https://midzer.de/porting-games-for-the-web-with-emscripten) (11 months ago)
-- [](https://midzer.de/kaiserschmarrn) (1 year ago)
-- [](https://midzer.de/the-future-is-remix) (1 year ago)
+- [https://midzer.de/omas-kaesetorte](https://midzer.de/omas-kaesetorte) (5 months ago)
+- [https://midzer.de/als-ich-mich-selbst-zu-lieben-begann](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (10 months ago)
+- [https://midzer.de/porting-games-for-the-web-with-emscripten](https://midzer.de/porting-games-for-the-web-with-emscripten) (11 months ago)
+- [https://midzer.de/kaiserschmarrn](https://midzer.de/kaiserschmarrn) (1 year ago)
+- [https://midzer.de/the-future-is-remix](https://midzer.de/the-future-is-remix) (1 year ago)
 
 #### 📓 Gists I wrote
 
