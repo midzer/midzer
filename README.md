@@ -67,11 +67,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [nholuongut](https://github.com/nholuongut)
 - [13inccc](https://github.com/13inccc)
 - [alexx2024](https://github.com/alexx2024)
 - [eurror](https://github.com/eurror)
 - [adithya1010](https://github.com/adithya1010)
-- [MorviNord](https://github.com/MorviNord)
 
 #### 💬 Feedback
 
