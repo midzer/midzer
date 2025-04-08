@@ -15,10 +15,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/oregon](https://github.com/lokal-ninja/oregon) -  (today)
-- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (today)
-- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
+- [lokal-ninja/oregon](https://github.com/lokal-ninja/oregon) -  (1 day ago)
+- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (1 day ago)
+- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -59,10 +59,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [snej55/paper-world](https://github.com/snej55/paper-world) - Defblade - a game made with SDL2 and C&#43;&#43; (2 days ago)
+- [snej55/paper-world](https://github.com/snej55/paper-world) - Defblade - a game made with SDL2 and C&#43;&#43; (3 days ago)
 - [jech/galene](https://github.com/jech/galene) - The Galène videoconference server (1 week ago)
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player (3 weeks ago)
-- [olithissen/monkeyislandbot_mastodon](https://github.com/olithissen/monkeyislandbot_mastodon) (3 weeks ago)
+- [olithissen/monkeyislandbot_mastodon](https://github.com/olithissen/monkeyislandbot_mastodon) (4 weeks ago)
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email (1 month ago)
 
 #### 👯 Check out some of my recent followers
