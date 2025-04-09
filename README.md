@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/oregon](https://github.com/lokal-ninja/oregon) -  (1 day ago)
-- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (1 day ago)
-- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (1 day ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/oregon](https://github.com/lokal-ninja/oregon) -  (2 days ago)
+- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (2 days ago)
+- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (2 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -54,13 +54,13 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 📓 Gists I wrote
 
 - [Fixed header and footer with scrollable content using flexbox](https://gist.github.com/3893ce8c0bec6f805ec1a7bb3269775d) (3 years ago)
-- [Hide Twitter Trending, Who to follow and liked tweets with uBlock Origin filters](https://gist.github.com/1afc39bdf5adbfe0020d1c2212b76b87) (3 years ago)
+- [Hide Twitter Trending, Who to follow and liked tweets with uBlock Origin filters](https://gist.github.com/1afc39bdf5adbfe0020d1c2212b76b87) (4 years ago)
 - [GitHub origin HTTPS to SSH](https://gist.github.com/3ceba8ad7d956e02d9e920b121d8d059) (5 years ago)
 
 #### ⭐ Recent stars
 
-- [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code (today)
-- [snej55/paper-world](https://github.com/snej55/paper-world) - Defblade - a game made with SDL2 and C&#43;&#43; (3 days ago)
+- [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code (1 day ago)
+- [snej55/paper-world](https://github.com/snej55/paper-world) - Defblade - a game made with SDL2 and C&#43;&#43; (4 days ago)
 - [jech/galene](https://github.com/jech/galene) - The Galène videoconference server (1 week ago)
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player (3 weeks ago)
 - [olithissen/monkeyislandbot_mastodon](https://github.com/olithissen/monkeyislandbot_mastodon) (4 weeks ago)
