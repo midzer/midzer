@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
-- [lokal-ninja/tennessee](https://github.com/lokal-ninja/tennessee) -  (5 days ago)
-- [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (5 days ago)
-- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (5 days ago)
-- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (5 days ago)
+- [lokal-ninja/british-columbia](https://github.com/lokal-ninja/british-columbia) -  (today)
+- [lokal-ninja/new-brunswick](https://github.com/lokal-ninja/new-brunswick) -  (today)
+- [lokal-ninja/manitoba](https://github.com/lokal-ninja/manitoba) -  (today)
+- [lokal-ninja/australia](https://github.com/lokal-ninja/australia) -  (today)
+- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (today)
 
 #### 🌱 My latest projects
 
@@ -33,7 +33,6 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [Choices-js/Choices](https://github.com/Choices-js/Choices) ([v11.1.0](https://github.com/Choices-js/Choices/releases/tag/v11.1.0), 4 weeks ago) - A vanilla JS customisable select box/text input plugin ⚡️
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.7.3](https://github.com/midzer/tobii/releases/tag/v2.7.3), 1 month ago) - An accessible, open-source lightbox with no dependencies
 - [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) ([v0.25.0](https://github.com/jekyll/jekyll-import/releases/tag/v0.25.0), 2 months ago) - :inbox_tray: The &#34;jekyll import&#34; command for importing from various blogs to Jekyll format.
-- [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) ([v0.9.1](https://github.com/lethal-guitar/RigelEngine/releases/tag/v0.9.1), 2 years ago) - A modern re-implementation of the classic DOS game Duke Nukem II
 
 #### 🔨 Latest Pull Requests I published
 
