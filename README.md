@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/honduras](https://github.com/lokal-ninja/honduras) -  (today)
-- [lokal-ninja/washington](https://github.com/lokal-ninja/washington) -  (today)
-- [lokal-ninja/west-virginia](https://github.com/lokal-ninja/west-virginia) -  (today)
-- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (today)
+- [lokal-ninja/panama](https://github.com/lokal-ninja/panama) -  (today)
+- [lokal-ninja/islas-baleares](https://github.com/lokal-ninja/islas-baleares) -  (today)
 - [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (today)
+- [lokal-ninja/madrid](https://github.com/lokal-ninja/madrid) -  (today)
+- [lokal-ninja/pais-vasco](https://github.com/lokal-ninja/pais-vasco) -  (today)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [Choices-js/Choices](https://github.com/Choices-js/Choices) ([v11.1.0](https://github.com/Choices-js/Choices/releases/tag/v11.1.0), 4 weeks ago) - A vanilla JS customisable select box/text input plugin ⚡️
+- [Choices-js/Choices](https://github.com/Choices-js/Choices) ([v11.1.0](https://github.com/Choices-js/Choices/releases/tag/v11.1.0), 1 month ago) - A vanilla JS customisable select box/text input plugin ⚡️
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.7.3](https://github.com/midzer/tobii/releases/tag/v2.7.3), 1 month ago) - An accessible, open-source lightbox with no dependencies
 - [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) ([v0.25.0](https://github.com/jekyll/jekyll-import/releases/tag/v0.25.0), 2 months ago) - :inbox_tray: The &#34;jekyll import&#34; command for importing from various blogs to Jekyll format.
 
@@ -58,10 +58,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code (4 days ago)
+- [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code (5 days ago)
 - [snej55/paper-world](https://github.com/snej55/paper-world) - Defblade - a game made with SDL2 and C&#43;&#43; (1 week ago)
 - [jech/galene](https://github.com/jech/galene) - The Galène videoconference server (2 weeks ago)
-- [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player (4 weeks ago)
+- [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player (1 month ago)
 - [olithissen/monkeyislandbot_mastodon](https://github.com/olithissen/monkeyislandbot_mastodon) (1 month ago)
 
 #### 👯 Check out some of my recent followers
