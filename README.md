@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/valencia](https://github.com/lokal-ninja/valencia) -  (today)
-- [lokal-ninja/islas-baleares](https://github.com/lokal-ninja/islas-baleares) -  (today)
-- [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (today)
-- [lokal-ninja/madrid](https://github.com/lokal-ninja/madrid) -  (today)
-- [lokal-ninja/pais-vasco](https://github.com/lokal-ninja/pais-vasco) -  (today)
+- [lokal-ninja/valencia](https://github.com/lokal-ninja/valencia) -  (1 day ago)
+- [lokal-ninja/islas-baleares](https://github.com/lokal-ninja/islas-baleares) -  (1 day ago)
+- [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (1 day ago)
+- [lokal-ninja/madrid](https://github.com/lokal-ninja/madrid) -  (1 day ago)
+- [lokal-ninja/pais-vasco](https://github.com/lokal-ninja/pais-vasco) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -46,7 +46,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [https://midzer.de/omas-kaesetorte](https://midzer.de/omas-kaesetorte) (5 months ago)
 - [https://midzer.de/als-ich-mich-selbst-zu-lieben-begann](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (10 months ago)
-- [https://midzer.de/porting-games-for-the-web-with-emscripten](https://midzer.de/porting-games-for-the-web-with-emscripten) (11 months ago)
+- [https://midzer.de/porting-games-for-the-web-with-emscripten](https://midzer.de/porting-games-for-the-web-with-emscripten) (1 year ago)
 - [https://midzer.de/kaiserschmarrn](https://midzer.de/kaiserschmarrn) (1 year ago)
 - [https://midzer.de/the-future-is-remix](https://midzer.de/the-future-is-remix) (1 year ago)
 
@@ -58,7 +58,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code (5 days ago)
+- [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code (6 days ago)
 - [snej55/paper-world](https://github.com/snej55/paper-world) - Defblade - a game made with SDL2 and C&#43;&#43; (1 week ago)
 - [jech/galene](https://github.com/jech/galene) - The Galène videoconference server (2 weeks ago)
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player (1 month ago)
