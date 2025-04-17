@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/valencia](https://github.com/lokal-ninja/valencia) -  (3 days ago)
-- [lokal-ninja/islas-baleares](https://github.com/lokal-ninja/islas-baleares) -  (3 days ago)
-- [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (3 days ago)
-- [lokal-ninja/madrid](https://github.com/lokal-ninja/madrid) -  (3 days ago)
-- [lokal-ninja/pais-vasco](https://github.com/lokal-ninja/pais-vasco) -  (3 days ago)
+- [lokal-ninja/valencia](https://github.com/lokal-ninja/valencia) -  (4 days ago)
+- [lokal-ninja/islas-baleares](https://github.com/lokal-ninja/islas-baleares) -  (4 days ago)
+- [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (4 days ago)
+- [lokal-ninja/madrid](https://github.com/lokal-ninja/madrid) -  (4 days ago)
+- [lokal-ninja/pais-vasco](https://github.com/lokal-ninja/pais-vasco) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,7 +36,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (2 weeks ago)
+- [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (3 weeks ago)
 - [add KMP search algorithm (gated by build flag)](https://github.com/Choices-js/Choices/pull/1277) on [Choices-js/Choices](https://github.com/Choices-js/Choices) (1 month ago)
 - [add mobile only controls](https://github.com/ptitSeb/prototype/pull/7) on [ptitSeb/prototype](https://github.com/ptitSeb/prototype) (3 months ago)
 - [Fix typo in ChangeLog. NFC](https://github.com/emscripten-core/emscripten/pull/23319) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (3 months ago)
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code (1 week ago)
 - [snej55/paper-world](https://github.com/snej55/paper-world) - Defblade - a game made with SDL2 and C&#43;&#43; (1 week ago)
-- [jech/galene](https://github.com/jech/galene) - The Galène videoconference server (2 weeks ago)
+- [jech/galene](https://github.com/jech/galene) - The Galène videoconference server (3 weeks ago)
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player (1 month ago)
 - [olithissen/monkeyislandbot_mastodon](https://github.com/olithissen/monkeyislandbot_mastodon) (1 month ago)
 
