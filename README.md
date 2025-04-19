@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/alabama](https://github.com/lokal-ninja/alabama) -  (5 days ago)
-- [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (5 days ago)
-- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (5 days ago)
-- [lokal-ninja/madrid](https://github.com/lokal-ninja/madrid) -  (5 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/alabama](https://github.com/lokal-ninja/alabama) -  (6 days ago)
+- [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (6 days ago)
+- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (6 days ago)
+- [lokal-ninja/madrid](https://github.com/lokal-ninja/madrid) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -59,7 +59,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ⭐ Recent stars
 
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code (1 week ago)
-- [snej55/paper-world](https://github.com/snej55/paper-world) - Defblade - a game made with SDL2 and C&#43;&#43; (1 week ago)
+- [snej55/paper-world](https://github.com/snej55/paper-world) - Defblade - a game made with SDL2 and C&#43;&#43; (2 weeks ago)
 - [jech/galene](https://github.com/jech/galene) - The Galène videoconference server (3 weeks ago)
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player (1 month ago)
 - [olithissen/monkeyislandbot_mastodon](https://github.com/olithissen/monkeyislandbot_mastodon) (1 month ago)
