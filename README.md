@@ -15,18 +15,18 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
-- [lokal-ninja/alabama](https://github.com/lokal-ninja/alabama) -  (6 days ago)
+- [lokal-ninja/montana](https://github.com/lokal-ninja/montana) -  (6 days ago)
+- [lokal-ninja/uruguay](https://github.com/lokal-ninja/uruguay) -  (6 days ago)
+- [lokal-ninja/andalucia](https://github.com/lokal-ninja/andalucia) -  (6 days ago)
 - [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (6 days ago)
-- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (6 days ago)
-- [lokal-ninja/madrid](https://github.com/lokal-ninja/madrid) -  (6 days ago)
 
 #### 🌱 My latest projects
 
+- [midzer/megamario](https://github.com/midzer/megamario) - 
 - [midzer/ae](https://github.com/midzer/ae) - 
 - [midzer/empty-clip](https://github.com/midzer/empty-clip) - 2D role-playing game ported for the web
 - [midzer/cuyo](https://github.com/midzer/cuyo) - Tetris-like game with very impressive effects ported for the web
 - [midzer/atomiks](https://github.com/midzer/atomiks) - A classic puzzle game ported for the web
-- [midzer/simple-sokoban](https://github.com/midzer/simple-sokoban) - a (simple) Sokoban game aimed at playability and portability across systems ported for the web
 
 #### 🔭 Latest releases I've contributed to
 
