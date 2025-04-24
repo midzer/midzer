@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/australia](https://github.com/lokal-ninja/australia) -  (2 days ago)
-- [lokal-ninja/cataluna](https://github.com/lokal-ninja/cataluna) -  (2 days ago)
-- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (2 days ago)
-- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (2 days ago)
-- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (2 days ago)
+- [lokal-ninja/australia](https://github.com/lokal-ninja/australia) -  (3 days ago)
+- [lokal-ninja/cataluna](https://github.com/lokal-ninja/cataluna) -  (3 days ago)
+- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (3 days ago)
+- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (3 days ago)
+- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,8 +36,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (3 weeks ago)
-- [add KMP search algorithm (gated by build flag)](https://github.com/Choices-js/Choices/pull/1277) on [Choices-js/Choices](https://github.com/Choices-js/Choices) (1 month ago)
+- [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (4 weeks ago)
+- [add KMP search algorithm (gated by build flag)](https://github.com/Choices-js/Choices/pull/1277) on [Choices-js/Choices](https://github.com/Choices-js/Choices) (2 months ago)
 - [add mobile only controls](https://github.com/ptitSeb/prototype/pull/7) on [ptitSeb/prototype](https://github.com/ptitSeb/prototype) (3 months ago)
 - [Fix typo in ChangeLog. NFC](https://github.com/emscripten-core/emscripten/pull/23319) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (3 months ago)
 - [add flohmarkt](https://github.com/fedidb/communityDB/pull/3) on [fedidb/communityDB](https://github.com/fedidb/communityDB) (4 months ago)
@@ -58,10 +58,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [AlexeyBoiko/tbl-js](https://github.com/AlexeyBoiko/tbl-js) - Super Performance DataGrid. Works on desktop, phone and tablet. Has no dependency. Pure JavaScript. (today)
+- [AlexeyBoiko/tbl-js](https://github.com/AlexeyBoiko/tbl-js) - Super Performance DataGrid. Works on desktop, phone and tablet. Has no dependency. Pure JavaScript. (1 day ago)
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code (2 weeks ago)
 - [snej55/paper-world](https://github.com/snej55/paper-world) - Defblade - a game made with SDL2 and C&#43;&#43; (2 weeks ago)
-- [jech/galene](https://github.com/jech/galene) - The Galène videoconference server (3 weeks ago)
+- [jech/galene](https://github.com/jech/galene) - The Galène videoconference server (4 weeks ago)
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player (1 month ago)
 
 #### 👯 Check out some of my recent followers
