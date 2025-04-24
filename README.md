@@ -22,7 +22,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🌱 My latest projects
 
-- [midzer/megamario](https://github.com/midzer/megamario) - 
+- [midzer/megamario](https://github.com/midzer/megamario) - Mario clone ported for the web
 - [midzer/ae](https://github.com/midzer/ae) - 
 - [midzer/empty-clip](https://github.com/midzer/empty-clip) - 2D role-playing game ported for the web
 - [midzer/cuyo](https://github.com/midzer/cuyo) - Tetris-like game with very impressive effects ported for the web
