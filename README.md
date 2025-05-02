@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/new-jersey](https://github.com/lokal-ninja/new-jersey) -  (4 days ago)
-- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (4 days ago)
-- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (4 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/new-jersey](https://github.com/lokal-ninja/new-jersey) -  (5 days ago)
+- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (5 days ago)
+- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (5 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -40,12 +40,12 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [add KMP search algorithm (gated by build flag)](https://github.com/Choices-js/Choices/pull/1277) on [Choices-js/Choices](https://github.com/Choices-js/Choices) (2 months ago)
 - [add mobile only controls](https://github.com/ptitSeb/prototype/pull/7) on [ptitSeb/prototype](https://github.com/ptitSeb/prototype) (3 months ago)
 - [Fix typo in ChangeLog. NFC](https://github.com/emscripten-core/emscripten/pull/23319) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (3 months ago)
-- [add flohmarkt](https://github.com/fedidb/communityDB/pull/3) on [fedidb/communityDB](https://github.com/fedidb/communityDB) (4 months ago)
+- [add flohmarkt](https://github.com/fedidb/communityDB/pull/3) on [fedidb/communityDB](https://github.com/fedidb/communityDB) (5 months ago)
 
 #### 📜 My recent blog posts
 
-- [https://midzer.de/omas-kaesetorte](https://midzer.de/omas-kaesetorte) (5 months ago)
-- [https://midzer.de/als-ich-mich-selbst-zu-lieben-begann](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (10 months ago)
+- [https://midzer.de/omas-kaesetorte](https://midzer.de/omas-kaesetorte) (6 months ago)
+- [https://midzer.de/als-ich-mich-selbst-zu-lieben-begann](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (11 months ago)
 - [https://midzer.de/porting-games-for-the-web-with-emscripten](https://midzer.de/porting-games-for-the-web-with-emscripten) (1 year ago)
 - [https://midzer.de/kaiserschmarrn](https://midzer.de/kaiserschmarrn) (1 year ago)
 - [https://midzer.de/the-future-is-remix](https://midzer.de/the-future-is-remix) (1 year ago)
