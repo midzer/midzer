@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/new-brunswick](https://github.com/lokal-ninja/new-brunswick) -  (today)
-- [lokal-ninja/british-columbia](https://github.com/lokal-ninja/british-columbia) -  (today)
+- [lokal-ninja/new-mexico](https://github.com/lokal-ninja/new-mexico) -  (today)
+- [lokal-ninja/cataluna](https://github.com/lokal-ninja/cataluna) -  (today)
+- [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (today)
 - [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (today)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (today)
 
 #### 🌱 My latest projects
 
@@ -66,11 +66,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [Openmedianetwork](https://github.com/Openmedianetwork)
 - [Sheed906](https://github.com/Sheed906)
 - [nholuongut](https://github.com/nholuongut)
 - [13inccc](https://github.com/13inccc)
-- [alexx2024](https://github.com/alexx2024)
 
 #### 💬 Feedback
 
