@@ -66,11 +66,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
-- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [Openmedianetwork](https://github.com/Openmedianetwork)
 - [Sheed906](https://github.com/Sheed906)
 - [nholuongut](https://github.com/nholuongut)
 - [13inccc](https://github.com/13inccc)
+- [alexx2024](https://github.com/alexx2024)
 
 #### 💬 Feedback
 
