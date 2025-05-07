@@ -58,11 +58,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [jbradish/nikwi](https://github.com/jbradish/nikwi) - Nikwi Deluxe, a 2D platform game i made in 2005 (today)
 - [AlexeyBoiko/tbl-js](https://github.com/AlexeyBoiko/tbl-js) - Super Performance DataGrid. Works on desktop, phone and tablet. Has no dependency. Pure JavaScript. (2 weeks ago)
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code (4 weeks ago)
 - [snej55/paper-world](https://github.com/snej55/paper-world) - Defblade - a game made with SDL2 and C&#43;&#43; (1 month ago)
 - [jech/galene](https://github.com/jech/galene) - The Galène videoconference server (1 month ago)
-- [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
