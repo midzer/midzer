@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (6 days ago)
-- [lokal-ninja/islas-baleares](https://github.com/lokal-ninja/islas-baleares) -  (6 days ago)
-- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (6 days ago)
-- [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (6 days ago)
-- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (6 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 week ago)
+- [lokal-ninja/islas-baleares](https://github.com/lokal-ninja/islas-baleares) -  (1 week ago)
+- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (1 week ago)
+- [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (1 week ago)
+- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -58,7 +58,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [jbradish/nikwi](https://github.com/jbradish/nikwi) - Nikwi Deluxe, a 2D platform game i made in 2005 (2 days ago)
+- [jbradish/nikwi](https://github.com/jbradish/nikwi) - Nikwi Deluxe, a 2D platform game i made in 2005 (3 days ago)
 - [AlexeyBoiko/tbl-js](https://github.com/AlexeyBoiko/tbl-js) - Super Performance DataGrid. Works on desktop, phone and tablet. Has no dependency. Pure JavaScript. (2 weeks ago)
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code (1 month ago)
 - [snej55/paper-world](https://github.com/snej55/paper-world) - Defblade - a game made with SDL2 and C&#43;&#43; (1 month ago)
