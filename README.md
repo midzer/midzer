@@ -38,7 +38,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (1 month ago)
 - [add KMP search algorithm (gated by build flag)](https://github.com/Choices-js/Choices/pull/1277) on [Choices-js/Choices](https://github.com/Choices-js/Choices) (2 months ago)
-- [add mobile only controls](https://github.com/ptitSeb/prototype/pull/7) on [ptitSeb/prototype](https://github.com/ptitSeb/prototype) (3 months ago)
+- [add mobile only controls](https://github.com/ptitSeb/prototype/pull/7) on [ptitSeb/prototype](https://github.com/ptitSeb/prototype) (4 months ago)
 - [Fix typo in ChangeLog. NFC](https://github.com/emscripten-core/emscripten/pull/23319) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (4 months ago)
 - [add flohmarkt](https://github.com/fedidb/communityDB/pull/3) on [fedidb/communityDB](https://github.com/fedidb/communityDB) (5 months ago)
 
@@ -58,7 +58,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [jbradish/nikwi](https://github.com/jbradish/nikwi) - Nikwi Deluxe, a 2D platform game i made in 2005 (3 days ago)
+- [jbradish/nikwi](https://github.com/jbradish/nikwi) - Nikwi Deluxe, a 2D platform game i made in 2005 (4 days ago)
 - [AlexeyBoiko/tbl-js](https://github.com/AlexeyBoiko/tbl-js) - Super Performance DataGrid. Works on desktop, phone and tablet. Has no dependency. Pure JavaScript. (2 weeks ago)
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code (1 month ago)
 - [snej55/paper-world](https://github.com/snej55/paper-world) - Defblade - a game made with SDL2 and C&#43;&#43; (1 month ago)
