@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (2 days ago)
-- [lokal-ninja/islas-baleares](https://github.com/lokal-ninja/islas-baleares) -  (2 days ago)
-- [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (2 days ago)
-- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (2 days ago)
-- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (2 days ago)
+- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (3 days ago)
+- [lokal-ninja/islas-baleares](https://github.com/lokal-ninja/islas-baleares) -  (3 days ago)
+- [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (3 days ago)
+- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (3 days ago)
+- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -58,8 +58,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [jbradish/nikwi](https://github.com/jbradish/nikwi) - Nikwi Deluxe, a 2D platform game i made in 2005 (6 days ago)
-- [AlexeyBoiko/tbl-js](https://github.com/AlexeyBoiko/tbl-js) - Super Performance DataGrid. Works on desktop, phone and tablet. Has no dependency. Pure JavaScript. (2 weeks ago)
+- [jbradish/nikwi](https://github.com/jbradish/nikwi) - Nikwi Deluxe, a 2D platform game i made in 2005 (1 week ago)
+- [AlexeyBoiko/tbl-js](https://github.com/AlexeyBoiko/tbl-js) - Super Performance DataGrid. Works on desktop, phone and tablet. Has no dependency. Pure JavaScript. (3 weeks ago)
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code (1 month ago)
 - [snej55/paper-world](https://github.com/snej55/paper-world) - Defblade - a game made with SDL2 and C&#43;&#43; (1 month ago)
 - [jech/galene](https://github.com/jech/galene) - The Galène videoconference server (1 month ago)
