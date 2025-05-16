@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (4 days ago)
-- [lokal-ninja/islas-baleares](https://github.com/lokal-ninja/islas-baleares) -  (4 days ago)
-- [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (4 days ago)
-- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (4 days ago)
-- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (4 days ago)
+- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (5 days ago)
+- [lokal-ninja/islas-baleares](https://github.com/lokal-ninja/islas-baleares) -  (5 days ago)
+- [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (5 days ago)
+- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (5 days ago)
+- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -31,7 +31,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔭 Latest releases I've contributed to
 
 - [Choices-js/Choices](https://github.com/Choices-js/Choices) ([v11.1.0](https://github.com/Choices-js/Choices/releases/tag/v11.1.0), 2 months ago) - A vanilla JS customisable select box/text input plugin ⚡️
-- [midzer/tobii](https://github.com/midzer/tobii) ([v2.7.3](https://github.com/midzer/tobii/releases/tag/v2.7.3), 2 months ago) - An accessible, open-source lightbox with no dependencies
+- [midzer/tobii](https://github.com/midzer/tobii) ([v2.7.3](https://github.com/midzer/tobii/releases/tag/v2.7.3), 3 months ago) - An accessible, open-source lightbox with no dependencies
 - [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) ([v0.25.0](https://github.com/jekyll/jekyll-import/releases/tag/v0.25.0), 3 months ago) - :inbox_tray: The &#34;jekyll import&#34; command for importing from various blogs to Jekyll format.
 
 #### 🔨 Latest Pull Requests I published
@@ -58,7 +58,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [admin-shell-io/aas-specs-api](https://github.com/admin-shell-io/aas-specs-api) - Repository of the Asset Administration Shell Specification DTA-01002 API (today)
+- [admin-shell-io/aas-specs-api](https://github.com/admin-shell-io/aas-specs-api) - Repository of the Asset Administration Shell Specification DTA-01002 API (1 day ago)
 - [jbradish/nikwi](https://github.com/jbradish/nikwi) - Nikwi Deluxe, a 2D platform game i made in 2005 (1 week ago)
 - [AlexeyBoiko/tbl-js](https://github.com/AlexeyBoiko/tbl-js) - Super Performance DataGrid. Works on desktop, phone and tablet. Has no dependency. Pure JavaScript. (3 weeks ago)
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code (1 month ago)
