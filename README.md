@@ -58,11 +58,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [Oliveshark/breakhack](https://github.com/Oliveshark/breakhack) - A casual coffee-break roguelike (today)
 - [admin-shell-io/aas-specs-api](https://github.com/admin-shell-io/aas-specs-api) - Repository of the Asset Administration Shell Specification DTA-01002 API (1 day ago)
 - [jbradish/nikwi](https://github.com/jbradish/nikwi) - Nikwi Deluxe, a 2D platform game i made in 2005 (1 week ago)
 - [AlexeyBoiko/tbl-js](https://github.com/AlexeyBoiko/tbl-js) - Super Performance DataGrid. Works on desktop, phone and tablet. Has no dependency. Pure JavaScript. (3 weeks ago)
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code (1 month ago)
-- [snej55/paper-world](https://github.com/snej55/paper-world) - Defblade - a game made with SDL2 and C&#43;&#43; (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
