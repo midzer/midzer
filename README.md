@@ -16,7 +16,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
 - [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies (2 days ago)
-- [lokal-ninja/nova-scotia](https://github.com/lokal-ninja/nova-scotia) -  (4 weeks ago)
+- [lokal-ninja/district-of-columbia](https://github.com/lokal-ninja/district-of-columbia) -  (4 weeks ago)
 - [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (4 weeks ago)
 - [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (4 weeks ago)
 
