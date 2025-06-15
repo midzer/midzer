@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
 - [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies (1 week ago)
 - [lokal-ninja/district-of-columbia](https://github.com/lokal-ninja/district-of-columbia) -  (1 month ago)
 - [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (1 month ago)
@@ -59,9 +59,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [snesrev/smw](https://github.com/snesrev/smw) - Smw (3 days ago)
+- [snesrev/smw](https://github.com/snesrev/smw) - Smw (4 days ago)
 - [protoman/rockbot](https://github.com/protoman/rockbot) - An open-source, SDL based, game engine to replicate old style NES games, mostly Megaman ones, and an editor made with Qt, for custom graphics, weapons, bosses, enemies and level creation. (3 weeks ago)
-- [Oliveshark/breakhack](https://github.com/Oliveshark/breakhack) - A casual coffee-break roguelike (4 weeks ago)
+- [Oliveshark/breakhack](https://github.com/Oliveshark/breakhack) - A casual coffee-break roguelike (1 month ago)
 - [admin-shell-io/aas-specs-api](https://github.com/admin-shell-io/aas-specs-api) - Repository of the Asset Administration Shell Specification DTA-01002 API (1 month ago)
 - [jbradish/nikwi](https://github.com/jbradish/nikwi) - Nikwi Deluxe, a 2D platform game i made in 2005 (1 month ago)
 
