@@ -67,11 +67,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [bluMATRIKZ](https://github.com/bluMATRIKZ)
 - [buraksocial](https://github.com/buraksocial)
 - [Openmedianetwork](https://github.com/Openmedianetwork)
 - [Sheed906](https://github.com/Sheed906)
 - [nholuongut](https://github.com/nholuongut)
-- [13inccc](https://github.com/13inccc)
 
 #### 💬 Feedback
 
