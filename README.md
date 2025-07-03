@@ -22,7 +22,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🌱 My latest projects
 
-- [midzer/nazghul](https://github.com/midzer/nazghul) - 
+- [midzer/nazghul](https://github.com/midzer/nazghul) - Ultima-like game ported for the web
 - [midzer/megamario](https://github.com/midzer/megamario) - Mario clone ported for the web
 - [midzer/ae](https://github.com/midzer/ae) - 
 - [midzer/empty-clip](https://github.com/midzer/empty-clip) - 2D role-playing game ported for the web
