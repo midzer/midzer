@@ -16,8 +16,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
 - [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies (1 week ago)
-- [lokal-ninja/south-carolina](https://github.com/lokal-ninja/south-carolina) -  (1 month ago)
-- [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (1 month ago)
+- [lokal-ninja/wisconsin](https://github.com/lokal-ninja/wisconsin) -  (1 month ago)
+- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (1 month ago)
 - [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (1 month ago)
 
 #### 🌱 My latest projects
