@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (4 days ago)
 - [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies (1 week ago)
 - [lokal-ninja/wisconsin](https://github.com/lokal-ninja/wisconsin) -  (1 month ago)
 - [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (1 month ago)
@@ -41,7 +41,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (3 months ago)
 - [add KMP search algorithm (gated by build flag)](https://github.com/Choices-js/Choices/pull/1277) on [Choices-js/Choices](https://github.com/Choices-js/Choices) (4 months ago)
 - [add mobile only controls](https://github.com/ptitSeb/prototype/pull/7) on [ptitSeb/prototype](https://github.com/ptitSeb/prototype) (5 months ago)
-- [Fix typo in ChangeLog. NFC](https://github.com/emscripten-core/emscripten/pull/23319) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (5 months ago)
+- [Fix typo in ChangeLog. NFC](https://github.com/emscripten-core/emscripten/pull/23319) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (6 months ago)
 
 #### 📜 My recent blog posts
 
@@ -59,7 +59,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [phoboslab/high_biolab](https://github.com/phoboslab/high_biolab) - Jump&#39;n&#39;run written in C using high_impact (6 days ago)
+- [phoboslab/high_biolab](https://github.com/phoboslab/high_biolab) - Jump&#39;n&#39;run written in C using high_impact (1 week ago)
 - [snesrev/smw](https://github.com/snesrev/smw) - Smw (3 weeks ago)
 - [protoman/rockbot](https://github.com/protoman/rockbot) - An open-source, SDL based, game engine to replicate old style NES games, mostly Megaman ones, and an editor made with Qt, for custom graphics, weapons, bosses, enemies and level creation. (1 month ago)
 - [Oliveshark/breakhack](https://github.com/Oliveshark/breakhack) - A casual coffee-break roguelike (1 month ago)
