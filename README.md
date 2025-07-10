@@ -16,17 +16,17 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
 - [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies (2 weeks ago)
-- [lokal-ninja/tennessee](https://github.com/lokal-ninja/tennessee) -  (2 months ago)
-- [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (2 months ago)
+- [lokal-ninja/south-carolina](https://github.com/lokal-ninja/south-carolina) -  (2 months ago)
 - [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (2 months ago)
+- [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (2 months ago)
 
 #### 🌱 My latest projects
 
+- [midzer/mazeofgalious](https://github.com/midzer/mazeofgalious) - Originally a Konami game for the MSX computer system
 - [midzer/nazghul](https://github.com/midzer/nazghul) - Ultima-like game ported for the web
 - [midzer/megamario](https://github.com/midzer/megamario) - Mario clone ported for the web
 - [midzer/ae](https://github.com/midzer/ae) - 
 - [midzer/empty-clip](https://github.com/midzer/empty-clip) - 2D role-playing game ported for the web
-- [midzer/cuyo](https://github.com/midzer/cuyo) - Tetris-like game with very impressive effects ported for the web
 
 #### 🔭 Latest releases I've contributed to
 
