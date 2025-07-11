@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
 - [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies (2 weeks ago)
 - [lokal-ninja/south-carolina](https://github.com/lokal-ninja/south-carolina) -  (2 months ago)
 - [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (2 months ago)
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ⭐ Recent stars
 
 - [phoboslab/high_biolab](https://github.com/phoboslab/high_biolab) - Jump&#39;n&#39;run written in C using high_impact (1 week ago)
-- [snesrev/smw](https://github.com/snesrev/smw) - Smw (4 weeks ago)
+- [snesrev/smw](https://github.com/snesrev/smw) - Smw (1 month ago)
 - [protoman/rockbot](https://github.com/protoman/rockbot) - An open-source, SDL based, game engine to replicate old style NES games, mostly Megaman ones, and an editor made with Qt, for custom graphics, weapons, bosses, enemies and level creation. (1 month ago)
 - [Oliveshark/breakhack](https://github.com/Oliveshark/breakhack) - A casual coffee-break roguelike (1 month ago)
 - [admin-shell-io/aas-specs-api](https://github.com/admin-shell-io/aas-specs-api) - Repository of the Asset Administration Shell Specification DTA-01002 API (1 month ago)
