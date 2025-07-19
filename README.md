@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
 - [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies (3 weeks ago)
 - [lokal-ninja/south-dakota](https://github.com/lokal-ninja/south-dakota) -  (2 months ago)
 - [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (2 months ago)
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ⭐ Recent stars
 
 - [mywave82/opencubicplayer](https://github.com/mywave82/opencubicplayer) - Open Cubic Player (unix fork). Music visualizer for various tracked music formats (amiga modules, S3M, IT), chiptunes and other formats related to demoscene (1 week ago)
-- [phoboslab/high_biolab](https://github.com/phoboslab/high_biolab) - Jump&#39;n&#39;run written in C using high_impact (2 weeks ago)
+- [phoboslab/high_biolab](https://github.com/phoboslab/high_biolab) - Jump&#39;n&#39;run written in C using high_impact (3 weeks ago)
 - [snesrev/smw](https://github.com/snesrev/smw) - Smw (1 month ago)
 - [protoman/rockbot](https://github.com/protoman/rockbot) - An open-source, SDL based, game engine to replicate old style NES games, mostly Megaman ones, and an editor made with Qt, for custom graphics, weapons, bosses, enemies and level creation. (2 months ago)
 - [Oliveshark/breakhack](https://github.com/Oliveshark/breakhack) - A casual coffee-break roguelike (2 months ago)
