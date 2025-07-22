@@ -14,8 +14,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
-- [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies (4 weeks ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (4 days ago)
+- [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies (1 month ago)
 - [lokal-ninja/south-dakota](https://github.com/lokal-ninja/south-dakota) -  (2 months ago)
 - [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (2 months ago)
 - [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (2 months ago)
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [midzer/tobii](https://github.com/midzer/tobii) ([v2.8.4](https://github.com/midzer/tobii/releases/tag/v2.8.4), 4 weeks ago) - An accessible, open-source lightbox with no dependencies
+- [midzer/tobii](https://github.com/midzer/tobii) ([v2.8.4](https://github.com/midzer/tobii/releases/tag/v2.8.4), 1 month ago) - An accessible, open-source lightbox with no dependencies
 - [Choices-js/Choices](https://github.com/Choices-js/Choices) ([v11.1.0](https://github.com/Choices-js/Choices/releases/tag/v11.1.0), 4 months ago) - A vanilla JS customisable select box/text input plugin ⚡️
 - [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import) ([v0.25.0](https://github.com/jekyll/jekyll-import/releases/tag/v0.25.0), 6 months ago) - :inbox_tray: The &#34;jekyll import&#34; command for importing from various blogs to Jekyll format.
 - [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) ([22.02](https://github.com/JoseTomasTocino/freegemas/releases/tag/22.02), 3 years ago) - Freegemas is an open source version of the well known Bejeweled, built in C&#43;&#43; using SDL2
@@ -59,8 +59,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [anvaka/tiny.xml](https://github.com/anvaka/tiny.xml) - Tiny (1.6KB) in-browser xml parser (today)
-- [cbxbiker61/nogravity](https://github.com/cbxbiker61/nogravity) - No Gravity Classic - Port to 64bit (1 day ago)
+- [anvaka/tiny.xml](https://github.com/anvaka/tiny.xml) - Tiny (1.6KB) in-browser xml parser (1 day ago)
+- [cbxbiker61/nogravity](https://github.com/cbxbiker61/nogravity) - No Gravity Classic - Port to 64bit (2 days ago)
 - [mywave82/opencubicplayer](https://github.com/mywave82/opencubicplayer) - Open Cubic Player (unix fork). Music visualizer for various tracked music formats (amiga modules, S3M, IT), chiptunes and other formats related to demoscene (1 week ago)
 - [phoboslab/high_biolab](https://github.com/phoboslab/high_biolab) - Jump&#39;n&#39;run written in C using high_impact (3 weeks ago)
 - [snesrev/smw](https://github.com/snesrev/smw) - Smw (1 month ago)
