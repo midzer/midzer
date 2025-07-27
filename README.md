@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
 - [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies (1 month ago)
 - [lokal-ninja/south-carolina](https://github.com/lokal-ninja/south-carolina) -  (2 months ago)
 - [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (2 months ago)
@@ -58,8 +58,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [anvaka/tiny.xml](https://github.com/anvaka/tiny.xml) - Tiny (1.6KB) in-browser xml parser (5 days ago)
-- [cbxbiker61/nogravity](https://github.com/cbxbiker61/nogravity) - No Gravity Classic - Port to 64bit (6 days ago)
+- [anvaka/tiny.xml](https://github.com/anvaka/tiny.xml) - Tiny (1.6KB) in-browser xml parser (6 days ago)
+- [cbxbiker61/nogravity](https://github.com/cbxbiker61/nogravity) - No Gravity Classic - Port to 64bit (1 week ago)
 - [mywave82/opencubicplayer](https://github.com/mywave82/opencubicplayer) - Open Cubic Player (unix fork). Music visualizer for various tracked music formats (amiga modules, S3M, IT), chiptunes and other formats related to demoscene (2 weeks ago)
 - [phoboslab/high_biolab](https://github.com/phoboslab/high_biolab) - Jump&#39;n&#39;run written in C using high_impact (4 weeks ago)
 - [snesrev/smw](https://github.com/snesrev/smw) - Smw (1 month ago)
