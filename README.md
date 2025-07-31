@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (4 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (5 days ago)
 - [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies (1 month ago)
 - [lokal-ninja/west-virginia](https://github.com/lokal-ninja/west-virginia) -  (2 months ago)
 - [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (2 months ago)
@@ -44,7 +44,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [https://midzer.de/omas-kaesetorte](https://midzer.de/omas-kaesetorte) (8 months ago)
+- [https://midzer.de/omas-kaesetorte](https://midzer.de/omas-kaesetorte) (9 months ago)
 - [https://midzer.de/als-ich-mich-selbst-zu-lieben-begann](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (1 year ago)
 - [https://midzer.de/porting-games-for-the-web-with-emscripten](https://midzer.de/porting-games-for-the-web-with-emscripten) (1 year ago)
 - [https://midzer.de/kaiserschmarrn](https://midzer.de/kaiserschmarrn) (2 years ago)
