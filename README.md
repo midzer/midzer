@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (5 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
 - [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies (1 month ago)
 - [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (2 months ago)
 - [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (2 months ago)
