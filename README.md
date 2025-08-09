@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/arkansas](https://github.com/lokal-ninja/arkansas) -  (today)
-- [lokal-ninja/venezuela](https://github.com/lokal-ninja/venezuela) -  (today)
-- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (today)
+- [lokal-ninja/bolivia](https://github.com/lokal-ninja/bolivia) -  (today)
+- [lokal-ninja/paraguay](https://github.com/lokal-ninja/paraguay) -  (today)
+- [lokal-ninja/uruguay](https://github.com/lokal-ninja/uruguay) -  (today)
+- [lokal-ninja/andalucia](https://github.com/lokal-ninja/andalucia) -  (today)
 - [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (today)
-- [lokal-ninja/gabon](https://github.com/lokal-ninja/gabon) -  (today)
 
 #### 🌱 My latest projects
 
@@ -39,7 +39,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [optimize main loop](https://github.com/JoseTomasTocino/freegemas/pull/45) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (2 months ago)
 - [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (4 months ago)
 - [add KMP search algorithm (gated by build flag)](https://github.com/Choices-js/Choices/pull/1277) on [Choices-js/Choices](https://github.com/Choices-js/Choices) (5 months ago)
-- [add mobile only controls](https://github.com/ptitSeb/prototype/pull/7) on [ptitSeb/prototype](https://github.com/ptitSeb/prototype) (6 months ago)
+- [add mobile only controls](https://github.com/ptitSeb/prototype/pull/7) on [ptitSeb/prototype](https://github.com/ptitSeb/prototype) (7 months ago)
 - [Fix typo in ChangeLog. NFC](https://github.com/emscripten-core/emscripten/pull/23319) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (7 months ago)
 
 #### 📜 My recent blog posts
@@ -58,7 +58,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs (6 days ago)
+- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs (1 week ago)
 - [anvaka/tiny.xml](https://github.com/anvaka/tiny.xml) - Tiny (1.6KB) in-browser xml parser (2 weeks ago)
 - [cbxbiker61/nogravity](https://github.com/cbxbiker61/nogravity) - No Gravity Classic - Port to 64bit (2 weeks ago)
 - [mywave82/opencubicplayer](https://github.com/mywave82/opencubicplayer) - Open Cubic Player (unix fork). Music visualizer for various tracked music formats (amiga modules, S3M, IT), chiptunes and other formats related to demoscene (4 weeks ago)
