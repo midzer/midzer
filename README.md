@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/bolivia](https://github.com/lokal-ninja/bolivia) -  (today)
-- [lokal-ninja/paraguay](https://github.com/lokal-ninja/paraguay) -  (today)
-- [lokal-ninja/uruguay](https://github.com/lokal-ninja/uruguay) -  (today)
-- [lokal-ninja/andalucia](https://github.com/lokal-ninja/andalucia) -  (today)
-- [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (today)
+- [lokal-ninja/bolivia](https://github.com/lokal-ninja/bolivia) -  (1 day ago)
+- [lokal-ninja/paraguay](https://github.com/lokal-ninja/paraguay) -  (1 day ago)
+- [lokal-ninja/uruguay](https://github.com/lokal-ninja/uruguay) -  (1 day ago)
+- [lokal-ninja/andalucia](https://github.com/lokal-ninja/andalucia) -  (1 day ago)
+- [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -58,11 +58,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [olofson/kobodeluxe](https://github.com/olofson/kobodeluxe) - The Original Kobo Deluxe (today)
+- [olofson/kobodeluxe](https://github.com/olofson/kobodeluxe) - The Original Kobo Deluxe (1 day ago)
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs (1 week ago)
 - [anvaka/tiny.xml](https://github.com/anvaka/tiny.xml) - Tiny (1.6KB) in-browser xml parser (2 weeks ago)
-- [cbxbiker61/nogravity](https://github.com/cbxbiker61/nogravity) - No Gravity Classic - Port to 64bit (2 weeks ago)
-- [mywave82/opencubicplayer](https://github.com/mywave82/opencubicplayer) - Open Cubic Player (unix fork). Music visualizer for various tracked music formats (amiga modules, S3M, IT), chiptunes and other formats related to demoscene (4 weeks ago)
+- [cbxbiker61/nogravity](https://github.com/cbxbiker61/nogravity) - No Gravity Classic - Port to 64bit (3 weeks ago)
+- [mywave82/opencubicplayer](https://github.com/mywave82/opencubicplayer) - Open Cubic Player (unix fork). Music visualizer for various tracked music formats (amiga modules, S3M, IT), chiptunes and other formats related to demoscene (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
