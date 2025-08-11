@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/bolivia](https://github.com/lokal-ninja/bolivia) -  (1 day ago)
-- [lokal-ninja/paraguay](https://github.com/lokal-ninja/paraguay) -  (1 day ago)
-- [lokal-ninja/uruguay](https://github.com/lokal-ninja/uruguay) -  (1 day ago)
-- [lokal-ninja/andalucia](https://github.com/lokal-ninja/andalucia) -  (1 day ago)
-- [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (1 day ago)
+- [lokal-ninja/bolivia](https://github.com/lokal-ninja/bolivia) -  (2 days ago)
+- [lokal-ninja/paraguay](https://github.com/lokal-ninja/paraguay) -  (2 days ago)
+- [lokal-ninja/uruguay](https://github.com/lokal-ninja/uruguay) -  (2 days ago)
+- [lokal-ninja/andalucia](https://github.com/lokal-ninja/andalucia) -  (2 days ago)
+- [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -31,7 +31,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔭 Latest releases I've contributed to
 
 - [midzer/tobii](https://github.com/midzer/tobii) ([v2.8.4](https://github.com/midzer/tobii/releases/tag/v2.8.4), 1 month ago) - An accessible, open-source lightbox with no dependencies
-- [Choices-js/Choices](https://github.com/Choices-js/Choices) ([v11.1.0](https://github.com/Choices-js/Choices/releases/tag/v11.1.0), 4 months ago) - A vanilla JS customisable select box/text input plugin ⚡️
+- [Choices-js/Choices](https://github.com/Choices-js/Choices) ([v11.1.0](https://github.com/Choices-js/Choices/releases/tag/v11.1.0), 5 months ago) - A vanilla JS customisable select box/text input plugin ⚡️
 - [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) ([22.02](https://github.com/JoseTomasTocino/freegemas/releases/tag/22.02), 3 years ago) - Freegemas is an open source version of the well known Bejeweled, built in C&#43;&#43; using SDL2
 
 #### 🔨 Latest Pull Requests I published
@@ -58,9 +58,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [olofson/kobodeluxe](https://github.com/olofson/kobodeluxe) - The Original Kobo Deluxe (1 day ago)
+- [olofson/kobodeluxe](https://github.com/olofson/kobodeluxe) - The Original Kobo Deluxe (2 days ago)
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs (1 week ago)
-- [anvaka/tiny.xml](https://github.com/anvaka/tiny.xml) - Tiny (1.6KB) in-browser xml parser (2 weeks ago)
+- [anvaka/tiny.xml](https://github.com/anvaka/tiny.xml) - Tiny (1.6KB) in-browser xml parser (3 weeks ago)
 - [cbxbiker61/nogravity](https://github.com/cbxbiker61/nogravity) - No Gravity Classic - Port to 64bit (3 weeks ago)
 - [mywave82/opencubicplayer](https://github.com/mywave82/opencubicplayer) - Open Cubic Player (unix fork). Music visualizer for various tracked music formats (amiga modules, S3M, IT), chiptunes and other formats related to demoscene (1 month ago)
 
