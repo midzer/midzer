@@ -15,10 +15,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies (1 day ago)
-- [lokal-ninja/wyoming](https://github.com/lokal-ninja/wyoming) -  (3 days ago)
-- [lokal-ninja/andalucia](https://github.com/lokal-ninja/andalucia) -  (3 days ago)
-- [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (3 days ago)
+- [lokal-ninja/california](https://github.com/lokal-ninja/california) -  (3 days ago)
+- [lokal-ninja/chile](https://github.com/lokal-ninja/chile) -  (3 days ago)
 - [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (3 days ago)
+- [lokal-ninja/castilla-la-mancha](https://github.com/lokal-ninja/castilla-la-mancha) -  (3 days ago)
 
 #### 🌱 My latest projects
 
