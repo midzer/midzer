@@ -70,7 +70,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [alexmyczko](https://github.com/alexmyczko)
 - [humbertodias](https://github.com/humbertodias)
 - [bluMATRIKZ](https://github.com/bluMATRIKZ)
-- [buraksocial](https://github.com/buraksocial)
+- [Openmedianetwork](https://github.com/Openmedianetwork)
 
 #### 💬 Feedback
 
