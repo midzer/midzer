@@ -69,8 +69,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [baitcode](https://github.com/baitcode)
 - [alexmyczko](https://github.com/alexmyczko)
 - [humbertodias](https://github.com/humbertodias)
-- [seckinyasar](https://github.com/seckinyasar)
 - [bluMATRIKZ](https://github.com/bluMATRIKZ)
+- [buraksocial](https://github.com/buraksocial)
 
 #### 💬 Feedback
 
