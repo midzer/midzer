@@ -58,11 +58,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [Adamska-01/Bobble_Blast](https://github.com/Adamska-01/Bobble_Blast) - Puzzle Bobble-like game (C&#43;&#43; using SDL) (today)
 - [olofson/kobodeluxe](https://github.com/olofson/kobodeluxe) - The Original Kobo Deluxe (6 days ago)
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs (1 week ago)
 - [anvaka/tiny.xml](https://github.com/anvaka/tiny.xml) - Tiny (1.6KB) in-browser xml parser (3 weeks ago)
 - [cbxbiker61/nogravity](https://github.com/cbxbiker61/nogravity) - No Gravity Classic - Port to 64bit (3 weeks ago)
-- [mywave82/opencubicplayer](https://github.com/mywave82/opencubicplayer) - Open Cubic Player (unix fork). Music visualizer for various tracked music formats (amiga modules, S3M, IT), chiptunes and other formats related to demoscene (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
