@@ -66,10 +66,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [bluMATRIKZ](https://github.com/bluMATRIKZ)
 - [baitcode](https://github.com/baitcode)
 - [alexmyczko](https://github.com/alexmyczko)
 - [humbertodias](https://github.com/humbertodias)
-- [bluMATRIKZ](https://github.com/bluMATRIKZ)
 - [Openmedianetwork](https://github.com/Openmedianetwork)
 
 #### 💬 Feedback
