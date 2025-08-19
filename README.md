@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (today)
-- [lokal-ninja/paraguay](https://github.com/lokal-ninja/paraguay) -  (today)
-- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (today)
-- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (today)
-- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (today)
+- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (1 day ago)
+- [lokal-ninja/paraguay](https://github.com/lokal-ninja/paraguay) -  (1 day ago)
+- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (1 day ago)
+- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (1 day ago)
+- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -58,8 +58,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [chkuendig/uzholdem-paper](https://github.com/chkuendig/uzholdem-paper) - 🎓 Master Thesis: &#34;Building An Adapting Poker Agent&#34; (Spring 2010) (2 days ago)
-- [Adamska-01/Bobble_Blast](https://github.com/Adamska-01/Bobble_Blast) - Puzzle Bobble-like game (C&#43;&#43; using SDL) (3 days ago)
+- [chkuendig/uzholdem-paper](https://github.com/chkuendig/uzholdem-paper) - 🎓 Master Thesis: &#34;Building An Adapting Poker Agent&#34; (Spring 2010) (3 days ago)
+- [Adamska-01/Bobble_Blast](https://github.com/Adamska-01/Bobble_Blast) - Puzzle Bobble-like game (C&#43;&#43; using SDL) (4 days ago)
 - [olofson/kobodeluxe](https://github.com/olofson/kobodeluxe) - The Original Kobo Deluxe (1 week ago)
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs (2 weeks ago)
 - [anvaka/tiny.xml](https://github.com/anvaka/tiny.xml) - Tiny (1.6KB) in-browser xml parser (4 weeks ago)
