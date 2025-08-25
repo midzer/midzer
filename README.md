@@ -67,7 +67,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👯 Check out some of my recent followers
 
 - [mrwonderfulone](https://github.com/mrwonderfulone)
-- [bluMATRIKZ](https://github.com/bluMATRIKZ)
+- [GNUfault](https://github.com/GNUfault)
 - [baitcode](https://github.com/baitcode)
 - [alexmyczko](https://github.com/alexmyczko)
 - [humbertodias](https://github.com/humbertodias)
