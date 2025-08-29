@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/new-jersey](https://github.com/lokal-ninja/new-jersey) -  (4 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
-- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (4 days ago)
-- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (4 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/new-jersey](https://github.com/lokal-ninja/new-jersey) -  (5 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
+- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (5 days ago)
+- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,15 +36,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [showreels in lightbox](https://github.com/godotengine/godot-website/pull/1146) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (5 days ago)
-- [update lightbox](https://github.com/godotengine/godot-website/pull/1145) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (6 days ago)
+- [showreels in lightbox](https://github.com/godotengine/godot-website/pull/1146) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (6 days ago)
+- [update lightbox](https://github.com/godotengine/godot-website/pull/1145) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (1 week ago)
 - [optimize main loop](https://github.com/JoseTomasTocino/freegemas/pull/45) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (3 months ago)
 - [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (5 months ago)
 - [add KMP search algorithm (gated by build flag)](https://github.com/Choices-js/Choices/pull/1277) on [Choices-js/Choices](https://github.com/Choices-js/Choices) (6 months ago)
 
 #### 📜 My recent blog posts
 
-- [https://midzer.de/a-retrospective-about-blogging-for-a-decade](https://midzer.de/a-retrospective-about-blogging-for-a-decade) (1 day ago)
+- [https://midzer.de/a-retrospective-about-blogging-for-a-decade](https://midzer.de/a-retrospective-about-blogging-for-a-decade) (2 days ago)
 - [https://midzer.de/omas-kaesetorte](https://midzer.de/omas-kaesetorte) (9 months ago)
 - [https://midzer.de/als-ich-mich-selbst-zu-lieben-begann](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (1 year ago)
 - [https://midzer.de/porting-games-for-the-web-with-emscripten](https://midzer.de/porting-games-for-the-web-with-emscripten) (1 year ago)
@@ -58,9 +58,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [VyrCossont/slurp](https://github.com/VyrCossont/slurp) - tool for exporting data from and importing data to Fediverse instances (4 days ago)
+- [VyrCossont/slurp](https://github.com/VyrCossont/slurp) - tool for exporting data from and importing data to Fediverse instances (5 days ago)
 - [chkuendig/uzholdem-paper](https://github.com/chkuendig/uzholdem-paper) - 🎓 Master Thesis: &#34;Building An Adapting Poker Agent&#34; (Spring 2010) (1 week ago)
-- [Adamska-01/Bobble_Blast](https://github.com/Adamska-01/Bobble_Blast) - Puzzle Bobble-like game (C&#43;&#43; using SDL) (1 week ago)
+- [Adamska-01/Bobble_Blast](https://github.com/Adamska-01/Bobble_Blast) - Puzzle Bobble-like game (C&#43;&#43; using SDL) (2 weeks ago)
 - [olofson/kobodeluxe](https://github.com/olofson/kobodeluxe) - The Original Kobo Deluxe (2 weeks ago)
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs (3 weeks ago)
 
