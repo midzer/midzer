@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
-- [lokal-ninja/new-jersey](https://github.com/lokal-ninja/new-jersey) -  (5 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
-- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (5 days ago)
-- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (5 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
+- [lokal-ninja/new-jersey](https://github.com/lokal-ninja/new-jersey) -  (6 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (6 days ago)
+- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (6 days ago)
+- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,7 +36,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [showreels in lightbox](https://github.com/godotengine/godot-website/pull/1146) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (6 days ago)
+- [showreels in lightbox](https://github.com/godotengine/godot-website/pull/1146) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (1 week ago)
 - [update lightbox](https://github.com/godotengine/godot-website/pull/1145) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (1 week ago)
 - [optimize main loop](https://github.com/JoseTomasTocino/freegemas/pull/45) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (3 months ago)
 - [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (5 months ago)
@@ -44,8 +44,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [https://midzer.de/a-retrospective-about-blogging-for-a-decade](https://midzer.de/a-retrospective-about-blogging-for-a-decade) (2 days ago)
-- [https://midzer.de/omas-kaesetorte](https://midzer.de/omas-kaesetorte) (9 months ago)
+- [https://midzer.de/a-retrospective-about-blogging-for-a-decade](https://midzer.de/a-retrospective-about-blogging-for-a-decade) (3 days ago)
+- [https://midzer.de/omas-kaesetorte](https://midzer.de/omas-kaesetorte) (10 months ago)
 - [https://midzer.de/als-ich-mich-selbst-zu-lieben-begann](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (1 year ago)
 - [https://midzer.de/porting-games-for-the-web-with-emscripten](https://midzer.de/porting-games-for-the-web-with-emscripten) (1 year ago)
 - [https://midzer.de/kaiserschmarrn](https://midzer.de/kaiserschmarrn) (2 years ago)
@@ -58,11 +58,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [VyrCossont/slurp](https://github.com/VyrCossont/slurp) - tool for exporting data from and importing data to Fediverse instances (5 days ago)
-- [chkuendig/uzholdem-paper](https://github.com/chkuendig/uzholdem-paper) - 🎓 Master Thesis: &#34;Building An Adapting Poker Agent&#34; (Spring 2010) (1 week ago)
+- [VyrCossont/slurp](https://github.com/VyrCossont/slurp) - tool for exporting data from and importing data to Fediverse instances (6 days ago)
+- [chkuendig/uzholdem-paper](https://github.com/chkuendig/uzholdem-paper) - 🎓 Master Thesis: &#34;Building An Adapting Poker Agent&#34; (Spring 2010) (2 weeks ago)
 - [Adamska-01/Bobble_Blast](https://github.com/Adamska-01/Bobble_Blast) - Puzzle Bobble-like game (C&#43;&#43; using SDL) (2 weeks ago)
-- [olofson/kobodeluxe](https://github.com/olofson/kobodeluxe) - The Original Kobo Deluxe (2 weeks ago)
-- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs (3 weeks ago)
+- [olofson/kobodeluxe](https://github.com/olofson/kobodeluxe) - The Original Kobo Deluxe (3 weeks ago)
+- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
