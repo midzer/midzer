@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
-- [lokal-ninja/new-jersey](https://github.com/lokal-ninja/new-jersey) -  (6 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (6 days ago)
-- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (6 days ago)
-- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (6 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
+- [lokal-ninja/new-jersey](https://github.com/lokal-ninja/new-jersey) -  (1 week ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 week ago)
+- [lokal-ninja/utah](https://github.com/lokal-ninja/utah) -  (1 week ago)
+- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -44,7 +44,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [https://midzer.de/a-retrospective-about-blogging-for-a-decade](https://midzer.de/a-retrospective-about-blogging-for-a-decade) (3 days ago)
+- [https://midzer.de/a-retrospective-about-blogging-for-a-decade](https://midzer.de/a-retrospective-about-blogging-for-a-decade) (4 days ago)
 - [https://midzer.de/omas-kaesetorte](https://midzer.de/omas-kaesetorte) (10 months ago)
 - [https://midzer.de/als-ich-mich-selbst-zu-lieben-begann](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (1 year ago)
 - [https://midzer.de/porting-games-for-the-web-with-emscripten](https://midzer.de/porting-games-for-the-web-with-emscripten) (1 year ago)
@@ -58,7 +58,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [VyrCossont/slurp](https://github.com/VyrCossont/slurp) - tool for exporting data from and importing data to Fediverse instances (6 days ago)
+- [VyrCossont/slurp](https://github.com/VyrCossont/slurp) - tool for exporting data from and importing data to Fediverse instances (1 week ago)
 - [chkuendig/uzholdem-paper](https://github.com/chkuendig/uzholdem-paper) - 🎓 Master Thesis: &#34;Building An Adapting Poker Agent&#34; (Spring 2010) (2 weeks ago)
 - [Adamska-01/Bobble_Blast](https://github.com/Adamska-01/Bobble_Blast) - Puzzle Bobble-like game (C&#43;&#43; using SDL) (2 weeks ago)
 - [olofson/kobodeluxe](https://github.com/olofson/kobodeluxe) - The Original Kobo Deluxe (3 weeks ago)
