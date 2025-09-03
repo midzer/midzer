@@ -58,11 +58,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [koenk/gbc](https://github.com/koenk/gbc) - GameBoy (Color) emulator written in C (today)
 - [VyrCossont/slurp](https://github.com/VyrCossont/slurp) - tool for exporting data from and importing data to Fediverse instances (1 week ago)
 - [chkuendig/uzholdem-paper](https://github.com/chkuendig/uzholdem-paper) - 🎓 Master Thesis: &#34;Building An Adapting Poker Agent&#34; (Spring 2010) (2 weeks ago)
 - [Adamska-01/Bobble_Blast](https://github.com/Adamska-01/Bobble_Blast) - Puzzle Bobble-like game (C&#43;&#43; using SDL) (2 weeks ago)
 - [olofson/kobodeluxe](https://github.com/olofson/kobodeluxe) - The Original Kobo Deluxe (3 weeks ago)
-- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
