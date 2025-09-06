@@ -66,11 +66,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [Kaesual](https://github.com/Kaesual)
 - [XiaomingX](https://github.com/XiaomingX)
 - [mrwonderfulone](https://github.com/mrwonderfulone)
 - [GNUfault](https://github.com/GNUfault)
 - [baitcode](https://github.com/baitcode)
-- [alexmyczko](https://github.com/alexmyczko)
 
 #### 💬 Feedback
 
