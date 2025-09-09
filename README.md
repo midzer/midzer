@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (2 days ago)
-- [lokal-ninja/saarland](https://github.com/lokal-ninja/saarland) -  (2 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
-- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (2 days ago)
-- [lokal-ninja/alaska](https://github.com/lokal-ninja/alaska) -  (2 days ago)
+- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (3 days ago)
+- [lokal-ninja/saarland](https://github.com/lokal-ninja/saarland) -  (3 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
+- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (3 days ago)
+- [lokal-ninja/alaska](https://github.com/lokal-ninja/alaska) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -58,7 +58,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [Kaesual/common-games-collection](https://github.com/Kaesual/common-games-collection) - This is a collection of open source games with a browser version available. It focuses on providing a simple, unified, dockerized build and hosting experience and iframe compatibility for web-assembly compiled games. (2 days ago)
+- [Kaesual/common-games-collection](https://github.com/Kaesual/common-games-collection) - This is a collection of open source games with a browser version available. It focuses on providing a simple, unified, dockerized build and hosting experience and iframe compatibility for web-assembly compiled games. (3 days ago)
 - [VyrCossont/slurp](https://github.com/VyrCossont/slurp) - tool for exporting data from and importing data to Fediverse instances (2 weeks ago)
 - [chkuendig/uzholdem-paper](https://github.com/chkuendig/uzholdem-paper) - 🎓 Master Thesis: &#34;Building An Adapting Poker Agent&#34; (Spring 2010) (3 weeks ago)
 - [Adamska-01/Bobble_Blast](https://github.com/Adamska-01/Bobble_Blast) - Puzzle Bobble-like game (C&#43;&#43; using SDL) (3 weeks ago)
