@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/kenya](https://github.com/lokal-ninja/kenya) -  (4 days ago)
-- [lokal-ninja/costa-rica](https://github.com/lokal-ninja/costa-rica) -  (4 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
-- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (4 days ago)
-- [lokal-ninja/alberta](https://github.com/lokal-ninja/alberta) -  (4 days ago)
+- [lokal-ninja/kenya](https://github.com/lokal-ninja/kenya) -  (5 days ago)
+- [lokal-ninja/costa-rica](https://github.com/lokal-ninja/costa-rica) -  (5 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
+- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (5 days ago)
+- [lokal-ninja/alberta](https://github.com/lokal-ninja/alberta) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -37,8 +37,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔨 Latest Pull Requests I published
 
 - [showreels in lightbox](https://github.com/godotengine/godot-website/pull/1146) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (3 weeks ago)
-- [update lightbox](https://github.com/godotengine/godot-website/pull/1145) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (3 weeks ago)
-- [optimize main loop](https://github.com/JoseTomasTocino/freegemas/pull/45) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (3 months ago)
+- [update lightbox](https://github.com/godotengine/godot-website/pull/1145) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (4 weeks ago)
+- [optimize main loop](https://github.com/JoseTomasTocino/freegemas/pull/45) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (4 months ago)
 - [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (5 months ago)
 - [add KMP search algorithm (gated by build flag)](https://github.com/Choices-js/Choices/pull/1277) on [Choices-js/Choices](https://github.com/Choices-js/Choices) (6 months ago)
 
