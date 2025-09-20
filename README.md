@@ -66,11 +66,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [aminarhe](https://github.com/aminarhe)
 - [Iankulani](https://github.com/Iankulani)
 - [ApplenWorm](https://github.com/ApplenWorm)
 - [Kaesual](https://github.com/Kaesual)
 - [XiaomingX](https://github.com/XiaomingX)
-- [mrwonderfulone](https://github.com/mrwonderfulone)
 
 #### 💬 Feedback
 
