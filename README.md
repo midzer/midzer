@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/delaware](https://github.com/lokal-ninja/delaware) -  (5 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (5 days ago)
-- [lokal-ninja/australia](https://github.com/lokal-ninja/australia) -  (5 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/delaware](https://github.com/lokal-ninja/delaware) -  (6 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (6 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (6 days ago)
+- [lokal-ninja/australia](https://github.com/lokal-ninja/australia) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -44,7 +44,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [https://midzer.de/a-retrospective-about-blogging-for-a-decade](https://midzer.de/a-retrospective-about-blogging-for-a-decade) (4 weeks ago)
+- [https://midzer.de/a-retrospective-about-blogging-for-a-decade](https://midzer.de/a-retrospective-about-blogging-for-a-decade) (1 month ago)
 - [https://midzer.de/omas-kaesetorte](https://midzer.de/omas-kaesetorte) (10 months ago)
 - [https://midzer.de/als-ich-mich-selbst-zu-lieben-begann](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (1 year ago)
 - [https://midzer.de/porting-games-for-the-web-with-emscripten](https://midzer.de/porting-games-for-the-web-with-emscripten) (1 year ago)
@@ -58,7 +58,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [jorio/CandyCrisis](https://github.com/jorio/CandyCrisis) - Candy Crisis source port for modern operating systems (5 days ago)
+- [jorio/CandyCrisis](https://github.com/jorio/CandyCrisis) - Candy Crisis source port for modern operating systems (6 days ago)
 - [Kaesual/common-games-collection](https://github.com/Kaesual/common-games-collection) - This is a collection of open source games with a browser version available. It focuses on providing a simple, unified, dockerized build and hosting experience and iframe compatibility for web-assembly compiled games. (2 weeks ago)
 - [VyrCossont/slurp](https://github.com/VyrCossont/slurp) - tool for exporting data from and importing data to Fediverse instances (1 month ago)
 - [chkuendig/uzholdem-paper](https://github.com/chkuendig/uzholdem-paper) - 🎓 Master Thesis: &#34;Building An Adapting Poker Agent&#34; (Spring 2010) (1 month ago)
