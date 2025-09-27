@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
-- [lokal-ninja/delaware](https://github.com/lokal-ninja/delaware) -  (1 week ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 week ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 week ago)
-- [lokal-ninja/australia](https://github.com/lokal-ninja/australia) -  (1 week ago)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (today)
+- [lokal-ninja/thueringen](https://github.com/lokal-ninja/thueringen) -  (today)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (today)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
 
 #### 🌱 My latest projects
 
@@ -66,11 +66,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [kjxai](https://github.com/kjxai)
 - [barakplasma](https://github.com/barakplasma)
 - [aminarhe](https://github.com/aminarhe)
 - [Iankulani](https://github.com/Iankulani)
 - [ApplenWorm](https://github.com/ApplenWorm)
-- [Kaesual](https://github.com/Kaesual)
 
 #### 💬 Feedback
 
