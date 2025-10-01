@@ -14,19 +14,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/schleswig-holstein](https://github.com/lokal-ninja/schleswig-holstein) -  (4 days ago)
-- [lokal-ninja/saarland](https://github.com/lokal-ninja/saarland) -  (4 days ago)
+- [lokal-ninja/ireland-and-northern-ireland](https://github.com/lokal-ninja/ireland-and-northern-ireland) -  (4 days ago)
+- [lokal-ninja/galicia](https://github.com/lokal-ninja/galicia) -  (4 days ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
 - [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (4 days ago)
-- [lokal-ninja/ontario](https://github.com/lokal-ninja/ontario) -  (4 days ago)
+- [lokal-ninja/kenya](https://github.com/lokal-ninja/kenya) -  (4 days ago)
 
 #### 🌱 My latest projects
 
+- [midzer/minislug](https://github.com/midzer/minislug) - 
 - [midzer/mazeofgalious](https://github.com/midzer/mazeofgalious) - Originally a Konami game for the MSX computer system
 - [midzer/nazghul](https://github.com/midzer/nazghul) - Ultima-like game ported for the web
 - [midzer/megamario](https://github.com/midzer/megamario) - Mario clone ported for the web
 - [midzer/ae](https://github.com/midzer/ae) - 
-- [midzer/empty-clip](https://github.com/midzer/empty-clip) - 2D role-playing game ported for the web
 
 #### 🔭 Latest releases I've contributed to
 
