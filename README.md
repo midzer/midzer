@@ -22,7 +22,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🌱 My latest projects
 
-- [midzer/minislug](https://github.com/midzer/minislug) - 
+- [midzer/minislug](https://github.com/midzer/minislug) - Metal Slug clone in SDL2
 - [midzer/mazeofgalious](https://github.com/midzer/mazeofgalious) - Originally a Konami game for the MSX computer system
 - [midzer/nazghul](https://github.com/midzer/nazghul) - Ultima-like game ported for the web
 - [midzer/megamario](https://github.com/midzer/megamario) - Mario clone ported for the web
