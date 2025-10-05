@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
 - [lokal-ninja/alberta](https://github.com/lokal-ninja/alberta) -  (1 week ago)
 - [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 week ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 week ago)
@@ -58,8 +58,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [amio/emoji.json](https://github.com/amio/emoji.json) - Just an emoji.json (today)
-- [rozenmad/love-web-builder](https://github.com/rozenmad/love-web-builder) - Package and run LÖVE (v12.0) games for the HTML5/WebAssembly platform. (6 days ago)
+- [amio/emoji.json](https://github.com/amio/emoji.json) - Just an emoji.json (1 day ago)
+- [rozenmad/love-web-builder](https://github.com/rozenmad/love-web-builder) - Package and run LÖVE (v12.0) games for the HTML5/WebAssembly platform. (1 week ago)
 - [jorio/CandyCrisis](https://github.com/jorio/CandyCrisis) - Candy Crisis source port for modern operating systems (2 weeks ago)
 - [Kaesual/common-games-collection](https://github.com/Kaesual/common-games-collection) - This is a collection of open source games with a browser version available. It focuses on providing a simple, unified, dockerized build and hosting experience and iframe compatibility for web-assembly compiled games. (4 weeks ago)
 - [VyrCossont/slurp](https://github.com/VyrCossont/slurp) - tool for exporting data from and importing data to Fediverse instances (1 month ago)
