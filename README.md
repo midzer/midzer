@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/kenya](https://github.com/lokal-ninja/kenya) -  (today)
-- [lokal-ninja/bolivia](https://github.com/lokal-ninja/bolivia) -  (today)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/extremadura](https://github.com/lokal-ninja/extremadura) -  (today)
+- [lokal-ninja/kenya](https://github.com/lokal-ninja/kenya) -  (1 day ago)
+- [lokal-ninja/bolivia](https://github.com/lokal-ninja/bolivia) -  (1 day ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/extremadura](https://github.com/lokal-ninja/extremadura) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -59,10 +59,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [amio/emoji.json](https://github.com/amio/emoji.json) - Just an emoji.json (1 day ago)
+- [amio/emoji.json](https://github.com/amio/emoji.json) - Just an emoji.json (2 days ago)
 - [rozenmad/love-web-builder](https://github.com/rozenmad/love-web-builder) - Package and run LÖVE (v12.0) games for the HTML5/WebAssembly platform. (1 week ago)
 - [jorio/CandyCrisis](https://github.com/jorio/CandyCrisis) - Candy Crisis source port for modern operating systems (2 weeks ago)
-- [Kaesual/common-games-collection](https://github.com/Kaesual/common-games-collection) - This is a collection of open source games with a browser version available. It focuses on providing a simple, unified, dockerized build and hosting experience and iframe compatibility for web-assembly compiled games. (4 weeks ago)
+- [Kaesual/common-games-collection](https://github.com/Kaesual/common-games-collection) - This is a collection of open source games with a browser version available. It focuses on providing a simple, unified, dockerized build and hosting experience and iframe compatibility for web-assembly compiled games. (1 month ago)
 - [VyrCossont/slurp](https://github.com/VyrCossont/slurp) - tool for exporting data from and importing data to Fediverse instances (1 month ago)
 
 #### 👯 Check out some of my recent followers
