@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/kenya](https://github.com/lokal-ninja/kenya) -  (2 days ago)
-- [lokal-ninja/bolivia](https://github.com/lokal-ninja/bolivia) -  (2 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (2 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
-- [lokal-ninja/extremadura](https://github.com/lokal-ninja/extremadura) -  (2 days ago)
+- [lokal-ninja/kenya](https://github.com/lokal-ninja/kenya) -  (3 days ago)
+- [lokal-ninja/bolivia](https://github.com/lokal-ninja/bolivia) -  (3 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (3 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
+- [lokal-ninja/extremadura](https://github.com/lokal-ninja/extremadura) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -59,8 +59,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder 📺 (1 day ago)
-- [amio/emoji.json](https://github.com/amio/emoji.json) - Just an emoji.json (3 days ago)
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder 📺 (2 days ago)
+- [amio/emoji.json](https://github.com/amio/emoji.json) - Just an emoji.json (4 days ago)
 - [rozenmad/love-web-builder](https://github.com/rozenmad/love-web-builder) - Package and run LÖVE (v12.0) games for the HTML5/WebAssembly platform. (1 week ago)
 - [jorio/CandyCrisis](https://github.com/jorio/CandyCrisis) - Candy Crisis source port for modern operating systems (2 weeks ago)
 - [Kaesual/common-games-collection](https://github.com/Kaesual/common-games-collection) - This is a collection of open source games with a browser version available. It focuses on providing a simple, unified, dockerized build and hosting experience and iframe compatibility for web-assembly compiled games. (1 month ago)
