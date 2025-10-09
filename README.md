@@ -59,11 +59,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [ashtonjamesd/lavandula](https://github.com/ashtonjamesd/lavandula) - A fast, lightweight web framework in C for building modern web applications (today)
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy &amp; security best-practices on Windows, macOS and Linux, because privacy is sexy (today)
 - [AndyFul/Hard_Configurator](https://github.com/AndyFul/Hard_Configurator) - GUI to Manage Software Restriction Policies and harden Windows Home OS (today)
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder 📺 (3 days ago)
 - [amio/emoji.json](https://github.com/amio/emoji.json) - Just an emoji.json (5 days ago)
-- [rozenmad/love-web-builder](https://github.com/rozenmad/love-web-builder) - Package and run LÖVE (v12.0) games for the HTML5/WebAssembly platform. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
