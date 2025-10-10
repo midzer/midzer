@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
-- [lokal-ninja/new-hampshire](https://github.com/lokal-ninja/new-hampshire) -  (4 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (4 days ago)
-- [lokal-ninja/vermont](https://github.com/lokal-ninja/vermont) -  (4 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
+- [lokal-ninja/new-hampshire](https://github.com/lokal-ninja/new-hampshire) -  (5 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (5 days ago)
+- [lokal-ninja/vermont](https://github.com/lokal-ninja/vermont) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +32,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [midzer/tobii](https://github.com/midzer/tobii) ([v3.0.0](https://github.com/midzer/tobii/releases/tag/v3.0.0), 1 month ago) - An accessible, open-source lightbox with no dependencies
 - [Oliveshark/breakhack](https://github.com/Oliveshark/breakhack) ([v4.2.0](https://github.com/Oliveshark/breakhack/releases/tag/v4.2.0), 6 months ago) - A casual coffee-break roguelike
-- [Choices-js/Choices](https://github.com/Choices-js/Choices) ([v11.1.0](https://github.com/Choices-js/Choices/releases/tag/v11.1.0), 6 months ago) - A vanilla JS customisable select box/text input plugin ⚡️
+- [Choices-js/Choices](https://github.com/Choices-js/Choices) ([v11.1.0](https://github.com/Choices-js/Choices/releases/tag/v11.1.0), 7 months ago) - A vanilla JS customisable select box/text input plugin ⚡️
 - [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) ([22.02](https://github.com/JoseTomasTocino/freegemas/releases/tag/22.02), 3 years ago) - Freegemas is an open source version of the well known Bejeweled, built in C&#43;&#43; using SDL2
 
 #### 🔨 Latest Pull Requests I published
@@ -59,11 +59,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [ashtonjamesd/lavandula](https://github.com/ashtonjamesd/lavandula) - A fast, lightweight web framework in C for building modern web applications (today)
-- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy &amp; security best-practices on Windows, macOS and Linux, because privacy is sexy (today)
-- [AndyFul/Hard_Configurator](https://github.com/AndyFul/Hard_Configurator) - GUI to Manage Software Restriction Policies and harden Windows Home OS (today)
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder 📺 (3 days ago)
-- [amio/emoji.json](https://github.com/amio/emoji.json) - Just an emoji.json (5 days ago)
+- [ashtonjamesd/lavandula](https://github.com/ashtonjamesd/lavandula) - A fast, lightweight web framework in C for building modern web applications (1 day ago)
+- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy &amp; security best-practices on Windows, macOS and Linux, because privacy is sexy (1 day ago)
+- [AndyFul/Hard_Configurator](https://github.com/AndyFul/Hard_Configurator) - GUI to Manage Software Restriction Policies and harden Windows Home OS (1 day ago)
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder 📺 (4 days ago)
+- [amio/emoji.json](https://github.com/amio/emoji.json) - Just an emoji.json (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
