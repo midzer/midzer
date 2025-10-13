@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/liberia](https://github.com/lokal-ninja/liberia) -  (1 day ago)
-- [lokal-ninja/cuba](https://github.com/lokal-ninja/cuba) -  (1 day ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 day ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
-- [lokal-ninja/wyoming](https://github.com/lokal-ninja/wyoming) -  (1 day ago)
+- [lokal-ninja/liberia](https://github.com/lokal-ninja/liberia) -  (2 days ago)
+- [lokal-ninja/cuba](https://github.com/lokal-ninja/cuba) -  (2 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (2 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
+- [lokal-ninja/wyoming](https://github.com/lokal-ninja/wyoming) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -59,10 +59,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [ashtonjamesd/lavandula](https://github.com/ashtonjamesd/lavandula) - A fast, lightweight web framework in C for building modern web applications (3 days ago)
-- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy &amp; security best-practices on Windows, macOS and Linux, because privacy is sexy (3 days ago)
-- [AndyFul/Hard_Configurator](https://github.com/AndyFul/Hard_Configurator) - GUI to Manage Software Restriction Policies and harden Windows Home OS (3 days ago)
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder 📺 (6 days ago)
+- [ashtonjamesd/lavandula](https://github.com/ashtonjamesd/lavandula) - A fast, lightweight web framework in C for building modern web applications (4 days ago)
+- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy &amp; security best-practices on Windows, macOS and Linux, because privacy is sexy (4 days ago)
+- [AndyFul/Hard_Configurator](https://github.com/AndyFul/Hard_Configurator) - GUI to Manage Software Restriction Policies and harden Windows Home OS (4 days ago)
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder 📺 (1 week ago)
 - [amio/emoji.json](https://github.com/amio/emoji.json) - Just an emoji.json (1 week ago)
 
 #### 👯 Check out some of my recent followers
