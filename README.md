@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (2 days ago)
-- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (2 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (2 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
-- [lokal-ninja/arizona](https://github.com/lokal-ninja/arizona) -  (2 days ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (3 days ago)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (3 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (3 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
+- [lokal-ninja/arizona](https://github.com/lokal-ninja/arizona) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -39,7 +39,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [showreels in lightbox](https://github.com/godotengine/godot-website/pull/1146) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (1 month ago)
 - [update lightbox](https://github.com/godotengine/godot-website/pull/1145) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (1 month ago)
-- [optimize main loop](https://github.com/JoseTomasTocino/freegemas/pull/45) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (4 months ago)
+- [optimize main loop](https://github.com/JoseTomasTocino/freegemas/pull/45) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (5 months ago)
 - [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (6 months ago)
 - [add KMP search algorithm (gated by build flag)](https://github.com/Choices-js/Choices/pull/1277) on [Choices-js/Choices](https://github.com/Choices-js/Choices) (7 months ago)
 
