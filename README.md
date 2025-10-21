@@ -59,11 +59,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [davidje13/lean-qr](https://github.com/davidje13/lean-qr) - Minimal library for generating QR codes in the browser and server-side. (today)
 - [ashtonjamesd/lavandula](https://github.com/ashtonjamesd/lavandula) - A intuitive, lightweight web framework in C for building modern web applications (1 week ago)
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy &amp; security best-practices on Windows, macOS and Linux, because privacy is sexy (1 week ago)
 - [AndyFul/Hard_Configurator](https://github.com/AndyFul/Hard_Configurator) - GUI to Manage Software Restriction Policies and harden Windows Home OS (1 week ago)
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder 📺 (2 weeks ago)
-- [amio/emoji.json](https://github.com/amio/emoji.json) - Just an emoji.json (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
