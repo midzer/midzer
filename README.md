@@ -67,11 +67,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [emilycodestar](https://github.com/emilycodestar)
 - [WhatInTheTech](https://github.com/WhatInTheTech)
 - [kjxai](https://github.com/kjxai)
 - [barakplasma](https://github.com/barakplasma)
 - [aminarhe](https://github.com/aminarhe)
-- [Iankulani](https://github.com/Iankulani)
 
 #### 💬 Feedback
 
