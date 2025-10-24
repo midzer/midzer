@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/ireland-and-northern-ireland](https://github.com/lokal-ninja/ireland-and-northern-ireland) -  (3 days ago)
-- [lokal-ninja/gabon](https://github.com/lokal-ninja/gabon) -  (3 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (3 days ago)
-- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (3 days ago)
+- [lokal-ninja/ireland-and-northern-ireland](https://github.com/lokal-ninja/ireland-and-northern-ireland) -  (4 days ago)
+- [lokal-ninja/gabon](https://github.com/lokal-ninja/gabon) -  (4 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (4 days ago)
+- [lokal-ninja/quebec](https://github.com/lokal-ninja/quebec) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -31,7 +31,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔭 Latest releases I've contributed to
 
 - [midzer/tobii](https://github.com/midzer/tobii) ([v3.0.0](https://github.com/midzer/tobii/releases/tag/v3.0.0), 1 month ago) - An accessible, open-source lightbox with no dependencies
-- [Oliveshark/breakhack](https://github.com/Oliveshark/breakhack) ([v4.2.0](https://github.com/Oliveshark/breakhack/releases/tag/v4.2.0), 6 months ago) - A casual coffee-break roguelike
+- [Oliveshark/breakhack](https://github.com/Oliveshark/breakhack) ([v4.2.0](https://github.com/Oliveshark/breakhack/releases/tag/v4.2.0), 7 months ago) - A casual coffee-break roguelike
 - [Choices-js/Choices](https://github.com/Choices-js/Choices) ([v11.1.0](https://github.com/Choices-js/Choices/releases/tag/v11.1.0), 7 months ago) - A vanilla JS customisable select box/text input plugin ⚡️
 - [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) ([22.02](https://github.com/JoseTomasTocino/freegemas/releases/tag/22.02), 3 years ago) - Freegemas is an open source version of the well known Bejeweled, built in C&#43;&#43; using SDL2
 
@@ -59,7 +59,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [davidje13/lean-qr](https://github.com/davidje13/lean-qr) - Minimal library for generating QR codes in the browser and server-side. (2 days ago)
+- [davidje13/lean-qr](https://github.com/davidje13/lean-qr) - Minimal library for generating QR codes in the browser and server-side. (3 days ago)
 - [ashtonjamesd/lavandula](https://github.com/ashtonjamesd/lavandula) - A intuitive, lightweight web framework in C for building modern web applications (2 weeks ago)
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy &amp; security best-practices on Windows, macOS and Linux, because privacy is sexy (2 weeks ago)
 - [AndyFul/Hard_Configurator](https://github.com/AndyFul/Hard_Configurator) - GUI to Manage Software Restriction Policies and harden Windows Home OS (2 weeks ago)
