@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
-- [lokal-ninja/manitoba](https://github.com/lokal-ninja/manitoba) -  (5 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (5 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
-- [lokal-ninja/arizona](https://github.com/lokal-ninja/arizona) -  (5 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
+- [lokal-ninja/manitoba](https://github.com/lokal-ninja/manitoba) -  (6 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (6 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (6 days ago)
+- [lokal-ninja/arizona](https://github.com/lokal-ninja/arizona) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ⭐ Recent stars
 
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (1 week ago)
-- [davidje13/lean-qr](https://github.com/davidje13/lean-qr) - Minimal library for generating QR codes in the browser and server-side. (1 week ago)
+- [davidje13/lean-qr](https://github.com/davidje13/lean-qr) - Minimal library for generating QR codes in the browser and server-side. (2 weeks ago)
 - [ashtonjamesd/lavandula](https://github.com/ashtonjamesd/lavandula) - A intuitive, lightweight web framework in C for building modern web applications (3 weeks ago)
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy &amp; security best-practices on Windows, macOS and Linux, because privacy is sexy (3 weeks ago)
 - [AndyFul/Hard_Configurator](https://github.com/AndyFul/Hard_Configurator) - GUI to Manage Software Restriction Policies and harden Windows Home OS (3 weeks ago)
