@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/saarland](https://github.com/lokal-ninja/saarland) -  (4 days ago)
-- [lokal-ninja/paraguay](https://github.com/lokal-ninja/paraguay) -  (4 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (4 days ago)
-- [lokal-ninja/alberta](https://github.com/lokal-ninja/alberta) -  (4 days ago)
+- [lokal-ninja/saarland](https://github.com/lokal-ninja/saarland) -  (5 days ago)
+- [lokal-ninja/paraguay](https://github.com/lokal-ninja/paraguay) -  (5 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (5 days ago)
+- [lokal-ninja/alberta](https://github.com/lokal-ninja/alberta) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +32,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [midzer/tobii](https://github.com/midzer/tobii) ([v3.0.0](https://github.com/midzer/tobii/releases/tag/v3.0.0), 2 months ago) - An accessible, open-source lightbox with no dependencies
 - [Oliveshark/breakhack](https://github.com/Oliveshark/breakhack) ([v4.2.0](https://github.com/Oliveshark/breakhack/releases/tag/v4.2.0), 7 months ago) - A casual coffee-break roguelike
-- [Choices-js/Choices](https://github.com/Choices-js/Choices) ([v11.1.0](https://github.com/Choices-js/Choices/releases/tag/v11.1.0), 7 months ago) - A vanilla JS customisable select box/text input plugin ⚡️
+- [Choices-js/Choices](https://github.com/Choices-js/Choices) ([v11.1.0](https://github.com/Choices-js/Choices/releases/tag/v11.1.0), 8 months ago) - A vanilla JS customisable select box/text input plugin ⚡️
 - [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) ([22.02](https://github.com/JoseTomasTocino/freegemas/releases/tag/22.02), 3 years ago) - Freegemas is an open source version of the well known Bejeweled, built in C&#43;&#43; using SDL2
 
 #### 🔨 Latest Pull Requests I published
