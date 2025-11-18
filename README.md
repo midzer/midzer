@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/nordrhein-westfalen](https://github.com/lokal-ninja/nordrhein-westfalen) -  (2 days ago)
-- [lokal-ninja/castilla-la-mancha](https://github.com/lokal-ninja/castilla-la-mancha) -  (2 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (2 days ago)
-- [lokal-ninja/ecuador](https://github.com/lokal-ninja/ecuador) -  (2 days ago)
+- [lokal-ninja/nordrhein-westfalen](https://github.com/lokal-ninja/nordrhein-westfalen) -  (3 days ago)
+- [lokal-ninja/castilla-la-mancha](https://github.com/lokal-ninja/castilla-la-mancha) -  (3 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (3 days ago)
+- [lokal-ninja/ecuador](https://github.com/lokal-ninja/ecuador) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -39,7 +39,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [showreels in lightbox](https://github.com/godotengine/godot-website/pull/1146) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (2 months ago)
 - [update lightbox](https://github.com/godotengine/godot-website/pull/1145) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (2 months ago)
-- [optimize main loop](https://github.com/JoseTomasTocino/freegemas/pull/45) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (5 months ago)
+- [optimize main loop](https://github.com/JoseTomasTocino/freegemas/pull/45) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (6 months ago)
 - [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (7 months ago)
 - [add KMP search algorithm (gated by build flag)](https://github.com/Choices-js/Choices/pull/1277) on [Choices-js/Choices](https://github.com/Choices-js/Choices) (8 months ago)
 
@@ -59,9 +59,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [sndcds/uranus-dashboard](https://github.com/sndcds/uranus-dashboard) - A web dashboard for managing and visualizing event data from the Uranus API. (2 days ago)
+- [sndcds/uranus-dashboard](https://github.com/sndcds/uranus-dashboard) - A web dashboard for managing and visualizing event data from the Uranus API. (3 days ago)
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (3 weeks ago)
-- [davidje13/lean-qr](https://github.com/davidje13/lean-qr) - Minimal library for generating QR codes in the browser and server-side. (3 weeks ago)
+- [davidje13/lean-qr](https://github.com/davidje13/lean-qr) - Minimal library for generating QR codes in the browser and server-side. (4 weeks ago)
 - [ashtonjamesd/lavandula](https://github.com/ashtonjamesd/lavandula) - A intuitive, lightweight web framework in C for building modern web applications (1 month ago)
 - [amio/emoji.json](https://github.com/amio/emoji.json) - Just an emoji.json (1 month ago)
 
