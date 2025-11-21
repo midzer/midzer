@@ -59,11 +59,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [krystiankaluzny/Tanks](https://github.com/krystiankaluzny/Tanks) - Battle City / Tank 1990 in C&#43;&#43; and SDL2 (today)
 - [sndcds/uranus-dashboard](https://github.com/sndcds/uranus-dashboard) - A web dashboard for managing and visualizing event data from the Uranus API. (6 days ago)
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (4 weeks ago)
 - [davidje13/lean-qr](https://github.com/davidje13/lean-qr) - Minimal library for generating QR codes in the browser and server-side. (1 month ago)
 - [ashtonjamesd/lavandula](https://github.com/ashtonjamesd/lavandula) - A intuitive, lightweight web framework in C for building modern web applications (1 month ago)
-- [amio/emoji.json](https://github.com/amio/emoji.json) - Just an emoji.json (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
