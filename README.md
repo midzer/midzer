@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/vermont](https://github.com/lokal-ninja/vermont) -  (today)
-- [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies (today)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (today)
+- [lokal-ninja/vermont](https://github.com/lokal-ninja/vermont) -  (1 day ago)
+- [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies (1 day ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [midzer/tobii](https://github.com/midzer/tobii) ([v3.1.0](https://github.com/midzer/tobii/releases/tag/v3.1.0), today) - An accessible, open-source lightbox with no dependencies
+- [midzer/tobii](https://github.com/midzer/tobii) ([v3.1.0](https://github.com/midzer/tobii/releases/tag/v3.1.0), 1 day ago) - An accessible, open-source lightbox with no dependencies
 - [Oliveshark/breakhack](https://github.com/Oliveshark/breakhack) ([v4.2.0](https://github.com/Oliveshark/breakhack/releases/tag/v4.2.0), 7 months ago) - A casual coffee-break roguelike
 - [Choices-js/Choices](https://github.com/Choices-js/Choices) ([v11.1.0](https://github.com/Choices-js/Choices/releases/tag/v11.1.0), 8 months ago) - A vanilla JS customisable select box/text input plugin ⚡️
 - [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) ([22.02](https://github.com/JoseTomasTocino/freegemas/releases/tag/22.02), 3 years ago) - Freegemas is an open source version of the well known Bejeweled, built in C&#43;&#43; using SDL2
@@ -40,7 +40,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [showreels in lightbox](https://github.com/godotengine/godot-website/pull/1146) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (3 months ago)
 - [update lightbox](https://github.com/godotengine/godot-website/pull/1145) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (3 months ago)
 - [optimize main loop](https://github.com/JoseTomasTocino/freegemas/pull/45) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (6 months ago)
-- [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (7 months ago)
+- [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (8 months ago)
 - [add KMP search algorithm (gated by build flag)](https://github.com/Choices-js/Choices/pull/1277) on [Choices-js/Choices](https://github.com/Choices-js/Choices) (9 months ago)
 
 #### 📜 My recent blog posts
@@ -59,8 +59,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [krystiankaluzny/Tanks](https://github.com/krystiankaluzny/Tanks) - Battle City / Tank 1990 in C&#43;&#43; and SDL2 (today)
-- [sndcds/uranus-dashboard](https://github.com/sndcds/uranus-dashboard) - A web dashboard for managing and visualizing event data from the Uranus API. (6 days ago)
+- [krystiankaluzny/Tanks](https://github.com/krystiankaluzny/Tanks) - Battle City / Tank 1990 in C&#43;&#43; and SDL2 (1 day ago)
+- [sndcds/uranus-dashboard](https://github.com/sndcds/uranus-dashboard) - A web dashboard for managing and visualizing event data from the Uranus API. (1 week ago)
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (4 weeks ago)
 - [davidje13/lean-qr](https://github.com/davidje13/lean-qr) - Minimal library for generating QR codes in the browser and server-side. (1 month ago)
 - [ashtonjamesd/lavandula](https://github.com/ashtonjamesd/lavandula) - A intuitive, lightweight web framework in C for building modern web applications (1 month ago)
