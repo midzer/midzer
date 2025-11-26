@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
-- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (4 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (4 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
-- [lokal-ninja/ghana](https://github.com/lokal-ninja/ghana) -  (4 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
+- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (5 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (5 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
+- [lokal-ninja/ghana](https://github.com/lokal-ninja/ghana) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [midzer/tobii](https://github.com/midzer/tobii) ([v3.1.0](https://github.com/midzer/tobii/releases/tag/v3.1.0), 4 days ago) - An accessible, open-source lightbox with no dependencies
+- [midzer/tobii](https://github.com/midzer/tobii) ([v3.1.0](https://github.com/midzer/tobii/releases/tag/v3.1.0), 5 days ago) - An accessible, open-source lightbox with no dependencies
 - [Oliveshark/breakhack](https://github.com/Oliveshark/breakhack) ([v4.2.0](https://github.com/Oliveshark/breakhack/releases/tag/v4.2.0), 8 months ago) - A casual coffee-break roguelike
 - [Choices-js/Choices](https://github.com/Choices-js/Choices) ([v11.1.0](https://github.com/Choices-js/Choices/releases/tag/v11.1.0), 8 months ago) - A vanilla JS customisable select box/text input plugin ⚡️
 - [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) ([22.02](https://github.com/JoseTomasTocino/freegemas/releases/tag/22.02), 3 years ago) - Freegemas is an open source version of the well known Bejeweled, built in C&#43;&#43; using SDL2
@@ -59,7 +59,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [krystiankaluzny/Tanks](https://github.com/krystiankaluzny/Tanks) - Battle City / Tank 1990 in C&#43;&#43; and SDL2 (4 days ago)
+- [krystiankaluzny/Tanks](https://github.com/krystiankaluzny/Tanks) - Battle City / Tank 1990 in C&#43;&#43; and SDL2 (5 days ago)
 - [sndcds/uranus-dashboard](https://github.com/sndcds/uranus-dashboard) - A web dashboard for managing and visualizing event data from the Uranus API. (1 week ago)
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (1 month ago)
 - [davidje13/lean-qr](https://github.com/davidje13/lean-qr) - Minimal library for generating QR codes in the browser and server-side. (1 month ago)
