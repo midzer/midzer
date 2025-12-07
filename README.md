@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/nova-scotia](https://github.com/lokal-ninja/nova-scotia) -  (today)
-- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (today)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (today)
+- [lokal-ninja/nova-scotia](https://github.com/lokal-ninja/nova-scotia) -  (1 day ago)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (1 day ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -59,7 +59,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [tildearrow/modextract](https://github.com/tildearrow/modextract) - extract samples from a .mod (6 days ago)
+- [tildearrow/modextract](https://github.com/tildearrow/modextract) - extract samples from a .mod (1 week ago)
 - [Common-Ground-DAO/commonground](https://github.com/Common-Ground-DAO/commonground) - The code of app.cg (1 week ago)
 - [krystiankaluzny/Tanks](https://github.com/krystiankaluzny/Tanks) - Battle City / Tank 1990 in C&#43;&#43; and SDL2 (2 weeks ago)
 - [sndcds/uranus-dashboard](https://github.com/sndcds/uranus-dashboard) - A web dashboard for managing and visualizing event data from the Uranus API. (3 weeks ago)
