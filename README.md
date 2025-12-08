@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/arizona](https://github.com/lokal-ninja/arizona) -  (2 days ago)
-- [lokal-ninja/valencia](https://github.com/lokal-ninja/valencia) -  (2 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
+- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (2 days ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
 - [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (2 days ago)
-- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (2 days ago)
+- [lokal-ninja/alberta](https://github.com/lokal-ninja/alberta) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -45,11 +45,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
+- [https://midzer.de/winter-mood](https://midzer.de/winter-mood) (today)
 - [https://midzer.de/a-retrospective-about-blogging-for-a-decade](https://midzer.de/a-retrospective-about-blogging-for-a-decade) (3 months ago)
 - [https://midzer.de/omas-kaesetorte](https://midzer.de/omas-kaesetorte) (1 year ago)
 - [https://midzer.de/als-ich-mich-selbst-zu-lieben-begann](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (2 years ago)
 - [https://midzer.de/porting-games-for-the-web-with-emscripten](https://midzer.de/porting-games-for-the-web-with-emscripten) (2 years ago)
-- [https://midzer.de/kaiserschmarrn](https://midzer.de/kaiserschmarrn) (2 years ago)
 
 #### 📓 Gists I wrote
 
