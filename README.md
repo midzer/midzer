@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/wyoming](https://github.com/lokal-ninja/wyoming) -  (today)
-- [lokal-ninja/valencia](https://github.com/lokal-ninja/valencia) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (today)
-- [lokal-ninja/alberta](https://github.com/lokal-ninja/alberta) -  (today)
+- [lokal-ninja/wyoming](https://github.com/lokal-ninja/wyoming) -  (1 day ago)
+- [lokal-ninja/valencia](https://github.com/lokal-ninja/valencia) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 day ago)
+- [lokal-ninja/alberta](https://github.com/lokal-ninja/alberta) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -59,7 +59,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [islocated/Aquaria](https://github.com/islocated/Aquaria) - Aquaria Open Source (3 days ago)
+- [islocated/Aquaria](https://github.com/islocated/Aquaria) - Aquaria Open Source (4 days ago)
 - [tildearrow/modextract](https://github.com/tildearrow/modextract) - extract samples from a .mod (2 weeks ago)
 - [Common-Ground-DAO/commonground](https://github.com/Common-Ground-DAO/commonground) - The code of app.cg (2 weeks ago)
 - [krystiankaluzny/Tanks](https://github.com/krystiankaluzny/Tanks) - Battle City / Tank 1990 in C&#43;&#43; and SDL2 (3 weeks ago)
