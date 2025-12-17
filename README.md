@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/virginia](https://github.com/lokal-ninja/virginia) -  (1 day ago)
-- [lokal-ninja/islas-baleares](https://github.com/lokal-ninja/islas-baleares) -  (1 day ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 day ago)
-- [lokal-ninja/ireland-and-northern-ireland](https://github.com/lokal-ninja/ireland-and-northern-ireland) -  (1 day ago)
+- [lokal-ninja/virginia](https://github.com/lokal-ninja/virginia) -  (2 days ago)
+- [lokal-ninja/islas-baleares](https://github.com/lokal-ninja/islas-baleares) -  (2 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (2 days ago)
+- [lokal-ninja/ireland-and-northern-ireland](https://github.com/lokal-ninja/ireland-and-northern-ireland) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -59,7 +59,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [islocated/Aquaria](https://github.com/islocated/Aquaria) - Aquaria Open Source (4 days ago)
+- [islocated/Aquaria](https://github.com/islocated/Aquaria) - Aquaria Open Source (5 days ago)
 - [tildearrow/modextract](https://github.com/tildearrow/modextract) - extract samples from a .mod (2 weeks ago)
 - [Common-Ground-DAO/commonground](https://github.com/Common-Ground-DAO/commonground) - The code of app.cg (2 weeks ago)
 - [krystiankaluzny/Tanks](https://github.com/krystiankaluzny/Tanks) - Battle City / Tank 1990 in C&#43;&#43; and SDL2 (3 weeks ago)
