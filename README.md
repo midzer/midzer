@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/new-york](https://github.com/lokal-ninja/new-york) -  (today)
-- [lokal-ninja/poitou-charentes](https://github.com/lokal-ninja/poitou-charentes) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (today)
-- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (today)
+- [lokal-ninja/new-york](https://github.com/lokal-ninja/new-york) -  (1 day ago)
+- [lokal-ninja/poitou-charentes](https://github.com/lokal-ninja/poitou-charentes) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 day ago)
+- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -59,8 +59,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [fafarunner/fafarunner](https://github.com/fafarunner/fafarunner) - Enjoy smooth gameplay, stunning graphics, and endless fun. (today)
-- [islocated/Aquaria](https://github.com/islocated/Aquaria) - Aquaria Open Source (1 week ago)
+- [fafarunner/fafarunner](https://github.com/fafarunner/fafarunner) - Enjoy smooth gameplay, stunning graphics, and endless fun. (1 day ago)
+- [islocated/Aquaria](https://github.com/islocated/Aquaria) - Aquaria Open Source (2 weeks ago)
 - [tildearrow/modextract](https://github.com/tildearrow/modextract) - extract samples from a .mod (3 weeks ago)
 - [Common-Ground-DAO/commonground](https://github.com/Common-Ground-DAO/commonground) - The code of app.cg (3 weeks ago)
 - [krystiankaluzny/Tanks](https://github.com/krystiankaluzny/Tanks) - Battle City / Tank 1990 in C&#43;&#43; and SDL2 (1 month ago)
