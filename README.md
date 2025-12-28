@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/new-york](https://github.com/lokal-ninja/new-york) -  (2 days ago)
-- [lokal-ninja/poitou-charentes](https://github.com/lokal-ninja/poitou-charentes) -  (2 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (2 days ago)
-- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (2 days ago)
+- [lokal-ninja/new-york](https://github.com/lokal-ninja/new-york) -  (3 days ago)
+- [lokal-ninja/poitou-charentes](https://github.com/lokal-ninja/poitou-charentes) -  (3 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (3 days ago)
+- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -59,10 +59,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [andrew/ultimate-awesome](https://github.com/andrew/ultimate-awesome) - Every awesome list on every topic, including awesome lists of awesome lists, updated daily. (today)
-- [fafarunner/fafarunner](https://github.com/fafarunner/fafarunner) - Enjoy smooth gameplay, stunning graphics, and endless fun. (2 days ago)
+- [andrew/ultimate-awesome](https://github.com/andrew/ultimate-awesome) - Every awesome list on every topic, including awesome lists of awesome lists, updated daily. (1 day ago)
+- [fafarunner/fafarunner](https://github.com/fafarunner/fafarunner) - Enjoy smooth gameplay, stunning graphics, and endless fun. (3 days ago)
 - [islocated/Aquaria](https://github.com/islocated/Aquaria) - Aquaria Open Source (2 weeks ago)
-- [tildearrow/modextract](https://github.com/tildearrow/modextract) - extract samples from a .mod (3 weeks ago)
+- [tildearrow/modextract](https://github.com/tildearrow/modextract) - extract samples from a .mod (4 weeks ago)
 - [Common-Ground-DAO/commonground](https://github.com/Common-Ground-DAO/commonground) - The code of app.cg (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
