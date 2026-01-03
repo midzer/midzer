@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/texas](https://github.com/lokal-ninja/texas) -  (3 days ago)
-- [lokal-ninja/peru](https://github.com/lokal-ninja/peru) -  (3 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (3 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (3 days ago)
+- [lokal-ninja/texas](https://github.com/lokal-ninja/texas) -  (4 days ago)
+- [lokal-ninja/peru](https://github.com/lokal-ninja/peru) -  (4 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (4 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -59,8 +59,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [b1rdmania/motif](https://github.com/b1rdmania/motif) - Search and play real MIDI in-browser, then generate Motif variations. (today)
-- [andrew/ultimate-awesome](https://github.com/andrew/ultimate-awesome) - Every awesome list on every topic, including awesome lists of awesome lists, updated daily. (6 days ago)
+- [b1rdmania/motif](https://github.com/b1rdmania/motif) - Search and play real MIDI in-browser, then generate Motif variations. (1 day ago)
+- [andrew/ultimate-awesome](https://github.com/andrew/ultimate-awesome) - Every awesome list on every topic, including awesome lists of awesome lists, updated daily. (1 week ago)
 - [fafarunner/fafarunner](https://github.com/fafarunner/fafarunner) - Enjoy smooth gameplay, stunning graphics, and endless fun. (1 week ago)
 - [islocated/Aquaria](https://github.com/islocated/Aquaria) - Aquaria Open Source (3 weeks ago)
 - [tildearrow/modextract](https://github.com/tildearrow/modextract) - extract samples from a .mod (1 month ago)
