@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/north-carolina](https://github.com/lokal-ninja/north-carolina) -  (today)
-- [lokal-ninja/honduras](https://github.com/lokal-ninja/honduras) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (today)
-- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (today)
+- [lokal-ninja/north-carolina](https://github.com/lokal-ninja/north-carolina) -  (1 day ago)
+- [lokal-ninja/honduras](https://github.com/lokal-ninja/honduras) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 day ago)
+- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -59,7 +59,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [b1rdmania/motif](https://github.com/b1rdmania/motif) - Search and play real MIDI in-browser, then generate Motif variations. (1 day ago)
+- [b1rdmania/motif](https://github.com/b1rdmania/motif) - Search and play real MIDI in-browser, then generate Motif variations. (2 days ago)
 - [andrew/ultimate-awesome](https://github.com/andrew/ultimate-awesome) - Every awesome list on every topic, including awesome lists of awesome lists, updated daily. (1 week ago)
 - [fafarunner/fafarunner](https://github.com/fafarunner/fafarunner) - Enjoy smooth gameplay, stunning graphics, and endless fun. (1 week ago)
 - [islocated/Aquaria](https://github.com/islocated/Aquaria) - Aquaria Open Source (3 weeks ago)
