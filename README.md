@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/new-mexico](https://github.com/lokal-ninja/new-mexico) -  (1 day ago)
-- [lokal-ninja/reunion](https://github.com/lokal-ninja/reunion) -  (1 day ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 day ago)
-- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (1 day ago)
+- [lokal-ninja/new-mexico](https://github.com/lokal-ninja/new-mexico) -  (2 days ago)
+- [lokal-ninja/reunion](https://github.com/lokal-ninja/reunion) -  (2 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (2 days ago)
+- [lokal-ninja/pakistan](https://github.com/lokal-ninja/pakistan) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -45,7 +45,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [https://midzer.de/winter-mood](https://midzer.de/winter-mood) (3 weeks ago)
+- [https://midzer.de/winter-mood](https://midzer.de/winter-mood) (4 weeks ago)
 - [https://midzer.de/a-retrospective-about-blogging-for-a-decade](https://midzer.de/a-retrospective-about-blogging-for-a-decade) (4 months ago)
 - [https://midzer.de/omas-kaesetorte](https://midzer.de/omas-kaesetorte) (1 year ago)
 - [https://midzer.de/als-ich-mich-selbst-zu-lieben-begann](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (2 years ago)
@@ -59,8 +59,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [rofl0r/gnuboy](https://github.com/rofl0r/gnuboy) - latest version of original laguna source, with a handful fixes for modern compilers and systems (today)
-- [b1rdmania/motif](https://github.com/b1rdmania/motif) - Search and play real MIDI in-browser, then generate Motif variations. (2 days ago)
+- [rofl0r/gnuboy](https://github.com/rofl0r/gnuboy) - latest version of original laguna source, with a handful fixes for modern compilers and systems (1 day ago)
+- [b1rdmania/motif](https://github.com/b1rdmania/motif) - Search and play real MIDI in-browser, then generate Motif variations. (3 days ago)
 - [andrew/ultimate-awesome](https://github.com/andrew/ultimate-awesome) - Every awesome list on every topic, including awesome lists of awesome lists, updated daily. (1 week ago)
 - [fafarunner/fafarunner](https://github.com/fafarunner/fafarunner) - Enjoy smooth gameplay, stunning graphics, and endless fun. (1 week ago)
 - [islocated/Aquaria](https://github.com/islocated/Aquaria) - Aquaria Open Source (3 weeks ago)
