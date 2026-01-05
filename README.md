@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ⭐ Recent stars
 
 - [rofl0r/gnuboy](https://github.com/rofl0r/gnuboy) - latest version of original laguna source, with a handful fixes for modern compilers and systems (1 day ago)
-- [b1rdmania/motif](https://github.com/b1rdmania/motif) - Search and play real MIDI in-browser, then generate Motif variations. (3 days ago)
+- [b1rdmania/motif](https://github.com/b1rdmania/motif) - Search any song. Get the 8-bit Game Boy version. (3 days ago)
 - [andrew/ultimate-awesome](https://github.com/andrew/ultimate-awesome) - Every awesome list on every topic, including awesome lists of awesome lists, updated daily. (1 week ago)
 - [fafarunner/fafarunner](https://github.com/fafarunner/fafarunner) - Enjoy smooth gameplay, stunning graphics, and endless fun. (1 week ago)
 - [islocated/Aquaria](https://github.com/islocated/Aquaria) - Aquaria Open Source (3 weeks ago)
