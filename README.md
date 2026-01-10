@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies (3 days ago)
-- [lokal-ninja/new-hampshire](https://github.com/lokal-ninja/new-hampshire) -  (4 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (4 days ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (4 days ago)
+- [lokal-ninja/district-of-columbia](https://github.com/lokal-ninja/district-of-columbia) -  (today)
+- [lokal-ninja/connecticut](https://github.com/lokal-ninja/connecticut) -  (today)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (today)
+- [lokal-ninja/alberta](https://github.com/lokal-ninja/alberta) -  (today)
 
 #### 🌱 My latest projects
 
