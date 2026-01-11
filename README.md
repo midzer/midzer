@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/new-york](https://github.com/lokal-ninja/new-york) -  (today)
-- [lokal-ninja/languedoc-roussillon](https://github.com/lokal-ninja/languedoc-roussillon) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (today)
-- [lokal-ninja/alberta](https://github.com/lokal-ninja/alberta) -  (today)
+- [lokal-ninja/new-york](https://github.com/lokal-ninja/new-york) -  (1 day ago)
+- [lokal-ninja/languedoc-roussillon](https://github.com/lokal-ninja/languedoc-roussillon) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 day ago)
+- [lokal-ninja/alberta](https://github.com/lokal-ninja/alberta) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -30,8 +30,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [midzer/tobii](https://github.com/midzer/tobii) ([v3.1.1](https://github.com/midzer/tobii/releases/tag/v3.1.1), 3 days ago) - An accessible, open-source lightbox with no dependencies
-- [Choices-js/Choices](https://github.com/Choices-js/Choices) ([v11.2.0](https://github.com/Choices-js/Choices/releases/tag/v11.2.0), 5 days ago) - A vanilla JS customisable select box/text input plugin ⚡️
+- [midzer/tobii](https://github.com/midzer/tobii) ([v3.1.1](https://github.com/midzer/tobii/releases/tag/v3.1.1), 4 days ago) - An accessible, open-source lightbox with no dependencies
+- [Choices-js/Choices](https://github.com/Choices-js/Choices) ([v11.2.0](https://github.com/Choices-js/Choices/releases/tag/v11.2.0), 6 days ago) - A vanilla JS customisable select box/text input plugin ⚡️
 - [Oliveshark/breakhack](https://github.com/Oliveshark/breakhack) ([v4.2.0](https://github.com/Oliveshark/breakhack/releases/tag/v4.2.0), 9 months ago) - A casual coffee-break roguelike
 - [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) ([22.02](https://github.com/JoseTomasTocino/freegemas/releases/tag/22.02), 3 years ago) - Freegemas is an open source version of the well known Bejeweled, built in C&#43;&#43; using SDL2
 
@@ -59,11 +59,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [rofl0r/gnuboy](https://github.com/rofl0r/gnuboy) - latest version of original laguna source, with a handful fixes for modern compilers and systems (6 days ago)
+- [rofl0r/gnuboy](https://github.com/rofl0r/gnuboy) - latest version of original laguna source, with a handful fixes for modern compilers and systems (1 week ago)
 - [b1rdmania/motif](https://github.com/b1rdmania/motif) - Search any song. Get the 8-bit Game Boy version. (1 week ago)
 - [andrew/ultimate-awesome](https://github.com/andrew/ultimate-awesome) - Every awesome list on every topic, including awesome lists of awesome lists, updated daily. (2 weeks ago)
 - [fafarunner/fafarunner](https://github.com/fafarunner/fafarunner) - Enjoy smooth gameplay, stunning graphics, and endless fun. (2 weeks ago)
-- [islocated/Aquaria](https://github.com/islocated/Aquaria) - Aquaria Open Source (4 weeks ago)
+- [islocated/Aquaria](https://github.com/islocated/Aquaria) - Aquaria Open Source (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
