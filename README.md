@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (4 days ago)
-- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (5 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (5 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (5 days ago)
+- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (6 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -59,9 +59,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [malespiaut/pang](https://github.com/malespiaut/pang) - SDL2 clone of the 1989 arcade game Pang! by Mitchell Corporation. (4 days ago)
+- [malespiaut/pang](https://github.com/malespiaut/pang) - SDL2 clone of the 1989 arcade game Pang! by Mitchell Corporation. (5 days ago)
 - [rofl0r/gnuboy](https://github.com/rofl0r/gnuboy) - latest version of original laguna source, with a handful fixes for modern compilers and systems (1 week ago)
-- [b1rdmania/motif](https://github.com/b1rdmania/motif) - Search any song. Get the 8-bit Game Boy version. (1 week ago)
+- [b1rdmania/motif](https://github.com/b1rdmania/motif) - Search any song. Get the 8-bit Game Boy version. (2 weeks ago)
 - [andrew/ultimate-awesome](https://github.com/andrew/ultimate-awesome) - Every awesome list on every topic, including awesome lists of awesome lists, updated daily. (2 weeks ago)
 - [fafarunner/fafarunner](https://github.com/fafarunner/fafarunner) - Enjoy smooth gameplay, stunning graphics, and endless fun. (3 weeks ago)
 
