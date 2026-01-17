@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
-- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (6 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (6 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (2 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
+- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (1 week ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -39,7 +39,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [showreels in lightbox](https://github.com/godotengine/godot-website/pull/1146) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (4 months ago)
 - [update lightbox](https://github.com/godotengine/godot-website/pull/1145) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (4 months ago)
-- [optimize main loop](https://github.com/JoseTomasTocino/freegemas/pull/45) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (7 months ago)
+- [optimize main loop](https://github.com/JoseTomasTocino/freegemas/pull/45) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (8 months ago)
 - [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (9 months ago)
 - [add KMP search algorithm (gated by build flag)](https://github.com/Choices-js/Choices/pull/1277) on [Choices-js/Choices](https://github.com/Choices-js/Choices) (10 months ago)
 
@@ -59,11 +59,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [someodd/gasm](https://github.com/someodd/gasm) - bare-metal i386 Gopher server for Linux (today)
-- [malespiaut/pang](https://github.com/malespiaut/pang) - SDL2 clone of the 1989 arcade game Pang! by Mitchell Corporation. (5 days ago)
+- [someodd/gasm](https://github.com/someodd/gasm) - bare-metal i386 Gopher server for Linux (1 day ago)
+- [malespiaut/pang](https://github.com/malespiaut/pang) - SDL2 clone of the 1989 arcade game Pang! by Mitchell Corporation. (6 days ago)
 - [rofl0r/gnuboy](https://github.com/rofl0r/gnuboy) - latest version of original laguna source, with a handful fixes for modern compilers and systems (1 week ago)
 - [b1rdmania/motif](https://github.com/b1rdmania/motif) - Search any song. Get the 8-bit Game Boy version. (2 weeks ago)
-- [andrew/ultimate-awesome](https://github.com/andrew/ultimate-awesome) - Every awesome list on every topic, including awesome lists of awesome lists, updated daily. (2 weeks ago)
+- [andrew/ultimate-awesome](https://github.com/andrew/ultimate-awesome) - Every awesome list on every topic, including awesome lists of awesome lists, updated daily. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
