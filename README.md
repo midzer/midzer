@@ -14,9 +14,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (2 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (3 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
 - [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (1 week ago)
 - [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 week ago)
 
@@ -59,10 +59,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [someodd/gasm](https://github.com/someodd/gasm) - bare-metal i386 Gopher server for Linux (1 day ago)
-- [malespiaut/pang](https://github.com/malespiaut/pang) - SDL2 clone of the 1989 arcade game Pang! by Mitchell Corporation. (6 days ago)
-- [rofl0r/gnuboy](https://github.com/rofl0r/gnuboy) - latest version of original laguna source, with a handful fixes for modern compilers and systems (1 week ago)
-- [b1rdmania/motif](https://github.com/b1rdmania/motif) - Search any song. Get the 8-bit Game Boy version. (2 weeks ago)
+- [someodd/gasm](https://github.com/someodd/gasm) - bare-metal i386 Gopher server for Linux (2 days ago)
+- [malespiaut/pang](https://github.com/malespiaut/pang) - SDL2 clone of the 1989 arcade game Pang! by Mitchell Corporation. (1 week ago)
+- [rofl0r/gnuboy](https://github.com/rofl0r/gnuboy) - latest version of original laguna source, with a handful fixes for modern compilers and systems (2 weeks ago)
+- [b1rdmania/motif](https://github.com/b1rdmania/motif) - Wario.Style. Game Boy Midi Synthesis Engine. Search any song. Get the 8-bit Game Boy version. (2 weeks ago)
 - [andrew/ultimate-awesome](https://github.com/andrew/ultimate-awesome) - Every awesome list on every topic, including awesome lists of awesome lists, updated daily. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
