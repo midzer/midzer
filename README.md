@@ -59,11 +59,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [blupi-games/planetblupi](https://github.com/blupi-games/planetblupi) - Planet Blupi source code (today)
 - [someodd/gasm](https://github.com/someodd/gasm) - bare-metal i386 Gopher server for Linux (1 week ago)
 - [malespiaut/pang](https://github.com/malespiaut/pang) - SDL2 clone of the 1989 arcade game Pang! by Mitchell Corporation. (1 week ago)
 - [rofl0r/gnuboy](https://github.com/rofl0r/gnuboy) - latest version of original laguna source, with a handful fixes for modern compilers and systems (2 weeks ago)
 - [b1rdmania/motif](https://github.com/b1rdmania/motif) - Wario.Style. Game Boy Midi Synthesis Engine. Search any song. Get the 8-bit Game Boy version. (3 weeks ago)
-- [andrew/ultimate-awesome](https://github.com/andrew/ultimate-awesome) - Every awesome list on every topic, including awesome lists of awesome lists, updated daily. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
