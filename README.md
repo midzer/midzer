@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
 - [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 week ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 week ago)
-- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (1 week ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 week ago)
+- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (2 weeks ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -46,7 +46,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 📜 My recent blog posts
 
 - [https://midzer.de/winter-mood](https://midzer.de/winter-mood) (1 month ago)
-- [https://midzer.de/a-retrospective-about-blogging-for-a-decade](https://midzer.de/a-retrospective-about-blogging-for-a-decade) (4 months ago)
+- [https://midzer.de/a-retrospective-about-blogging-for-a-decade](https://midzer.de/a-retrospective-about-blogging-for-a-decade) (5 months ago)
 - [https://midzer.de/omas-kaesetorte](https://midzer.de/omas-kaesetorte) (1 year ago)
 - [https://midzer.de/als-ich-mich-selbst-zu-lieben-begann](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (2 years ago)
 - [https://midzer.de/porting-games-for-the-web-with-emscripten](https://midzer.de/porting-games-for-the-web-with-emscripten) (2 years ago)
@@ -59,7 +59,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [blupi-games/planetblupi](https://github.com/blupi-games/planetblupi) - Planet Blupi source code (today)
+- [blupi-games/planetblupi](https://github.com/blupi-games/planetblupi) - Planet Blupi source code (1 day ago)
 - [someodd/gasm](https://github.com/someodd/gasm) - bare-metal i386 Gopher server for Linux (1 week ago)
 - [malespiaut/pang](https://github.com/malespiaut/pang) - SDL2 clone of the 1989 arcade game Pang! by Mitchell Corporation. (1 week ago)
 - [rofl0r/gnuboy](https://github.com/rofl0r/gnuboy) - latest version of original laguna source, with a handful fixes for modern compilers and systems (2 weeks ago)
