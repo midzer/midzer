@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (4 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (5 days ago)
 - [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 week ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 week ago)
 - [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (2 weeks ago)
@@ -59,7 +59,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [blupi-games/planetblupi](https://github.com/blupi-games/planetblupi) - Planet Blupi source code (3 days ago)
+- [blupi-games/planetblupi](https://github.com/blupi-games/planetblupi) - Planet Blupi source code (4 days ago)
 - [someodd/gasm](https://github.com/someodd/gasm) - bare-metal i386 Gopher server for Linux (1 week ago)
 - [malespiaut/pang](https://github.com/malespiaut/pang) - SDL2 clone of the 1989 arcade game Pang! by Mitchell Corporation. (2 weeks ago)
 - [rofl0r/gnuboy](https://github.com/rofl0r/gnuboy) - latest version of original laguna source, with a handful fixes for modern compilers and systems (3 weeks ago)
