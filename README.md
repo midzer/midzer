@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/delaware](https://github.com/lokal-ninja/delaware) -  (today)
-- [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies (today)
-- [lokal-ninja/navarra](https://github.com/lokal-ninja/navarra) -  (today)
-- [lokal-ninja/pais-vasco](https://github.com/lokal-ninja/pais-vasco) -  (today)
-- [lokal-ninja/valencia](https://github.com/lokal-ninja/valencia) -  (today)
+- [lokal-ninja/delaware](https://github.com/lokal-ninja/delaware) -  (1 day ago)
+- [midzer/tobii](https://github.com/midzer/tobii) - An accessible, open-source lightbox with no dependencies (1 day ago)
+- [lokal-ninja/navarra](https://github.com/lokal-ninja/navarra) -  (1 day ago)
+- [lokal-ninja/pais-vasco](https://github.com/lokal-ninja/pais-vasco) -  (1 day ago)
+- [lokal-ninja/valencia](https://github.com/lokal-ninja/valencia) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [midzer/tobii](https://github.com/midzer/tobii) ([v3.1.2](https://github.com/midzer/tobii/releases/tag/v3.1.2), 1 day ago) - An accessible, open-source lightbox with no dependencies
+- [midzer/tobii](https://github.com/midzer/tobii) ([v3.1.2](https://github.com/midzer/tobii/releases/tag/v3.1.2), 2 days ago) - An accessible, open-source lightbox with no dependencies
 - [Choices-js/Choices](https://github.com/Choices-js/Choices) ([v11.2.0](https://github.com/Choices-js/Choices/releases/tag/v11.2.0), 3 weeks ago) - A vanilla JS customisable select box/text input plugin ⚡️
 - [Oliveshark/breakhack](https://github.com/Oliveshark/breakhack) ([v4.2.0](https://github.com/Oliveshark/breakhack/releases/tag/v4.2.0), 10 months ago) - A casual coffee-break roguelike
 - [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) ([22.02](https://github.com/JoseTomasTocino/freegemas/releases/tag/22.02), 4 years ago) - Freegemas is an open source version of the well known Bejeweled, built in C&#43;&#43; using SDL2
@@ -59,7 +59,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [blupi-games/planetblupi](https://github.com/blupi-games/planetblupi) - Planet Blupi source code (5 days ago)
+- [blupi-games/planetblupi](https://github.com/blupi-games/planetblupi) - Planet Blupi source code (6 days ago)
 - [someodd/gasm](https://github.com/someodd/gasm) - bare-metal i386 Gopher server for Linux (1 week ago)
 - [malespiaut/pang](https://github.com/malespiaut/pang) - SDL2 clone of the 1989 arcade game Pang! by Mitchell Corporation. (2 weeks ago)
 - [rofl0r/gnuboy](https://github.com/rofl0r/gnuboy) - latest version of original laguna source, with a handful fixes for modern compilers and systems (3 weeks ago)
