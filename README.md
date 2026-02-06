@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (3 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (3 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (3 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (4 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (4 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -45,7 +45,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [https://midzer.de/winter-mood](https://midzer.de/winter-mood) (1 month ago)
+- [https://midzer.de/winter-mood](https://midzer.de/winter-mood) (2 months ago)
 - [https://midzer.de/a-retrospective-about-blogging-for-a-decade](https://midzer.de/a-retrospective-about-blogging-for-a-decade) (5 months ago)
 - [https://midzer.de/omas-kaesetorte](https://midzer.de/omas-kaesetorte) (1 year ago)
 - [https://midzer.de/als-ich-mich-selbst-zu-lieben-begann](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (2 years ago)
@@ -59,8 +59,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [blupi-games/planetblupi](https://github.com/blupi-games/planetblupi) - Planet Blupi source code (1 week ago)
-- [someodd/gasm](https://github.com/someodd/gasm) - bare-metal i386 Gopher server for Linux (2 weeks ago)
+- [blupi-games/planetblupi](https://github.com/blupi-games/planetblupi) - Planet Blupi source code (2 weeks ago)
+- [someodd/gasm](https://github.com/someodd/gasm) - bare-metal i386 Gopher server for Linux (3 weeks ago)
 - [malespiaut/pang](https://github.com/malespiaut/pang) - SDL2 clone of the 1989 arcade game Pang! by Mitchell Corporation. (3 weeks ago)
 - [rofl0r/gnuboy](https://github.com/rofl0r/gnuboy) - latest version of original laguna source, with a handful fixes for modern compilers and systems (1 month ago)
 - [b1rdmania/motif](https://github.com/b1rdmania/motif) - Wario.Style. Game Boy Midi Synthesis Engine. Search any song. Get the 8-bit Game Boy version. (1 month ago)
