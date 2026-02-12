@@ -14,8 +14,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/new-york](https://github.com/lokal-ninja/new-york) -  (3 days ago)
-- [lokal-ninja/provence-alpes-cote-d-azur](https://github.com/lokal-ninja/provence-alpes-cote-d-azur) -  (3 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
+- [lokal-ninja/india](https://github.com/lokal-ninja/india) -  (3 days ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
 - [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (3 days ago)
 - [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (3 days ago)
