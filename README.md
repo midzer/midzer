@@ -59,11 +59,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [ariebesehl/JA2-Radarmap](https://github.com/ariebesehl/JA2-Radarmap) - The entire map of Arulco from JA2 (today)
 - [adil192/ricochlime](https://github.com/adil192/ricochlime) - Satisfying monster shooter (1 week ago)
 - [blupi-games/planetblupi](https://github.com/blupi-games/planetblupi) - Planet Blupi source code (3 weeks ago)
 - [someodd/gasm](https://github.com/someodd/gasm) - bare-metal i386 Gopher server for Linux (4 weeks ago)
 - [malespiaut/pang](https://github.com/malespiaut/pang) - SDL2 clone of the 1989 arcade game Pang! by Mitchell Corporation. (1 month ago)
-- [rofl0r/gnuboy](https://github.com/rofl0r/gnuboy) - latest version of original laguna source, with a handful fixes for modern compilers and systems (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
