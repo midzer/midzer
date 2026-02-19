@@ -67,11 +67,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
-- [rasidi3112](https://github.com/rasidi3112)
 - [Datawitch-Programmer](https://github.com/Datawitch-Programmer)
 - [josephb4224](https://github.com/josephb4224)
 - [Workster](https://github.com/Workster)
 - [kjxai](https://github.com/kjxai)
+- [barakplasma](https://github.com/barakplasma)
 
 #### 💬 Feedback
 
