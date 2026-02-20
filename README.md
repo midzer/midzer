@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (4 days ago)
-- [lokal-ninja/ireland-and-northern-ireland](https://github.com/lokal-ninja/ireland-and-northern-ireland) -  (5 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (5 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (5 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (5 days ago)
+- [lokal-ninja/ireland-and-northern-ireland](https://github.com/lokal-ninja/ireland-and-northern-ireland) -  (6 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (6 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (6 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [midzer/tobii](https://github.com/midzer/tobii) ([v3.1.3](https://github.com/midzer/tobii/releases/tag/v3.1.3), 1 week ago) - An accessible, open-source lightbox with no dependencies
+- [midzer/tobii](https://github.com/midzer/tobii) ([v3.1.3](https://github.com/midzer/tobii/releases/tag/v3.1.3), 2 weeks ago) - An accessible, open-source lightbox with no dependencies
 - [Choices-js/Choices](https://github.com/Choices-js/Choices) ([v11.2.0](https://github.com/Choices-js/Choices/releases/tag/v11.2.0), 1 month ago) - A vanilla JS customisable select box/text input plugin ⚡️
 - [Oliveshark/breakhack](https://github.com/Oliveshark/breakhack) ([v4.2.0](https://github.com/Oliveshark/breakhack/releases/tag/v4.2.0), 10 months ago) - A casual coffee-break roguelike
 - [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) ([22.02](https://github.com/JoseTomasTocino/freegemas/releases/tag/22.02), 4 years ago) - Freegemas is an open source version of the well known Bejeweled, built in C&#43;&#43; using SDL2
@@ -40,7 +40,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [showreels in lightbox](https://github.com/godotengine/godot-website/pull/1146) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (6 months ago)
 - [update lightbox](https://github.com/godotengine/godot-website/pull/1145) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (6 months ago)
 - [optimize main loop](https://github.com/JoseTomasTocino/freegemas/pull/45) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (9 months ago)
-- [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (10 months ago)
+- [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (11 months ago)
 - [add KMP search algorithm (gated by build flag)](https://github.com/Choices-js/Choices/pull/1277) on [Choices-js/Choices](https://github.com/Choices-js/Choices) (1 year ago)
 
 #### 📜 My recent blog posts
@@ -59,9 +59,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [ariebesehl/JA2-Radarmap](https://github.com/ariebesehl/JA2-Radarmap) - The entire map of Arulco from JA2 (5 days ago)
-- [adil192/ricochlime](https://github.com/adil192/ricochlime) - Satisfying monster shooter (1 week ago)
-- [blupi-games/planetblupi](https://github.com/blupi-games/planetblupi) - Planet Blupi source code (3 weeks ago)
+- [ariebesehl/JA2-Radarmap](https://github.com/ariebesehl/JA2-Radarmap) - The entire map of Arulco from JA2 (6 days ago)
+- [adil192/ricochlime](https://github.com/adil192/ricochlime) - Satisfying monster shooter (2 weeks ago)
+- [blupi-games/planetblupi](https://github.com/blupi-games/planetblupi) - Planet Blupi source code (4 weeks ago)
 - [someodd/gasm](https://github.com/someodd/gasm) - bare-metal i386 Gopher server for Linux (1 month ago)
 - [malespiaut/pang](https://github.com/malespiaut/pang) - SDL2 clone of the 1989 arcade game Pang! by Mitchell Corporation. (1 month ago)
 
