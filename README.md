@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/kenya](https://github.com/lokal-ninja/kenya) -  (5 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (5 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (5 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/kenya](https://github.com/lokal-ninja/kenya) -  (6 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (6 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (6 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (6 days ago)
 
 #### 🌱 My latest projects
 
