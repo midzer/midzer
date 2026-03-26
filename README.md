@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/oregon](https://github.com/lokal-ninja/oregon) -  (3 days ago)
-- [lokal-ninja/haute-normandie](https://github.com/lokal-ninja/haute-normandie) -  (3 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (3 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (3 days ago)
+- [lokal-ninja/oregon](https://github.com/lokal-ninja/oregon) -  (4 days ago)
+- [lokal-ninja/haute-normandie](https://github.com/lokal-ninja/haute-normandie) -  (4 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (4 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -58,7 +58,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [oklabflensburg/hackathonhub](https://github.com/oklabflensburg/hackathonhub) - Platform for hackathon organizers, participants, and judges. Collaborate, showcase projects, and drive innovation together.  (3 weeks ago)
+- [oklabflensburg/hackathonhub](https://github.com/oklabflensburg/hackathonhub) - Platform for hackathon organizers, participants, and judges. Collaborate, showcase projects, and drive innovation together.  (4 weeks ago)
 - [ariebesehl/JA2-Radarmap](https://github.com/ariebesehl/JA2-Radarmap) - The entire map of Arulco from JA2 (1 month ago)
 - [adil192/ricochlime](https://github.com/adil192/ricochlime) - Satisfying monster shooter (1 month ago)
 - [blupi-games/planetblupi](https://github.com/blupi-games/planetblupi) - Planet Blupi source code (2 months ago)
