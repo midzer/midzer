@@ -14,8 +14,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/oregon](https://github.com/lokal-ninja/oregon) -  (5 days ago)
-- [lokal-ninja/haute-normandie](https://github.com/lokal-ninja/haute-normandie) -  (5 days ago)
+- [lokal-ninja/north-carolina](https://github.com/lokal-ninja/north-carolina) -  (5 days ago)
+- [lokal-ninja/auvergne](https://github.com/lokal-ninja/auvergne) -  (5 days ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
 - [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (5 days ago)
 - [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (5 days ago)
