@@ -66,11 +66,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [ehartford](https://github.com/ehartford)
 - [fanda](https://github.com/fanda)
 - [Alberto12345678999](https://github.com/Alberto12345678999)
 - [Datawitch-Programmer](https://github.com/Datawitch-Programmer)
 - [josephb4224](https://github.com/josephb4224)
-- [Workster](https://github.com/Workster)
 
 #### 💬 Feedback
 
