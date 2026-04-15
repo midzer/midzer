@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (3 days ago)
-- [lokal-ninja/castilla-y-leon](https://github.com/lokal-ninja/castilla-y-leon) -  (3 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (3 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (3 days ago)
+- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (4 days ago)
+- [lokal-ninja/castilla-y-leon](https://github.com/lokal-ninja/castilla-y-leon) -  (4 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (4 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -59,7 +59,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ⭐ Recent stars
 
 - [oklabflensburg/hackathonhub](https://github.com/oklabflensburg/hackathonhub) - Platform for hackathon organizers, participants, and judges. Collaborate, showcase projects, and drive innovation together.  (1 month ago)
-- [ariebesehl/JA2-Radarmap](https://github.com/ariebesehl/JA2-Radarmap) - The entire map of Arulco from JA2 (1 month ago)
+- [ariebesehl/JA2-Radarmap](https://github.com/ariebesehl/JA2-Radarmap) - The entire map of Arulco from JA2 (2 months ago)
 - [adil192/ricochlime](https://github.com/adil192/ricochlime) - Satisfying monster shooter (2 months ago)
 - [blupi-games/planetblupi](https://github.com/blupi-games/planetblupi) - Planet Blupi source code (2 months ago)
 - [someodd/gasm](https://github.com/someodd/gasm) - bare-metal i386 Gopher server for Linux (2 months ago)
