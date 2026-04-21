@@ -52,10 +52,6 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
 #### 📫 How to reach me
 
 - Fediverse: https://chaos.social/@midzer
