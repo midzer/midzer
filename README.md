@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/new-jersey](https://github.com/lokal-ninja/new-jersey) -  (1 day ago)
-- [lokal-ninja/ile-de-france](https://github.com/lokal-ninja/ile-de-france) -  (1 day ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 day ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
+- [lokal-ninja/new-jersey](https://github.com/lokal-ninja/new-jersey) -  (2 days ago)
+- [lokal-ninja/ile-de-france](https://github.com/lokal-ninja/ile-de-france) -  (2 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (2 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,13 +30,13 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [midzer/tobii](https://github.com/midzer/tobii) ([v3.2.0](https://github.com/midzer/tobii/releases/tag/v3.2.0), 2 weeks ago) - An accessible, open-source lightbox with no dependencies
+- [midzer/tobii](https://github.com/midzer/tobii) ([v3.2.0](https://github.com/midzer/tobii/releases/tag/v3.2.0), 3 weeks ago) - An accessible, open-source lightbox with no dependencies
 - [Oliveshark/breakhack](https://github.com/Oliveshark/breakhack) ([v4.3.2](https://github.com/Oliveshark/breakhack/releases/tag/v4.3.2), 1 month ago) - A casual coffee-break roguelike
 - [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) ([22.02](https://github.com/JoseTomasTocino/freegemas/releases/tag/22.02), 4 years ago) - Freegemas is an open source version of the well known Bejeweled, built in C&#43;&#43; using SDL2
 
 #### 🔨 Latest Pull Requests I published
 
-- [improve load performance](https://github.com/opengaming/osgameclones/pull/4728) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (1 day ago)
+- [improve load performance](https://github.com/opengaming/osgameclones/pull/4728) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (2 days ago)
 - [showreels in lightbox](https://github.com/godotengine/godot-website/pull/1146) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (8 months ago)
 - [update lightbox](https://github.com/godotengine/godot-website/pull/1145) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (8 months ago)
 - [optimize main loop](https://github.com/JoseTomasTocino/freegemas/pull/45) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (11 months ago)
@@ -61,7 +61,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [oklabflensburg/hackathonhub](https://github.com/oklabflensburg/hackathonhub) - Platform for hackathon organizers, participants, and judges. Collaborate, showcase projects, and drive innovation together.  (1 month ago)
 - [ariebesehl/JA2-Radarmap](https://github.com/ariebesehl/JA2-Radarmap) - The entire map of Arulco from JA2 (2 months ago)
 - [adil192/ricochlime](https://github.com/adil192/ricochlime) - Satisfying monster shooter (2 months ago)
-- [blupi-games/planetblupi](https://github.com/blupi-games/planetblupi) - Planet Blupi source code (2 months ago)
+- [blupi-games/planetblupi](https://github.com/blupi-games/planetblupi) - Planet Blupi source code (3 months ago)
 - [someodd/gasm](https://github.com/someodd/gasm) - bare-metal i386 Gopher server for Linux (3 months ago)
 
 #### 👯 Check out some of my recent followers
