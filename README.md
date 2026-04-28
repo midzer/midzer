@@ -58,11 +58,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [SaturninTheAlien/pk2_greta](https://github.com/SaturninTheAlien/pk2_greta) - Pekka Kana 2, a platformer game (today)
 - [oklabflensburg/hackathonhub](https://github.com/oklabflensburg/hackathonhub) - Platform for hackathon organizers, participants, and judges. Collaborate, showcase projects, and drive innovation together.  (2 months ago)
 - [ariebesehl/JA2-Radarmap](https://github.com/ariebesehl/JA2-Radarmap) - The entire map of Arulco from JA2 (2 months ago)
 - [adil192/ricochlime](https://github.com/adil192/ricochlime) - Satisfying monster shooter (2 months ago)
 - [blupi-games/planetblupi](https://github.com/blupi-games/planetblupi) - Planet Blupi source code (3 months ago)
-- [someodd/gasm](https://github.com/someodd/gasm) - bare-metal i386 Gopher server for Linux (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
