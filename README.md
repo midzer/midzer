@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/midi-pyrenees](https://github.com/lokal-ninja/midi-pyrenees) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (today)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (today)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/midi-pyrenees](https://github.com/lokal-ninja/midi-pyrenees) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -58,7 +58,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [SaturninTheAlien/pk2_greta](https://github.com/SaturninTheAlien/pk2_greta) - Pekka Kana 2, a platformer game (today)
+- [SaturninTheAlien/pk2_greta](https://github.com/SaturninTheAlien/pk2_greta) - Pekka Kana 2, a platformer game (1 day ago)
 - [oklabflensburg/hackathonhub](https://github.com/oklabflensburg/hackathonhub) - Platform for hackathon organizers, participants, and judges. Collaborate, showcase projects, and drive innovation together.  (2 months ago)
 - [ariebesehl/JA2-Radarmap](https://github.com/ariebesehl/JA2-Radarmap) - The entire map of Arulco from JA2 (2 months ago)
 - [adil192/ricochlime](https://github.com/adil192/ricochlime) - Satisfying monster shooter (2 months ago)
