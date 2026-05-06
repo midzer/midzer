@@ -14,19 +14,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/oklahoma](https://github.com/lokal-ninja/oklahoma) -  (2 days ago)
-- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (2 days ago)
+- [lokal-ninja/oregon](https://github.com/lokal-ninja/oregon) -  (2 days ago)
+- [lokal-ninja/provence-alpes-cote-d-azur](https://github.com/lokal-ninja/provence-alpes-cote-d-azur) -  (2 days ago)
 - [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
 - [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (2 days ago)
 - [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (2 days ago)
 
 #### 🌱 My latest projects
 
+- [midzer/ja2map](https://github.com/midzer/ja2map) - Zoomable Jagged Alliance 2 Radarmap
 - [midzer/minislug](https://github.com/midzer/minislug) - Metal Slug clone in SDL2
 - [midzer/mazeofgalious](https://github.com/midzer/mazeofgalious) - Originally a Konami game for the MSX computer system
 - [midzer/nazghul](https://github.com/midzer/nazghul) - Ultima-like game ported for the web
 - [midzer/megamario](https://github.com/midzer/megamario) - Mario clone ported for the web
-- [midzer/ae](https://github.com/midzer/ae) - 
 
 #### 🔭 Latest releases I've contributed to
 
