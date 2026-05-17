@@ -15,10 +15,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/south-africa](https://github.com/lokal-ninja/south-africa) -  (1 day ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 day ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
+- [lokal-ninja/south-africa](https://github.com/lokal-ninja/south-africa) -  (2 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (2 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -39,7 +39,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [improve load performance](https://github.com/opengaming/osgameclones/pull/4728) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (3 weeks ago)
 - [showreels in lightbox](https://github.com/godotengine/godot-website/pull/1146) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (8 months ago)
 - [update lightbox](https://github.com/godotengine/godot-website/pull/1145) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (8 months ago)
-- [optimize main loop](https://github.com/JoseTomasTocino/freegemas/pull/45) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (11 months ago)
+- [optimize main loop](https://github.com/JoseTomasTocino/freegemas/pull/45) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (1 year ago)
 - [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (1 year ago)
 
 #### 📜 My recent blog posts
@@ -58,8 +58,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software (2 days ago)
-- [ArnaudBannier/space-pixels-sdl3](https://github.com/ArnaudBannier/space-pixels-sdl3) - Space Pixels is a shoot them up game developed in C (4 days ago)
+- [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software (3 days ago)
+- [ArnaudBannier/space-pixels-sdl3](https://github.com/ArnaudBannier/space-pixels-sdl3) - Space Pixels is a shoot them up game developed in C (5 days ago)
 - [SaturninTheAlien/pk2_greta](https://github.com/SaturninTheAlien/pk2_greta) - Pekka Kana 2, a platformer game (2 weeks ago)
 - [oklabflensburg/hackathonhub](https://github.com/oklabflensburg/hackathonhub) - Platform for hackathon organizers, participants, and judges. Collaborate, showcase projects, and drive innovation together.  (2 months ago)
 - [ariebesehl/JA2-Radarmap](https://github.com/ariebesehl/JA2-Radarmap) - The entire map of Arulco from JA2 (3 months ago)
