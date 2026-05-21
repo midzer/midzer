@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
-- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (5 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (5 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (5 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (4 days ago)
+- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (6 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (6 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (6 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,7 +36,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [improve load performance](https://github.com/opengaming/osgameclones/pull/4728) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (4 weeks ago)
+- [improve load performance](https://github.com/opengaming/osgameclones/pull/4728) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (1 month ago)
 - [showreels in lightbox](https://github.com/godotengine/godot-website/pull/1146) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (9 months ago)
 - [update lightbox](https://github.com/godotengine/godot-website/pull/1145) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (9 months ago)
 - [optimize main loop](https://github.com/JoseTomasTocino/freegemas/pull/45) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (1 year ago)
@@ -58,9 +58,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [foxihd/hugo-foxx](https://github.com/foxihd/hugo-foxx) - Bear blog implementation, with foxx design. (1 day ago)
-- [JulianRijken/BubbleBobble](https://github.com/JulianRijken/BubbleBobble) (3 days ago)
-- [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software (6 days ago)
+- [foxihd/hugo-foxx](https://github.com/foxihd/hugo-foxx) - Bear blog implementation, with foxx design. (2 days ago)
+- [JulianRijken/BubbleBobble](https://github.com/JulianRijken/BubbleBobble) (4 days ago)
+- [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software (1 week ago)
 - [ArnaudBannier/space-pixels-sdl3](https://github.com/ArnaudBannier/space-pixels-sdl3) - Space Pixels is a shoot them up game developed in C (1 week ago)
 - [SaturninTheAlien/pk2_greta](https://github.com/SaturninTheAlien/pk2_greta) - Pekka Kana 2, a platformer game (3 weeks ago)
 
