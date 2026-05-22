@@ -32,7 +32,6 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [midzer/tobii](https://github.com/midzer/tobii) ([v3.2.0](https://github.com/midzer/tobii/releases/tag/v3.2.0), 1 month ago) - An accessible, open-source lightbox with no dependencies
 - [Oliveshark/breakhack](https://github.com/Oliveshark/breakhack) ([v4.3.2](https://github.com/Oliveshark/breakhack/releases/tag/v4.3.2), 2 months ago) - A casual coffee-break roguelike
-- [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) ([22.02](https://github.com/JoseTomasTocino/freegemas/releases/tag/22.02), 4 years ago) - Freegemas is an open source version of the well known Bejeweled, built in C&#43;&#43; using SDL2
 
 #### 🔨 Latest Pull Requests I published
 
