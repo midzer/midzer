@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (4 days ago)
-- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (6 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (6 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (6 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (6 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (5 days ago)
+- [lokal-ninja/england](https://github.com/lokal-ninja/england) -  (1 week ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 week ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 week ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -58,8 +58,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [foxihd/hugo-foxx](https://github.com/foxihd/hugo-foxx) - Bear blog implementation, with foxx design. (2 days ago)
-- [JulianRijken/BubbleBobble](https://github.com/JulianRijken/BubbleBobble) (4 days ago)
+- [foxihd/hugo-foxx](https://github.com/foxihd/hugo-foxx) - Bear blog implementation, with foxx design. (3 days ago)
+- [JulianRijken/BubbleBobble](https://github.com/JulianRijken/BubbleBobble) (5 days ago)
 - [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software (1 week ago)
 - [ArnaudBannier/space-pixels-sdl3](https://github.com/ArnaudBannier/space-pixels-sdl3) - Space Pixels is a shoot them up game developed in C (1 week ago)
 - [SaturninTheAlien/pk2_greta](https://github.com/SaturninTheAlien/pk2_greta) - Pekka Kana 2, a platformer game (3 weeks ago)
