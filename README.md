@@ -65,11 +65,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [Ari4ka](https://github.com/Ari4ka)
 - [notlibrary](https://github.com/notlibrary)
 - [chipoto69](https://github.com/chipoto69)
 - [ehartford](https://github.com/ehartford)
 - [fanda](https://github.com/fanda)
-- [Alberto12345678999](https://github.com/Alberto12345678999)
 
 #### 📫 How to reach me
 
