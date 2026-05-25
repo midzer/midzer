@@ -57,8 +57,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [MaJerle/c-code-style](https://github.com/MaJerle/c-code-style) - Recommended C code style and coding rules for standard C99 or later (today)
-- [foxihd/hugo-foxx](https://github.com/foxihd/hugo-foxx) - Bear blog implementation, with foxx design. (5 days ago)
+- [MaJerle/c-code-style](https://github.com/MaJerle/c-code-style) - Recommended C code style and coding rules for standard C99 or later (1 day ago)
+- [foxihd/hugo-foxx](https://github.com/foxihd/hugo-foxx) - Bear blog implementation, with foxx design. (6 days ago)
 - [JulianRijken/BubbleBobble](https://github.com/JulianRijken/BubbleBobble) (1 week ago)
 - [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software (1 week ago)
 - [ArnaudBannier/space-pixels-sdl3](https://github.com/ArnaudBannier/space-pixels-sdl3) - Space Pixels is a shoot them up game developed in C (1 week ago)
