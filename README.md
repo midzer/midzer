@@ -57,9 +57,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [RealTommyGreen/JA2-Reborn](https://github.com/RealTommyGreen/JA2-Reborn) - Android-focused Jagged Alliance 2 port based on JA2 Stracciatella (today)
-- [MaJerle/c-code-style](https://github.com/MaJerle/c-code-style) - Recommended C code style and coding rules for standard C99 or later (1 day ago)
-- [foxihd/hugo-foxx](https://github.com/foxihd/hugo-foxx) - Bear blog implementation, with foxx design. (6 days ago)
+- [RealTommyGreen/JA2-Reborn](https://github.com/RealTommyGreen/JA2-Reborn) - Android-focused Jagged Alliance 2 port based on JA2 Stracciatella (1 day ago)
+- [MaJerle/c-code-style](https://github.com/MaJerle/c-code-style) - Recommended C code style and coding rules for standard C99 or later (2 days ago)
+- [foxihd/hugo-foxx](https://github.com/foxihd/hugo-foxx) - Bear blog implementation, with foxx design. (1 week ago)
 - [JulianRijken/BubbleBobble](https://github.com/JulianRijken/BubbleBobble) (1 week ago)
 - [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software (1 week ago)
 
