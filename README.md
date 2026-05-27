@@ -15,10 +15,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [lokal-ninja/rhode-island](https://github.com/lokal-ninja/rhode-island) -  (1 day ago)
-- [lokal-ninja/pais-vasco](https://github.com/lokal-ninja/pais-vasco) -  (1 day ago)
+- [lokal-ninja/extremadura](https://github.com/lokal-ninja/extremadura) -  (1 day ago)
+- [lokal-ninja/basse-normandie](https://github.com/lokal-ninja/basse-normandie) -  (1 day ago)
 - [lokal-ninja/bourgogne](https://github.com/lokal-ninja/bourgogne) -  (1 day ago)
 - [lokal-ninja/bretagne](https://github.com/lokal-ninja/bretagne) -  (1 day ago)
-- [lokal-ninja/centre](https://github.com/lokal-ninja/centre) -  (1 day ago)
 
 #### 🌱 My latest projects
 
