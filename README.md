@@ -57,10 +57,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [JulianRijken/BubbleBobble](https://github.com/JulianRijken/BubbleBobble) (today)
 - [RealTommyGreen/JA2-Reborn](https://github.com/RealTommyGreen/JA2-Reborn) - Android-focused Jagged Alliance 2 port based on JA2 Stracciatella (3 days ago)
 - [MaJerle/c-code-style](https://github.com/MaJerle/c-code-style) - Recommended C code style and coding rules for standard C99 or later (4 days ago)
 - [foxihd/hugo-foxx](https://github.com/foxihd/hugo-foxx) - Bear blog implementation, with foxx design. (1 week ago)
-- [JulianRijken/BubbleBobble](https://github.com/JulianRijken/BubbleBobble) (1 week ago)
 - [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
