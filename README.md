@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/south-carolina](https://github.com/lokal-ninja/south-carolina) -  (1 day ago)
-- [lokal-ninja/auvergne](https://github.com/lokal-ninja/auvergne) -  (1 day ago)
-- [lokal-ninja/basse-normandie](https://github.com/lokal-ninja/basse-normandie) -  (1 day ago)
-- [lokal-ninja/bourgogne](https://github.com/lokal-ninja/bourgogne) -  (1 day ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/south-carolina](https://github.com/lokal-ninja/south-carolina) -  (2 days ago)
+- [lokal-ninja/auvergne](https://github.com/lokal-ninja/auvergne) -  (2 days ago)
+- [lokal-ninja/basse-normandie](https://github.com/lokal-ninja/basse-normandie) -  (2 days ago)
+- [lokal-ninja/bourgogne](https://github.com/lokal-ninja/bourgogne) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -57,11 +57,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [RealTommyGreen/JA2-Reborn](https://github.com/RealTommyGreen/JA2-Reborn) - Android-focused Jagged Alliance 2 port based on JA2 Stracciatella (2 days ago)
-- [MaJerle/c-code-style](https://github.com/MaJerle/c-code-style) - Recommended C code style and coding rules for standard C99 or later (3 days ago)
+- [RealTommyGreen/JA2-Reborn](https://github.com/RealTommyGreen/JA2-Reborn) - Android-focused Jagged Alliance 2 port based on JA2 Stracciatella (3 days ago)
+- [MaJerle/c-code-style](https://github.com/MaJerle/c-code-style) - Recommended C code style and coding rules for standard C99 or later (4 days ago)
 - [foxihd/hugo-foxx](https://github.com/foxihd/hugo-foxx) - Bear blog implementation, with foxx design. (1 week ago)
 - [JulianRijken/BubbleBobble](https://github.com/JulianRijken/BubbleBobble) (1 week ago)
-- [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software (1 week ago)
+- [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
