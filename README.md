@@ -16,9 +16,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
 - [lokal-ninja/south-carolina](https://github.com/lokal-ninja/south-carolina) -  (2 days ago)
-- [lokal-ninja/auvergne](https://github.com/lokal-ninja/auvergne) -  (2 days ago)
-- [lokal-ninja/basse-normandie](https://github.com/lokal-ninja/basse-normandie) -  (2 days ago)
-- [lokal-ninja/bourgogne](https://github.com/lokal-ninja/bourgogne) -  (2 days ago)
+- [lokal-ninja/bretagne](https://github.com/lokal-ninja/bretagne) -  (2 days ago)
+- [lokal-ninja/centre](https://github.com/lokal-ninja/centre) -  (2 days ago)
+- [lokal-ninja/franche-comte](https://github.com/lokal-ninja/franche-comte) -  (2 days ago)
 
 #### 🌱 My latest projects
 
