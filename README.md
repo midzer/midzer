@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
-- [lokal-ninja/south-carolina](https://github.com/lokal-ninja/south-carolina) -  (4 days ago)
-- [lokal-ninja/bretagne](https://github.com/lokal-ninja/bretagne) -  (4 days ago)
-- [lokal-ninja/centre](https://github.com/lokal-ninja/centre) -  (4 days ago)
-- [lokal-ninja/franche-comte](https://github.com/lokal-ninja/franche-comte) -  (4 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (4 days ago)
+- [lokal-ninja/south-carolina](https://github.com/lokal-ninja/south-carolina) -  (5 days ago)
+- [lokal-ninja/bretagne](https://github.com/lokal-ninja/bretagne) -  (5 days ago)
+- [lokal-ninja/centre](https://github.com/lokal-ninja/centre) -  (5 days ago)
+- [lokal-ninja/franche-comte](https://github.com/lokal-ninja/franche-comte) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -57,9 +57,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [JulianRijken/BubbleBobble](https://github.com/JulianRijken/BubbleBobble) (2 days ago)
-- [RealTommyGreen/JA2-Reborn](https://github.com/RealTommyGreen/JA2-Reborn) - Android-focused Jagged Alliance 2 port based on JA2 Stracciatella (5 days ago)
-- [MaJerle/c-code-style](https://github.com/MaJerle/c-code-style) - Recommended C code style and coding rules for standard C99 or later (6 days ago)
+- [JulianRijken/BubbleBobble](https://github.com/JulianRijken/BubbleBobble) (3 days ago)
+- [RealTommyGreen/JA2-Reborn](https://github.com/RealTommyGreen/JA2-Reborn) - Android-focused Jagged Alliance 2 port based on JA2 Stracciatella (6 days ago)
+- [MaJerle/c-code-style](https://github.com/MaJerle/c-code-style) - Recommended C code style and coding rules for standard C99 or later (1 week ago)
 - [foxihd/hugo-foxx](https://github.com/foxihd/hugo-foxx) - Bear blog implementation, with foxx design. (1 week ago)
 - [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software (2 weeks ago)
 
