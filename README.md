@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
-- [lokal-ninja/south-africa](https://github.com/lokal-ninja/south-africa) -  (4 days ago)
-- [lokal-ninja/asturias](https://github.com/lokal-ninja/asturias) -  (4 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (4 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (4 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (2 days ago)
+- [lokal-ninja/south-africa](https://github.com/lokal-ninja/south-africa) -  (5 days ago)
+- [lokal-ninja/asturias](https://github.com/lokal-ninja/asturias) -  (5 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (5 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -61,7 +61,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [nordstjernen-web/nordstjernen](https://github.com/nordstjernen-web/nordstjernen) - Nordstjernen web browser (1 week ago)
 - [JulianRijken/BubbleBobble](https://github.com/JulianRijken/BubbleBobble) (2 weeks ago)
 - [RealTommyGreen/JA2-Reborn](https://github.com/RealTommyGreen/JA2-Reborn) - Android-focused Jagged Alliance 2 port based on JA2 Stracciatella (2 weeks ago)
-- [MaJerle/c-code-style](https://github.com/MaJerle/c-code-style) - Recommended C code style and coding rules for standard C99 or later (2 weeks ago)
+- [MaJerle/c-code-style](https://github.com/MaJerle/c-code-style) - Recommended C code style and coding rules for standard C99 or later (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
