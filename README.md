@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/new-hampshire](https://github.com/lokal-ninja/new-hampshire) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (today)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (today)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (today)
+- [lokal-ninja/new-hampshire](https://github.com/lokal-ninja/new-hampshire) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (1 day ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 day ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [longturn/freeciv21](https://github.com/longturn/freeciv21) - Develop your civilization from humble roots to a global empire (1 week ago)
 - [nordstjernen-web/nordstjernen](https://github.com/nordstjernen-web/nordstjernen) - Nordstjernen web browser (1 week ago)
 - [JulianRijken/BubbleBobble](https://github.com/JulianRijken/BubbleBobble) (2 weeks ago)
-- [RealTommyGreen/JA2-Reborn](https://github.com/RealTommyGreen/JA2-Reborn) - Android-focused Jagged Alliance 2 port based on JA2 Stracciatella (2 weeks ago)
+- [RealTommyGreen/JA2-Reborn](https://github.com/RealTommyGreen/JA2-Reborn) - Android-focused Jagged Alliance 2 port based on JA2 Stracciatella (3 weeks ago)
 - [MaJerle/c-code-style](https://github.com/MaJerle/c-code-style) - Recommended C code style and coding rules for standard C99 or later (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
