@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/new-hampshire](https://github.com/lokal-ninja/new-hampshire) -  (5 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (5 days ago)
-- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (5 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (5 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (5 days ago)
+- [lokal-ninja/new-hampshire](https://github.com/lokal-ninja/new-hampshire) -  (6 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (6 days ago)
+- [lokal-ninja/limousin](https://github.com/lokal-ninja/limousin) -  (6 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (6 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -35,7 +35,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [improve load performance](https://github.com/opengaming/osgameclones/pull/4728) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (1 month ago)
+- [improve load performance](https://github.com/opengaming/osgameclones/pull/4728) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (2 months ago)
 - [showreels in lightbox](https://github.com/godotengine/godot-website/pull/1146) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (10 months ago)
 - [update lightbox](https://github.com/godotengine/godot-website/pull/1145) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (10 months ago)
 - [optimize main loop](https://github.com/JoseTomasTocino/freegemas/pull/45) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (1 year ago)
@@ -57,8 +57,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [longturn/freeciv21](https://github.com/longturn/freeciv21) - Develop your civilization from humble roots to a global empire (1 week ago)
-- [nordstjernen-web/nordstjernen](https://github.com/nordstjernen-web/nordstjernen) - Nordstjernen web browser (1 week ago)
+- [longturn/freeciv21](https://github.com/longturn/freeciv21) - Develop your civilization from humble roots to a global empire (2 weeks ago)
+- [nordstjernen-web/nordstjernen](https://github.com/nordstjernen-web/nordstjernen) - Nordstjernen web browser (2 weeks ago)
 - [JulianRijken/BubbleBobble](https://github.com/JulianRijken/BubbleBobble) (3 weeks ago)
 - [RealTommyGreen/JA2-Reborn](https://github.com/RealTommyGreen/JA2-Reborn) - Android-focused Jagged Alliance 2 port based on JA2 Stracciatella (3 weeks ago)
 - [MaJerle/c-code-style](https://github.com/MaJerle/c-code-style) - Recommended C code style and coding rules for standard C99 or later (3 weeks ago)
