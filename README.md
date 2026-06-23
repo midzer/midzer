@@ -57,11 +57,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [2bt/sid-monitor](https://github.com/2bt/sid-monitor) - Visualize SID melodies and hum along (today)
 - [longturn/freeciv21](https://github.com/longturn/freeciv21) - Develop your civilization from humble roots to a global empire (2 weeks ago)
 - [nordstjernen-web/nordstjernen](https://github.com/nordstjernen-web/nordstjernen) - Nordstjernen web browser (2 weeks ago)
 - [JulianRijken/BubbleBobble](https://github.com/JulianRijken/BubbleBobble) (3 weeks ago)
 - [RealTommyGreen/JA2-Reborn](https://github.com/RealTommyGreen/JA2-Reborn) - Android-focused Jagged Alliance 2 port based on JA2 Stracciatella (4 weeks ago)
-- [MaJerle/c-code-style](https://github.com/MaJerle/c-code-style) - Recommended C code style and coding rules for standard C99 or later (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
