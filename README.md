@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/oregon](https://github.com/lokal-ninja/oregon) -  (2 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (2 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (2 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (2 days ago)
-- [lokal-ninja/nebraska](https://github.com/lokal-ninja/nebraska) -  (2 days ago)
+- [lokal-ninja/oregon](https://github.com/lokal-ninja/oregon) -  (3 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (3 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (3 days ago)
+- [lokal-ninja/nebraska](https://github.com/lokal-ninja/nebraska) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -43,8 +43,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [https://midzer.de/trigger-words](https://midzer.de/trigger-words) (4 days ago)
-- [https://midzer.de/winter-mood](https://midzer.de/winter-mood) (6 months ago)
+- [https://midzer.de/trigger-words](https://midzer.de/trigger-words) (5 days ago)
+- [https://midzer.de/winter-mood](https://midzer.de/winter-mood) (7 months ago)
 - [https://midzer.de/a-retrospective-about-blogging-for-a-decade](https://midzer.de/a-retrospective-about-blogging-for-a-decade) (10 months ago)
 - [https://midzer.de/omas-kaesetorte](https://midzer.de/omas-kaesetorte) (2 years ago)
 - [https://midzer.de/als-ich-mich-selbst-zu-lieben-begann](https://midzer.de/als-ich-mich-selbst-zu-lieben-begann) (2 years ago)
@@ -57,10 +57,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [eworm-de/claws-mail](https://github.com/eworm-de/claws-mail) - A GTK&#43; based e-mail client (5 days ago)
+- [eworm-de/claws-mail](https://github.com/eworm-de/claws-mail) - A GTK&#43; based e-mail client (6 days ago)
 - [2bt/sid-monitor](https://github.com/2bt/sid-monitor) - Visualize SID melodies and hum along (1 week ago)
-- [longturn/freeciv21](https://github.com/longturn/freeciv21) - Develop your civilization from humble roots to a global empire (4 weeks ago)
-- [nordstjernen-web/nordstjernen](https://github.com/nordstjernen-web/nordstjernen) - Nordstjernen web browser (4 weeks ago)
+- [longturn/freeciv21](https://github.com/longturn/freeciv21) - Develop your civilization from humble roots to a global empire (1 month ago)
+- [nordstjernen-web/nordstjernen](https://github.com/nordstjernen-web/nordstjernen) - Nordstjernen web browser (1 month ago)
 - [JulianRijken/BubbleBobble](https://github.com/JulianRijken/BubbleBobble) (1 month ago)
 
 #### 👯 Check out some of my recent followers
