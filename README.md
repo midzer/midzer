@@ -22,11 +22,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🌱 My latest projects
 
+- [midzer/civ4bot](https://github.com/midzer/civ4bot) - Serve quotes from Civilization 4 to a mastodon instance
 - [midzer/ja2map](https://github.com/midzer/ja2map) - Zoomable Jagged Alliance 2 Radarmap
 - [midzer/minislug](https://github.com/midzer/minislug) - Metal Slug clone in SDL2
 - [midzer/mazeofgalious](https://github.com/midzer/mazeofgalious) - Originally a Konami game for the MSX computer system
 - [midzer/nazghul](https://github.com/midzer/nazghul) - Ultima-like game ported for the web
-- [midzer/megamario](https://github.com/midzer/megamario) - Mario clone ported for the web
 
 #### 🔭 Latest releases I've contributed to
 
