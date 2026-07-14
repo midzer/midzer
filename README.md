@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (3 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (3 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (3 days ago)
-- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (3 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (4 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (4 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (4 days ago)
+- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -57,9 +57,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [matoslav/MicroGroove](https://github.com/matoslav/MicroGroove) - A wallet-sized groovebox that turns $30 of hardware and a 3D printer into a four-track acid powerhouse | three mono/poly 303 voices, eight lanes of 808 &amp; 909 drums, and a sampler that records the room or the machine itself. | M5Stack Cardputer-ADV | open source (MIT) (today)
-- [eworm-de/claws-mail](https://github.com/eworm-de/claws-mail) - A GTK&#43; based e-mail client (1 week ago)
-- [2bt/sid-monitor](https://github.com/2bt/sid-monitor) - Visualize SID melodies and hum along (2 weeks ago)
+- [matoslav/MicroGroove](https://github.com/matoslav/MicroGroove) - A wallet-sized groovebox that turns $30 of hardware and a 3D printer into a four-track acid powerhouse | three mono/poly 303 voices, eight lanes of 808 &amp; 909 drums, and a sampler that records the room or the machine itself. | M5Stack Cardputer-ADV | open source (MIT) (1 day ago)
+- [eworm-de/claws-mail](https://github.com/eworm-de/claws-mail) - A GTK&#43; based e-mail client (2 weeks ago)
+- [2bt/sid-monitor](https://github.com/2bt/sid-monitor) - Visualize SID melodies and hum along (3 weeks ago)
 - [longturn/freeciv21](https://github.com/longturn/freeciv21) - Develop your civilization from humble roots to a global empire (1 month ago)
 - [nordstjernen-web/nordstjernen](https://github.com/nordstjernen-web/nordstjernen) - Nordstjernen web browser (1 month ago)
 
