@@ -61,7 +61,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [eworm-de/claws-mail](https://github.com/eworm-de/claws-mail) - A GTK&#43; based e-mail client (2 weeks ago)
 - [2bt/sid-monitor](https://github.com/2bt/sid-monitor) - Visualize SID melodies and hum along (3 weeks ago)
 - [longturn/freeciv21](https://github.com/longturn/freeciv21) - Develop your civilization from humble roots to a global empire (1 month ago)
-- [nordstjernen-web/nordstjernen](https://github.com/nordstjernen-web/nordstjernen) - Nordstjernen web browser (1 month ago)
+- [nordstjernen-web/nordstjernen](https://github.com/nordstjernen-web/nordstjernen) - Nordstjernen web browser. License: Nordstjernen Source License. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
