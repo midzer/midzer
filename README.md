@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (today)
-- [lokal-ninja/rhone-alpes](https://github.com/lokal-ninja/rhone-alpes) -  (today)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (today)
-- [lokal-ninja/reunion](https://github.com/lokal-ninja/reunion) -  (today)
-- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (today)
+- [lokal-ninja/bayern](https://github.com/lokal-ninja/bayern) -  (1 day ago)
+- [lokal-ninja/rhone-alpes](https://github.com/lokal-ninja/rhone-alpes) -  (1 day ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 day ago)
+- [lokal-ninja/reunion](https://github.com/lokal-ninja/reunion) -  (1 day ago)
+- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -43,8 +43,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [https://midzer.de/stories-from-lalaland](https://midzer.de/stories-from-lalaland) (1 day ago)
-- [https://midzer.de/trigger-words](https://midzer.de/trigger-words) (3 weeks ago)
+- [https://midzer.de/stories-from-lalaland](https://midzer.de/stories-from-lalaland) (2 days ago)
+- [https://midzer.de/trigger-words](https://midzer.de/trigger-words) (4 weeks ago)
 - [https://midzer.de/winter-mood](https://midzer.de/winter-mood) (7 months ago)
 - [https://midzer.de/a-retrospective-about-blogging-for-a-decade](https://midzer.de/a-retrospective-about-blogging-for-a-decade) (11 months ago)
 - [https://midzer.de/omas-kaesetorte](https://midzer.de/omas-kaesetorte) (2 years ago)
