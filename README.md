@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (1 day ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 day ago)
-- [lokal-ninja/martinique](https://github.com/lokal-ninja/martinique) -  (1 day ago)
-- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (1 day ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/philippines](https://github.com/lokal-ninja/philippines) -  (2 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (2 days ago)
+- [lokal-ninja/martinique](https://github.com/lokal-ninja/martinique) -  (2 days ago)
+- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -43,7 +43,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [https://midzer.de/stories-from-lalaland](https://midzer.de/stories-from-lalaland) (2 days ago)
+- [https://midzer.de/stories-from-lalaland](https://midzer.de/stories-from-lalaland) (3 days ago)
 - [https://midzer.de/trigger-words](https://midzer.de/trigger-words) (4 weeks ago)
 - [https://midzer.de/winter-mood](https://midzer.de/winter-mood) (7 months ago)
 - [https://midzer.de/a-retrospective-about-blogging-for-a-decade](https://midzer.de/a-retrospective-about-blogging-for-a-decade) (11 months ago)
@@ -58,7 +58,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ⭐ Recent stars
 
 - [matoslav/MicroGroove](https://github.com/matoslav/MicroGroove) - A wallet-sized groovebox that turns $30 of hardware and a 3D printer into a four-track acid powerhouse | three mono/poly 303 voices, eight lanes of 808 &amp; 909 drums, and a sampler that records the room or the machine itself. | M5Stack Cardputer-ADV | open source (MIT) (2 weeks ago)
-- [eworm-de/claws-mail](https://github.com/eworm-de/claws-mail) - A GTK&#43; based e-mail client (4 weeks ago)
+- [eworm-de/claws-mail](https://github.com/eworm-de/claws-mail) - A GTK&#43; based e-mail client (1 month ago)
 - [2bt/sid-monitor](https://github.com/2bt/sid-monitor) - Visualize SID melodies and hum along (1 month ago)
 - [longturn/freeciv21](https://github.com/longturn/freeciv21) - Develop your civilization from humble roots to a global empire (1 month ago)
 - [nordstjernen-web/nordstjernen](https://github.com/nordstjernen-web/nordstjernen) - Nordstjernen web browser. (1 month ago)
