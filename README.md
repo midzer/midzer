@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (today)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (today)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
+- [lokal-ninja/sachsen-anhalt](https://github.com/lokal-ninja/sachsen-anhalt) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 day ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -31,7 +31,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔭 Latest releases I've contributed to
 
 - [midzer/tobii](https://github.com/midzer/tobii) ([v3.2.0](https://github.com/midzer/tobii/releases/tag/v3.2.0), 4 months ago) - An accessible, open-source lightbox with no dependencies
-- [Oliveshark/breakhack](https://github.com/Oliveshark/breakhack) ([v4.3.2](https://github.com/Oliveshark/breakhack/releases/tag/v4.3.2), 4 months ago) - A casual coffee-break roguelike
+- [Oliveshark/breakhack](https://github.com/Oliveshark/breakhack) ([v4.3.2](https://github.com/Oliveshark/breakhack/releases/tag/v4.3.2), 5 months ago) - A casual coffee-break roguelike
 
 #### 🔨 Latest Pull Requests I published
 
@@ -43,7 +43,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [https://midzer.de/stories-from-lalaland](https://midzer.de/stories-from-lalaland) (1 week ago)
+- [https://midzer.de/stories-from-lalaland](https://midzer.de/stories-from-lalaland) (2 weeks ago)
 - [https://midzer.de/trigger-words](https://midzer.de/trigger-words) (1 month ago)
 - [https://midzer.de/winter-mood](https://midzer.de/winter-mood) (8 months ago)
 - [https://midzer.de/a-retrospective-about-blogging-for-a-decade](https://midzer.de/a-retrospective-about-blogging-for-a-decade) (11 months ago)
@@ -57,7 +57,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [matoslav/MicroGroove](https://github.com/matoslav/MicroGroove) - A wallet-sized groovebox that turns $30 of hardware and a 3D printer into a four-track acid powerhouse | three mono/poly 303 voices, eight lanes of 808 &amp; 909 drums, and a sampler that records the room or the machine itself. | M5Stack Cardputer-ADV | open source (MIT) (3 weeks ago)
+- [matoslav/MicroGroove](https://github.com/matoslav/MicroGroove) - A wallet-sized groovebox that turns $30 of hardware and a 3D printer into a four-track acid powerhouse | three mono/poly 303 voices, eight lanes of 808 &amp; 909 drums, and a sampler that records the room or the machine itself. | M5Stack Cardputer-ADV | open source (MIT) (4 weeks ago)
 - [eworm-de/claws-mail](https://github.com/eworm-de/claws-mail) - A GTK&#43; based e-mail client (personal clone - see website for official repository!) (1 month ago)
 - [2bt/sid-monitor](https://github.com/2bt/sid-monitor) - Visualize SID melodies and hum along (1 month ago)
 - [longturn/freeciv21](https://github.com/longturn/freeciv21) - Develop your civilization from humble roots to a global empire (2 months ago)
