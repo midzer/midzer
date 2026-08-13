@@ -57,11 +57,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [dchau360/frozen-bubble-sdl3](https://github.com/dchau360/frozen-bubble-sdl3) - Frozen Bubble SDL3 C&#43;&#43; Port - Classic bubble puzzle game ported to SDL3 (today)
 - [matoslav/MicroGroove](https://github.com/matoslav/MicroGroove) - A wallet-sized groovebox that turns $30 of hardware and a 3D printer into a four-track acid powerhouse | three mono/poly 303 voices, eight lanes of 808 &amp; 909 drums, and a sampler that records the room or the machine itself. | M5Stack Cardputer-ADV | open source (MIT) (1 month ago)
 - [eworm-de/claws-mail](https://github.com/eworm-de/claws-mail) - A GTK&#43; based e-mail client (personal clone - see website for official repository!) (1 month ago)
 - [2bt/sid-monitor](https://github.com/2bt/sid-monitor) - Visualize SID melodies and hum along (1 month ago)
 - [longturn/freeciv21](https://github.com/longturn/freeciv21) - Develop your civilization from humble roots to a global empire (2 months ago)
-- [nordstjernen-web/nordstjernen-browser](https://github.com/nordstjernen-web/nordstjernen-browser) - Nordstjernen web browser. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
