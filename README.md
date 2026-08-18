@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
 - [lokal-ninja/hamburg](https://github.com/lokal-ninja/hamburg) -  (1 week ago)
 - [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 week ago)
 - [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 week ago)
@@ -36,7 +36,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔨 Latest Pull Requests I published
 
 - [improve load performance](https://github.com/opengaming/osgameclones/pull/4728) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (3 months ago)
-- [showreels in lightbox](https://github.com/godotengine/godot-website/pull/1146) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (11 months ago)
+- [showreels in lightbox](https://github.com/godotengine/godot-website/pull/1146) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (1 year ago)
 - [update lightbox](https://github.com/godotengine/godot-website/pull/1145) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (1 year ago)
 - [optimize main loop](https://github.com/JoseTomasTocino/freegemas/pull/45) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (1 year ago)
 - [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (1 year ago)
@@ -57,7 +57,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [dchau360/frozen-bubble-sdl3](https://github.com/dchau360/frozen-bubble-sdl3) - Frozen Bubble SDL3 C&#43;&#43; Port - Classic bubble puzzle game ported to SDL3 (4 days ago)
+- [dchau360/frozen-bubble-sdl3](https://github.com/dchau360/frozen-bubble-sdl3) - Frozen Bubble SDL3 C&#43;&#43; Port - Classic bubble puzzle game ported to SDL3 (5 days ago)
 - [matoslav/MicroGroove](https://github.com/matoslav/MicroGroove) - A wallet-sized groovebox that turns $30 of hardware and a 3D printer into a four-track acid powerhouse | three mono/poly 303 voices, eight lanes of 808 &amp; 909 drums, and a sampler that records the room or the machine itself. | M5Stack Cardputer-ADV | open source (MIT) (1 month ago)
 - [eworm-de/claws-mail](https://github.com/eworm-de/claws-mail) - A GTK&#43; based e-mail client (personal clone - see website for official repository!) (1 month ago)
 - [2bt/sid-monitor](https://github.com/2bt/sid-monitor) - Visualize SID melodies and hum along (1 month ago)
