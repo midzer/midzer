@@ -65,11 +65,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [moeh2](https://github.com/moeh2)
 - [d3xt3rr0r](https://github.com/d3xt3rr0r)
 - [andreasrosdal](https://github.com/andreasrosdal)
 - [muellerjoel](https://github.com/muellerjoel)
 - [DalyMeftah](https://github.com/DalyMeftah)
-- [lndpj](https://github.com/lndpj)
 
 #### 📫 How to reach me
 
