@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (5 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (6 days ago)
 - [lokal-ninja/bremen](https://github.com/lokal-ninja/bremen) -  (2 weeks ago)
 - [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (2 weeks ago)
 - [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (2 weeks ago)
@@ -43,7 +43,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [https://midzer.de/stories-from-lalaland](https://midzer.de/stories-from-lalaland) (4 weeks ago)
+- [https://midzer.de/stories-from-lalaland](https://midzer.de/stories-from-lalaland) (1 month ago)
 - [https://midzer.de/trigger-words](https://midzer.de/trigger-words) (1 month ago)
 - [https://midzer.de/winter-mood](https://midzer.de/winter-mood) (8 months ago)
 - [https://midzer.de/a-retrospective-about-blogging-for-a-decade](https://midzer.de/a-retrospective-about-blogging-for-a-decade) (1 year ago)
