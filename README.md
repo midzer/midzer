@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
 - [lokal-ninja/hamburg](https://github.com/lokal-ninja/hamburg) -  (1 month ago)
 - [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 month ago)
 - [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 month ago)
@@ -31,7 +31,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔭 Latest releases I've contributed to
 
 - [midzer/tobii](https://github.com/midzer/tobii) ([v3.2.0](https://github.com/midzer/tobii/releases/tag/v3.2.0), 5 months ago) - An accessible, open-source lightbox with no dependencies
-- [Oliveshark/breakhack](https://github.com/Oliveshark/breakhack) ([v4.3.2](https://github.com/Oliveshark/breakhack/releases/tag/v4.3.2), 5 months ago) - A casual coffee-break roguelike
+- [Oliveshark/breakhack](https://github.com/Oliveshark/breakhack) ([v4.3.2](https://github.com/Oliveshark/breakhack/releases/tag/v4.3.2), 6 months ago) - A casual coffee-break roguelike
 
 #### 🔨 Latest Pull Requests I published
 
