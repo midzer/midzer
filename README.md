@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (today)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (today)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (today)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (today)
+- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (1 day ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 day ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 day ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -57,7 +57,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [dchau360/frozen-bubble-sdl3](https://github.com/dchau360/frozen-bubble-sdl3) - Frozen Bubble SDL3 C&#43;&#43; Port - Classic bubble puzzle game ported to SDL3 (4 weeks ago)
+- [dchau360/frozen-bubble-sdl3](https://github.com/dchau360/frozen-bubble-sdl3) - Frozen Bubble SDL3 C&#43;&#43; Port - Classic bubble puzzle game ported to SDL3 (1 month ago)
 - [matoslav/MicroGroove](https://github.com/matoslav/MicroGroove) - A wallet-sized groovebox that turns $30 of hardware and a 3D printer into a four-track acid powerhouse | three mono/poly 303 voices, eight lanes of 808 &amp; 909 drums, and a sampler that records the room or the machine itself. | M5Stack Cardputer-ADV | open source (MIT) (2 months ago)
 - [eworm-de/claws-mail](https://github.com/eworm-de/claws-mail) - A GTK&#43; based e-mail client (personal clone - see website for official repository!) (2 months ago)
 - [2bt/sid-monitor](https://github.com/2bt/sid-monitor) - Visualize SID melodies and hum along (2 months ago)
