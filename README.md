@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (3 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (3 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (3 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (3 days ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (3 days ago)
+- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (4 days ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (4 days ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (4 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (4 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -57,9 +57,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [Virtastic/ja2-web](https://github.com/Virtastic/ja2-web) - Jagged Alliance 2 in your browser - the JA2 Stracciatella engine compiled to WebAssembly. Play at ja2.virtastic.app (1 day ago)
-- [tony9527167/jas-guide](https://github.com/tony9527167/jas-guide) - Tony&#39;s Jagged Alliance Series Systems &amp; Tactics Guide (1 day ago)
-- [sevenfm/Ja2_AI](https://github.com/sevenfm/Ja2_AI) - Jagged Alliance 2 &#43; AI (1 day ago)
+- [Virtastic/ja2-web](https://github.com/Virtastic/ja2-web) - Jagged Alliance 2 in your browser - the JA2 Stracciatella engine compiled to WebAssembly. Play at ja2.virtastic.app (2 days ago)
+- [tony9527167/jas-guide](https://github.com/tony9527167/jas-guide) - Tony&#39;s Jagged Alliance Series Systems &amp; Tactics Guide (2 days ago)
+- [sevenfm/Ja2_AI](https://github.com/sevenfm/Ja2_AI) - Jagged Alliance 2 &#43; AI (2 days ago)
 - [dchau360/frozen-bubble-sdl3](https://github.com/dchau360/frozen-bubble-sdl3) - Frozen Bubble SDL3 C&#43;&#43; Port - Classic bubble puzzle game ported to SDL3 (1 month ago)
 - [matoslav/MicroGroove](https://github.com/matoslav/MicroGroove) - A wallet-sized groovebox that turns $30 of hardware and a 3D printer into a four-track acid powerhouse | three mono/poly 303 voices, eight lanes of 808 &amp; 909 drums, and a sampler that records the room or the machine itself. | M5Stack Cardputer-ADV | open source (MIT) (2 months ago)
 
