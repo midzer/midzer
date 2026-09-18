@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (6 days ago)
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (6 days ago)
-- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (6 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (6 days ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (6 days ago)
+- [lokal-ninja/new-zealand](https://github.com/lokal-ninja/new-zealand) -  (1 week ago)
+- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (1 week ago)
+- [lokal-ninja/hessen](https://github.com/lokal-ninja/hessen) -  (1 week ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 week ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -35,11 +35,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [improve load performance](https://github.com/opengaming/osgameclones/pull/4728) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (4 months ago)
+- [improve load performance](https://github.com/opengaming/osgameclones/pull/4728) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (5 months ago)
 - [showreels in lightbox](https://github.com/godotengine/godot-website/pull/1146) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (1 year ago)
 - [update lightbox](https://github.com/godotengine/godot-website/pull/1145) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (1 year ago)
 - [optimize main loop](https://github.com/JoseTomasTocino/freegemas/pull/45) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (1 year ago)
-- [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (1 year ago)
+- [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (2 years ago)
 
 #### 📜 My recent blog posts
 
@@ -57,9 +57,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [Virtastic/ja2-web](https://github.com/Virtastic/ja2-web) - Jagged Alliance 2 in your browser - the JA2 Stracciatella engine compiled to WebAssembly. Play at ja2.virtastic.app (4 days ago)
-- [tony9527167/jas-guide](https://github.com/tony9527167/jas-guide) - Tony&#39;s Jagged Alliance Series Systems &amp; Tactics Guide (4 days ago)
-- [sevenfm/Ja2_AI](https://github.com/sevenfm/Ja2_AI) - Jagged Alliance 2 &#43; AI (4 days ago)
+- [Virtastic/ja2-web](https://github.com/Virtastic/ja2-web) - Jagged Alliance 2 in your browser - the JA2 Stracciatella engine compiled to WebAssembly. Play at ja2.virtastic.app (5 days ago)
+- [tony9527167/jas-guide](https://github.com/tony9527167/jas-guide) - Tony&#39;s Jagged Alliance Series Systems &amp; Tactics Guide (5 days ago)
+- [sevenfm/Ja2_AI](https://github.com/sevenfm/Ja2_AI) - Jagged Alliance 2 &#43; AI (5 days ago)
 - [dchau360/frozen-bubble-sdl3](https://github.com/dchau360/frozen-bubble-sdl3) - Frozen Bubble SDL3 C&#43;&#43; Port - Classic bubble puzzle game ported to SDL3 (1 month ago)
 - [matoslav/MicroGroove](https://github.com/matoslav/MicroGroove) - A wallet-sized groovebox that turns $30 of hardware and a 3D printer into a four-track acid powerhouse | three mono/poly 303 voices, eight lanes of 808 &amp; 909 drums, and a sampler that records the room or the machine itself. | M5Stack Cardputer-ADV | open source (MIT) (2 months ago)
 
