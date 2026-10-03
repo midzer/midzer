@@ -16,7 +16,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
 - [lokal-ninja/florida](https://github.com/lokal-ninja/florida) -  (3 days ago)
-- [lokal-ninja/ghana](https://github.com/lokal-ninja/ghana) -  (1 week ago)
+- [lokal-ninja/south-africa](https://github.com/lokal-ninja/south-africa) -  (1 week ago)
 - [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 week ago)
 - [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (1 week ago)
 
