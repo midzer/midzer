@@ -65,11 +65,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [aggeloskoutanis](https://github.com/aggeloskoutanis)
 - [developwithAhsan](https://github.com/developwithAhsan)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [darklight9630-arch](https://github.com/darklight9630-arch)
 - [moeh2](https://github.com/moeh2)
-- [d3xt3rr0r](https://github.com/d3xt3rr0r)
 
 #### 📫 How to reach me
 
