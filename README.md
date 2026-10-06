@@ -31,7 +31,6 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔭 Latest releases I've contributed to
 
 - [midzer/tobii](https://github.com/midzer/tobii) ([v3.2.0](https://github.com/midzer/tobii/releases/tag/v3.2.0), 6 months ago) - An accessible, open-source lightbox with no dependencies
-- [Oliveshark/breakhack](https://github.com/Oliveshark/breakhack) ([v4.3.2](https://github.com/Oliveshark/breakhack/releases/tag/v4.3.2), 6 months ago) - A casual coffee-break roguelike
 
 #### 🔨 Latest Pull Requests I published
 
