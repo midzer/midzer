@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/rhone-alpes](https://github.com/lokal-ninja/rhone-alpes) -  (5 days ago)
-- [lokal-ninja/poitou-charentes](https://github.com/lokal-ninja/poitou-charentes) -  (5 days ago)
-- [lokal-ninja/hamburg](https://github.com/lokal-ninja/hamburg) -  (6 days ago)
-- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (6 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/rhone-alpes](https://github.com/lokal-ninja/rhone-alpes) -  (6 days ago)
+- [lokal-ninja/poitou-charentes](https://github.com/lokal-ninja/poitou-charentes) -  (6 days ago)
+- [lokal-ninja/hamburg](https://github.com/lokal-ninja/hamburg) -  (1 week ago)
+- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -42,7 +42,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [https://midzer.de/stories-from-lalaland](https://midzer.de/stories-from-lalaland) (2 months ago)
+- [https://midzer.de/stories-from-lalaland](https://midzer.de/stories-from-lalaland) (3 months ago)
 - [https://midzer.de/trigger-words](https://midzer.de/trigger-words) (3 months ago)
 - [https://midzer.de/winter-mood](https://midzer.de/winter-mood) (10 months ago)
 - [https://midzer.de/a-retrospective-about-blogging-for-a-decade](https://midzer.de/a-retrospective-about-blogging-for-a-decade) (1 year ago)
@@ -56,7 +56,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [Carter54git/Ultimate-Catalog-Of-Web-Game-Ports](https://github.com/Carter54git/Ultimate-Catalog-Of-Web-Game-Ports) - Greatest Games Web Ports (4 days ago)
+- [Carter54git/Ultimate-Catalog-Of-Web-Game-Ports](https://github.com/Carter54git/Ultimate-Catalog-Of-Web-Game-Ports) - Greatest Games Web Ports (5 days ago)
 - [Virtastic/ja2-web](https://github.com/Virtastic/ja2-web) - Jagged Alliance 2 in your browser - the JA2 Stracciatella engine compiled to WebAssembly. Play at ja2.virtastic.app (1 month ago)
 - [tony9527167/jas-guide](https://github.com/tony9527167/jas-guide) - Tony&#39;s Jagged Alliance Series Systems &amp; Tactics Guide (1 month ago)
 - [sevenfm/Ja2_AI](https://github.com/sevenfm/Ja2_AI) - Jagged Alliance 2 &#43; AI (1 month ago)
