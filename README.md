@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/south-africa](https://github.com/lokal-ninja/south-africa) -  (1 day ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (1 day ago)
-- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (1 day ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (1 day ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/south-africa](https://github.com/lokal-ninja/south-africa) -  (2 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (2 days ago)
+- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (2 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [midzer/tobii](https://github.com/midzer/tobii) ([v3.2.1](https://github.com/midzer/tobii/releases/tag/v3.2.1), today) - An accessible, open-source lightbox with no dependencies
+- [midzer/tobii](https://github.com/midzer/tobii) ([v3.2.1](https://github.com/midzer/tobii/releases/tag/v3.2.1), 1 day ago) - An accessible, open-source lightbox with no dependencies
 
 #### 🔨 Latest Pull Requests I published
 
@@ -43,7 +43,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 📜 My recent blog posts
 
 - [https://midzer.de/stories-from-lalaland](https://midzer.de/stories-from-lalaland) (3 months ago)
-- [https://midzer.de/trigger-words](https://midzer.de/trigger-words) (3 months ago)
+- [https://midzer.de/trigger-words](https://midzer.de/trigger-words) (4 months ago)
 - [https://midzer.de/winter-mood](https://midzer.de/winter-mood) (10 months ago)
 - [https://midzer.de/a-retrospective-about-blogging-for-a-decade](https://midzer.de/a-retrospective-about-blogging-for-a-decade) (1 year ago)
 - [https://midzer.de/omas-kaesetorte](https://midzer.de/omas-kaesetorte) (2 years ago)
@@ -56,7 +56,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [prof18/feed-flow](https://github.com/prof18/feed-flow) - FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI. (3 days ago)
+- [prof18/feed-flow](https://github.com/prof18/feed-flow) - FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI. (4 days ago)
 - [Carter54git/Ultimate-Catalog-Of-Web-Game-Ports](https://github.com/Carter54git/Ultimate-Catalog-Of-Web-Game-Ports) - Greatest Games Web Ports (1 week ago)
 - [Virtastic/ja2-web](https://github.com/Virtastic/ja2-web) - Jagged Alliance 2 in your browser - the JA2 Stracciatella engine compiled to WebAssembly. Play at ja2.virtastic.app (1 month ago)
 - [tony9527167/jas-guide](https://github.com/tony9527167/jas-guide) - Tony&#39;s Jagged Alliance Series Systems &amp; Tactics Guide (1 month ago)
