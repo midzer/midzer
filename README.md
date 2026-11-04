@@ -56,11 +56,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [conning-tower/SilentHeritage](https://github.com/conning-tower/SilentHeritage) - An open source reimplementation of the original Silent Hunter game, requires the game’s assets to play (today)
 - [prof18/feed-flow](https://github.com/prof18/feed-flow) - FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI. (1 week ago)
 - [Carter54git/Ultimate-Catalog-Of-Web-Game-Ports](https://github.com/Carter54git/Ultimate-Catalog-Of-Web-Game-Ports) - Greatest Games Web Ports (2 weeks ago)
 - [Virtastic/ja2-web](https://github.com/Virtastic/ja2-web) - Jagged Alliance 2 in your browser - the JA2 Stracciatella engine compiled to WebAssembly. Play at ja2.virtastic.app (1 month ago)
 - [tony9527167/jas-guide](https://github.com/tony9527167/jas-guide) - Tony&#39;s Jagged Alliance Series Systems &amp; Tactics Guide (1 month ago)
-- [sevenfm/Ja2_AI](https://github.com/sevenfm/Ja2_AI) - Jagged Alliance 2 &#43; AI (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
