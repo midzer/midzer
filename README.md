@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (today)
-- [lokal-ninja/hamburg](https://github.com/lokal-ninja/hamburg) -  (3 days ago)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (3 days ago)
-- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (3 days ago)
-- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (3 days ago)
+- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (1 day ago)
+- [lokal-ninja/hamburg](https://github.com/lokal-ninja/hamburg) -  (4 days ago)
+- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (4 days ago)
+- [lokal-ninja/baden-wuerttemberg](https://github.com/lokal-ninja/baden-wuerttemberg) -  (4 days ago)
+- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -37,7 +37,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [improve load performance](https://github.com/opengaming/osgameclones/pull/4728) on [opengaming/osgameclones](https://github.com/opengaming/osgameclones) (6 months ago)
 - [showreels in lightbox](https://github.com/godotengine/godot-website/pull/1146) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (1 year ago)
 - [update lightbox](https://github.com/godotengine/godot-website/pull/1145) on [godotengine/godot-website](https://github.com/godotengine/godot-website) (1 year ago)
-- [optimize main loop](https://github.com/JoseTomasTocino/freegemas/pull/45) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (1 year ago)
+- [optimize main loop](https://github.com/JoseTomasTocino/freegemas/pull/45) on [JoseTomasTocino/freegemas](https://github.com/JoseTomasTocino/freegemas) (2 years ago)
 - [Fix typo in docs. NFC](https://github.com/emscripten-core/emscripten/pull/24003) on [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) (2 years ago)
 
 #### 📜 My recent blog posts
