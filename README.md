@@ -64,11 +64,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👯 Check out some of my recent followers
 
+- [ogemini2](https://github.com/ogemini2)
 - [cartoonzine](https://github.com/cartoonzine)
 - [MatthewMacri](https://github.com/MatthewMacri)
 - [touficmamdouh](https://github.com/touficmamdouh)
 - [aggeloskoutanis](https://github.com/aggeloskoutanis)
-- [developwithAhsan](https://github.com/developwithAhsan)
 
 #### 📫 How to reach me
 
