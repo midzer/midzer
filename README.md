@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/austria](https://github.com/lokal-ninja/austria) -  (today)
-- [lokal-ninja/switzerland](https://github.com/lokal-ninja/switzerland) -  (today)
-- [midzer/flimmerkiste](https://github.com/midzer/flimmerkiste) - My personal website (4 days ago)
-- [lokal-ninja/nebraska](https://github.com/lokal-ninja/nebraska) -  (1 week ago)
-- [lokal-ninja/brandenburg](https://github.com/lokal-ninja/brandenburg) -  (1 week ago)
+- [lokal-ninja/massachusetts](https://github.com/lokal-ninja/massachusetts) -  (today)
+- [lokal-ninja/madrid](https://github.com/lokal-ninja/madrid) -  (today)
+- [lokal-ninja/pais-vasco](https://github.com/lokal-ninja/pais-vasco) -  (today)
+- [lokal-ninja/franche-comte](https://github.com/lokal-ninja/franche-comte) -  (today)
+- [lokal-ninja/guyane](https://github.com/lokal-ninja/guyane) -  (today)
 
 #### 🌱 My latest projects
 
@@ -42,7 +42,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [https://midzer.de/stories-from-lalaland](https://midzer.de/stories-from-lalaland) (3 months ago)
+- [https://midzer.de/stories-from-lalaland](https://midzer.de/stories-from-lalaland) (4 months ago)
 - [https://midzer.de/trigger-words](https://midzer.de/trigger-words) (4 months ago)
 - [https://midzer.de/winter-mood](https://midzer.de/winter-mood) (11 months ago)
 - [https://midzer.de/a-retrospective-about-blogging-for-a-decade](https://midzer.de/a-retrospective-about-blogging-for-a-decade) (1 year ago)
@@ -56,9 +56,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [alexmyczko/bubbros](https://github.com/alexmyczko/bubbros) - Adopt from sf.net Bub n Bros for port to Python3 (3 days ago)
+- [alexmyczko/bubbros](https://github.com/alexmyczko/bubbros) - Adopt from sf.net Bub n Bros for port to Python3 (4 days ago)
 - [conning-tower/SilentHeritage](https://github.com/conning-tower/SilentHeritage) - An open source reimplementation of the original Silent Hunter game, requires the game’s assets to play (2 weeks ago)
-- [prof18/feed-flow](https://github.com/prof18/feed-flow) - FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI. (4 weeks ago)
+- [prof18/feed-flow](https://github.com/prof18/feed-flow) - FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI. (1 month ago)
 - [Carter54git/Ultimate-Catalog-Of-Web-Game-Ports](https://github.com/Carter54git/Ultimate-Catalog-Of-Web-Game-Ports) - Greatest Games Web Ports (1 month ago)
 - [Virtastic/ja2-web](https://github.com/Virtastic/ja2-web) - Jagged Alliance 2 in your browser - the JA2 Stracciatella engine compiled to WebAssembly. Play at ja2.virtastic.app (2 months ago)
 
