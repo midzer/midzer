@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/massachusetts](https://github.com/lokal-ninja/massachusetts) -  (today)
-- [lokal-ninja/madrid](https://github.com/lokal-ninja/madrid) -  (today)
-- [lokal-ninja/pais-vasco](https://github.com/lokal-ninja/pais-vasco) -  (today)
-- [lokal-ninja/franche-comte](https://github.com/lokal-ninja/franche-comte) -  (today)
-- [lokal-ninja/guyane](https://github.com/lokal-ninja/guyane) -  (today)
+- [lokal-ninja/massachusetts](https://github.com/lokal-ninja/massachusetts) -  (1 day ago)
+- [lokal-ninja/madrid](https://github.com/lokal-ninja/madrid) -  (1 day ago)
+- [lokal-ninja/pais-vasco](https://github.com/lokal-ninja/pais-vasco) -  (1 day ago)
+- [lokal-ninja/franche-comte](https://github.com/lokal-ninja/franche-comte) -  (1 day ago)
+- [lokal-ninja/guyane](https://github.com/lokal-ninja/guyane) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [midzer/tobii](https://github.com/midzer/tobii) ([v3.2.1](https://github.com/midzer/tobii/releases/tag/v3.2.1), 3 weeks ago) - An accessible, open-source lightbox with no dependencies
+- [midzer/tobii](https://github.com/midzer/tobii) ([v3.2.1](https://github.com/midzer/tobii/releases/tag/v3.2.1), 4 weeks ago) - An accessible, open-source lightbox with no dependencies
 
 #### 🔨 Latest Pull Requests I published
 
@@ -56,8 +56,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [alexmyczko/bubbros](https://github.com/alexmyczko/bubbros) - Adopt from sf.net Bub n Bros for port to Python3 (4 days ago)
-- [conning-tower/SilentHeritage](https://github.com/conning-tower/SilentHeritage) - An open source reimplementation of the original Silent Hunter game, requires the game’s assets to play (2 weeks ago)
+- [alexmyczko/bubbros](https://github.com/alexmyczko/bubbros) - Adopt from sf.net Bub n Bros for port to Python3 (5 days ago)
+- [conning-tower/SilentHeritage](https://github.com/conning-tower/SilentHeritage) - An open source reimplementation of the original Silent Hunter game, requires the game’s assets to play (3 weeks ago)
 - [prof18/feed-flow](https://github.com/prof18/feed-flow) - FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI. (1 month ago)
 - [Carter54git/Ultimate-Catalog-Of-Web-Game-Ports](https://github.com/Carter54git/Ultimate-Catalog-Of-Web-Game-Ports) - Greatest Games Web Ports (1 month ago)
 - [Virtastic/ja2-web](https://github.com/Virtastic/ja2-web) - Jagged Alliance 2 in your browser - the JA2 Stracciatella engine compiled to WebAssembly. Play at ja2.virtastic.app (2 months ago)
