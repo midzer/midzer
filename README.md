@@ -56,11 +56,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [AbuDhabi/linux-colonize](https://github.com/AbuDhabi/linux-colonize) - Native port of Sid Meier&#39;s Colonization for Linux (today)
+- [lucavix/wipeout1987](https://github.com/lucavix/wipeout1987) - A top-down pixel-art tribute to WipEout (today)
+- [tstone-1/biing-engine](https://github.com/tstone-1/biing-engine) - Experimental Biing! engine and trainer. Requires your own original game files. (today)
 - [alexmyczko/bubbros](https://github.com/alexmyczko/bubbros) - Adopt from sf.net Bub n Bros for port to Python3 (5 days ago)
 - [conning-tower/SilentHeritage](https://github.com/conning-tower/SilentHeritage) - An open source reimplementation of the original Silent Hunter game, requires the game’s assets to play (3 weeks ago)
-- [prof18/feed-flow](https://github.com/prof18/feed-flow) - FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI. (1 month ago)
-- [Carter54git/Ultimate-Catalog-Of-Web-Game-Ports](https://github.com/Carter54git/Ultimate-Catalog-Of-Web-Game-Ports) - Greatest Games Web Ports (1 month ago)
-- [Virtastic/ja2-web](https://github.com/Virtastic/ja2-web) - Jagged Alliance 2 in your browser - the JA2 Stracciatella engine compiled to WebAssembly. Play at ja2.virtastic.app (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
