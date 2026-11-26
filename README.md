@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/massachusetts](https://github.com/lokal-ninja/massachusetts) -  (1 day ago)
-- [lokal-ninja/madrid](https://github.com/lokal-ninja/madrid) -  (1 day ago)
-- [lokal-ninja/pais-vasco](https://github.com/lokal-ninja/pais-vasco) -  (1 day ago)
-- [lokal-ninja/franche-comte](https://github.com/lokal-ninja/franche-comte) -  (1 day ago)
-- [lokal-ninja/guyane](https://github.com/lokal-ninja/guyane) -  (1 day ago)
+- [lokal-ninja/massachusetts](https://github.com/lokal-ninja/massachusetts) -  (2 days ago)
+- [lokal-ninja/madrid](https://github.com/lokal-ninja/madrid) -  (2 days ago)
+- [lokal-ninja/pais-vasco](https://github.com/lokal-ninja/pais-vasco) -  (2 days ago)
+- [lokal-ninja/franche-comte](https://github.com/lokal-ninja/franche-comte) -  (2 days ago)
+- [lokal-ninja/guyane](https://github.com/lokal-ninja/guyane) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -56,10 +56,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [AbuDhabi/linux-colonize](https://github.com/AbuDhabi/linux-colonize) - Native port of Sid Meier&#39;s Colonization for Linux (today)
-- [lucavix/wipeout1987](https://github.com/lucavix/wipeout1987) - A top-down pixel-art tribute to WipEout (today)
-- [tstone-1/biing-engine](https://github.com/tstone-1/biing-engine) - Experimental Biing! engine and trainer. Requires your own original game files. (today)
-- [alexmyczko/bubbros](https://github.com/alexmyczko/bubbros) - Adopt from sf.net Bub n Bros for port to Python3 (5 days ago)
+- [AbuDhabi/linux-colonize](https://github.com/AbuDhabi/linux-colonize) - Native port of Sid Meier&#39;s Colonization for Linux (1 day ago)
+- [lucavix/wipeout1987](https://github.com/lucavix/wipeout1987) - A top-down pixel-art tribute to WipEout (1 day ago)
+- [tstone-1/biing-engine](https://github.com/tstone-1/biing-engine) - Experimental Biing! engine and trainer. Requires your own original game files. (1 day ago)
+- [alexmyczko/bubbros](https://github.com/alexmyczko/bubbros) - Adopt from sf.net Bub n Bros for port to Python3 (6 days ago)
 - [conning-tower/SilentHeritage](https://github.com/conning-tower/SilentHeritage) - An open source reimplementation of the original Silent Hunter game, requires the game’s assets to play (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
