@@ -14,11 +14,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [lokal-ninja/massachusetts](https://github.com/lokal-ninja/massachusetts) -  (3 days ago)
-- [lokal-ninja/madrid](https://github.com/lokal-ninja/madrid) -  (3 days ago)
-- [lokal-ninja/pais-vasco](https://github.com/lokal-ninja/pais-vasco) -  (3 days ago)
-- [lokal-ninja/franche-comte](https://github.com/lokal-ninja/franche-comte) -  (3 days ago)
-- [lokal-ninja/guyane](https://github.com/lokal-ninja/guyane) -  (3 days ago)
+- [lokal-ninja/massachusetts](https://github.com/lokal-ninja/massachusetts) -  (4 days ago)
+- [lokal-ninja/madrid](https://github.com/lokal-ninja/madrid) -  (4 days ago)
+- [lokal-ninja/pais-vasco](https://github.com/lokal-ninja/pais-vasco) -  (4 days ago)
+- [lokal-ninja/franche-comte](https://github.com/lokal-ninja/franche-comte) -  (4 days ago)
+- [lokal-ninja/guyane](https://github.com/lokal-ninja/guyane) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -43,7 +43,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 📜 My recent blog posts
 
 - [https://midzer.de/stories-from-lalaland](https://midzer.de/stories-from-lalaland) (4 months ago)
-- [https://midzer.de/trigger-words](https://midzer.de/trigger-words) (4 months ago)
+- [https://midzer.de/trigger-words](https://midzer.de/trigger-words) (5 months ago)
 - [https://midzer.de/winter-mood](https://midzer.de/winter-mood) (11 months ago)
 - [https://midzer.de/a-retrospective-about-blogging-for-a-decade](https://midzer.de/a-retrospective-about-blogging-for-a-decade) (1 year ago)
 - [https://midzer.de/omas-kaesetorte](https://midzer.de/omas-kaesetorte) (2 years ago)
@@ -56,11 +56,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [AbuDhabi/linux-colonize](https://github.com/AbuDhabi/linux-colonize) - Native port of Sid Meier&#39;s Colonization for Linux (2 days ago)
-- [lucavix/wipeout1987](https://github.com/lucavix/wipeout1987) - A top-down pixel-art tribute to WipEout (2 days ago)
-- [tstone-1/biing-engine](https://github.com/tstone-1/biing-engine) - Experimental Biing! engine and trainer. Requires your own original game files. (2 days ago)
+- [person6423/pvz-vanilla-recon](https://github.com/person6423/pvz-vanilla-recon) - A completely clean and featureless decompilation/reconstruction of Plants vs. Zombies OG (1 day ago)
+- [AbuDhabi/linux-colonize](https://github.com/AbuDhabi/linux-colonize) - Native port of Sid Meier&#39;s Colonization for Linux (3 days ago)
+- [lucavix/wipeout1987](https://github.com/lucavix/wipeout1987) - A top-down pixel-art tribute to WipEout (3 days ago)
+- [tstone-1/biing-engine](https://github.com/tstone-1/biing-engine) - Experimental Biing! engine and trainer. Requires your own original game files. (3 days ago)
 - [alexmyczko/bubbros](https://github.com/alexmyczko/bubbros) - Adopt from sf.net Bub n Bros for port to Python3 (1 week ago)
-- [conning-tower/SilentHeritage](https://github.com/conning-tower/SilentHeritage) - An open source reimplementation of the original Silent Hunter game, requires the game’s assets to play (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
